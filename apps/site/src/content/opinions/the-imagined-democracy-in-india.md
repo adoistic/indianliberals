@@ -1,35 +1,36 @@
 ---
-id: "the-imagined-democracy-in-india"
-title: "The Imagined Democracy in India"
-pubDate: "2020-10-24T17:09:11Z"
-themes:
-  - "civil-liberties"
-  - "democracy"
-  - "liberalism"
-language: "en"
+id: the-imagined-democracy-in-india
+title: The Imagined Democracy in India
+pubDate: 2020-10-24T17:09:11Z
+themes: 
+- civil-liberties
+- democracy
+- liberalism
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/the-imagined-democracy-in-india.webp"
+author_name: Editorial Team
+hero_image: /opinions/covers/the-imagined-democracy-in-india.webp
 thinker_mentions: []
 related_thinkers: []
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "dissent"
-  - "majoritarianism"
-key_concepts:
-  - "majoritarianism"
-  - "right-to-dissent"
-  - "on-liberty"
-  - "national-emergency"
-  - "free-speech"
+source_channel: editorial-opinions
+proposed_themes: 
+- dissent
+- majoritarianism
+key_concepts: 
+- majoritarianism
+- right-to-dissent
+- on-liberty
+- national-emergency
+- free-speech
 pull_quote: A society which ignores and discourages the right to dissent is doing an act of self-destruction or entering to the state of complete stagnation.
 stance: argues-for
 kind: commentary
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
+author: Dileep-P-Chandran
 ---
 
 **THE IMAGINED DEMOCRACY IN INDIA: A DEMOCRACY MINUS DISSENT?**
