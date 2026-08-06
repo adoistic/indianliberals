@@ -66,11 +66,11 @@ Janaki did not limit herself to a certain sect of the society and was always int
 
 Janaki was also an environmental activist. She took part in various protests that were held against environmental damage, one of which was the protest held against the building of a hydropower dam across the river Kunthipuzha in Kerala’s Silent Valley. Her active participation brought the credibility of a scientist to activism.
 
- Janaki was also the only woman invitee to the landmark international symposium on environmental history, “Man’s Role in Changing the Face of the Earth” organized by the Wenner Gren Foundation for Anthropological Research at Princeton in 1955. Creating a space for women at a conference which had “Man’s Role” in its title.
+Janaki was also the only woman invitee to the landmark international symposium on environmental history, “Man’s Role in Changing the Face of the Earth” organized by the Wenner Gren Foundation for Anthropological Research at Princeton in 1955. Creating a space for women at a conference which had “Man’s Role” in its title.
 
 It was Janaki’s individuality and belief in her ideas that led her to participate in conferences, protests, and events that had no space for women and were reserved for the privileged. She crossed every hindrance that life threw at her. Even her age could not stop her. After retirement, she continued researching. She served for a short period at the Atomic Research Station at Trombay before serving as an Emeritus Scientist at the Centre for Advanced Study in Botany, University of Madras. Few know that during her last years, Janaki’s main interest had been the rearing of a large family of cats and kittens. 
 
 For her exemplary contribution to science in India, Dr. Janaki Ammal was awarded the Padma Shri in 1977. In 2000, the Ministry of Environment and Forestry created the National Award of Taxonomy in her name. Janaki leaves her presence in the smell of Magnolia and her individuality in the sugar of Indian sugarcane reminding us that the result of believing in oneself is often sweet. 
 
-(https://indianliberals.in/wp-content/uploads/2021/09/bio.png)Naina Ojha
+Naina Ojha
 is a writer from Ghazibad, Uttar Pradesh. She is pursuing a Master’s in Gender Studies from Ambedkar University, Delhi. If she is not frantically typing on her computer to meet a deadline, she is probably sipping on green tea, reading or laughing at her own jokes. She loves books, movies and food. She is also a spoken word artist and has been a part of the community for six years.
