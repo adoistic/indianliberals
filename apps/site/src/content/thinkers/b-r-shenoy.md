@@ -1,28 +1,39 @@
 ---
 id: b-r-shenoy
-name:
-  canonical: "B. R. Shenoy"
-  full: "Bellikoth Raghunath Shenoy"
-  sort: "Shenoy, Bellikoth Raghunath"
-  also_known_as: ["Bellikoth R. Shenoy"]
+name: 
+  canonical: B. R. Shenoy
+  full: Bellikoth Raghunath Shenoy
+  sort: Shenoy, Bellikoth Raghunath
+  also_known_as: 
+  - Bellikoth R. Shenoy
 birth_year: 1905
 death_year: 1978
 nationality: india
 tradition: classical_liberal
 canon_status: core
 featured: true
-vocations: [economist, professor, writer]
-themes: ["monetary_policy", "anti_planning", "free_trade", "austrian_economics"]
-affiliations: ["gujarat-university", "forum-of-free-enterprise", "mont-pelerin-society"]
-portrait:
-  duotone: "/thinkers/duotone/b-r-shenoy.webp"
-  photo: "/thinkers/photos/b-r-shenoy.jpg"
+vocations: 
+- economist
+- professor
+- writer
+themes: 
+- monetary_policy
+- anti_planning
+- free_trade
+- austrian_economics
+affiliations: 
+- gujarat-university
+- forum-of-free-enterprise
+- mont-pelerin-society
+portrait: 
+  photo: /thinkers/photos/b-r-shenoy.png
+  duotone: /thinkers/duotone/b-r-shenoy.png
 bio_source: imported
 needs_review: true
 draft: false
 ---
 
-Professor Bellikoth Ragunath Shenoy (1905–1978) was a classical liberal economist. Born on June 3, 1905, near Mangalore, Karnataka, he was educated at the Benares Hindu University (where he secured a first-class first at the MA Economics Exam in 1929) and later at the London School of Economics (LSE). As a student, he actively participated in the freedom struggle and was jailed at Nagpur. At LSE, he was inspired by the ideas of Professor Friedrich Hayek who later won the Nobel Prize in Economics.
+Professor Bellikoth Raghunath Shenoy (1905, 1978) was a classical liberal economist. Born on June 3, 1905, near Mangalore, Karnataka, he was educated at the Benares Hindu University (where he secured a first-class first at the MA Economics Exam in 1929) and later at the London School of Economics (LSE). As a student, he actively participated in the freedom struggle and was jailed at Nagpur. At LSE, he was inspired by the ideas of Professor Friedrich Hayek who later won the Nobel Prize in Economics.
 
 During his LSE stint, two of his papers, “An Equation for the Price Level of New Investment Goods” (1931) and “Interdependence of Price Levels” (1933) appeared in the Quarterly Journal of Economics which established him as an upcoming monetary economist. He was perhaps the first Indian economist to have a paper published in a leading scholarly journal.
 
@@ -90,7 +101,7 @@ Other Writings
 
 A Note of Dissent on the Memorandum of the Panel of Economists
 
-Economic Situation and Trends in Ceylon – A Programme of Reform
+Economic Situation and Trends in Ceylon, A Programme of Reform
 
 Theoretical Vision, edited by R K Amin & Parth J Shah (Centre for Civil Society, 2004)
 
