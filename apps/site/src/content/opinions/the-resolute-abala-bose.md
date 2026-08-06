@@ -67,7 +67,7 @@ Abala was raised in a household with a highly liberal outlook in the 19th centur
 
 At a time when educating women was not the norm, Abala did her schooling from Bangla Maha Vidyalaya and the celebrated Bethune School. With support from her father, she decided to pursue higher education in medicine. She secured admission at Madras University on a Bengal government scholarship. Though she cleared her final examination, she had to return to Calcutta due to her poor health.
 
-Bose as an Educationist
+**Bose as an Educationist**
 
 After her education, Abala got married to the ‘Father of Radio Science’- Sir Jagadish Chandra Bose. With his[knighthood](https://www.shethepeople.tv/sepia-stories/heres-what-you-should-know-about-abala-bose-the-early-indian-feminist/) in 1916, Abala too gained the title of a ‘Lady’. Owing to Sir Bose’s career, Lady Bose travelled the globe. It is during her travels that she began to learn different pedagogies adopted for educating girls in different parts of the world. She then applied these collected pedagogies to India. In 1910, she was elected as the Secretary for the Brahmo Balika Shikshalaya, a girls’ school in Kolkata. Over her 26-year-long term, Abala brought in significant innovations to the curriculum. Among the most prominent was the newly-devised Montessori system.
 
@@ -77,11 +77,11 @@ In 1919, Abala brought together influential individuals such as Jadumati Mukherj
 
 She also co-founded the Beltala Girls’ School in Bhowanipore and the Muralidhar Girls’ College. Through the course of her life, Lady Bose set up 88 primary schools and 14 adult educational institutions in the Bengal Province of British India.
 
-Bose as an Advocate for Widows’ Upliftment
+**Bose as an Advocate for Widows’ Upliftment**
 
 From her family, Abala inherited a concern for widows and the hardships they face in a society that stigmatises them. With this in mind, she set up the Vidyasagar Bani Bhavan in 1925. It served as a rehabilitation centre for widows, especially from underprivileged households, who had been expelled from their families. At the centre, these widows were equipped with vocational skills. Teacher training and education was provided to the widows, who would further go on to gain employment at the primary schools established by the Nari Shiksha Samiti. Along these lines, the Abala Bose-led Nari Shakti Samiti also established Bani Bhavan and Mahila Shilpa Bhavan. These organisations skilled young unmarried girls, housewives, and widows in embroidery and sewing, so as to provide them with a channel of income. In 1935, the Women’s Industrial Cooperative Home was set up to aid financial independence. In addition to this, Abala was also appointed as the first president of the Bengal Women’s Education League.
 
-Bose as a Suffragist
+**Bose as a Suffragist**
 
 Seen as one of the earliest Indian feminists, Abala is said to have influenced social worker Kamini Roy into the feminist movement. Roy is today seen as one of the most vocal advocates for women’s voting rights. What remains relatively unknown, however, is her classmate from Bethune, Abala, played a tremendous role in Roy’s feminist struggle. 
 
@@ -93,7 +93,7 @@ _“women should have a deeper and extended education, not because we may make b
 
 This excerpt perfectly captures her progressive attitudes and the beliefs that drove her goal to uplift women. Her viewpoint was not to uplift women to make them more resourceful for their families or for their future generations. Instead, she primarily believed that a woman deserves a right to quality education simply because she too is first and foremost, a mind, that consists of the same human condition that makes up a man. This is an extraordinarily liberal outlook for a woman living in the early 20th century British India, and it is echoed in her work throughout her lifetime.
 
-Bose’s Philanthropy and Final Days
+**Bose’s Philanthropy and Final Days**
 
 Abala Bose had an empathetic understanding of the trials and tribulations most women faced in the society. Using her connections, resources, and privilege, contributed greatly towards broadening access to education. She also realised that in order to bring about significant change in society, she had to go beyond just setting up schools and educational centres. Holistic teacher training also played a major role in improving the quality of education imparted.
 
