@@ -1,58 +1,58 @@
 ---
-id: "mithan-tata-lam"
-title: "Mithan Tata Lam – The Unexplored Life of an Indian Suffragist"
-pubDate: "2021-08-12T07:23:46Z"
-themes:
-  - "civil-liberties"
-  - "democracy"
-  - "social-reform"
-language: "en"
+id: mithan-tata-lam
+title: Mithan Tata Lam, The Unexplored Life of an Indian Suffragist
+pubDate: 2021-08-12T07:23:46Z
+themes: 
+- civil-liberties
+- democracy
+- social-reform
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/mithan-tata-lam.webp"
+author_name: Editorial Team
+hero_image: /opinions/covers/mithan-tata-lam.webp
 author: kavya-sharma
-subject: "mithan-tata-lam"
-thinker_mentions:
-  - thinker: mithan-tata-lam
-    role: subject
-    reasoning: The article is a profile of Mithan Tata Lam, covering her education, suffragist work, and role as the first woman lawyer appointed to the Bombay High Court.
-    evidence: []
-    key_passages:
-      - quote: Mithan Tata Lam (1898-1981) was born in Maharashtra to Ardeshir Tata and Herabai Tata.
-        what_it_shows: establishes her family background and life span
-      - quote: one of the first women to be called to the English Bar and the first woman lawyer ever appointed to the Bombay High Court
-        what_it_shows: identifies her pioneering legal achievement
+subject: mithan-tata-lam
+thinker_mentions: 
+- thinker: mithan-tata-lam
+  role: subject
+  reasoning: The article is a profile of Mithan Tata Lam, covering her education, suffragist work, and role as the first woman lawyer appointed to the Bombay High Court.
+  evidence: []
+  key_passages: 
+  - quote: Mithan Tata Lam (1898-1981) was born in Maharashtra to Ardeshir Tata and Herabai Tata.
+    what_it_shows: establishes her family background and life span
+  - quote: one of the first women to be called to the English Bar and the first woman lawyer ever appointed to the Bombay High Court
+    what_it_shows: identifies her pioneering legal achievement
 related_thinkers: []
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "feminism"
-  - "women-suffrage"
-key_concepts:
-  - "universal-suffrage"
-  - "womens-indian-association"
-  - "southborough-franchise-committee"
-  - "english-bar"
-  - "bombay-high-court"
+source_channel: editorial-opinions
+proposed_themes: 
+- feminism
+- women-suffrage
+key_concepts: 
+- universal-suffrage
+- womens-indian-association
+- southborough-franchise-committee
+- english-bar
+- bombay-high-court
 pull_quote: Indian suffragists had an immense role to play both in the nationalist struggle and the subsequent universal adult franchise.
 stance: profiles
 kind: profile
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: regional
-  places:
-    - "bombay-presidency"
-    - "maharashtra"
-    - "united-kingdom"
+  places: 
+  - bombay-presidency
+  - maharashtra
+  - united-kingdom
 ---
 
-_Indian suffragists had an immense role to play both in the nationalist struggle and the subsequent universal adult franchise. One among them was Mithan Tata, one of the first women to be called to the English Bar and the first woman lawyer ever appointed to the Bombay High Court. _Unlike most large democracies, the Indian constitution has adopted universal suffrage from its inception. Indian suffragists deserve a significant share of the credit for this progressive cornerstone of independent India. Along with Madam Bhikaji Cama, Princess Sophia Duleep Singh, and Lolita Roy, Mithan Tata Lam too joined the women’s suffrage movement in British India.
+Indian suffragists had an immense role to play both in the nationalist struggle and the subsequent universal adult franchise. One among them was Mithan Tata, one of the first women to be called to the English Bar and the first woman lawyer ever appointed to the Bombay High Court. Unlike most large democracies, the Indian constitution has adopted universal suffrage from its inception. Indian suffragists deserve a significant share of the credit for this progressive cornerstone of independent India. Along with Madam Bhikaji Cama, Princess Sophia Duleep Singh, and Lolita Roy, Mithan Tata Lam too joined the women’s suffrage movement in British India.
 
 Mithan Tata Lam (1898-1981) was born in Maharashtra to Ardeshir Tata and Herabai Tata. Her father worked as an employee in a textile mill, while her mother was a women’s rights activist. Mithan’s parents ensured that their daughter gets a well-rounded education, and sent her to reputed schools. She pursued her graduate studies at Elphinstone College, Bombay, where in she earned an honours degree in Economics. Her brilliant academic performance also won her the Cobden Club Medal. 
 
 Mithan’s mother, Herabai, had an immense role to play in her introduction to the suffrage struggle. Together, the mother-daughter duo achieved many firsts for Indian women. Herabai’s interest in Theosophy led her to make acquaintances with Annie Besant. In addition to being a theosophist, Besant was a prominent women’s rights activist and Indian self-rule supporter at the time. In 1911, Herabai met with suffragette Princess Sophia Duleep Singh. At the time of their meeting, Singh donned a badge that read, “Votes for Women.” Much like the words on the badge, Singh's thoughts influenced Herabai’s understanding of the suffrage movement in India. She also interacted with other influential suffragists of the 20th century. 
 
-By 1915, Herabai had become the honorary secretary of the Women’s Indian Association. In 1919, Mithan joined her mother’s work as a suffragist. The duo travelled to London to present[a memorandum on the women’s franchise](https://blogs.bl.uk/untoldlives/2015/07/herabai-and-mithibai-tata-british-support-for-indian-suffragists.html), alongside Sarojini Naidu, before the Southborough Franchise Committee. The  Committee was set up by the British in 1918. They sat in India for a year, and recommended a scheme of territorial urban and rural constituencies based on land revenue, communal and special interest representation.
+By 1915, Herabai had become the honorary secretary of the Women’s Indian Association. In 1919, Mithan joined her mother’s work as a suffragist. The duo travelled to London to present [a memorandum on the women’s franchise](https://blogs.bl.uk/untoldlives/2015/07/herabai-and-mithibai-tata-british-support-for-indian-suffragists.html), alongside Sarojini Naidu, before the Southborough Franchise Committee. The  Committee was set up by the British in 1918. They sat in India for a year, and recommended a scheme of territorial urban and rural constituencies based on land revenue, communal and special interest representation.
 
 The suffragists’ meeting with the Franchise Committee was to address the British government while the final readings of the Government of India Bill (1919) were being put through the British Parliament. The suffragists’ goal was to eliminate sex disqualification in the bill, which explicitly barred women in India from franchise. Mithan and Herabai’s statement - titled _“Why Should Women Have Votes?” -_ was brought to the India Office on September 25th, 1919. Among their reasons for granting voting rights to women, Mithan and Herabai’s statement read:
 
