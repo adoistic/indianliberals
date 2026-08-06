@@ -26,7 +26,7 @@ affiliations:
 - forum-of-free-enterprise
 - mont-pelerin-society
 portrait: 
-  duotone: /thinkers/duotone/b-r-shenoy.png
+  photo: /thinkers/photos/b-r-shenoy.png
 bio_source: imported
 needs_review: true
 draft: false
