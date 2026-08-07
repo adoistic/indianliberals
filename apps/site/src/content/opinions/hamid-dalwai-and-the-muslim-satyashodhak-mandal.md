@@ -1,65 +1,65 @@
 ---
-id: "hamid-dalwai-and-the-muslim-satyashodhak-mandal"
-title: "Hamid Dalwai and the Muslim Satyashodhak Mandal"
-pubDate: "2021-06-24T08:52:54Z"
-themes:
-  - "civil-society"
-  - "liberalism"
-  - "social-reform"
-language: "en"
+id: hamid-dalwai-and-the-muslim-satyashodhak-mandal
+title: Hamid Dalwai and the Muslim Satyashodhak Mandal
+pubDate: 2021-06-24T08:52:54Z
+themes: 
+- civil-society
+- liberalism
+- social-reform
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/hamid-dalwai-and-the-muslim-satyashodhak-mandal.webp"
+author_name: Editorial Team
+hero_image: /opinions/covers/hamid-dalwai-and-the-muslim-satyashodhak-mandal.webp
 author: vikrant-pande
-subject: "hamid-dalwai"
-thinker_mentions:
-  - thinker: hamid-dalwai
-    role: subject
-    reasoning: "The essay profiles Hamid Dalwai and the Muslim Satyashodhak Mandal he led, detailing his analysis of Indian communalism, the Mandal's case for secular constitutionalism over religious personal laws, and his argument for limiting religion to the private sphere."
-    evidence: []
-    key_passages:
-      - quote: Hamid Dalwai – a Marathi social reformer drew a parallel between India and Europe in his book Rashtriya Ekatmata ani Bharatiya Musalman
-        what_it_shows: "establishes Dalwai's comparative historical framework for understanding Indian communalism"
-      - quote: The Mandal was convinced that a Uniform Family Code is the only way to safeguard the women and their equal rights
-        what_it_shows: "the Mandal's central policy demand grounded in individual rights rather than religious autonomy"
-      - quote: "India [Indian Constitution] has put restrictions that prompt the society to take the path of secularism. The religious liberties have been bestowed upon the individual, not religions"
-        what_it_shows: "Dalwai's constitutional reading: secularism as individual liberty, not collective religious right"
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: "Nehru's government is noted for introducing the Hindu Code Bill but failing to reform Muslim personal laws, and Nehru's stated intention to introduce uniform civil law is cited as the unrealised liberal aspiration the Mandal sought to fulfil."
-    evidence:
-      - quote: "Jawaharlal Nehru's government introduced and passed the Hindu Code Bill in 1955-56, defying the Hindu orthodoxy; however, his government couldn't reform the unjust laws affecting Muslim women"
-        context: "identifying Nehru's failure to extend secular reform to Muslim personal law as the gap the Mandal sought to close"
-      - quote: Nehru clarified his intentions of introducing a uniform civil law applicable to both Hindus and Muslim in the future as soon as the community was amicable to such an idea
-        context: "Nehru's stated commitment to uniform civil code deferred by political calculation"
-    key_passages: []
+subject: hamid-dalwai
+thinker_mentions: 
+- thinker: hamid-dalwai
+  role: subject
+  reasoning: The essay profiles Hamid Dalwai and the Muslim Satyashodhak Mandal he led, detailing his analysis of Indian communalism, the Mandal's case for secular constitutionalism over religious personal laws, and his argument for limiting religion to the private sphere.
+  evidence: []
+  key_passages: 
+  - quote: Hamid Dalwai, a Marathi social reformer drew a parallel between India and Europe in his book Rashtriya Ekatmata ani Bharatiya Musalman
+    what_it_shows: establishes Dalwai's comparative historical framework for understanding Indian communalism
+  - quote: The Mandal was convinced that a Uniform Family Code is the only way to safeguard the women and their equal rights
+    what_it_shows: the Mandal's central policy demand grounded in individual rights rather than religious autonomy
+  - quote: India [Indian Constitution] has put restrictions that prompt the society to take the path of secularism. The religious liberties have been bestowed upon the individual, not religions
+    what_it_shows: "Dalwai's constitutional reading: secularism as individual liberty, not collective religious right"
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Nehru's government is noted for introducing the Hindu Code Bill but failing to reform Muslim personal laws, and Nehru's stated intention to introduce uniform civil law is cited as the unrealised liberal aspiration the Mandal sought to fulfil.
+  evidence: 
+  - quote: Jawaharlal Nehru's government introduced and passed the Hindu Code Bill in 1955-56, defying the Hindu orthodoxy; however, his government couldn't reform the unjust laws affecting Muslim women
+    context: identifying Nehru's failure to extend secular reform to Muslim personal law as the gap the Mandal sought to close
+  - quote: Nehru clarified his intentions of introducing a uniform civil law applicable to both Hindus and Muslim in the future as soon as the community was amicable to such an idea
+    context: Nehru's stated commitment to uniform civil code deferred by political calculation
+  key_passages: []
 related_thinkers: 
-  - jawaharlal-nehru
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "communalism"
-  - "muslim-reform"
-  - "secularism"
-key_concepts:
-  - "muslim-satyashodhak-mandal"
-  - "sarvadharma-samabhav"
-  - "reconquista"
-  - "communal-deadlock"
-pull_quote: "In Dalwai's words, 'India couldn't become Spain but she did not become Afghanistan either'."
+- jawaharlal-nehru
+source_channel: editorial-opinions
+proposed_themes: 
+- communalism
+- muslim-reform
+- secularism
+key_concepts: 
+- muslim-satyashodhak-mandal
+- sarvadharma-samabhav
+- reconquista
+- communal-deadlock
+pull_quote: In Dalwai's words, 'India couldn't become Spain but she did not become Afghanistan either'.
 stance: profiles
 kind: profile
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
 
-_The Muslim Satyashodhak Mandal believed that the sanctimonious people from all major religions in India have escaped from accepting modern secularism in its truest sense and have resorted to a fraudulent term called ‘Sarvadharma samabhav’._In order to explain the true nature of communalism in India, Hamid Dalwai – a Marathi social reformer drew a parallel between India and Europe in his book _Rashtriya Ekatmata ani Bharatiya Musalman. _ He takes us back to the times when Arabs invaded Europe through Gibraltar in A.D 711. Arabs reached Tours (France) by A.D 732, in 21 years. After reaching Tours they steadily met with defeat and their campaign lost its steam. The Christians initiated a pushback, however, this process of winning back – Reconquista, took a long time. This process was over with the fall of Granada in 1492. This process of the Arab invasion and the Christian Reconquista indicates a complete cycle in the medieval history of Europe. The accounts of these invasions, conversions and even Christian inquisitions are well documented by European scholars.
+The Muslim Satyashodhak Mandal believed that the sanctimonious people from all major religions in India have escaped from accepting modern secularism in its truest sense and have resorted to a fraudulent term called ‘Sarvadharma samabhav'. In order to explain the true nature of communalism in India, Hamid Dalwai, a Marathi social reformer drew a parallel between India and Europe in his book _Rashtriya Ekatmata ani Bharatiya Musalman_. He takes us back to the times when Arabs invaded Europe through Gibraltar in A.D 711. Arabs reached Tours (France) by A.D 732, in 21 years. After reaching Tours they steadily met with defeat and their campaign lost its steam. The Christians initiated a pushback, however, this process of winning back, Reconquista, took a long time. This process was over with the fall of Granada in 1492. This process of the Arab invasion and the Christian Reconquista indicates a complete cycle in the medieval history of Europe. The accounts of these invasions, conversions and even Christian inquisitions are well documented by European scholars.
 
 Hamid Dalwai argued that a similar process started in India when Mohammad Kasim invaded Sindh in A.D. 711. Interestingly enough, according to Dalwai, India’s communal problems exist because the aforesaid cycle that occurred in Europe did not take its full course in India. Therefore, a sense of disappointment engulfed the radical sections of the Muslim community for they couldn’t fully Islamize India and because they had to lose the power to the British. On the other hand, many Hindus regret their inability to salvage the situation the way Christians successfully did in Spain. (Dalwai, 2012, p. 26) Hindus not only couldn’t turn the tide but they also had to settle with a partition. In Dalwai’s words, ‘India couldn’t become Spain but she did not become Afghanistan either’. The historic conflict has led us to deadlock and the inability to resolve it has been a characteristic of late 19th and early 20th century India. This communal deadlock has also shaped the politics, history and geography of modern India and has left deep impressions on the thought processes of the two major communities in the subcontinent.
 
-**Indian Muslims after Independence****  **
+**Indian Muslims after Independence**
 
 The partition of India rendered the Muslims in India politically more vulnerable. (Kazi, 1996) In the face of uncertainty and insecurity, Indian Muslims responded in two major ways. Some traditionalists looked at the modern Indian Constitution as a _Mahida_ between Hindus and Muslims. Mahida refers to the contract that extended concessions to the religious minorities in the form of religious liberties and guarantees of non-intervention on the part of the state. But Dalwai argued that the same section that demanded religious autonomy also demanded government jobs in proportion to their numerical strength. (Dalwai, Swatantryottar Kalatil Muslim Rajakaran, 1996) This philosophy was dependent on a two-fold strategy of stating equal claims on national resources and at the same time refuting the superiority of political authority of the state over the religious authority. Unfortunately, the prime political parties in India exploited the insecurities and flirted with these retrograde sections.       
 
@@ -77,7 +77,7 @@ Another group among the traditionalists argued that the Indian constitution gran
 
 **Limiting Religion to the Private Sphere - Concepts of Aadat and Ibaadat**
 
-The Muslim Satyashodhak Mandal opined that the State had to work towards the introduction of the Uniform Civil Code. They outrightly rejected the argument that Sharia is a divine law created by God. They reasoned that the concept of religion encompasses two core ideas – namely, ‘Aadat’ and ‘Ibaadat’. Aadat deals with temporal affairs or the world that we live in. The other concept of Ibaadat is concerned with all that is spiritual. This broad distinction lies in the fact that what falls under Aadat is amendable, whereas the other part - Ibaadat should be protected by the state. However, most fatwas issued by the clergy deal with daily life and worldly matters.
+The Muslim Satyashodhak Mandal opined that the State had to work towards the introduction of the Uniform Civil Code. They outrightly rejected the argument that Sharia is a divine law created by God. They reasoned that the concept of religion encompasses two core ideas, namely, ‘Aadat’ and ‘Ibaadat’. Aadat deals with temporal affairs or the world that we live in. The other concept of Ibaadat is concerned with all that is spiritual. This broad distinction lies in the fact that what falls under Aadat is amendable, whereas the other part - Ibaadat should be protected by the state. However, most fatwas issued by the clergy deal with daily life and worldly matters.
 
 Laws that govern our lives are always made by society or people. Thus, Mandal believed that laws cannot be associated with the divine and the authority to govern the society must remain with the state and not with any religious institution. The Mandal was certain that where worldly affairs are segregated from the spiritual life, the religious liberties can remain relatively untouched. Rather the Mandal argued that the worldly aspects enshrined in any religious scripture must change as per the changing requirements of the society. The possibility to amend the way of life is what brings the much-needed flexibility that can in turn help us protect the cherished tenets and values of our respective religions. (Saman Nagari Kayda, 2017, p. 35) While the Mandal favoured managing worldly matters at the hands of the political authority, curtailing the pervasiveness of the religion, it also had a stated objective of destroying the clergy’s monopoly.
 
