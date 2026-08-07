@@ -1,78 +1,80 @@
 ---
-id: "dadabhai-naoroji-social-reforms-transnational-connections-statistical-liberalism"
+id: dadabhai-naoroji-social-reforms-transnational-connections-statistical-liberalism
 title: "Dadabhai Naoroji: Social Reforms, Transnational Connections and Statistical Liberalism"
-pubDate: "2021-06-30T10:03:12Z"
-themes:
-  - "liberalism"
-  - "political-economy"
-  - "social-reform"
-language: "en"
+pubDate: 2021-06-30T10:03:12Z
+themes: 
+- liberalism
+- political-economy
+- social-reform
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/dadabhai-naoroji-social-reforms-transnational-connections-statistical-liberalism.webp"
+author_name: Editorial Team
+hero_image: /opinions/covers/dadabhai-naoroji-social-reforms-transnational-connections-statistical-liberalism.webp
 author: sanjeet-kashyap
-thinker_mentions:
-  - thinker: dadabhai-naoroji
-    role: subject
-    reasoning: "The essay is a detailed scholarly profile of Dadabhai Naoroji's career as social reformer, transnational political actor, and originator of the drain of wealth theory, examining his ideas and methods across multiple domains."
-    evidence: []
-    key_passages:
-      - quote: The career of Dadabhai Naoroji, the Grand Old Man of Indian nationalism and perhaps the most prominent liberal figure, captured the zeitgeist of this early phase of Indian nationalism
-        what_it_shows: "establishes Naoroji's centrality to the liberal phase of Indian nationalism"
-      - quote: Himself a target of vicious racist jibes from no one less than the Conservative prime minister Lord Salisbury in the infamous Black Man incident of 1888, Naoroji took an active interest in transnational initiatives against racism
-        what_it_shows: his personal experience of racism radicalised him toward transnational anti-racist activism
-      - quote: "Naoroji and his fellow statistical liberals' protectionist economic agenda, suspicion of foreign capital and trade, and envisioning of a larger role for the state went on to shape the economic agenda of Indian nationalists including Gandhi"
-        what_it_shows: "the essay's critical assessment of the long-term negative economic legacy of Naoroji's drain theory"
-  - thinker: gopal-krishna-gokhale
-    role: mention
-    reasoning: Gokhale is cited as the founder of the Servants of India Society, one of the liberal civil society associations that sought to represent Indian interests and demand rights from the state.
-    evidence:
-      - quote: "Gopal Krishna Gokhale's Servants of India society, Mahadev Govind Ranade's Deccan Sabha, and Poona Sarvajanik Sabha were some notable associations"
-        context: listing key liberal civil society associations created by the moderate generation
-    key_passages: []
-  - thinker: mahadev-govind-ranade
-    role: mention
-    reasoning: Ranade is named as the founder of the Deccan Sabha and as one of the Indian liberal practitioners of statistical liberalism alongside Naoroji.
-    evidence:
-      - quote: "Gopal Krishna Gokhale's Servants of India society, Mahadev Govind Ranade's Deccan Sabha, and Poona Sarvajanik Sabha were some notable associations"
-        context: "Ranade's Deccan Sabha placed among the key liberal civil society associations"
-      - quote: The most prominent practitioners of this version of political economy were RC Dutt, KT Telang, and Dadabhai Naoroji
-        context: "listing statistical liberals in which Ranade's intellectual milieu contextualises Naoroji's contribution"
-    key_passages: []
-  - thinker: karsandas-mulji
-    role: mention
-    reasoning: Karsandas Mulji is listed among the Young Bombay social reformers who worked with Naoroji on educational and religious reform initiatives in the mid-1800s.
-    evidence:
-      - quote: Naoroji was instrumental in shaping the educational reform agenda along with fellow western-educated, liberal-minded reformers- Navrozji Fardunji, Karsondas Mulji, Bhau Daji
-        context: "listing Karsandas Mulji as part of Naoroji's immediate reform circle in Bombay"
-    key_passages: []
+thinker_mentions: 
+- thinker: dadabhai-naoroji
+  role: subject
+  reasoning: The essay is a detailed scholarly profile of Dadabhai Naoroji's career as social reformer, transnational political actor, and originator of the drain of wealth theory, examining his ideas and methods across multiple domains.
+  evidence: []
+  key_passages: 
+  - quote: The career of Dadabhai Naoroji, the Grand Old Man of Indian nationalism and perhaps the most prominent liberal figure, captured the zeitgeist of this early phase of Indian nationalism
+    what_it_shows: establishes Naoroji's centrality to the liberal phase of Indian nationalism
+  - quote: Himself a target of vicious racist jibes from no one less than the Conservative prime minister Lord Salisbury in the infamous Black Man incident of 1888, Naoroji took an active interest in transnational initiatives against racism
+    what_it_shows: his personal experience of racism radicalised him toward transnational anti-racist activism
+  - quote: Naoroji and his fellow statistical liberals' protectionist economic agenda, suspicion of foreign capital and trade, and envisioning of a larger role for the state went on to shape the economic agenda of Indian nationalists including Gandhi
+    what_it_shows: the essay's critical assessment of the long-term negative economic legacy of Naoroji's drain theory
+- thinker: gopal-krishna-gokhale
+  role: mention
+  reasoning: Gokhale is cited as the founder of the Servants of India Society, one of the liberal civil society associations that sought to represent Indian interests and demand rights from the state.
+  evidence: 
+  - quote: Gopal Krishna Gokhale's Servants of India society, Mahadev Govind Ranade's Deccan Sabha, and Poona Sarvajanik Sabha were some notable associations
+    context: listing key liberal civil society associations created by the moderate generation
+  key_passages: []
+- thinker: mahadev-govind-ranade
+  role: mention
+  reasoning: Ranade is named as the founder of the Deccan Sabha and as one of the Indian liberal practitioners of statistical liberalism alongside Naoroji.
+  evidence: 
+  - quote: Gopal Krishna Gokhale's Servants of India society, Mahadev Govind Ranade's Deccan Sabha, and Poona Sarvajanik Sabha were some notable associations
+    context: Ranade's Deccan Sabha placed among the key liberal civil society associations
+  - quote: The most prominent practitioners of this version of political economy were RC Dutt, KT Telang, and Dadabhai Naoroji
+    context: listing statistical liberals in which Ranade's intellectual milieu contextualises Naoroji's contribution
+  key_passages: []
+- thinker: karsandas-mulji
+  role: mention
+  reasoning: Karsandas Mulji is listed among the Young Bombay social reformers who worked with Naoroji on educational and religious reform initiatives in the mid-1800s.
+  evidence: 
+  - quote: Naoroji was instrumental in shaping the educational reform agenda along with fellow western-educated, liberal-minded reformers- Navrozji Fardunji, Karsondas Mulji, Bhau Daji
+    context: listing Karsandas Mulji as part of Naoroji's immediate reform circle in Bombay
+  key_passages: []
 related_thinkers: 
-  - dadabhai-naoroji
-  - gopal-krishna-gokhale
-  - karsandas-mulji
-  - mahadev-govind-ranade
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "anti-colonial-movement"
-  - "transnational-liberalism"
-key_concepts:
-  - "statistical-liberalism"
-  - "moderate-congress"
-  - "indian-public-sphere"
-  - "self-rule"
-  - "constitutional-means"
+- dadabhai-naoroji
+- gopal-krishna-gokhale
+- karsandas-mulji
+- mahadev-govind-ranade
+source_channel: editorial-opinions
+proposed_themes: 
+- anti-colonial-movement
+- transnational-liberalism
+key_concepts: 
+- statistical-liberalism
+- moderate-congress
+- indian-public-sphere
+- self-rule
+- constitutional-means
 pull_quote: Given the uncooperative attitudes of colonial bureaucracy at home, Naoroji figured that the best way to serve Indian interests would be to influence decision-making in the British parliament.
 stance: profiles
 kind: profile
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "united-kingdom"
+  places: 
+  - united-kingdom
 ---
 
-_In his decades-long career in Britain, Naoroji laboured relentlessly to popularise the Indian cause. Given the uncooperative attitudes of colonial bureaucracy at home, Naoroji figured that the best way to serve Indian interests would be to influence decision-making in the British parliament. (Image Credits : The Asian Age) _The early phase of nationalist movement in India, dominated by the largely liberal-minded moderate faction of the Indian National Congress (INC), saw them envision a wholesome agenda for the regeneration of India.
+In his decades-long career in Britain, Naoroji laboured relentlessly to popularise the Indian cause. Given the uncooperative attitudes of colonial bureaucracy at home, Naoroji figured that the best way to serve Indian interests would be to influence decision-making in the British parliament.  
+
+The early phase of nationalist movement in India, dominated by the largely liberal-minded moderate faction of the Indian National Congress (INC), saw them envision a wholesome agenda for the regeneration of India.
 
 Prior to creating an Indian political subject, these liberal leaders were invested in the project of creating an Indian public sphere. The eventual culmination of the liberal political project lay in achieving self-rule- interpreted differently as political independence or dominion status- by constitutional means. The vision of modernisation wasn’t limited only to the political realm as Indian liberals also sought to reform the society deeply anchored in orthodoxy.
 
@@ -86,19 +88,19 @@ In pursuit of their agenda for social reform, political rights, and economic reg
 
 Given the challenges of regressive social practices, religious orthodoxy, repressive colonialism as well as imperatives of the democratic polity, the need to create a civil society beyond the tyrannies of state was evident to Indian liberals. Gopal Krishna Gokhale’s Servants of India society, Mahadev Govind Ranade’s Deccan Sabha, and Poona Sarvajanik Sabha were some notable associations, which sprang up to represent Indian interests and demand rights from the state.  Mass illiteracy, however, posed a challenge to the broadening of civil society as well as the promulgation of rational discourse. Indian liberals thus turned to educational initiatives to foster mass literacy. The pedagogical element of the social reform agenda of liberals was concerned with both mass education and female literacy.
 
-Himself a beneficiary of benevolent scholarships, Naoroji was an ardent advocate of free education for masses. In his Bombay stint as an academic in the mid-1800s, he belonged to the Young Bombay clique of social reformers and educationists. As historian Dinyar Patel has argued convincingly, in contrast to Kolkata, the Bombay-based native Indian elites exercised considerable agency in the education sector as instructors and financiers. It was the alliance between progressive intellectuals and rich _shetias _(mercantile community) that fostered the social reform agenda of the Young Bombay.
+Himself a beneficiary of benevolent scholarships, Naoroji was an ardent advocate of free education for masses. In his Bombay stint as an academic in the mid-1800s, he belonged to the Young Bombay clique of social reformers and educationists. As historian Dinyar Patel has argued convincingly, in contrast to Kolkata, the Bombay-based native Indian elites exercised considerable agency in the education sector as instructors and financiers. It was the alliance between progressive intellectuals and rich _shetias_ (mercantile community) that fostered the social reform agenda of the Young Bombay.
 
 With its belief in the intrinsic value of the western liberal education, the Young Bombay group deployed education in service of social reforms and modernisation to create the liberal political subject in India. Naoroji was instrumental in shaping the educational reform agenda along with fellow western-educated, liberal-minded reformers- Navrozji Fardunji, Karsondas Mulji, Bhau Daji, Ardeshir Framji Moos and Behramji Malabari. The most enduring contribution of Naoroji came in the form of creating an enduring institutional base for liberal values in the domain of pedagogy.
 
 The initiatives undertaken included _Parsi Lehak Mandli_ where he was the founding member and first editor; the _Parsi Natak Mandli_ where he was a co-founder; and the _Framji Cowasji Institute_ where he was instrumental in raising funds. At Elphinstone’s College where he was teaching, Naoroji founded the _Students’ Literary and Scientific Society_ (SLSS) in 1848. Three months later, SLSS was followed by the _Dnyan Prasarak Mandli_ (Society for the Diffusion of Knowledge) as a branch of the SLSS, which produced content in Gujarati and Marathi language.
 
-Part of the initiative also included the promotion of female education. Naoroji’s reformist zeal for gender equality spurred his endeavour. In October 1849, he would go on to open six schools for girls under the banner of the SLSS. Again, the progressive _shetias _came to provide the financial ballast. The donors included Jagannath Shankarsheth, Jamsetjee Jejeebhoy, Framji Cowasji Banaji, and Cowasji Jehangir Readymoney.
+Part of the initiative also included the promotion of female education. Naoroji’s reformist zeal for gender equality spurred his endeavour. In October 1849, he would go on to open six schools for girls under the banner of the SLSS. Again, the progressive _shetias_ came to provide the financial ballast. The donors included Jagannath Shankarsheth, Jamsetjee Jejeebhoy, Framji Cowasji Banaji, and Cowasji Jehangir Readymoney.
 
-The ambit of reforms went beyond social issues to rationalise religious practices deemed irrational. The initiative was partly an insider response to critical charges from Christian missionaries and partly a bid to create the liberal political subject through character building. Naoroji’s religious reforms were mostly focused on his own Parsi community. In this initiative, his partner was the haltingly English-speaking but reform-minded _shetia, _Kharshedji Nasarvanji Cama. Apart from widening the distribution of the Dnyan Prasarak Mandli’s publications, Cama was involved with Naoroji in two other reformist enterprises that riled the Parsi orthodoxy.
+The ambit of reforms went beyond social issues to rationalise religious practices deemed irrational. The initiative was partly an insider response to critical charges from Christian missionaries and partly a bid to create the liberal political subject through character building. Naoroji’s religious reforms were mostly focused on his own Parsi community. In this initiative, his partner was the haltingly English-speaking but reform-minded _shetia,_ Kharshedji Nasarvanji Cama. Apart from widening the distribution of the Dnyan Prasarak Mandli’s publications, Cama was involved with Naoroji in two other reformist enterprises that riled the Parsi orthodoxy.
 
-In 1851, Naoroji and colleagues founded the _Rahnumae Mazdayasnan Sabha_ (Society of the Guides of the Mazdayasnan Path) and _Rast Goftar_, a newspaper in Gujarati. According to Dinyar Patel, the Sabha went on ‘protestantising aspects of Zoroastrianism by removing supposedly foreign and inauthentic customs and practices.’ Reformist in its orientation, _Rast Goftar _took a slew of causes, including the discontinuance of child marriages, the inappropriateness of nautches, and the rights of women in adopting European clothing.
+In 1851, Naoroji and colleagues founded the _Rahnumae Mazdayasnan Sabha_ (Society of the Guides of the Mazdayasnan Path) and _Rast Goftar_, a newspaper in Gujarati. According to Dinyar Patel, the Sabha went on ‘protestantising aspects of Zoroastrianism by removing supposedly foreign and inauthentic customs and practices.’ Reformist in its orientation, _Rast Goftar_ took a slew of causes, including the discontinuance of child marriages, the inappropriateness of nautches, and the rights of women in adopting European clothing.
 
-However, as Dinyar Patel points out, Naoroji succumbed to oriental stereotypes in his bid to reform Parsi tradition. Naoroji’s excuse for certain ‘irrational’ Parsi practices lay in attributing it to corruption borrowed from Hindu and Muslim traditions. In later years, the involvement of Karsandas Mulji increased the scope of the _Rast_._ _Meanwhile, Naoroji would go on to broaden the scope of both issues that he espoused and places that he went in advancing India’s interests.
+However, as Dinyar Patel points out, Naoroji succumbed to oriental stereotypes in his bid to reform Parsi tradition. Naoroji’s excuse for certain ‘irrational’ Parsi practices lay in attributing it to corruption borrowed from Hindu and Muslim traditions. In later years, the involvement of Karsandas Mulji increased the scope of the Rast. Meanwhile, Naoroji would go on to broaden the scope of both issues that he espoused and places that he went in advancing India’s interests.
 
 **Advancing Indian Causes in the Transnational Public Sphere**
 
