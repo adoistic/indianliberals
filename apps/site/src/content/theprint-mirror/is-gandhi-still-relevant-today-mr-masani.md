@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/is-gandhi-still-relevant-today-mr-masani/1004481/) on 2026-08-01. Originally published 2026-07-25. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/is-gandhi-still-relevant-today-mr-masani/1004481/) on 2026-08-08. Originally published 2026-07-25. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # क्या आज भी प्रासंगिक हैं गांधी? एमआर मसानी ने बताया था कि क्यों दुनिया को उनकी सबसे ज्यादा जरूरत है
 

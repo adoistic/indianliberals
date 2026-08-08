@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/where-there-is-no-oversight-of-power-corruption-thrives-pheroze-j-shroff/979083/) on 2026-08-01. Originally published 2026-05-30. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/where-there-is-no-oversight-of-power-corruption-thrives-pheroze-j-shroff/979083/) on 2026-08-08. Originally published 2026-05-30. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # ‘जहां सत्ता पर निगरानी नहीं होती, वहां भ्रष्टाचार पनपता है’ — फ़िरोज़ जे. श्रॉफ
 

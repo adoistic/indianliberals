@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/abundant-welfarism-and-future-illusions-cannot-eradicate-poverty-b-s-sanyal/953966/) on 2026-08-01. Originally published 2026-04-04. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/abundant-welfarism-and-future-illusions-cannot-eradicate-poverty-b-s-sanyal/953966/) on 2026-08-08. Originally published 2026-04-04. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # कल्याणवाद और भविष्य के भ्रम चाहे जितने हों, वे भारतीयों की गरीबी दूर नहीं कर सकते: बीएस सान्याल
 
