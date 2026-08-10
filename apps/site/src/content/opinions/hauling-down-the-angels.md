@@ -1,36 +1,37 @@
 ---
-id: "hauling-down-the-angels"
-title: "Hauling Down the Angels"
-pubDate: "2020-10-24T17:18:00Z"
-themes:
-  - "economic-policy"
-  - "private-enterprise"
-  - "taxation"
-language: "en"
+id: hauling-down-the-angels
+title: Hauling Down the Angels
+pubDate: 2020-10-24T17:18:00Z
+themes: 
+- economic-policy
+- private-enterprise
+- taxation
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/hauling-down-the-angels.webp"
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "angel-investment"
-  - "startup-ecosystem"
-key_concepts:
-  - "angel-tax"
-  - "startup-india"
-  - "fair-market-value"
-  - "section-56"
-  - "seed-funding"
-pull_quote: "This has resulted in 40% reduction in angel investment and seed funding, much to the disappointment of young startups in the country."
+author_name: Editorial Team
+hero_image: /opinions/covers/hauling-down-the-angels.webp
+source_channel: editorial-opinions
+proposed_themes: 
+- angel-investment
+- startup-ecosystem
+key_concepts: 
+- angel-tax
+- startup-india
+- fair-market-value
+- section-56
+- seed-funding
+pull_quote: This has resulted in 40% reduction in angel investment and seed funding, much to the disappointment of young startups in the country.
 stance: argues-against
 kind: commentary
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
 
 **_Founders and investors in India have been roiled by the angel tax controversy. Who is responsible for this looming crisis and has the government found ways to address this issue?_**
+
 In 2016, the newly formed government launched the startup India initiative to nurture innovation and promote startups in the country. This initiative, inter alia, set up a corpus of 10,000 crores for the purpose of funding startups and gave tax exemption on capital gains invested in fund of funds (FOF).
 
 But not all is well in the Indian entrepreneurial story. The central government is facing flak from start-ups for issuing them notices every now and then about something called “Angel Tax”. This tax was introduced in the Union Budget of 2012 by then Finance Minister, Pranab Mukherjee. It refers to income tax payable under section 56 (2) of the Income Tax Act, 1961 payable on capital raised by unlisted companies through the issue of shares where the price of the shares sold is considered exceeding the fair market value of those shares. The difference amount is reckoned as “income from other sources” and taxed at the rate of 30.9%. So a startup receiving equity in excess of its fair value will be taxed. Consider for example Company A whose shares are valued at Rs. 1000 each sells them to an angel investor for Rs. 1500, the difference of Rs. 500 would be treated as income and not as investment.
@@ -68,4 +69,3 @@ Investors and entrepreneurs are hoping for an instrumental change in the current
 After much backlash, the government last week eased the process of startups seeking tax exemption on investments made by angel investors. It notified changes to section 56 of the IT Act for easing startups gain recognition. Startups need to send an application to DIPP which will then be scrutinized by the Central Board of Direct Taxes (CBDT). However, in order to be eligible for exemption, the startups need to fulfil certain criteria. They will be required to furnish bank account details and return of income for the last three years. The exemption limit has been raised to Rs. 50 lakh from the earlier Rs. 25 lakh for financial year preceding the year of investment. Also, the earlier requirement of a startup having to submit a fair value certificate from a merchant banker specifying the fair market value of shares has been done away with.
 
 New and young establishments will shape the growth story of this country. Government initiatives for such as Startup India, Standup India and Skill India will not yield results with rigorous tax laws discourage youngsters from setting up new businesses. The government should revisit the valuation methodology and come up with a balanced policy that does not harass a promising community of startups in this country. With millions of young people joining the labour force every month, stifling entrepreneurship and innovation will be disastrous for one and all.
-type=content&#038;p=1584). Needs editorial review._
