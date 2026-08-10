@@ -52,7 +52,7 @@ Iqbalunnisa Hussain was born to Salima Ahmed in 1897, in Bangalore, Karnataka. L
 
 Iqbalunnisa was fluent and well-versed in Persian and Urdu, and eventually in English too. Her grasp of the three languages coupled with her critical analysis of patriarchy enabled her to make immense contributions to feminist literature. Among these, the most prominent contributions were _Changing India: A Muslim Woman Speaks_ (1940) and _Purdah and Polygamy: Life in a Muslim Household_ (1944). _Changing India: A Muslim Woman Speaks_ (1940) is a collection of her essays that have been compiled together into a book. [_Purdah and Polygamy: Life in a Muslim Household (1944)_](https://thewire.in/books/iqbalunnisa-hussain-purdah-and-polygamy) is another highly acclaimed work of hers. The novel acts as a scathing critique of patriarchy, highlighting the problematic ideologies of the society which relegate women to a discriminatory status. 
 
-Literary Contributions to the Feminist Movement
+**Literary Contributions to the Feminist Movement**
 
 _Purdah and Polygamy: Life in a Muslim Household_ belongs to the genre of social realism, and deploys sarcasm often. The story is set in an unnamed Indian city, and revolves around gender-based tensions and conflicts that unfold within the ‘high walls’ of the protagonists’ family’s residence, named _Dilkusha_. The book tackles the themes of classical patriarchy and female solidarity.
 
@@ -60,23 +60,23 @@ _Purdah and Polygamy: Life in a Muslim Household_ has garnered tremendous praise
 
 Her books are not solely targeted towards the men of the community. Iqbalunnisa did not spare the women belonging to what she terms [“uncivilised families](https://www.dawn.com/news/1204906),” for they shunned the reforming times and instead tied themselves to a regressive and archaic approach towards life. She goes on to label them as ‘she-dragons’, and expresses her anger at the lack of awareness and creativity that plagues these women. She also reprimands them for their attachment to the role of ‘selfish mischief-mongers’. Hence, Iqbalunnisa’s liberal outlook at life and breaking open women from their designated subservience attacked the patriarchal mind-set, and applied to both men and women.
 
-Hussain’s Influential Contributions as an Educationist
+**Hussain’s Influential Contributions as an Educationist**
 
 As a pioneer for women’s education, Iqbalunnisa began her career as the headmistress of a primary school. Over time, her goals as a feminist and educationist led her to convert the school into an Urdu Girls’ Middle School. This step fuelled the fire of extreme ostracisation that Iqbalunnisa was already facing. The backlash from society, especially within her community, was quite severe. Despite the opposition forces, Iqbalunnisa Hussain treaded ahead and contributed towards Muslim women’s education. She achieved this by setting up an association of Muslim women educators, as well as establishing a school of home industries for Bangalore’s Muslim women. Notably, she was also a member of the historic Girl Guide Movement.
 
 In _Changing India: A Muslim Woman Speaks_, Iqbalunnisa Hussain delves into the educational lessons she grasped through the Girl Guide Movement. Through the essay _The Educative Value of the Girl Guide Movement_, she sheds light upon the scantiness that exists in the Indian education system, which ends up making women feel incapable of stepping out of their homes and working physically and psychologically. Her solution to the same was offered through her tireless advocacy for upskilling women and providing them with vocational training. She believed that developing a resourceful skill set was an essential aspect of reforming Indian education and making it accommodating of women from all walks of life. Along with her goal of educating girls and women, Iqbalunnisa was also a vocal critic of societal evils widely prevalent in her day, such as child marriage.
 
-Contributions to Improving the State of Muslim Women
+**Contributions to Improving the State of Muslim Women**
 
 Arguably, her centre-most concern was the status and role that a Muslim Woman held within her community. Iqbalunnisa Hussain argued that the plight of Muslim women emerged from a male-centric view of society. She also felt that as individuals, Muslim women find themselves in a time-warp that does not encourage them to strive for better status. When appealing to the community about the emancipation of Muslim women from the shackles of the patriarchy, she deployed Islam, and presented the faith in a modern light. She called for the tenets of the faith to be interpreted and practiced in a way that does not trap women, but instead frees them. She elaborates in _Changing India: A Muslim Woman Speaks_, that Islam is a ‘religion of hope’. This proved to be an incredibly instrumental step, especially in pre-partition India, when there were increasing associations of backwardness with religion. Her contributions in this sphere also attempted to alienate faith from how it ended up being practiced.
 
-Opposition and the Unwavering Spirit of Hussain
+**Opposition and the Unwavering Spirit of Hussain**
 
 For her revolutionary and liberal advocacy within the feminist movement, Iqbalunnisa Hussain was also put through severe harsh criticism from the authoritative orthodoxy. She felt that communities suffered and were pushed into regressive practices with major influence from ‘male-dominated’ families. Patriarchal communities, regardless of faith, made women’s lives increasingly difficult and restrictive. No exception to this, she argues that Muslim patriarchy too worked persistently on making women dependent on the choices of the men of the households. She was tenacious in her movement to urge Muslim women to break the shackles that bound them to a sub-servient role, and fight for their agency and autonomy.
 
 Just like her continuous efforts, the ostracism too seemed endless. Despite the naysayers, Iqbalunnisa Hussain went on to represent India at the [Twelfth International Women’s Conference in Istanbul](https://feminisminindia.com/2021/05/31/iqbalunnisa-hussain-muslim-women-education/) - a platform for strong-minded, influential, and able women from all across the globe, to come together.
 
-Inspirations, Influences, and Legacy
+**Inspirations, Influences, and Legacy**
 
 Iqbalunnisa Hussain’s return from the United Kingdom proved to be the first major step in her road to revolutionise the lives of Indian women- particularly, Muslim women. She led a path-breaking movement to dismantle the patriarchy. Using the power of educating women, and her expressive literary contributions, she managed to stand out of the norm and crack open the insecurity of men, who seethed at the sight of her success and capabilities. Her influence on her contemporaries and on the generations of women who have come after her, is unforgettable. Other reformers such as Khwaja Altaf Hussain authored pieces that shed light on the oppression faced by women. Scholar and reformist duo Mumtaz Ali and Mohammadi Begum together launched a newspaper called _Tehzeeb-e-Niswaan_. The newspaper laid emphasis on societal evils such as child marriage and woemn’s illiteracy.
 
