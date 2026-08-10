@@ -91,7 +91,7 @@ geographic_scope:
   - united-states
 ---
 
-The following essay explores the stance taken by Minoo Masani against India's nuclear ambitions. In doing so, Masani made a critical economic argument to deter Indian policymakers from focusing on nuclear weapons development at the time.From the time of Nehru laying the foundation of the atomic energy program, India as a nuclear power has come a long way now with its acceptance in the global nuclear regime. India’s path to the bomb and emergence as a responsible nuclear power has not been a straightforward one. Among other factors, the domestic political debate has played a crucial role in shaping India’s nuclear trajectory. 
+The following essay explores the stance taken by Minoo Masani against India's nuclear ambitions. In doing so, Masani made a critical economic argument to deter Indian policymakers from focusing on nuclear weapons development at the time. From the time of Nehru laying the foundation of the atomic energy program, India as a nuclear power has come a long way now with its acceptance in the global nuclear regime. India’s path to the bomb and emergence as a responsible nuclear power has not been a straightforward one. Among other factors, the domestic political debate has played a crucial role in shaping India’s nuclear trajectory. 
 
 PM Nehru was a proponent of nuclear disarmament but also endorsed the peaceful use of nuclear energy for development. Nehru’s party, the Indian National Congress had an ambivalent attitude towards nuclear weapons, given its ideological commitment to Gandhian principles and Nehru’s advocacy of disarmament.
 
