@@ -1,61 +1,63 @@
 ---
-id: "m-g-ranade-on-revival-and-reform"
-title: "M.G. Ranade on Revival and Reform"
-pubDate: "2021-04-19T13:06:33Z"
-themes:
-  - "liberalism"
-  - "social-reform"
-language: "en"
+id: m-g-ranade-on-revival-and-reform
+title: M.G. Ranade on Revival and Reform
+pubDate: 2021-04-19T13:06:33Z
+themes: 
+- liberalism
+- social-reform
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/m-g-ranade-on-revival-and-reform.webp"
+author_name: Editorial Team
+hero_image: /opinions/covers/m-g-ranade-on-revival-and-reform.webp
 author: vikrant-pande
-subject: "mahadev-govind-ranade"
-thinker_mentions:
-  - thinker: mahadev-govind-ranade
-    role: subject
-    reasoning: "The piece is entirely about the ideas of M.G. Ranade as a social reformer and liberal thinker, mediated through Aroon Tikekar's lectures on Ranade's legacy."
-    evidence: []
-    key_passages:
-      - quote: every genuine Liberal, be he a professional researcher or journalist, in Maharashtra, nurtures a deep desire to interpret in his way the mission and message of Mahadeo Govind Ranade, progenitor of many reform movements in Western India
-        what_it_shows: "establishes Ranade's canonical importance for Maharashtrian liberalism"
-      - quote: "a distinguished university student, eminent judge, brilliant 'nationalist' historian and economist, educative journalist, enlightened religious and social reformer, exemplary moral preacher, builder of institutions, maker of great men, friend, philosopher and guide of the young generation of his time"
-        what_it_shows: "Tikekar's enumeration of Ranade's multifaceted contributions"
-      - quote: The ruling elites in Maharashtra seem to have totally forgotten Ranade and the work he did for national regeneration.
-        what_it_shows: "signals the neglect of Ranade's legacy that the article seeks to remedy"
+subject: mahadev-govind-ranade
+thinker_mentions: 
+- thinker: mahadev-govind-ranade
+  role: subject
+  reasoning: The piece is entirely about the ideas of M.G. Ranade as a social reformer and liberal thinker, mediated through Aroon Tikekar's lectures on Ranade's legacy.
+  evidence: []
+  key_passages: 
+  - quote: every genuine Liberal, be he a professional researcher or journalist, in Maharashtra, nurtures a deep desire to interpret in his way the mission and message of Mahadeo Govind Ranade, progenitor of many reform movements in Western India
+    what_it_shows: establishes Ranade's canonical importance for Maharashtrian liberalism
+  - quote: a distinguished university student, eminent judge, brilliant 'nationalist' historian and economist, educative journalist, enlightened religious and social reformer, exemplary moral preacher, builder of institutions, maker of great men, friend, philosopher and guide of the young generation of his time
+    what_it_shows: Tikekar's enumeration of Ranade's multifaceted contributions
+  - quote: The ruling elites in Maharashtra seem to have totally forgotten Ranade and the work he did for national regeneration.
+    what_it_shows: signals the neglect of Ranade's legacy that the article seeks to remedy
 related_thinkers: []
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "intellectual-history"
-  - "reformism"
-key_concepts:
-  - "western-liberalism"
-  - "reform-through-persuasion"
-  - "indian-sensibility"
-pull_quote: "Ranade's ideas were so distinct because he managed to have a fine blend of Indian sensibility and Western Liberalism."
+source_channel: editorial-opinions
+proposed_themes: 
+- intellectual-history
+- reformism
+key_concepts: 
+- western-liberalism
+- reform-through-persuasion
+- indian-sensibility
+pull_quote: Ranade's ideas were so distinct because he managed to have a fine blend of Indian sensibility and Western Liberalism.
 stance: profiles
 kind: profile
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: regional
-  places:
-    - "maharashtra"
+  places: 
+  - maharashtra
 ---
 
-_Ranade’s ideas were so distinct because he managed to have a fine blend of Indian sensibility and Western Liberalism. Steering clear from the militancy of any kind, he sought to introduce reforms through persuasion._Aroon Tikekar, a renowned author, journalist and intellectual delivered a couple of lectures in 1998 at the University of Mumbai and the motivation behind the series was that he wanted to make the audience aware of the contribution of M.G. Ranade as a social reformer and also acquaint them with the forgotten intellectual landscape of the city. His passion for engaging with the audience and informing them about various persons, issues and events in history remains unparalleled.
+_Ranade’s ideas were so distinct because he managed to have a fine blend of Indian sensibility and Western Liberalism. Steering clear from the militancy of any kind, he sought to introduce reforms through persuasion._
+
+Aroon Tikekar, a renowned author, journalist and intellectual delivered a couple of lectures in 1998 at the University of Mumbai and the motivation behind the series was that he wanted to make the audience aware of the contribution of M.G. Ranade as a social reformer and also acquaint them with the forgotten intellectual landscape of the city. His passion for engaging with the audience and informing them about various persons, issues and events in history remains unparalleled.
 
 “It is my fond belief that, just as every aspiring cricketer wishes to exhibit someday his prowess at the game on the lawns of the Lords in London, so also every genuine Liberal, be he a professional researcher or journalist, in Maharashtra, nurtures a deep desire to interpret in his way the mission and message of Mahadeo Govind Ranade, progenitor of many reform movements in Western India,” said Late Prof. Aroon Tikekar at the beginning of his book about Mahadeo Govind Ranade. Interestingly, not long after having said this, he observed that the intellectual legacy of M.G Ranade is indeed in danger. He lamented that “The ruling elites in Maharashtra seem to have totally forgotten Ranade and the work he did for national regeneration.” Tikekar’s first statement demonstrates his high regard for Ranade. The second statement, however, attests to his level of disappointment in the political class for their utter disregard for the legacy of a truly versatile person who contributed immensely to the making of what we today call Maharashtra.
 
-In the rich tapestry of history, there are sporadic events or people whose memories or personalities shine through, Ranade was one of them. Tikekar enunciated his attainments and the most commendable aspects of his personality in the following words – “… a distinguished university student, eminent judge, brilliant ‘nationalist’ historian and economist, educative journalist, enlightened religious and social reformer, exemplary moral preacher, builder of institutions, maker of great men, friend, philosopher and guide of the young generation of his time…”.  When Tikekar saw how little people knew about Ranade during his public lectures at the University of Mumbai, he converted the transcripts and notes of his lectures into a small book ‘Ranade: Prabodhan Purush.’ Its English version is titled_ ‘Ranade: The Renaissance Man’_. This booklet serves as a primer for those who are interested in the contribution of Justice Ranade. It gave me a unique opportunity to revisit two brilliant liberals who in their way contributed to the intellectual life of Mumbai before, and to borrow the term from Tikekar himself, Mumbai got de-intellectualized. My objective is to shed light on some relevant ideas of Ranade as discussed by the author in the first chapter of the book.
+In the rich tapestry of history, there are sporadic events or people whose memories or personalities shine through, Ranade was one of them. Tikekar enunciated his attainments and the most commendable aspects of his personality in the following words, “… a distinguished university student, eminent judge, brilliant ‘nationalist’ historian and economist, educative journalist, enlightened religious and social reformer, exemplary moral preacher, builder of institutions, maker of great men, friend, philosopher and guide of the young generation of his time…”.  When Tikekar saw how little people knew about Ranade during his public lectures at the University of Mumbai, he converted the transcripts and notes of his lectures into a small book ‘Ranade: Prabodhan Purush.’ Its English version is titled _‘Ranade: The Renaissance Man’_. This booklet serves as a primer for those who are interested in the contribution of Justice Ranade. It gave me a unique opportunity to revisit two brilliant liberals who in their way contributed to the intellectual life of Mumbai before, and to borrow the term from Tikekar himself, Mumbai got de-intellectualized. My objective is to shed light on some relevant ideas of Ranade as discussed by the author in the first chapter of the book.
 
 Ranade explained his brand of Liberalism in the prospectus of the then newly founded Deccan Sabha: “The spirit of Liberalism implies freedom from race and creed prejudices and steady devotion to all that seeks to do justice between man and man, giving to the rulers the loyalty that is due to the law they are bound to administer, but securing at the same time to the ruled the equality, which is their right under the law.”  Isn’t it interesting that Ranade was not suspicious of the political authority, but ‘giving the rulers the loyalty’ was entrenched in his idea of liberalism? This was because, unlike western liberalism that looked at the government with suspicion, Ranade’s liberalism had a strong element of moderation.
 
 Explaining the importance of moderation, he argued that “Moderation imposes the conditions of never vainly aspiring after the impossible or after too remote ideals, but striving each day to take the next step in the order of natural growth by doing the work that lies nearest on our hands in a spirit of compromise, and fairness…”. This attitude of his stood in stark contrast with some of his younger contemporaries such as Agarkar. Agarkar’s stance was anything but compromising on some of the important social issues. The difference lies in how they both approached the concepts of ‘social reform’ and ‘revival of traditions’. 
 
-Ranade strongly disapproved of revivalist ideology for he considered society as a living organism. While addressing the Eleventh Social Conference at Amraoti in 1897, he elaborated his views on the undesirability of revival. Responding to the extreme orthodox sections – those advocating a return to old ways and olden days, to the old authorities and the old sanctions, Ranade posed a simple yet important question - “What shall we revive?” The question left his orthodox friends perplexed. He reminded them of the wretched past that we could somehow leave behind.
+Ranade strongly disapproved of revivalist ideology for he considered society as a living organism. While addressing the Eleventh Social Conference at Amraoti in 1897, he elaborated his views on the undesirability of revival. Responding to the extreme orthodox sections, those advocating a return to old ways and olden days, to the old authorities and the old sanctions, Ranade posed a simple yet important question - “What shall we revive?” The question left his orthodox friends perplexed. He reminded them of the wretched past that we could somehow leave behind.
 
-To establish the gravity of demands of returning to bygone days, he cited a vast array of questionable practices that the Hindu society had deemed normal in the past. Let us take the example of the institution of marriage. The old Hindu tradition recognized eight different types of marriages including the marriage by capture. Our society, once upon a time, recognized what is construed to be illegitimate intercourse today. The Niyoga system allowed procreating sons with the widowed wife of one’s brother. Practices like animal and human sacrifice, Sati, infanticide, hook-swinging and crushing beneath the chariots were prevalent in old days. The destructive wars between castes – especially between Brahmins and Kshatriyas and the cruel persecution of the aboriginal population was also a reality in the past. Lastly, going back in time would also require the Brahmins to cease being noble landlords and they would be expected to lead a modest existence.
+To establish the gravity of demands of returning to bygone days, he cited a vast array of questionable practices that the Hindu society had deemed normal in the past. Let us take the example of the institution of marriage. The old Hindu tradition recognized eight different types of marriages including the marriage by capture. Our society, once upon a time, recognized what is construed to be illegitimate intercourse today. The Niyoga system allowed procreating sons with the widowed wife of one’s brother. Practices like animal and human sacrifice, Sati, infanticide, hook-swinging and crushing beneath the chariots were prevalent in old days. The destructive wars between castes, especially between Brahmins and Kshatriyas and the cruel persecution of the aboriginal population was also a reality in the past. Lastly, going back in time would also require the Brahmins to cease being noble landlords and they would be expected to lead a modest existence.
 
 Ranade used these examples to prove that the plan to revive ancient customs was not a way to salvation. Those practices were far from being practicable. He concluded that “The dead and the buried or burnt are dead, buried and burnt once for all, and the dead past cannot, therefore, be revived except by the reformation of old materials into newly organized beings.” Once it is clear that revival is impossible, reformation remains as the only alternative open to sensible people.
 
@@ -69,4 +71,4 @@ The fourth and the last method was about separating from the rest and forming a 
 
 Ranade’s ideas were so distinct because he managed to have a fine blend of Indian sensibility and Western Liberalism. Steering clear from the militancy of any kind, he sought to introduce reforms through persuasion. Ranade believed in convincing and persuading rather than imposing reforms. He tried to enkindle reason into the hearts and minds of those who opposed reforms instead of looking down upon them as the lesser mortals. The imposition of reforms was the last resort.
 
-Unfortunately, not many liberals have taken interest in interpreting the mission and message of Mahadeo Govind Ranade as Tikekar had envisaged. It makes one wonder if ideas are really immortal and can survive the onslaught of changing times as Mazzini once suggested. He said: "You may kill men; you cannot kill a great idea." Ambedkar thought it was a mistaken view. He argued “Men are mortal. So are ideas. It is wrong to hold that an idea will take roots _proprio vigore_. An idea needs propagation as much as a plant needs watering.” Ambedkar uttered these words in a[speech](http://www.columbia.edu/itc/mealac/pritchett/00ambedkar/txt_ambedkar_ranade.html#10) he delivered in remembrance of Ranade. The liberal, reformist and moderate ideas of Ranade are now required by the society more than ever, it is incumbent upon us to not allow Ranade's ideas to gather dust.
+Unfortunately, not many liberals have taken interest in interpreting the mission and message of Mahadeo Govind Ranade as Tikekar had envisaged. It makes one wonder if ideas are really immortal and can survive the onslaught of changing times as Mazzini once suggested. He said: "You may kill men; you cannot kill a great idea." Ambedkar thought it was a mistaken view. He argued “Men are mortal. So are ideas. It is wrong to hold that an idea will take roots _proprio vigore_. An idea needs propagation as much as a plant needs watering.” Ambedkar uttered these words in a speech he delivered in remembrance of Ranade. The liberal, reformist and moderate ideas of Ranade are now required by the society more than ever, it is incumbent upon us to not allow Ranade's ideas to gather dust.
