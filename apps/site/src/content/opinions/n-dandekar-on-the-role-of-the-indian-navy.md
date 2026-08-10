@@ -45,6 +45,7 @@ thinker_mentions:
   - quote: The evolving role of the Indian Navy is in tandem with his approach of acting from the position of strength.
     what_it_shows: closing editorial verdict; vindicates Dandekar's 1967 doctrine in light of the navy's modern force posture
 related_thinkers: []
+author: vikrant-pande
 ---
 
 When the world was divided between the communist and the capitalist blocs, India chose to remain non-aligned. The Indian government decided to use its resources primarily to undertake developmental programmes. Considerations of defence and security were always secondary. The accepted objective of the Indian armed forces was the defence of the country. The problems associated with strict adherence to this objective came to the fore after the Indo-Pakistan War of 1965.
