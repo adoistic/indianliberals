@@ -1,59 +1,61 @@
 ---
-id: "poona-sarvajanik-sabha-and-its-liberal-affiliations"
-title: "Poona Sarvajanik Sabha and Its Liberal Affiliations"
-pubDate: "2021-01-18T09:15:43Z"
-themes:
-  - "civil-society"
-  - "democracy"
-  - "liberalism"
-language: "en"
+id: poona-sarvajanik-sabha-and-its-liberal-affiliations
+title: Poona Sarvajanik Sabha and Its Liberal Affiliations
+pubDate: 2021-01-18T09:15:43Z
+themes: 
+- civil-society
+- democracy
+- liberalism
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/poona-sarvajanik-sabha-and-its-liberal-affiliations.webp"
+author_name: Editorial Team
+hero_image: /opinions/covers/poona-sarvajanik-sabha-and-its-liberal-affiliations.webp
 author: sanjeet-kashyap
-thinker_mentions:
-  - thinker: mahadev-govind-ranade
-    role: mention
-    reasoning: Ranade is identified alongside Ganesh Vasudev Joshi as the key leadership duo who made the Poona Sarvajanik Sabha the foremost political association in India, and who later left to form the Deccan Sabha.
-    evidence:
-      - quote: under the able leadership of Mahadev Govind Ranade and Ganesh Vasudev Joshi, the Sabha emerged as the foremost political association in India with a progressive bent.
-        context: credits Ranade as the central driving intellectual force of the Sabha
-      - quote: The liberals- Gopal Krishan Gokhale and Mahadev Govind Ranade – left the Sabha to form Deccan Sabha in 1896.
-        context: "marks Ranade's departure from the Sabha after the Tilak faction's takeover"
-    key_passages: []
-  - thinker: gopal-krishna-gokhale
-    role: mention
-    reasoning: Gokhale is named as one of the liberal leaders who left the Poona Sarvajanik Sabha alongside Ranade after the extremist Tilak faction took control.
-    evidence:
-      - quote: The liberals- Gopal Krishan Gokhale and Mahadev Govind Ranade – left the Sabha to form Deccan Sabha in 1896.
-        context: "marks Gokhale's principled exit from the Sabha alongside Ranade"
-    key_passages: []
+thinker_mentions: 
+- thinker: mahadev-govind-ranade
+  role: mention
+  reasoning: Ranade is identified alongside Ganesh Vasudev Joshi as the key leadership duo who made the Poona Sarvajanik Sabha the foremost political association in India, and who later left to form the Deccan Sabha.
+  evidence: 
+  - quote: under the able leadership of Mahadev Govind Ranade and Ganesh Vasudev Joshi, the Sabha emerged as the foremost political association in India with a progressive bent.
+    context: credits Ranade as the central driving intellectual force of the Sabha
+  - quote: The liberals- Gopal Krishan Gokhale and Mahadev Govind Ranade, left the Sabha to form Deccan Sabha in 1896.
+    context: marks Ranade's departure from the Sabha after the Tilak faction's takeover
+  key_passages: []
+- thinker: gopal-krishna-gokhale
+  role: mention
+  reasoning: Gokhale is named as one of the liberal leaders who left the Poona Sarvajanik Sabha alongside Ranade after the extremist Tilak faction took control.
+  evidence: 
+  - quote: The liberals- Gopal Krishan Gokhale and Mahadev Govind Ranade, left the Sabha to form Deccan Sabha in 1896.
+    context: marks Gokhale's principled exit from the Sabha alongside Ranade
+  key_passages: []
 related_thinkers: 
-  - gopal-krishna-gokhale
-  - mahadev-govind-ranade
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "associational-politics"
-  - "early-nationalism"
-key_concepts:
-  - "poona-sarvajanik-sabha"
-  - "self-rule"
-  - "press-freedom"
-  - "responsible-executive"
-  - "indian-national-congress"
+- gopal-krishna-gokhale
+- mahadev-govind-ranade
+source_channel: editorial-opinions
+proposed_themes: 
+- associational-politics
+- early-nationalism
+key_concepts: 
+- poona-sarvajanik-sabha
+- self-rule
+- press-freedom
+- responsible-executive
+- indian-national-congress
 pull_quote: The Sabha was meant to work as a mediating body between the state and people by airing the grievances of people and helping them make claims on the state.
 stance: analyzes
 kind: commentary
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: regional
-  places:
-    - "bombay-presidency"
-    - "maharashtra"
+  places: 
+  - bombay-presidency
+  - maharashtra
 ---
 
-_Despite the predominantly urban middle-class character of the Sabha, its work as a mediating body between the state and peasantry stemmed from the liberal conviction of the Sabha leaders who sought to operate in the domain of civil society. _The formative years of the modern, pan-Indian nationalism can be traced back to the latter half of the 19th century. The culmination of the British expansion into a centralized governance mechanism partly contributed to this pan-Indian political consciousness. Inspired by the induction of ideas of modernity in India, the newly emergent political associations in major provincial centers responded to this consolidation of colonial administration. These associations fashioned themselves as representatives of native opinion and made claims on behalf of the community. Prominent among them in the western province was the Poona Sarvajanik Sabha.
+_Despite the predominantly urban middle-class character of the Sabha, its work as a mediating body between the state and peasantry stemmed from the liberal conviction of the Sabha leaders who sought to operate in the domain of civil society._ 
+
+The formative years of the modern, pan-Indian nationalism can be traced back to the latter half of the 19th century. The culmination of the British expansion into a centralized governance mechanism partly contributed to this pan-Indian political consciousness. Inspired by the induction of ideas of modernity in India, the newly emergent political associations in major provincial centers responded to this consolidation of colonial administration. These associations fashioned themselves as representatives of native opinion and made claims on behalf of the community. Prominent among them in the western province was the Poona Sarvajanik Sabha.
 
 With a recent past of political gravity as the Maratha center of power that underpinned Poona, the local elites were infused with a strong nationalist sentiment that was inimical to the raj. Of course, as C A Bayly argued, the Marathas demonstrated a strong sense of territoriality which could be interpreted as an indigenous root of primordial patriotism. But, also influential were the ideas of European nationalists like Mazzini and Garibaldi. Moreover, the liberal ideas of self-rule, civil society, press freedom, and a responsible executive as well came to find adherents among the English-educated elites.
 
@@ -73,4 +75,4 @@ According to Mehrotra, under the able leadership of Mahadev Govind Ranade and Ga
 
 In the years of Deccan famines in 1872, 1876-78, and 1896-97, the Sabha sent its representatives to rural areas to collect accurate information which then were sent to the government demanding adequate famine relief measures. In the 1896-97 famine, the Sabha volunteers also made the peasantry aware of their rights under the Famine Relief Code. Despite the predominantly urban middle-class character of the Sabha, its work as a mediating body between the state and peasantry stemmed from the liberal conviction of the Sabha leaders who sought to operate in the domain of civil society. The Sabha’s mediating role though was essentially contingent upon the state acceptance of its legitimacy.
 
-Hence, it shouldn’t come as a surprise that with the state derecognition of the Sabha as a representative body, it went moribund after 1897. Earlier in 1895, the extremist faction under Tilak had taken control over the Sabha. The liberals- Gopal Krishan Gokhale and Mahadev Govind Ranade – left the Sabha to form Deccan Sabha in 1896. During the famine of 1896-97, the extremist criticism of the Bombay government led the latter to pass a resolution on 17th March 1897 derecognising the Sabha as a representative body. The Anglo-Indian press was already hostile to the Sabha due to the threat posed by its representative character. Problems were also exacerbated by the death of Joshi earlier in July 1880 who was the dynamic force behind the Sabha. The rift between liberals and conservatives weakened the prospect of cooperation under the auspices of a single body. The coming of new associations like the Indian National Congress, Abhinav Bharat, Deccan Sabha, Satyashodhak Samaj, Dinabandhu Sarvajanik Sabha, and Servants of India Society in the western province made the older association riven with conflict even more irrelevant in public discourse. In the long run, though, the legacy of the Poona Sarvajanik Sabha lies in its pioneering effort at representative politics and a pan-Indian outlook that has contributed to the making of modern Indian democracy.
+Hence, it shouldn’t come as a surprise that with the state derecognition of the Sabha as a representative body, it went moribund after 1897. Earlier in 1895, the extremist faction under Tilak had taken control over the Sabha. The liberals- Gopal Krishan Gokhale and Mahadev Govind Ranade, left the Sabha to form Deccan Sabha in 1896. During the famine of 1896-97, the extremist criticism of the Bombay government led the latter to pass a resolution on 17th March 1897 derecognising the Sabha as a representative body. The Anglo-Indian press was already hostile to the Sabha due to the threat posed by its representative character. Problems were also exacerbated by the death of Joshi earlier in July 1880 who was the dynamic force behind the Sabha. The rift between liberals and conservatives weakened the prospect of cooperation under the auspices of a single body. The coming of new associations like the Indian National Congress, Abhinav Bharat, Deccan Sabha, Satyashodhak Samaj, Dinabandhu Sarvajanik Sabha, and Servants of India Society in the western province made the older association riven with conflict even more irrelevant in public discourse. In the long run, though, the legacy of the Poona Sarvajanik Sabha lies in its pioneering effort at representative politics and a pan-Indian outlook that has contributed to the making of modern Indian democracy.
