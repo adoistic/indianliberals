@@ -1,41 +1,41 @@
 ---
-id: "indian-liberals-interviews-hindol-sengupta"
-title: "Indian Liberals Interviews Hindol Sengupta"
-pubDate: "2020-10-24T17:36:56Z"
-themes:
-  - "economic-growth"
-  - "liberalism"
-language: "en"
+id: indian-liberals-interviews-hindol-sengupta
+title: Indian Liberals Interviews Hindol Sengupta
+pubDate: 2020-10-24T17:36:56Z
+themes: 
+- economic-growth
+- liberalism
+language: en
 needs_review: true
-draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/indian-liberals-interviews-hindol-sengupta.webp"
-subject: "hindol-sengupta"
-thinker_mentions:
-  - thinker: hindol-sengupta
-    role: subject
-    reasoning: "The piece is an interview profile of Hindol Sengupta, covering his intellectual journey, books, and views on India's liberalisation and political landscape."
-    evidence: []
-    key_passages:
-      - quote: "An award-winning author of nine best selling books, Hindol is an author and journalist. His book, \"Recasting India\" was shortlisted for the Hayek Prize while his other book, \"Being Hindu\" won the Wilbur Award in 2018."
-        what_it_shows: "establishes Sengupta's credentials and literary output as the subject of the profile"
-      - quote: I am one of the few writers who emerged through the process of liberalisation to tell a very different story of India from the one that had been set and told and retold since independence from colonial rule in 1947.
-        what_it_shows: Sengupta articulates his own self-positioning as a post-1991 voice
-      - quote: Whether its Being Hindu, which won the first Wilbur Award for a book on Hinduism in 70 years in America or retelling the modernist tale in the life of Vivekananda or rediscovering Vallabhbhai Patel, my attempt has been to delve into the stories neglected by elitist India
-        what_it_shows: "shows breadth of Sengupta's subject matter and intellectual ambition"
+draft: true
+author_name: Editorial Team
+hero_image: /opinions/covers/indian-liberals-interviews-hindol-sengupta.webp
+subject: hindol-sengupta
+thinker_mentions: 
+- thinker: hindol-sengupta
+  role: subject
+  reasoning: The piece is an interview profile of Hindol Sengupta, covering his intellectual journey, books, and views on India's liberalisation and political landscape.
+  evidence: []
+  key_passages: 
+  - quote: An award-winning author of nine best selling books, Hindol is an author and journalist. His book, "Recasting India" was shortlisted for the Hayek Prize while his other book, "Being Hindu" won the Wilbur Award in 2018.
+    what_it_shows: establishes Sengupta's credentials and literary output as the subject of the profile
+  - quote: I am one of the few writers who emerged through the process of liberalisation to tell a very different story of India from the one that had been set and told and retold since independence from colonial rule in 1947.
+    what_it_shows: Sengupta articulates his own self-positioning as a post-1991 voice
+  - quote: Whether its Being Hindu, which won the first Wilbur Award for a book on Hinduism in 70 years in America or retelling the modernist tale in the life of Vivekananda or rediscovering Vallabhbhai Patel, my attempt has been to delve into the stories neglected by elitist India
+    what_it_shows: shows breadth of Sengupta's subject matter and intellectual ambition
 related_thinkers: []
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "interview"
-  - "journalism"
-key_concepts:
-  - "recasting-india"
-  - "being-hindu"
-  - "hayek-prize"
+source_channel: editorial-opinions
+proposed_themes: 
+- interview
+- journalism
+key_concepts: 
+- recasting-india
+- being-hindu
+- hayek-prize
 stance: profiles
 kind: commentary
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
