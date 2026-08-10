@@ -1,60 +1,61 @@
 ---
-id: "encoding-privacy-in-a-digital-world"
-title: "Encoding Privacy in a Digital World"
-pubDate: "2020-10-22T19:41:28Z"
-themes:
-  - "civil-liberties"
-  - "democracy"
-language: "en"
+id: encoding-privacy-in-a-digital-world
+title: Encoding Privacy in a Digital World
+pubDate: 2020-10-22T19:41:28Z
+themes: 
+- civil-liberties
+- democracy
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/encoding-privacy-in-a-digital-world.webp"
-author: "shivani-a-tannu"
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "artificial-intelligence"
-  - "data-protection"
-  - "digital-privacy"
-key_concepts:
-  - "right-to-privacy"
-  - "facebook-data"
-  - "racial-profiling"
-  - "artificial-intelligence"
-  - "informational-privacy"
-pull_quote: "Arguing that you don't care about the right to privacy because you have nothing to hide, is no different than saying you don't care about free speech because you have nothing to say."
+author_name: Editorial Team
+hero_image: /opinions/covers/encoding-privacy-in-a-digital-world.webp
+author: shivani-a-tannu
+source_channel: editorial-opinions
+proposed_themes: 
+- artificial-intelligence
+- data-protection
+- digital-privacy
+key_concepts: 
+- right-to-privacy
+- facebook-data
+- racial-profiling
+- artificial-intelligence
+- informational-privacy
+pull_quote: Arguing that you don't care about the right to privacy because you have nothing to hide, is no different than saying you don't care about free speech because you have nothing to say.
 stance: argues-for
 kind: commentary
 period_window: post-reform
-thinker_mentions:
-  - thinker: amartya-sen
-    role: mention
-    reasoning: "Amartya Sen is named in the author's biographical note as one of the thinkers whose work informs her approach to development economics and policy, signalling Sen's influence on the essay's political-economy lens."
-    evidence:
-      - quote: She has been surviving on Amartya Sen, Fukoyama and Karl Marx not only for the sheer joy of critiquing, analyzing and learning their works but to see how economics and developmental policies could work in tandem.
-        context: author bio at the end of the essay; lists Sen as a formative intellectual influence on her economic-policy thinking
-    key_passages: []
-  - thinker: karl-marx
-    role: mention
-    reasoning: "Karl Marx is invoked in the author's biographical note as one of the thinkers she draws on for critique and analysis of economic and developmental policy, flagging an intellectual lineage that includes structural critique alongside liberal economics."
-    evidence:
-      - quote: She has been surviving on Amartya Sen, Fukoyama and Karl Marx not only for the sheer joy of critiquing, analyzing and learning their works but to see how economics and developmental policies could work in tandem.
-        context: "author bio at the end of the essay; Marx listed among the author's formative thinkers"
-    key_passages: []
+thinker_mentions: 
+- thinker: amartya-sen
+  role: mention
+  reasoning: Amartya Sen is named in the author's biographical note as one of the thinkers whose work informs her approach to development economics and policy, signalling Sen's influence on the essay's political-economy lens.
+  evidence: 
+  - quote: She has been surviving on Amartya Sen, Fukoyama and Karl Marx not only for the sheer joy of critiquing, analyzing and learning their works but to see how economics and developmental policies could work in tandem.
+    context: author bio at the end of the essay; lists Sen as a formative intellectual influence on her economic-policy thinking
+  key_passages: []
+- thinker: karl-marx
+  role: mention
+  reasoning: Karl Marx is invoked in the author's biographical note as one of the thinkers she draws on for critique and analysis of economic and developmental policy, flagging an intellectual lineage that includes structural critique alongside liberal economics.
+  evidence: 
+  - quote: She has been surviving on Amartya Sen, Fukoyama and Karl Marx not only for the sheer joy of critiquing, analyzing and learning their works but to see how economics and developmental policies could work in tandem.
+    context: author bio at the end of the essay; Marx listed among the author's formative thinkers
+  key_passages: []
 related_thinkers: 
-  - amartya-sen
-  - karl-marx
-
+- amartya-sen
+- karl-marx
 ---
 
 _**Arguing that you don't care about the right to privacy because you have nothing to hide, is no different than saying you don't care about free speech because you have nothing to say."**_
+_-Edward Snowden_
 
-_- Edward Snowden_
+
 The privacy debate of today is a glass-half-empty, glass-half-full scenario. As soon as technophiles rejoice that “We’ve never had it so good”, a cautionary note is sounded by the less enthusiastic: “The world and our privacy is falling apart!”. Today’s digital age is the proverbial double-edged sword, and our privacy is increasingly the hilt of that sword. Never has this been more true than in light of the revelation that users’ Facebook data was harvested and exploited for political profiling, without these users’ direct consent1. When Sting crooned to “Every breath you take”2 in the 80s, who would have thought that ‘every move you make’ in the online world today is visible to not only those you trust but also those you don’t know. Privacy can be seen as a reflex of innovation. While one approach would be to say that privacy is a norm and that with modern technologies, the norm must be reconsidered and if necessary, abandoned. The conundrum, however, is how to ensure protection while retaining the critical aspects of our democratic systems such as free speech, freedom of assembly and association, and critically, the right to privacy.
 
 Artificial Intelligence (AI) and other digital technologies have huge opportunities in strengthening national competitiveness, but also threats that are difficult to foresee today. From an economic perspective, in the early 1990s, Michael E. Porter, a professor from Harvard University, pointed out that “a nation’s competitiveness depends on the capacity of its industry to innovate and upgrade”.3 However, all it takes is one small glitch in the image for the Artificial Intelligence to see a toaster instead of a face! The feeling of excessive surveillance and the multiplication of errors can be particularly worrying. Another cause for concern is that the racial and social profiling techniques these intelligent systems might use could lead to significant errors and abuses.Consumers say they care about privacy, but at multiple points in the process end up making choices that are inconsistent with their stated preferences. The observation that small  incentives, costs or misdirection can lead people to safeguard their data less, can have two interpretations. On one hand, it might lead to policy makers to question the value of stated preferences for privacy when determining privacy policy. On the other hand, it might suggest the need for more extensive privacy protections, from the standpoint that people need to be protected from their willingness to share data in exchange for relatively small monetary incentives.
 
 Moreover, whenever privacy requires additional effort or comes at the cost of a less smooth user experience, participants are quick to abandon technology that would offer them greater protection. This suggests that privacy policy and regulation has to be careful about regulations that inadvertently lead consumers to be faced with additional effort or a less smooth experience in order to make a privacy-protective choice.
+
 Economists’ interest in privacy has primarily focused on its informational dimension: the trade-offs arising from protecting or sharing of personal data. Hal Varian, now Chief Economist at Google, argued in 1996 that customers are better off sharing information about themselves with marketers because it makes life easier. Junk mail or unsolicited calls that are an annoyance to consumers become less so when the company could target them better through data analysis.
  
 In particular, Varian (1997) noted how the consumer may rationally decide to share certain personal information with a firm because he/she expects to receive a net benefit from that transaction; however, he/she has little knowledge or control over how and by whom that data will later be used. Who, then, should hold an economic claim over personal data? The subject to whom the data refers, or the organization that invested resources in collecting the data?
@@ -63,7 +64,7 @@ In accordance with the Coase Theorem (Coase, 1960), Noam (1997) argued that whet
  
 Moreover, Laudon (1997) proposed the creation of information markets where individuals own their personal data and can transfer the rights to that data to others in exchange for some type of compensation. Similar to the view proposed by Chicago School scholars, Laudon argued that the mere legal protection of privacy is outdated, and a system based on property rights over personal information would better satisfy the interests of both consumers and firms.
 
-George Orwell4 opined that the ultimate threat to privacy would be the bugging of bedrooms and offices. Today, an equally large threat to freedom is the systematic monitoring of public places through microphones, video cameras, surveillance satellites, and other remote sensing devices, combined with information processing technology. Soon it may be impossible for most people to escape the watchful outdoor eye.
+George Orwell (4) opined that the ultimate threat to privacy would be the bugging of bedrooms and offices. Today, an equally large threat to freedom is the systematic monitoring of public places through microphones, video cameras, surveillance satellites, and other remote sensing devices, combined with information processing technology. Soon it may be impossible for most people to escape the watchful outdoor eye.
  
 In the worst cases, countries are actually listening in on their own citizens using spy technology that we see on James Bond movies, remotely hacking into their computers and turning on web cameras, or logging in and intercepting video calls. Is it possible to be secure without giving up some privacy? Theoretically yes, although it is not so easy to implement as intelligence gathering has increasingly become integral to national and international security. The debate has become quite heated black swans of security or the worst-case scenarios. Another question often raised is that ‘Is it problematic if government agencies collect our digital footprint, metadata, online habits and digital history for eternity? This data can potentially be used and abused, however, it can also keep people safe. Privacy is indeed at a crossroads. Today, it is all too easy to imagine a world in which our digital autonomy has been stripped away, a world where our actions are monitored, our secrets are known, and our choices are therefore circumscribed. The only way that we can avoid this dystopian future is by acting today and tomorrow to bring about a different future
 
@@ -89,7 +90,7 @@ http://foreignpolicy.com/2018/04/03/ life-inside-chinas-social-credit-laboratory
 https://www.washingtonpost.com/news/the- switch/wp/2018/04/10/transcript-of-mark-zuckerbergs-senate-
 hearing/?utm_term=.acf5a31b87bf.
 
-Coase, R. H. (1960). The problem of social cost. Journal of Law and Economics 3(1), 1–44.
+Coase, R. H. (1960). The problem of social cost. Journal of Law and Economics 3(1), 1, 44.
 
 Laudon, K. (1997, January). Extensions to the theory of markets and privacy: Mechanics of pricing information. Stern School of Business - New York University - Working Papers.
 
@@ -102,4 +103,3 @@ Telecommunications and Information Administration.
 Age-22, Education- B.A. Economics Honours, St. Stephen’s College, Delhi (2015-18), Masters in Public Policy (MPP), St. Xavier’s College (Autonomous), Mumbai (2018-20), Centre for Civil Society (CCS) Alumna; ‘i-Policy for Development Leaders’ (October 2016).
 
 Simran is of the opinion that reality is what people make of it, more or less on the lines of Alexander Wendt. Her reality is about creating a shared space where people, diplomacy, economics and international realities can merge together to provide for an atmosphere of peaceful co-existence. She has been surviving on Amartya Sen, Fukoyama and Karl Marx not only for the sheer joy of critiquing, analyzing and learning their works but to see how economics and developmental policies could work in tandem. While currently interning at the Ministry of External Affairs (MEA) under the Multilateral Economic Relations (MER) Division, she is looking into the economic and political relations between G-20, BRICS and India. She is also working on her research paper on the bilateral trade relations between China, India and the United States. Her dissertation is centred around the theme of ‘Community and Healthcare’ wherein she would be analysing the positive correlation between increased community participation and the effectiveness of the Integrated Child Development Services (ICDS) scheme under the Ministry of Women and Child Development to reduce child malnutrition in Mumbai.
-type=content&#038;p=1556). Needs editorial review._
