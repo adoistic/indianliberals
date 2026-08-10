@@ -1,54 +1,56 @@
 ---
-id: "women-and-liberalism-the-life-of-begum-rokeya"
+id: women-and-liberalism-the-life-of-begum-rokeya
 title: "Women and Liberalism : The Life of Begum Rokeya"
-pubDate: "2021-03-11T20:39:46Z"
-themes:
-  - "civil-society"
-  - "liberalism"
-  - "social-reform"
-language: "en"
+pubDate: 2021-03-11T20:39:46Z
+themes: 
+- civil-society
+- liberalism
+- social-reform
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/women-and-liberalism-the-life-of-begum-rokeya.webp"
+author_name: Editorial Team
+hero_image: /opinions/covers/women-and-liberalism-the-life-of-begum-rokeya.webp
 author: anshu-singh-rathore
-subject: "begum-rokeya"
-thinker_mentions:
-  - thinker: begum-rokeya
-    role: subject
-    reasoning: "The article is a full profile of Begum Rokeya's life, her feminist writings including Sultana's Dream, and her educational work for Muslim women in colonial Bengal."
-    evidence: []
-    key_passages:
-      - quote: Rokeya Sakhawat Hossain also known as Begum Rokeya, was a litterateur, educationist, social reformer and feminist who worked tirelessly for the emancipation of Muslim women.
-        what_it_shows: establishes her multiple roles and central mission
-      - quote: "Her book 'Sultana's Dream' is a rare feminist literature that imagined a utopia of an advanced scientifically developed society where gender roles were reversed; men were confined and women ruled the world."
-        what_it_shows: identifies her landmark utopian feminist text and its radical premise
-      - quote: Begum Rokeya was one of the most prominent figures of the Bengali renaissance as she is considered the mother of Bengali Muslim women awakening.
-        what_it_shows: establishes her canonical status in the Bengali reformist tradition
+subject: begum-rokeya
+thinker_mentions: 
+- thinker: begum-rokeya
+  role: subject
+  reasoning: The article is a full profile of Begum Rokeya's life, her feminist writings including Sultana's Dream, and her educational work for Muslim women in colonial Bengal.
+  evidence: []
+  key_passages: 
+  - quote: Rokeya Sakhawat Hossain also known as Begum Rokeya, was a litterateur, educationist, social reformer and feminist who worked tirelessly for the emancipation of Muslim women.
+    what_it_shows: establishes her multiple roles and central mission
+  - quote: Her book 'Sultana's Dream' is a rare feminist literature that imagined a utopia of an advanced scientifically developed society where gender roles were reversed; men were confined and women ruled the world.
+    what_it_shows: identifies her landmark utopian feminist text and its radical premise
+  - quote: Begum Rokeya was one of the most prominent figures of the Bengali renaissance as she is considered the mother of Bengali Muslim women awakening.
+    what_it_shows: establishes her canonical status in the Bengali reformist tradition
 related_thinkers: []
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "muslim-women-emancipation"
-  - "women-education"
-key_concepts:
-  - "sultanas-dream"
-  - "purdah"
-  - "bengali-renaissance"
-  - "muslim-women-education"
-  - "sakhawat-girls-school"
+source_channel: editorial-opinions
+proposed_themes: 
+- muslim-women-emancipation
+- women-education
+key_concepts: 
+- sultanas-dream
+- purdah
+- bengali-renaissance
+- muslim-women-education
+- sakhawat-girls-school
 pull_quote: Her life was itself her message and although she never focussed on defining herself within an ideological spectrum, most of her life struggles were indeed integral aspects of the liberal tradition.
 stance: commemorates
 kind: profile
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: regional
-  places:
-    - "bangladesh"
-    - "bengal-presidency"
-    - "west-bengal"
+  places: 
+  - bangladesh
+  - bengal-presidency
+  - west-bengal
 ---
 
-_Her life was itself her message and although she never focussed on defining herself within an ideological spectrum, most of her life struggles were indeed integral aspects of the liberal tradition._19th century Bengal is known for its renaissance movements that witnessed the awakening of intellectual currents in religious, social, cultural, economic, and artistic spheres. Begum Rokeya was one of the most prominent figures of the Bengali renaissance as she is considered the mother of Bengali Muslim women awakening. Rokeya Sakhawat Hossain also known as Begum Rokeya, was a litterateur, educationist, social reformer and feminist who worked tirelessly for the emancipation of Muslim women.
+_Her life was itself her message and although she never focussed on defining herself within an ideological spectrum, most of her life struggles were indeed integral aspects of the liberal tradition._ 
+
+19th century Bengal is known for its renaissance movements that witnessed the awakening of intellectual currents in religious, social, cultural, economic, and artistic spheres. Begum Rokeya was one of the most prominent figures of the Bengali renaissance as she is considered the mother of Bengali Muslim women awakening. Rokeya Sakhawat Hossain also known as Begum Rokeya, was a litterateur, educationist, social reformer and feminist who worked tirelessly for the emancipation of Muslim women.
 
 Her book 'Sultana's Dream' is a rare feminist literature that imagined a utopia of an advanced scientifically developed society where gender roles were reversed; men were confined and women ruled the world. Such an extreme thought experiment was reflective of the condition of women in the era in which she lived. 
 
@@ -72,6 +74,6 @@ Rokeya perceived that men with their physical superiority have made women subser
 
 In one of her writings, Rokeya gave a clarion call to the women to rise and take their rights wherein she stated that "I know that it is not easy to rise at the beginning. I know too that society will create a huge fuss about it. I know that Indian Muslims will be inclined to "slaughter‟ us (i.e., condemn us to capital punishment) and Hindus will drag us to the funeral pyre or a fire of eternal affliction. (I also know that our sisters have no intention to rise.) But rise we must for the sake of society."
 
-In her various writings, she draws the comparison of both Muslim and Hindu women as to how they have been both subjugated by the patriarchy. In one of her books 'Nari Puja,' she depicts vividly the nature in which the purdah system has plagued and subjugated the women from both ( Hindu and Muslim) religious communities for centuries and how men have treated them like animals and sometimes worse than animals. She asserted the rights of women and wanted men and women to stand side by side in both material and spiritual spheres of life.
+In her various writings, she draws the comparison of both Muslim and Hindu women as to how they have been both subjugated by the patriarchy. In one of her books 'Nari Puja,' she depicts vividly the nature in which the purdah system has plagued and subjugated the women from both (Hindu and Muslim) religious communities for centuries and how men have treated them like animals and sometimes worse than animals. She asserted the rights of women and wanted men and women to stand side by side in both material and spiritual spheres of life.
 
 Begum Rokeya died on December 9, 1932. Her life was itself her message and although she never focussed on defining herself within an ideological spectrum, most of her life struggles were indeed integral aspects of the liberal tradition. Her commitment to uphold equal rights for men and women, her unwavering resolve to focus on economic independence of women and her use of civil society action as a tool for change, are all liberal values. The lives of women like Begum Rokeya need to be explored more in order to understand the socio-historical context in which liberal values shaped the progress of Indian society. Their focus towards establishing equality as well as dignity of the individual regardless of caste, creed, gender or any other similar consideration, are important lessons to recall and to emulate in light of the liberal struggle for freedom and opportunity.
