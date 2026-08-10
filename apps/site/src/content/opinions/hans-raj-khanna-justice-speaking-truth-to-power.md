@@ -1,66 +1,69 @@
 ---
-id: "hans-raj-khanna-justice-speaking-truth-to-power"
-title: "Justice H.R. Khanna and the Art of Speaking Truth to Power"
-pubDate: "2021-02-25T07:03:44Z"
-themes:
-  - "civil-liberties"
-  - "democracy"
-  - "liberalism"
-  - "rule-of-law"
-language: "en"
+id: hans-raj-khanna-justice-speaking-truth-to-power
+title: Justice H.R. Khanna and the Art of Speaking Truth to Power
+pubDate: 2021-02-25T07:03:44Z
+themes: 
+- civil-liberties
+- democracy
+- liberalism
+- rule-of-law
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/hans-raj-khanna-justice-speaking-truth-to-power.webp"
+author_name: Editorial Team
+hero_image: /opinions/covers/hans-raj-khanna-justice-speaking-truth-to-power.webp
 author: neethika-manoj
-subject: "hans-raj-khanna"
-thinker_mentions:
-  - thinker: hans-raj-khanna
-    role: subject
-    reasoning: The essay is a full-length profile of Justice H.R. Khanna focusing on his landmark dissent in the Habeas Corpus case during the Emergency, his commitment to natural rights theory, and the personal cost of that dissent.
-    evidence: []
-    key_passages:
-      - quote: Hans Raj Khanna was born in 1912, in Amritsar, Punjab
-        what_it_shows: establishes biographical foundation of his origins and legal formation
-      - quote: Justice H. R. Khanna was the lone dissenting voice to this opinion
-        what_it_shows: captures the defining act of his career — standing alone against four senior judges in the Habeas Corpus case
-      - quote: A dissent in a court of last resort to use his words, is an appeal to the brooding spirit of the law to the intelligence of a future day
-        what_it_shows: "Khanna's own articulation of why dissent matters, even when isolated and professionally costly"
-  - thinker: indira-gandhi
-    role: mention
-    reasoning: "Indira Gandhi's Emergency and the Janata Party's offer to Khanna to head the inquiry commission against it are the political context of Khanna's later career, with his refusal of the commission role demonstrating his principled impartiality."
-    evidence:
-      - quote: once Former Prime Minister Mrs. Indira Gandhi lost the election of 1977, the newly victorious Janata Party offered him the position of the Head of the Commission of Inquiry against the illegal imposition of the Emergency
-        context: "Indira Gandhi's Emergency as the context for the Janata Party's offer, which Khanna declined to preserve his impartiality"
-    key_passages: []
+subject: hans-raj-khanna
+thinker_mentions: 
+- thinker: hans-raj-khanna
+  role: subject
+  reasoning: The essay is a full-length profile of Justice H.R. Khanna focusing on his landmark dissent in the Habeas Corpus case during the Emergency, his commitment to natural rights theory, and the personal cost of that dissent.
+  evidence: []
+  key_passages: 
+  - quote: Hans Raj Khanna was born in 1912, in Amritsar, Punjab
+    what_it_shows: establishes biographical foundation of his origins and legal formation
+  - quote: Justice H. R. Khanna was the lone dissenting voice to this opinion
+    what_it_shows: captures the defining act of his career, standing alone against four senior judges in the Habeas Corpus case
+  - quote: A dissent in a court of last resort to use his words, is an appeal to the brooding spirit of the law to the intelligence of a future day
+    what_it_shows: Khanna's own articulation of why dissent matters, even when isolated and professionally costly
+- thinker: indira-gandhi
+  role: mention
+  reasoning: Indira Gandhi's Emergency and the Janata Party's offer to Khanna to head the inquiry commission against it are the political context of Khanna's later career, with his refusal of the commission role demonstrating his principled impartiality.
+  evidence: 
+  - quote: once Former Prime Minister Mrs. Indira Gandhi lost the election of 1977, the newly victorious Janata Party offered him the position of the Head of the Commission of Inquiry against the illegal imposition of the Emergency
+    context: Indira Gandhi's Emergency as the context for the Janata Party's offer, which Khanna declined to preserve his impartiality
+  key_passages: []
 related_thinkers: 
-  - indira-gandhi
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "emergency"
-  - "judicial-dissent"
-key_concepts:
-  - "habeas-corpus-case"
-  - "article-21"
-  - "right-to-life"
-  - "misa"
-  - "emergency-1975"
+- indira-gandhi
+source_channel: editorial-opinions
+proposed_themes: 
+- emergency
+- judicial-dissent
+key_concepts: 
+- habeas-corpus-case
+- article-21
+- right-to-life
+- misa
+- emergency-1975
 pull_quote: Four of the judges of the Constitution Bench had agreed to this stance and Justice H. R. Khanna was the lone dissenting voice to this opinion.
 stance: profiles
 kind: profile
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
 
-_“The smallest minority on earth is the individual. Those who deny individual rights cannot claim to be defenders of minorities.”  ― Ayn Rand_“What is the cost of one’s voice – one man’s dissent?” – The life of Hans Raj Khanna depicts utmost courage and the hefty price paid for such courage. 
+_“The smallest minority on earth is the individual. Those who deny individual rights cannot claim to be defenders of minorities.” ― Ayn Rand_
+
+“What is the cost of one’s voice, one man’s dissent?”, The life of Hans Raj Khanna depicts utmost courage and the hefty price paid for such courage. 
 
 Hans Raj Khanna was born in 1912, in Amritsar, Punjab. He was the son of lawyer and freedom fighter Sarb Dyal Khanna who later took charge as the Mayor of Amritsar. He was an alumnus of the DAV High School, Amritsar, the Hindu College, Amritsar and Khalsa College, Amritsar. Once he completed his Bachelor’s degree in Arts, he went to the Law College, Lahore and pursued his legal education. Post his graduation, he practised law (primarily civil) in Amritsar and grew & maintained his practise until his elevation to the bench in 1952. In September 1971, he was appointed as a Judge at the Supreme Court of India.
 
-Apart from tracing his academic and professional achievements, his contribution to the protection and growth of the **Right to Life and Freedom **is of grave importance, especially in the contemporary national as well as global context. The Emergency period of 1975 – 1977 is one of the darkest eras of Indian democracy, if not the most. A large number of people had been detained without trial under the regressive Maintenance of Internal Security Act. Several High Courts had given relief to the detainees by accepting their Right to Habeas Corpus as stated in Article 21 of the Indian Constitution. This issue was debated upon in the case of the Additional District Magistrate of Jabalpur v. Shiv Kant Shukla, popularly known as the Habeas Corpus case, which came up for hearing in front of the Supreme Court in December 1975. 
+Apart from tracing his academic and professional achievements, his contribution to the protection and growth of the _Right to Life and Freedom_ is of grave importance, especially in the contemporary national as well as global context. The Emergency period of 1975, 1977 is one of the darkest eras of Indian democracy, if not the most. A large number of people had been detained without trial under the regressive Maintenance of Internal Security Act. Several High Courts had given relief to the detainees by accepting their Right to Habeas Corpus as stated in Article 21 of the Indian Constitution. This issue was debated upon in the case of the Additional District Magistrate of Jabalpur v. Shiv Kant Shukla, popularly known as the Habeas Corpus case, which came up for hearing in front of the Supreme Court in December 1975. 
 
-Considering the precarious nature of this subject, five of the most senior judges of the Supreme Court of India were appointed to hear this matter. Avoiding technical and legal jargon and flowery wordplay, the crux of the matter to be debated upon was quite simple – **Whether the citizens of India have the right to approach the court for the enforcement of their Fundamental Rights during the declaration of Emergency? **The Fundamental Right in question was primarily the Right to Life secured under Article 21 of the Indian Constitution. 
+Considering the precarious nature of this subject, five of the most senior judges of the Supreme Court of India were appointed to hear this matter. Avoiding technical and legal jargon and flowery wordplay, the crux of the matter to be debated upon was quite simple, _Whether the citizens of India have the right to approach the court for the enforcement of their Fundamental Rights during the declaration of Emergency?_
+The Fundamental Right in question was primarily the Right to Life secured under Article 21 of the Indian Constitution. 
 
 To a lay man or any man with a reasonable moral compass, it would appear that the Right to Life or his mere existence in safety and freedom should be given most importance. However, au contraire, the learned judges of the Supreme Court had an opposing viewpoint and went about declaring a Judgment to the effect that the Fundamental Rights and their enforcement stand suspended during the time of Emergency. Four of the judges of the Constitution Bench had agreed to this stance and Justice H. R. Khanna was the lone dissenting voice to this opinion. 
 
@@ -76,17 +79,15 @@ _“__It is urged that article 21 is the sole repository of one's right to life 
 
 Contrary of the pleadings of the Attorney General, Justice H. R. Khanna was of the opinion that Article 21 should not be the sole guardian or enforcer for rights of an individual. He was a scholar of the school of natural rights and went on, in the judgment, to elaborate upon how the rights of an individual exist in a free world. In a vacuum, devoid of law and state mechanism, the individuals are still entitled to basic natural rights to live in peace and prosperity. Therefore, he was of the view that the Right to Life existed freely in a civil society and was not an additional benefit or safeguard provided by the Constitution or the State. The Constitution merely upholds the already existing rights and provides a thorough framework to ensure each individual access to his freedoms and rights in case of deprivation. 
 
-The Constitution of India does not explicitly mention the term Natural Rights. The bench recognised that the Fundamental Rights ensured in the Constitution is nothing but the natural rights. The following excerpt was taken from the conclusions made by Justice H. R. Khanna– 
+The Constitution of India does not explicitly mention the term Natural Rights. The bench recognised that the Fundamental Rights ensured in the Constitution is nothing but the natural rights. The following excerpt was taken from the conclusions made by Justice H. R. Khanna, (1) Article 21 cannot be considered to be the sole repository of the right to life and personal liberty. _
 
-_(1) Article 21 cannot be considered to be the sole repository of the right to life and personal liberty. _
+(2) Even in the absence of article 21 in the Constitution, the State has got no power to deprive a person of his life or personal liberty without the authority of law. The essential postulate and basic assumption of the rule of law in every civilised society.
 
-_(2) Even in the absence of article 21 in the Constitution, the State has got no power to deprive a person of his life or personal liberty without the authority of law. The essential postulate and basic assumption of the rule of law in every civilised society._
+(3) According to law in force in India before the coming into force of the Constitution, no one could be deprived of his life or personal liberty without the authority of law. Such a law continued to be in force after the coming into force of the Constitution in view of article 372 of the Constitution.
 
-_(3) According to law in force in India before the coming into force of the Constitution, no one could be deprived of his life or personal liberty without the authority of law. Such a law continued to be in force after the coming into force of the Constitution in view of article 372 of the Constitution._
+(4) According to article 21, no one can be deprived or his life or personal liberty except in accordance with procedure established by law. Procedure for the exercise of power of depriving a person of his life or personal liberty necessarily postulates the existence of the substantive power. Then article 21 is in force, law relating to deprivation of life and personal liberty must provide both for the substantive power as well as the procedure for the exercise of such power. When right to move any Court for enforcement of right guaranteed by article 21 is suspended, it would have the effect of dispensing with the necessity of prescribing procedure for the exercise of substantive power to deprive a person of his life or personal liberty, it cannot have the effect of permitting an authority to deprive a person of his life or personal liberty without the existence of such substantive power.”
 
-_(6) According to article 21, no one can be deprived or his life or personal liberty except in accordance with procedure established by law. Procedure for the exercise of power of depriving a person of his life or personal liberty necessarily postulates the existence of the substantive power. Then article 21 is in force, law relating to deprivation of life and personal liberty must provide both for the substantive power as well as the procedure for the exercise of such power. When right to move any Court for enforcement of right guaranteed by article 21 is suspended, it would have the effect of dispensing with the necessity of prescribing procedure for the exercise of substantive power to deprive a person of his life or personal liberty, it cannot have the effect of permitting an authority to deprive a person of his life or personal liberty without the existence of such substantive power.__”_
-
-The conclusion emphasizes that the Right to Life and Liberty is the forerunner to the Constitution in itself. The Constitutional provisions are mere safeguards and facilitators for these existing natural rights and thus, the state mechanism cannot use the same to deprive man of these basic natural rights – as one does not have the authority to take away something that was not his to give in the first place. 
+The conclusion emphasizes that the Right to Life and Liberty is the forerunner to the Constitution in itself. The Constitutional provisions are mere safeguards and facilitators for these existing natural rights and thus, the state mechanism cannot use the same to deprive man of these basic natural rights, as one does not have the authority to take away something that was not his to give in the first place. 
 
 The Constitution should not take away the rights of man and his redressal mechanisms to regain his rights. The due process of law is not something to be taken lightly. The law does provide for Preventive Detention in matters of internal security and for the prevention of unlawful activities. However, preventive detention can also be challenged in a court of law as there exists provisions for the same. The due process of law exists to make sure that there is no misuse of powers and Justice H. R. Khanna was adamant on his stand that the majority opinion stifles the Right to Life and Freedom of man and furthermore disregards the due process of law. He believed their interpretation to be flawed and detrimental to liberal values. And thus, even today, his dissenting opinion is an important text in the judicial history of India and as well as in the context of the development of individual liberty in India.
 
