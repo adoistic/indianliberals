@@ -1,51 +1,53 @@
 ---
-id: "sharad-joshi-and-the-crisis-of-trade-unions"
-title: "Sharad Joshi and the Crisis of Trade Unions"
-pubDate: "2021-05-18T11:45:40Z"
-themes:
-  - "economic-policy"
-  - "liberalism"
-  - "political-economy"
-language: "en"
+id: sharad-joshi-and-the-crisis-of-trade-unions
+title: Sharad Joshi and the Crisis of Trade Unions
+pubDate: 2021-05-18T11:45:40Z
+themes: 
+- economic-policy
+- liberalism
+- political-economy
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/sharad-joshi-and-the-crisis-of-trade-unions.webp"
+author_name: Editorial Team
+hero_image: /opinions/covers/sharad-joshi-and-the-crisis-of-trade-unions.webp
 author: vikrant-pande
-subject: "sharad-joshi"
-thinker_mentions:
-  - thinker: sharad-joshi
-    role: subject
-    reasoning: "The article is a thematic profile of Sharad Joshi's critique of trade unionism in India, his political challenge to government and labour movements, and his anecdote about the postal department."
-    evidence: []
-    key_passages:
-      - quote: In 1996, the government employees of the Department of Post went on one of their routine strikes and this irked Sharad Joshi so much that he made an interesting offer to the government.
-        what_it_shows: "illustrates Joshi's provocative and practical approach to labour policy"
-      - quote: According to him, trade unionism in India had taken a path far different from their predecessors in Europe.
-        what_it_shows: "frames Joshi's core argument about the degeneration of Indian trade unionism"
-      - quote: Sharad Joshi acknowledged the higher ideals and causes for which these early unions fought.
-        what_it_shows: "shows Joshi's nuanced historical understanding before developing his critique"
+subject: sharad-joshi
+thinker_mentions: 
+- thinker: sharad-joshi
+  role: subject
+  reasoning: The article is a thematic profile of Sharad Joshi's critique of trade unionism in India, his political challenge to government and labour movements, and his anecdote about the postal department.
+  evidence: []
+  key_passages: 
+  - quote: In 1996, the government employees of the Department of Post went on one of their routine strikes and this irked Sharad Joshi so much that he made an interesting offer to the government.
+    what_it_shows: illustrates Joshi's provocative and practical approach to labour policy
+  - quote: According to him, trade unionism in India had taken a path far different from their predecessors in Europe.
+    what_it_shows: frames Joshi's core argument about the degeneration of Indian trade unionism
+  - quote: Sharad Joshi acknowledged the higher ideals and causes for which these early unions fought.
+    what_it_shows: shows Joshi's nuanced historical understanding before developing his critique
 related_thinkers: []
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "farmer-movement"
-  - "trade-unions"
-key_concepts:
-  - "trade-unionism"
-  - "shetkari-sanghatana"
-  - "labour-movement"
-  - "strikes"
-  - "public-sector-inefficiency"
+source_channel: editorial-opinions
+proposed_themes: 
+- farmer-movement
+- trade-unions
+key_concepts: 
+- trade-unionism
+- shetkari-sanghatana
+- labour-movement
+- strikes
+- public-sector-inefficiency
 pull_quote: Sharad Joshi addressed his criticism against the government as well as the then labour movements in the country.
 stance: analyzes
 kind: profile
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
 
-_Sharad Joshi addressed his criticism against the government as well as the then labour movements in the country. According to him, trade unionism in India had taken a path far different from their predecessors in Europe.  (Image Credit : The Times of India) _There's no better or succinct way to introduce Sharad Joshi than by narrating an interesting anecdote that he shared in his book [_Khulya Vyavasthekade Khulya Manane_](https://indianliberals.in/content/khulya-vayvasthekade-khulya-manane/)_._ It gives a glimpse of his politics and personality. In 1996, the government employees of the Department of Post went on one of their routine strikes and this irked Sharad Joshi so much that he made an interesting offer to the government. He proposed that the government should let him run the department of Post. He challenged that he would not only employ just half of the existing number of workers but he would also give them only half of the current remuneration and still ensure the required level of efficiency to distribute all postcards from any major city in India to another within 24 hours. His challenge to the government may seem a bit foolhardy today. But the fact remains that at that time it took almost five days for a postal delivery to take place from one major city to another. We can not even fathom the unending delays for a letter or parcel to reach the remotest corners of the country.
+_Sharad Joshi addressed his criticism against the government as well as the then labour movements in the country. According to him, trade unionism in India had taken a path far different from their predecessors in Europe.  (Image Credit : The Times of India) There's no better or succinct way to introduce Sharad Joshi than by narrating an interesting anecdote that he shared in his book [_Khulya Vyavasthekade Khulya Manane_](https://indianliberals.in/content/khulya-vayvasthekade-khulya-manane/)_.
+
+It gives a glimpse of his politics and personality. In 1996, the government employees of the Department of Post went on one of their routine strikes and this irked Sharad Joshi so much that he made an interesting offer to the government. He proposed that the government should let him run the department of Post. He challenged that he would not only employ just half of the existing number of workers but he would also give them only half of the current remuneration and still ensure the required level of efficiency to distribute all postcards from any major city in India to another within 24 hours. His challenge to the government may seem a bit foolhardy today. But the fact remains that at that time it took almost five days for a postal delivery to take place from one major city to another. We can not even fathom the unending delays for a letter or parcel to reach the remotest corners of the country.
 
 Sharad Joshi addressed his criticism against the government as well as the then labour movements in the country. According to him, trade unionism in India had taken a path far different from their predecessors in Europe. The trade unions in nineteenth-century Europe emerged as a response to the nascent industrialization. The workers used strikes as a potent weapon to organize themselves and have their collective voice heard. These ‘have nots’ had no other option but to use such techniques. One must not forget that unlike today the working class of that time had very little role to play in political decision making. The franchise was limited and it often excluded the poor and the illiterate. The instrument of the strike was not easy to use. The workers would lose their daily wages and it would render them vulnerable to joblessness and dire hunger. The state would look at their strikes as a law-and-order problem and the police crackdowns used to be unbearable. Even if the state spared their lives, there was no guarantee that the goons hired by the owner of the workplace would be equally generous. The workers of the nineteenth century shed their blood and even made the ultimate sacrifice for basic economic rights.
 
@@ -57,7 +59,7 @@ The union leaders exploited such opportunities to advance their unrealistic dema
 
 If the economic reforms exposed the Indian capitalists to outside competition, they also reduced the vulnerability of the capitalist vis-à-vis the union leaders. After seeing the approaching liberalization of the economy, the industrialists turned more or less immune to the blackmailing of these trade unions. Therefore, upon hearing the news of the textile workers in Mumbai going on strike under the leadership of Dr. Datta Samant, far from being under pressure, the textile mill owners and their managers were ecstatic and thus unwavering!
 
-Joshi argued that by the 1980s the tide had turned against the workers and in favour of the industrialists. Now the blackmailed capitalists of yesteryears weren’t entirely vulnerable as they had multiple options at their disposal to maneuver against the calls for a strike. They could take strict measures in the face of reduced productivity. These measures come in different forms – right from reducing the number of workers by firing inefficient and underperforming workers to hiring workers on a contractual basis. They could also terminate all operations if the business showed no promise or if it ran into the irreparable loss. As stringent as these measures may seem they were necessary, after all the industrialists didn’t have the option of printing more money to fulfil the whims and fancies of the workers on strike.
+Joshi argued that by the 1980s the tide had turned against the workers and in favour of the industrialists. Now the blackmailed capitalists of yesteryears weren’t entirely vulnerable as they had multiple options at their disposal to maneuver against the calls for a strike. They could take strict measures in the face of reduced productivity. These measures come in different forms, right from reducing the number of workers by firing inefficient and underperforming workers to hiring workers on a contractual basis. They could also terminate all operations if the business showed no promise or if it ran into the irreparable loss. As stringent as these measures may seem they were necessary, after all the industrialists didn’t have the option of printing more money to fulfil the whims and fancies of the workers on strike.
 
 Unfortunately, these changes remained limited to the private sector. The government servants remained no less protected than the indigenous capitalists during the days of import substitution and socialism. The government jobs became prestigious due to the unreasonable amount of protection that the government granted to its workers. The government jobs became so lucrative that even doctors and engineers who could practice privately started contemplating and considering government positions. The protection provided to the government jobs created a political economy where the caste groups started demanding reserved positions in the recruitment to be able to enjoy the spoils of the spoils system called the government bureaucracy. Thus, the political demands of castes for quotas in government jobs can be traced back to the guarantee of security and economic benefits attached to these jobs.   
 
