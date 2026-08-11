@@ -68,6 +68,7 @@ period_window: post-reform
 geographic_scope: 
   scale: national
   places: []
+author: vikrant-pande
 ---
 
 India, the world’s largest democracy, recently concluded its general elections. The date of the election results 4th June 2024 coincided with the date of establishment of the Swatantra Party. The formations that emerged from this largest electoral exercise in the world have more in common with the Swatantra Party than just the date. One would correctly wonder what could be so similar between a recently concluded election and a political party that was founded sixty-five years ago. The Swatantra Party contributed immensely to Indian political and electoral thinking. Much of this invaluable treasure of ideas has remained hidden in the old Swatantra documents and souvenirs waiting for researchers, young and old, willing to explore them. This article discusses the timeless wisdom of the Swatantrites, especially for the opposition parties faced with a formidable ruling party or a ruling coalition. 
