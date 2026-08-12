@@ -53,7 +53,8 @@ geographic_scope:
   scale: national
   places: 
   - maharashtra
-author: Avanti Lele
+translation_status: original
+author: Avanti lele 
 ---
 
 _Bal Gangadhar Tilak was well known as an extremist and revolutionary. By limiting him to these terms, historians misjudged him with a bias towards Anglo-saxan supremacy and left different facets of Tilak unexplored._
