@@ -1,47 +1,47 @@
 ---
-id: "kanuparti-varalakshmamma-feminist-writer-social-activistwoman-doctor"
+id: kanuparti-varalakshmamma-feminist-writer-social-activistwoman-doctor
 title: "Kanuparti Varalakshmamma: A Feminist Writer And Social Activist"
-pubDate: "2023-03-15T15:30:34Z"
-themes:
-  - "social-reform"
-language: "en"
+pubDate: 2023-03-15T15:30:34Z
+themes: 
+- social-reform
+language: en
 needs_review: true
 draft: false
-author_name: "Editorial Team"
-hero_image: "/opinions/covers/kanuparti-varalakshmamma-feminist-writer-social-activistwoman-doctor.webp"
-subject: "kanuparti-varalakshmamma"
-thinker_mentions:
-  - thinker: kanuparti-varalakshmamma
-    role: subject
-    reasoning: "The article is a full profile of Kanuparti Varalakshmamma, describing her literary works, social activism, and contributions to the women's movement in Telugu society."
-    evidence: []
-    key_passages:
-      - quote: "Kanuparti Varalakshmamma was a prominent Telugu writer and social worker who contributed to the women's movement during the Indian freedom struggle."
-        what_it_shows: frames her dual role as writer and activist
-      - quote: Kanuparti Varalakshmamma was a pioneer of a literary process called Lekha Sahityam.
-        what_it_shows: highlights her innovation of a distinctive literary form
-      - quote: "She established Stri Hitaishini Mandali in Bapatla, an organisation for women's welfare."
-        what_it_shows: demonstrates her institution-building for women beyond writing
+author_name: Editorial Team 
+hero_image: /opinions/covers/kanuparti-varalakshmamma-feminist-writer-social-activistwoman-doctor.webp
+subject: kanuparti-varalakshmamma
+thinker_mentions: 
+- thinker: kanuparti-varalakshmamma
+  role: subject
+  reasoning: The article is a full profile of Kanuparti Varalakshmamma, describing her literary works, social activism, and contributions to the women's movement in Telugu society.
+  evidence: []
+  key_passages: 
+  - quote: Kanuparti Varalakshmamma was a prominent Telugu writer and social worker who contributed to the women's movement during the Indian freedom struggle.
+    what_it_shows: frames her dual role as writer and activist
+  - quote: Kanuparti Varalakshmamma was a pioneer of a literary process called Lekha Sahityam.
+    what_it_shows: highlights her innovation of a distinctive literary form
+  - quote: She established Stri Hitaishini Mandali in Bapatla, an organisation for women's welfare.
+    what_it_shows: demonstrates her institution-building for women beyond writing
 related_thinkers: []
-source_channel: "editorial-opinions"
-proposed_themes:
-  - "feminism"
-  - "telugu-literature"
-  - "women-rights"
-key_concepts:
-  - "lekha-sahityam"
-  - "sarada-lekhalu"
-  - "stri-hitaishini-mandali"
-  - "sarada-act"
-  - "child-marriage"
+source_channel: editorial-opinions
+proposed_themes: 
+- feminism
+- telugu-literature
+- women-rights
+key_concepts: 
+- lekha-sahityam
+- sarada-lekhalu
+- stri-hitaishini-mandali
+- sarada-act
+- child-marriage
 pull_quote: Through these letters, she promoted awareness, evoked debates about many social evils and problems faced by women, and tried to educate women about their rights.
 stance: profiles
 kind: profile
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: regional
-  places:
-    - "andhra-pradesh"
+  places: 
+  - andhra-pradesh
 ---
 
 The following article revisits Kanuparti Varalkashmamma’s literary contributions to social change and improving women’s lives.
