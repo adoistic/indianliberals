@@ -1,34 +1,34 @@
 ---
-id: "auctioning-import-licenses-b-r-shenoy"
-title: "Auctioning Import Licenses - B.R. Shenoy"
-pubDate: "2024-10-07T16:12:28Z"
-themes:
-  - "economic-policy"
-  - "economic-reform"
-  - "public-finance"
-language: "en"
+id: auctioning-import-licenses-b-r-shenoy
+title: Auctioning Import Licenses - B.R. Shenoy
+pubDate: 2024-10-07T16:12:28Z
+themes: 
+- economic-policy
+- economic-reform
+- public-finance
+language: en
 needs_review: true
 draft: false
-author: "b-r-shenoy"
-hero_image: "/thinkers/photos/b-r-shenoy.jpg"
-source_channel: "indian-libertarian"
-proposed_themes:
-  - "anti-corruption"
-  - "import-licensing"
-key_concepts:
-  - "import-licensing"
-  - "license-raj"
-  - "auction-mechanism"
-  - "rent-seeking"
-  - "established-importers"
+author: b-r-shenoy
+hero_image: /thinkers/photos/b-r-shenoy.jpg
+source_channel: indian-libertarian
+proposed_themes: 
+- anti-corruption
+- import-licensing
+key_concepts: 
+- import-licensing
+- license-raj
+- auction-mechanism
+- rent-seeking
+- established-importers
 pull_quote: You cannot get rich quicker today than by getting import licenses issued in your favor.
 stance: argues-for
 kind: periodical-article
 period_window: nehruvian-era
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "pakistan"
+  places: 
+  - pakistan
 ---
 
 _Produced below is an excerpt from an essay published in The Indian Libertarian, January 1959, titled "Auctioning Import Licenses" by B.R. Shenoy. It explores the inefficiencies of India's import licensing system and advocates for a shift towards auctioning these licenses to generate government revenue and curb corruption._
@@ -39,7 +39,7 @@ Indian imports on private account averaged per year during the past two years Rs
 
 This device is vastly better than the extension of state trading to imports, which has been suggested by some. State trading here would be avoided considering the scarcity of personnel with the necessary talent, knowledge, experience, and, above all, integrity. Auctioning will bring to the national exchequer the cream of profits, while leaving undisturbed the existing private enterprise machinery of import trade.
 
-These windfall receipts would represent 60-80% of the annual average of the tax revenues of the Centre for the past two years. They may not cause any undue strain on the national economy. Insofar as the proceeds of the sales of the first category of licenses are concerned, it would amount to no more than a transfer to the national exchequer of the ill-merited earnings of the anti-social elements among the public and in the administration. If care is taken to ensure that monopolist purchases of the licenses do not take place—this may be done by inviting tenders for the licenses and ensuring wide distribution of the accepted tenders—it may not amount to any new burden on the consumers and the users of import goods, as the auction of the licenses would affect neither the effective demand nor the market supply of import goods.
+These windfall receipts would represent 60-80% of the annual average of the tax revenues of the Centre for the past two years. They may not cause any undue strain on the national economy. Insofar as the proceeds of the sales of the first category of licenses are concerned, it would amount to no more than a transfer to the national exchequer of the ill-merited earnings of the anti-social elements among the public and in the administration. If care is taken to ensure that monopolist purchases of the licenses do not take place, this may be done by inviting tenders for the licenses and ensuring wide distribution of the accepted tenders, it may not amount to any new burden on the consumers and the users of import goods, as the auction of the licenses would affect neither the effective demand nor the market supply of import goods.
 
 It would, however, put a stop to the concealed subsidies of the industrialists, as the cost of the import goods would now amount to not merely landed costs, as formerly, but landed costs plus the prices paid for the import licenses. But subsidization of industries should be done on a more rational basis than through the issue of import licenses; it should not be mixed up with the adoption of corrective measures for the balance of payments difficulties of the country​.
 
@@ -48,4 +48,3 @@ The crux of India's payments problem is, on the one hand, to bring about a shift
 The export promotion measures we have so far adopted, or have under active consideration, include relief from export duties, "draw-backs," rebates on customs and excise duties, and remission of sales tax on exports, rediscount of export bills at preferential rates, freight concession on Railways, supply of steel at concession rates for export production, wider coverage of insurance risks than hitherto, provision of certain administrative facilities to exports, and so on​.
 
 Read the complete text [here](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-jan1-1959.pdf). (Page I - Indian Libertarian Supplement)
-type=content&#038;p=8642). Needs editorial review._
