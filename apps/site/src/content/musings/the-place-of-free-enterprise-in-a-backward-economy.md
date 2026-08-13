@@ -1,49 +1,50 @@
 ---
-id: "the-place-of-free-enterprise-in-a-backward-economy"
-title: "The Place of Free Enterprise in a Backward Economy"
-pubDate: "2024-07-15T13:01:10Z"
-hero_image: "/musings/stock/economy-1.webp"
-themes:
-  - "economic-policy"
-  - "free-enterprise"
-  - "private-enterprise"
-  - "socialism"
-language: "en"
+id: the-place-of-free-enterprise-in-a-backward-economy
+title: The Place of Free Enterprise in a Backward Economy
+pubDate: 2024-07-15T13:01:10Z
+hero_image: /musings/stock/economy-1.webp
+themes: 
+- economic-policy
+- free-enterprise
+- private-enterprise
+- socialism
+language: en
 needs_review: true
 draft: false
-thinker_mentions:
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: "Nehru is cited as a democratic believer who preferred slow progress over risking individual independence, contrasted with his Finance Minister Krishnamachari who demanded sacrifice and regimentation, exposing the government's internal contradictions."
-    evidence:
-      - quote: Prime Minister Nehru, who is a great believer in democracy, said at the A.I.C.C. meeting in January last that he would prefer slow progress to risking individual independence for rapid progress.
-        context: "Nehru quoted to expose the contradiction between his democratic rhetoric and his government's economic regimentation"
-    key_passages: []
-  - thinker: t-t-krishnamachari
-    role: mention
-    reasoning: "T. T. Krishnamachari as Finance Minister is quoted for declaring that the Second Plan would demand sacrifice and regimentation, illustrating the government's statist economic agenda that the essay opposes."
-    evidence:
-      - quote: Shri T. T. Krishnamachari, the Finance Minister, has declared that the Second Plan would demand sacrifice and regimentation of our economy
-        context: "Krishnamachari's statement used as evidence of the government's explicitly regimented economic programme"
-    key_passages: []
+thinker_mentions: 
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Nehru is cited as a democratic believer who preferred slow progress over risking individual independence, contrasted with his Finance Minister Krishnamachari who demanded sacrifice and regimentation, exposing the government's internal contradictions.
+  evidence: 
+  - quote: Prime Minister Nehru, who is a great believer in democracy, said at the A.I.C.C. meeting in January last that he would prefer slow progress to risking individual independence for rapid progress.
+    context: Nehru quoted to expose the contradiction between his democratic rhetoric and his government's economic regimentation
+  key_passages: []
+- thinker: t-t-krishnamachari
+  role: mention
+  reasoning: T. T. Krishnamachari as Finance Minister is quoted for declaring that the Second Plan would demand sacrifice and regimentation, illustrating the government's statist economic agenda that the essay opposes.
+  evidence: 
+  - quote: Shri T. T. Krishnamachari, the Finance Minister, has declared that the Second Plan would demand sacrifice and regimentation of our economy
+    context: Krishnamachari's statement used as evidence of the government's explicitly regimented economic programme
+  key_passages: []
 related_thinkers: 
-  - jawaharlal-nehru
-  - t-t-krishnamachari
-source_channel: "forum-of-free-enterprise"
+- jawaharlal-nehru
+- t-t-krishnamachari
+source_channel: forum-of-free-enterprise
 proposed_themes: []
-key_concepts:
-  - "chambers-of-commerce"
-  - "socialist-state"
-  - "private-sector-discrimination"
-  - "second-plan"
-  - "nehruvian-socialism"
+key_concepts: 
+- chambers-of-commerce
+- socialist-state
+- private-sector-discrimination
+- second-plan
+- nehruvian-socialism
 pull_quote: Since the decision of the Government to establish a socialist economy in the country, this section has come in for quite an unnecessary measure of discrimination and has been discredited and discouraged at every stage.
 stance: argues-for
 kind: pamphlet-excerpt
 period_window: nehruvian-era
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
+author: dn-hosali
 ---
 
 _D. N. Hosali’s publication, "The Place of Free Enterprise in a Backward Economy," critiques the shift towards socialism in India. Hosali argues that socialism stifles the growth and efficiency of the private sector, which is crucial for developing backward economies. He contends that free enterprise is more effective in driving economic progress and ensuring freedom._
@@ -57,4 +58,3 @@ Where do all these statements lead us? The private sector needs as much planning
 This serious situation has arisen as a result of the adoption of the socialist economy by our Government. Our Government claim that their policy has been endorsed by the country; which means that the vast majority of the unthinking millions of the country have understood the implications of this policy and approve of it. On the other hand, there are thousands of thinking people in the country who are convinced that these policies will not only result in raising the standard of living, but may well create a totalitarian regime. But nevertheless the determination of our Government to press forward with their socialist plans seems to gather strength as time goes on, as though socialism is the only panacea for our economic ills, and the private sector represents all the anti-social evils in our body politic.
 
 Read the complete text [here](https://indianliberals.in/forum-of-free-enterprise/the-place-of-free-enterprise-in-a-backward-economy-by-dn-hosali.pdf).
-type=content&#038;p=8592). Needs editorial review._
