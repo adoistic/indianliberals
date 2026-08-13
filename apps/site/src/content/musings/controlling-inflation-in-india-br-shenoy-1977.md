@@ -1,44 +1,45 @@
 ---
-id: "controlling-inflation-in-india-br-shenoy-1977"
-title: "Controlling Inflation in India - BR Shenoy"
-pubDate: "2024-10-28T14:10:29Z"
-themes:
-  - "inflation"
-  - "monetary-policy"
-  - "public-finance"
-language: "en"
+id: controlling-inflation-in-india-br-shenoy-1977
+title: Controlling Inflation in India - BR Shenoy
+pubDate: 2024-10-28T14:10:29Z
+themes: 
+- inflation
+- monetary-policy
+- public-finance
+language: en
 needs_review: true
 draft: false
-author: "b-r-shenoy"
-hero_image: "/musings/covers/controlling-inflation-in-india-br-shenoy-1977.webp"
-thinker_mentions:
-  - thinker: jrd-tata
-    role: mention
-    reasoning: "JRD Tata is named alongside foreign economists as one of the respected voices calling for monetary restraint to control inflation, lending business-elite credibility to Shenoy's prescription."
-    evidence:
-      - quote: among our own business magnates, Mr. J. R. D. Tata.
-        context: "Tata is cited as a domestic authoritative voice supporting Shenoy's case for inflation control through fiscal discipline"
-    key_passages: []
+author: b-r-shenoy
+hero_image: /musings/covers/controlling-inflation-in-india-br-shenoy-1977.webp
+thinker_mentions: 
+- thinker: jrd-tata
+  role: mention
+  reasoning: JRD Tata is named alongside foreign economists as one of the respected voices calling for monetary restraint to control inflation, lending business-elite credibility to Shenoy's prescription.
+  evidence: 
+  - quote: among our own business magnates, Mr. J. R. D. Tata.
+    context: Tata is cited as a domestic authoritative voice supporting Shenoy's case for inflation control through fiscal discipline
+  key_passages: []
 related_thinkers: 
-  - jrd-tata
-source_channel: "so-musings"
-proposed_themes:
-  - "money-supply"
-key_concepts:
-  - "general-prices-index"
-  - "money-supply"
-  - "government-sector"
-  - "peoples-sector"
+- jrd-tata
+source_channel: so-musings
+proposed_themes: 
+- money-supply
+key_concepts: 
+- general-prices-index
+- money-supply
+- government-sector
+- peoples-sector
 pull_quote: If we may define inflation as an expansion of money which drives up commodity prices in general, inflation exists, incipient inflation apart, only when the General Prices Index rises.
 stance: analyzes
 kind: pamphlet-excerpt
 period_window: late-license-raj
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
+excerpt_of: The Basic Truth About Inflation
 ---
 
-_This musing is an excerpt from BR Shenoy’s essay “Controlling Inflation in India” published by the Forum of Free Enterprise in their booklet titled “The Basic Truth About Inflation”. The essay focuses on the resolution of separation of official claims and market-based observations. The article emphasizes the strategies that needed to be adopted in controlling inflation through the review of how the trends started taking place.   _
+_This musing is an excerpt from BR Shenoy’s essay “Controlling Inflation in India” published by the Forum of Free Enterprise in their booklet titled “The Basic Truth About Inflation”. The essay focuses on the resolution of separation of official claims and market-based observations. The article emphasizes the strategies that needed to be adopted in controlling inflation through the review of how the trends started taking place._
 
 If we may define inflation as an expansion of money which drives up commodity prices in general, inflation exists, incipient inflation apart, only when the General Prices Index rises. This index is both an indicator and measure of inflation.
 
@@ -52,13 +53,12 @@ To locate the origins of inflation, we may divide the economy into two parts: th
 
 It is different with the government sector. Since independence, as in all inflation-ridden countries, Government’s overall disbursements in India have exceeded the sum of taxes, loans, and other receipts of Government, except for 1950-51 and 1951-52, when we had nominal budget surpluses. The excess disbursements were all covered by printing money or, which is the same thing, by creating Reserve Bank credit, the only ways of financing overall budget deficits.
 
-When, in due course, a part of the moneys created to cover budget deficits—the primary expansion of money—reaches the banks and augments their cash holdings (reserves), the banks expand their credit—i.e., loans, overdrafts, advances, and discounts—and a secondary expansion of money ensues.
+When, in due course, a part of the moneys created to cover budget deficits, the primary expansion of money, reaches the banks and augments their cash holdings (reserves), the banks expand their credit, i.e., loans, overdrafts, advances, and discounts, and a secondary expansion of money ensues.
 
-As in under-developed countries generally, we have here the origins of inflation in India—budget deficits and the consequential secondary expansion of bank credit.
+As in under-developed countries generally, we have here the origins of inflation in India, budget deficits and the consequential secondary expansion of bank credit.
 
-Primarily as a result of this double process—due allowance being made for other factors (which we need not now dwell on) affecting money supply—money supply in India multiplied 6.5 times, from Rs. 1,955 crores in 1954-55, when the current phase of inflation began, to Rs. 12,632 crores in 1975-76.
+Primarily as a result of this double process, due allowance being made for other factors (which we need not now dwell on) affecting money supply, money supply in India multiplied 6.5 times, from Rs. 1,955 crores in 1954-55, when the current phase of inflation began, to Rs. 12,632 crores in 1975-76.
 
 Not the whole of this colossal expansion of money (Rs. 10,727 crores) was, however, inflationary. During this period of monetary expansion, the Net National Product (NNP) more than doubled, from Rs. 10,483 crores in 1975-76 (at 1960-61 prices). This increase in NNP absorbed, roughly, a corresponding proportion of the expanding money supply. The rest of these moneys, the major part, to which no physical output corresponded, was inflationary, and drove prices up.
 
 Read the complete essay [here](https://indianliberals.in/forum-of-free-enterprise/the-basic-truth-about-inflation-prof-b-r-shenoy-april-14-1977.pdf).
-type=content&#038;p=8663). Needs editorial review._
