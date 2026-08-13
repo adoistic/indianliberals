@@ -1,54 +1,54 @@
 ---
-id: "tagore-s-humanistic-approach-to-nationalism-a-ranganathao"
-title: "Tagore's Humanistic Approach To Indian Nationalism"
-pubDate: "2024-10-14T12:12:10Z"
-themes:
-  - "liberalism"
-  - "social-reform"
-language: "en"
+id: tagore-s-humanistic-approach-to-nationalism-a-ranganathao
+title: Tagore's Humanistic Approach To Indian Nationalism
+pubDate: 2024-10-14T12:12:10Z
+themes: 
+- liberalism
+- social-reform
+language: en
 needs_review: true
 draft: false
-author: "a-ranganathan"
-hero_image: "/musings/covers/tagore-s-humanistic-approach-to-nationalism-a-ranganathao.webp"
-thinker_mentions:
-  - thinker: rabindranath-tagore
-    role: subject
-    reasoning: "The essay is a full-length exploration of Tagore's humanistic approach to nationalism, tracing his intellectual debts to Raja Ram Mohan Roy, his critique of European nationalism, and his vision of Indian civilisation as a force for universal renaissance."
-    evidence: []
-    key_passages:
-      - quote: "Tagore not only constituted a historic link in the long chain of India's cultural evolution, but was also the prophet of the Indian Renaissance heralded by Raja Ram Mohan Roy."
-        what_it_shows: situates Tagore within the lineage of the Indian Renaissance as both heir and prophet
-      - quote: "Tagore had drawn the vital distinction between the Western Nation and the spirit of the West in his celebrated lectures on \"Nationalism\""
-        what_it_shows: "identifies the conceptual pivot of Tagore's critique — separating Western civilisational values from Western political nationalism"
-      - quote: "Tagore commented: “Gandhi Mahatma is making various efforts to make Hindi the language for the entire country. These efforts, however thriving today, may one day as well peter out.”"
-        what_it_shows: "shows Tagore engaging critically with Gandhi's language policy, demonstrating his independent cultural perspective"
-  - thinker: raja-ram-mohan-roy
-    role: mention
-    reasoning: "Raja Ram Mohan Roy is cited as the originator of the Indian Renaissance that Tagore inherited and extended, with his birth described as 'also the birthday of modern India'."
-    evidence:
-      - quote: "The transition from medieval to modern India, which resulted in that great cultural awakening known as the 'Indian Renaissance', was effected by Raja Ram Mohan Roy."
-        context: Roy identified as the founding figure of the Indian Renaissance that Tagore built upon
-      - quote: The various forces which have contributed to the shaping of modern India originated in the mind of Raja Ram Mohan Roy.
-        context: author credits Roy with generating all the transformative ideas of modern India
-    key_passages: []
+author: a-ranganathan
+hero_image: /musings/covers/tagore-s-humanistic-approach-to-nationalism-a-ranganathao.webp
+thinker_mentions: 
+- thinker: rabindranath-tagore
+  role: subject
+  reasoning: The essay is a full-length exploration of Tagore's humanistic approach to nationalism, tracing his intellectual debts to Raja Ram Mohan Roy, his critique of European nationalism, and his vision of Indian civilisation as a force for universal renaissance.
+  evidence: []
+  key_passages: 
+  - quote: Tagore not only constituted a historic link in the long chain of India's cultural evolution, but was also the prophet of the Indian Renaissance heralded by Raja Ram Mohan Roy.
+    what_it_shows: situates Tagore within the lineage of the Indian Renaissance as both heir and prophet
+  - quote: Tagore had drawn the vital distinction between the Western Nation and the spirit of the West in his celebrated lectures on "Nationalism"
+    what_it_shows: identifies the conceptual pivot of Tagore's critique, separating Western civilisational values from Western political nationalism
+  - quote: "Tagore commented: “Gandhi Mahatma is making various efforts to make Hindi the language for the entire country. These efforts, however thriving today, may one day as well peter out.”"
+    what_it_shows: shows Tagore engaging critically with Gandhi's language policy, demonstrating his independent cultural perspective
+- thinker: raja-ram-mohan-roy
+  role: mention
+  reasoning: Raja Ram Mohan Roy is cited as the originator of the Indian Renaissance that Tagore inherited and extended, with his birth described as 'also the birthday of modern India'.
+  evidence: 
+  - quote: The transition from medieval to modern India, which resulted in that great cultural awakening known as the 'Indian Renaissance', was effected by Raja Ram Mohan Roy.
+    context: Roy identified as the founding figure of the Indian Renaissance that Tagore built upon
+  - quote: The various forces which have contributed to the shaping of modern India originated in the mind of Raja Ram Mohan Roy.
+    context: author credits Roy with generating all the transformative ideas of modern India
+  key_passages: []
 related_thinkers: 
-  - rabindranath-tagore
-  - raja-ram-mohan-roy
-source_channel: "indian-libertarian"
-proposed_themes:
-  - "indian-renaissance"
-  - "nationalism"
-key_concepts:
-  - "indian-renaissance"
-  - "tagore-nationalism"
-  - "humanistic-nationalism"
-  - "raja-ram-mohan-roy"
-  - "cultural-exchange"
-pull_quote: "Tagore's greatness lies in the fact that he infused the spirit of poetry into the Indian national movement."
+- rabindranath-tagore
+- raja-ram-mohan-roy
+source_channel: indian-libertarian
+proposed_themes: 
+- indian-renaissance
+- nationalism
+key_concepts: 
+- indian-renaissance
+- tagore-nationalism
+- humanistic-nationalism
+- raja-ram-mohan-roy
+- cultural-exchange
+pull_quote: Tagore's greatness lies in the fact that he infused the spirit of poetry into the Indian national movement.
 stance: analyzes
 kind: periodical-article
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
@@ -75,5 +75,4 @@ Viewed in the perspective of cultural history, the British impact on India resul
 
 As pointed out by Prof. Hans Kohn, the possibility of a deeper cultural intercourse between India and the liberal West can arise only if we no longer allow our thinking to be channeled into widely accepted stereotypes about nationalism and its relation to liberty. "The time has arrived," wrote C. E. Trevelyan in his "The Education of the People of India", "when the ancient debt of civilization which Europe owes to Asia is about to be repaid; and the sciences cradled in the East and brought into maturity in the West may now by a few efforts overspread the world." And this dispensation, which followed in the wake of Raja Ram Mohan Roy's letter to Lord Amherst, was not regarded by Tagore as an invasion of Western ideas, but as a step towards the intellectual dialogue of cultures and civilizations.
 
-Read the complete text and other articles from this issue of the Indian Libertarian **[here](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-nov15-1962.pdf)**.
-type=content&#038;p=8647). Needs editorial review._
+Read the complete text and other articles from this issue of the Indian Libertarian [here](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-nov15-1962.pdf).
