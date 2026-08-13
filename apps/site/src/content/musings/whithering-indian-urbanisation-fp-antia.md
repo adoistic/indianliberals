@@ -1,40 +1,40 @@
 ---
-id: "whithering-indian-urbanisation-fp-antia"
-title: "Whithering Indian Urbanisation? - FP Antia"
-pubDate: "2024-09-16T17:35:26Z"
-themes:
-  - "economic-development"
-  - "governance"
-language: "en"
+id: whithering-indian-urbanisation-fp-antia
+title: Whithering Indian Urbanisation? - FP Antia
+pubDate: 2024-09-16T17:35:26Z
+themes: 
+- economic-development
+- governance
+language: en
 needs_review: true
 draft: false
-author: "f-p-antia"
-hero_image: "/musings/covers/whithering-indian-urbanisation-fp-antia.webp"
-proposed_themes:
-  - "housing"
-  - "urban-planning"
-  - "urbanisation"
-key_concepts:
-  - "mega-cities"
-  - "regional-planning"
-  - "controlled-migration"
-  - "pucca-vs-kaccha"
-  - "housing-crisis"
+author: f-p-antia
+hero_image: /musings/covers/whithering-indian-urbanisation-fp-antia.webp
+proposed_themes: 
+- housing
+- urban-planning
+- urbanisation
+key_concepts: 
+- mega-cities
+- regional-planning
+- controlled-migration
+- pucca-vs-kaccha
+- housing-crisis
 pull_quote: The urbanisation process appears certainly to have run amuck in this country.
 stance: analyzes
 kind: lecture
 period_window: late-license-raj
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "chandigarh"
-    - "delhi"
-    - "maharashtra"
-    - "punjab"
-    - "west-bengal"
+  places: 
+  - chandigarh
+  - delhi
+  - maharashtra
+  - punjab
+  - west-bengal
 ---
 
-Produced below is an excerpt from an essay by FP Antia titled ‘Whither Indian Urbanisation?’ published by the Forum of Free Enterprise. The author is an eminent authority on transport and urban problems. This text is based on two lectures delivered in Chandigarh, under the auspices of the Department of Commerce & Business Management, Punjab University.
+_Produced below is an excerpt from an essay by FP Antia titled ‘Whither Indian Urbanisation?’ published by the Forum of Free Enterprise. The author is an eminent authority on transport and urban problems. This text is based on two lectures delivered in Chandigarh, under the auspices of the Department of Commerce & Business Management, Punjab University._
 
 Antia says that India's rapid urbanisation leads to overcrowded cities, inadequate housing, and strained infrastructure, especially in megacities like Bombay and Calcutta. He highlights that effective regional planning and controlled migration are essential for improving living conditions and managing urban growth.
 
@@ -53,4 +53,3 @@ What then is the solution? Controlling migration to urban areas is essential. Th
 Urban planning that integrates new industrial townships and prioritises a holistic approach to housing and infrastructure is key to addressing India's urban challenges. But beyond infrastructure, the ultimate test lies in the quality of life provided to urban dwellers, as urban sociologists and planners have repeatedly pointed out. A concerted effort to improve living standards in India's rapidly expanding urban centres is the need of the hour.
 
 Read the complete text [here](https://indianliberals.in/forum-of-free-enterprise/whither-indian-urbanisation-f-p-antia-1977.pdf).
-type=content&#038;p=8637). Needs editorial review._
