@@ -1,54 +1,55 @@
 ---
-id: "enduring-challenges-in-indian-public-administration-v-p-menon-1958"
-title: "Enduring Challenges in Indian Public Administration - V.P. Menon"
-pubDate: "2024-06-24T09:38:18Z"
-themes:
-  - "governance"
-  - "public-sector"
-language: "en"
+id: enduring-challenges-in-indian-public-administration-v-p-menon-1958
+title: Enduring Challenges in Indian Public Administration - V.P. Menon
+pubDate: 2024-06-24T09:38:18Z
+themes: 
+- governance
+- public-sector
+language: en
 needs_review: true
 draft: false
-author: "v-p-menon"
-hero_image: "/musings/stock/democracy-5.webp"
-thinker_mentions:
-  - thinker: sardar-patel
-    role: mention
-    reasoning: "Sardar Patel is identified as the minister under whom Menon served in the Ministry of States, establishing Patel's patronage as the political context for Menon's views on administration."
-    evidence:
-      - quote: Secretary to the Government of India in the Ministry of the States, under Sardar Patel.
-        context: "Menon's service under Patel is cited in the editorial introduction to frame his authority on administrative challenges"
-    key_passages: []
+author: v-p-menon
+hero_image: /musings/stock/democracy-5.webp
+thinker_mentions: 
+- thinker: sardar-patel
+  role: mention
+  reasoning: Sardar Patel is identified as the minister under whom Menon served in the Ministry of States, establishing Patel's patronage as the political context for Menon's views on administration.
+  evidence: 
+  - quote: Secretary to the Government of India in the Ministry of the States, under Sardar Patel.
+    context: Menon's service under Patel is cited in the editorial introduction to frame his authority on administrative challenges
+  key_passages: []
 related_thinkers: 
-  - sardar-patel
-source_channel: "so-musings"
-proposed_themes:
-  - "corruption"
-  - "decentralisation"
-  - "public-administration"
-key_concepts:
-  - "political-interference"
-  - "corruption"
-  - "decentralisation"
-  - "district-officer"
-  - "british-administration"
+- sardar-patel
+source_channel: so-musings
+proposed_themes: 
+- corruption
+- decentralisation
+- public-administration
+key_concepts: 
+- political-interference
+- corruption
+- decentralisation
+- district-officer
+- british-administration
 pull_quote: Sardar Patel was always at pains to impress on his party men not to interfere in the administration; but interference goes on, differences being only a matter of degree, in all the States.
 stance: analyzes
 kind: pamphlet-excerpt
 period_window: nehruvian-era
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
+excerpt_of: indian-administartion-v-p-menon-jun5-1958
 ---
 
-_The following excerpt has been taken from V.P. Menon's 'Indian Administration: Past and Present', published in June 1958 by the [Forum of Free Enterprise](https://indianliberals.in/periodicals/forum-of-free-enterprise/). The publication provides a comprehensive account of the Indian administration's origins, from the days of the East India Company, and its evolution until the Planning Era. Menon stresses the expansive nature of the services, the role played by viceroys and governor generals, the exponential increase in the number of officers, and the challenges faced by the Indian administration over a span of three centuries. You can read the unabridged text[here](https://indianliberals.in/forum-of-free-enterprise/indian-administartion-v-p-menon-jun5-1958.pdf)._
+_The following excerpt has been taken from V.P. Menon's 'Indian Administration: Past and Present', published in June 1958 by the [Forum of Free Enterprise](https://indianliberals.in/primary-works/indian-administartion-v-p-menon-jun5-1958/#read). The publication provides a comprehensive account of the Indian administration's origins, from the days of the East India Company, and its evolution until the Planning Era. Menon stresses the expansive nature of the services, the role played by viceroys and governor generals, the exponential increase in the number of officers, and the challenges faced by the Indian administration over a span of three centuries. You can read the unabridged text [here](https://indianliberals.in/forum-of-free-enterprise/indian-administartion-v-p-menon-jun5-1958.pdf)._
 
-_[Vappala Pangunni Menon](https://en.wikipedia.org/wiki/V._P._Menon) (30 September 1893 – 31 December 1965) was an Indian civil servant who served as Secretary to the Government of India in the Ministry of the States, under Sardar Patel._
+_[Vappala Pangunni Menon](https://en.wikipedia.org/wiki/V._P._Menon) (30 September 1893, 31 December 1965) was an Indian civil servant who served as Secretary to the Government of India in the Ministry of the States, under Sardar Patel._
 
-_The text highlighted in the musing remains highly relevant in today's India, reflecting enduring challenges within public service. _
+The text highlighted in the musing remains highly relevant in today's India, reflecting enduring challenges within public service.
 
-_Political interference in administration continues to undermine effective governance and demoralise public servants even today. Corruption runs rampant without any institutional responsibility for course correction, further keeping honest people away from the service and painting the entire machinery as ‘corrupt’. The perception of governors as political appointees rather than impartial overseers continues to impact their effectiveness. These are some of the problems underscored by Menon in the excerpt._
+Political interference in administration continues to undermine effective governance and demoralise public servants even today. Corruption runs rampant without any institutional responsibility for course correction, further keeping honest people away from the service and painting the entire machinery as ‘corrupt’. The perception of governors as political appointees rather than impartial overseers continues to impact their effectiveness. These are some of the problems underscored by Menon in the excerpt.
 
-_He concludes by emphasising the roots of Indian administration in the British era and the pressing need to overhaul the institution to make for a more decentralised system, one that does not overestimate the power of the Centre or fall prey to petty party politics. _
+He concludes by emphasising the roots of Indian administration in the British era and the pressing need to overhaul the institution to make for a more decentralised system, one that does not overestimate the power of the Centre or fall prey to petty party politics.
 
 **Political Interference in Administration**
 
@@ -73,4 +74,3 @@ The basis of the existing administrative machinery is still that which was left 
 The Collector, on whom all development activities converge, cannot be expected single-handed to carry out his responsibilities. There should be appropriate agencies created for particular development work, e.g., the Grow More Food campaign. Ours is a vast country and we cannot govern it from Delhi. The Centre must be strong but consistent with that there should be decentralisation at all levels. 
 
 These and other considerations lead me to the conclusion that we must appoint forthwith a high-powered Commission to examine and make recommendations for, reorganising the existing administrative structure, both at the Centre and in the provinces. Our task should be to lay down the foundations of a good administration which would be outside party politics and serve whatever party comes into power.
-type=content&#038;p=8562). Needs editorial review._
