@@ -60,15 +60,15 @@ When N. Dandekar argued for this aggressively defensive role of the Indian Navy,
 
 In his speech, Dandekar identified Pakistan and China as two hostile countries. He expected India to prepare to defend itself against these two either acting separately or jointly or simultaneously. This threat perception from the neighbours informed the Swatantraite's understanding of what the Indian Navy’s role should have been. He listed five simple principles that the Indian Navy on the east, in the Bay of Bengal and the Indian Ocean would have to perform. 
 
-- Keeping a strict and continuous watch on the entrances into the Bay of Bengal and the Indian Ocean.
+1. Keeping a strict and continuous watch on the entrances into the Bay of Bengal and the Indian Ocean.
 
-- In case of hostilities with China or Pakistan the navy should detect, hunt down and destroy any intruder coming into the Bay of Bengal.
+2. In case of hostilities with China or Pakistan the navy should detect, hunt down and destroy any intruder coming into the Bay of Bengal.
 
-- If the intruders entered India’s waters it was the job of the Indian Navy to defend the Andaman Islands.
+3. If the intruders entered India’s waters it was the job of the Indian Navy to defend the Andaman Islands.
 
-- If the enemy forces managed to go beyond these islands, the navy had to guard the eastern coast.
+4. If the enemy forces managed to go beyond these islands, the navy had to guard the eastern coast.
 
-- If the enemy was already present in the Bay of Bengal, the navy had to protect the commercial sea routes in the Bay of Bengal and Indian Ocean.
+5. If the enemy was already present in the Bay of Bengal, the navy had to protect the commercial sea routes in the Bay of Bengal and Indian Ocean.
 
 **Centrality of Aircraft Carriers in the Fleets**
 
