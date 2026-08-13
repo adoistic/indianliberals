@@ -1,41 +1,42 @@
 ---
-id: "a-blueprint-for-eradication-of-poverty-bp-godrej-1980"
-title: "A Blueprint for Eradication of Poverty - Dr B.P. Godrej"
-pubDate: "2024-10-21T15:22:35Z"
-themes:
-  - "economic-development"
-  - "economic-policy"
-  - "public-sector"
-language: "en"
+id: a-blueprint-for-eradication-of-poverty-bp-godrej-1980
+title: A Blueprint for Eradication of Poverty - Dr B.P. Godrej
+pubDate: 2024-10-21T15:22:35Z
+themes: 
+- economic-development
+- economic-policy
+- public-sector
+language: en
 needs_review: true
 draft: false
-author: "bp-godrej"
-hero_image: "/musings/covers/a-blueprint-for-eradication-of-poverty-bp-godrej-1980.webp"
-thinker_mentions:
-  - thinker: bernard-shaw
-    role: mention
-    reasoning: "Godrej invokes Shaw's warning about those who minister to poverty as an anchor for his argument that charitable welfare instincts must be tempered by economic realism."
-    evidence:
-      - quote: "Bernard Shaw's warning: \"Those who minister to poverty and disease are accomplices in the two worst of all crimes.\""
-        context: "Shaw's aphorism is cited to caution against treating poverty relief as an end in itself"
-    key_passages: []
+author: bp-godrej
+hero_image: /musings/covers/a-blueprint-for-eradication-of-poverty-bp-godrej-1980.webp
+thinker_mentions: 
+- thinker: bernard-shaw
+  role: mention
+  reasoning: Godrej invokes Shaw's warning about those who minister to poverty as an anchor for his argument that charitable welfare instincts must be tempered by economic realism.
+  evidence: 
+  - quote: "Bernard Shaw's warning: \"Those who minister to poverty and disease are accomplices in the two worst of all crimes.\""
+    context: Shaw's aphorism is cited to caution against treating poverty relief as an end in itself
+  key_passages: []
 related_thinkers: 
-  - bernard-shaw
-proposed_themes:
-  - "poverty-eradication"
-  - "unemployment"
-key_concepts:
-  - "welfare-state"
-  - "public-sector-growth"
-  - "poverty-unemployment"
-  - "economic-mismanagement"
+- bernard-shaw
+proposed_themes: 
+- poverty-eradication
+- unemployment
+key_concepts: 
+- welfare-state
+- public-sector-growth
+- poverty-unemployment
+- economic-mismanagement
 pull_quote: The biggest problems facing India today are poverty and unemployment.
 stance: argues-against
 kind: pamphlet-excerpt
 period_window: late-license-raj
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
+excerpt_of: a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980
 ---
 
 _Produced below is an excerpt from an essay titled “A Blueprint for Eradication of Poverty” by Dr B.P. Godrej, published by the Forum of Free Enterprise in December 1980. Through the essay, Dr Godrej critiques the public sector’s inefficiencies in addressing poverty and unemployment. He highlights the widespread malnutrition and lack of economic progress, advocating for systemic reforms to improve food security, productivity, and overall well-being. This piece remains relevant as it addresses the persistent issues of hunger, poverty, and economic mismanagement, challenges that India continues to face even today._
@@ -51,8 +52,7 @@ The running of the public sector was something entirely new for Indians. Take, f
 Let us now review what characterises India today. More than three decades after Independence, half the people are below the poverty line. Most of the other half are also poor. And the poverty line is defined as the point below which a worker cannot afford to buy enough food for calories to enable him to perform a full day's work. By this definition, India figured in 1968 that 38% of its people were below the poverty line. In 1978, according to official surveys, 50% of the population fell below this line. The following extract is from the _MID-DAY_ of August 5, 1980:
 **_356 million live below the poverty line_**
 
-**
-**The Minister for Planning also tells us that:
+**The Minister for Planning also tells us that:**
 
 **_“In India, an adult male doing heavy physical labour for more than 12 hours a day gets less than 2,000 calories from his food!”_**
 
@@ -64,7 +64,4 @@ In India, an adult male doing heavy physical labour in the fields for more than 
 
 In this connection, we would be wise to heed Bernard Shaw's warning: “Those who minister to poverty and disease are accomplices in the two worst of all crimes.”
 
- 
-
 Read the complete text [here](https://indianliberals.in/forum-of-free-enterprise/a-blueprint-for-eradication-of-poverty-dr-b-p-godrej-december-15-1980.pdf).
-type=content&#038;p=8656). Needs editorial review._
