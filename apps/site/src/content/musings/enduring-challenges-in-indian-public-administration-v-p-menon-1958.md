@@ -43,7 +43,7 @@ excerpt_of: indian-administartion-v-p-menon-jun5-1958
 
 _The following excerpt has been taken from V.P. Menon's 'Indian Administration: Past and Present', published in June 1958 by the [Forum of Free Enterprise](https://indianliberals.in/primary-works/indian-administartion-v-p-menon-jun5-1958/#read). The publication provides a comprehensive account of the Indian administration's origins, from the days of the East India Company, and its evolution until the Planning Era. Menon stresses the expansive nature of the services, the role played by viceroys and governor generals, the exponential increase in the number of officers, and the challenges faced by the Indian administration over a span of three centuries. You can read the unabridged text [here](https://indianliberals.in/forum-of-free-enterprise/indian-administartion-v-p-menon-jun5-1958.pdf)._
 
-_[Vappala Pangunni Menon](https://en.wikipedia.org/wiki/V._P._Menon) (30 September 1893, 31 December 1965) was an Indian civil servant who served as Secretary to the Government of India in the Ministry of the States, under Sardar Patel._
+[Vappala Pangunni Menon](https://en.wikipedia.org/wiki/V._P._Menon) (30 September 1893, 31 December 1965) was an Indian civil servant who served as Secretary to the Government of India in the Ministry of the States, under Sardar Patel.
 
 The text highlighted in the musing remains highly relevant in today's India, reflecting enduring challenges within public service.
 
