@@ -1,35 +1,36 @@
 ---
-id: "crushing-burden-of-taxation-nani-palkhivala-1958"
-title: "Crushing Burden of Taxation - Nani Palkhivala"
-pubDate: "2024-09-09T16:19:57Z"
-themes:
-  - "fiscal-policy"
-  - "rule-of-law"
-  - "taxation"
-language: "en"
+id: crushing-burden-of-taxation-nani-palkhivala-1958
+title: Crushing Burden of Taxation - Nani Palkhivala
+pubDate: 2024-09-09T16:19:57Z
+themes: 
+- fiscal-policy
+- rule-of-law
+- taxation
+language: en
 needs_review: true
 draft: false
-author: "nani-palkhivala"
-hero_image: "/thinkers/photos/nani-palkhivala.jpg"
-source_channel: "lectures"
-proposed_themes:
-  - "executive-overreach"
-key_concepts:
-  - "double-taxation"
-  - "wealth-tax"
-  - "executive-discretion"
-  - "tax-evasion"
-  - "gift-tax-act"
+author: nani-palkhivala
+hero_image: /thinkers/photos/nani-palkhivala.jpg
+source_channel: lectures
+proposed_themes: 
+- executive-overreach
+key_concepts: 
+- double-taxation
+- wealth-tax
+- executive-discretion
+- tax-evasion
+- gift-tax-act
 pull_quote: When laws fail to account for the spirit of justice and fairness, they lose their moral legitimacy and encourage widespread evasion.
 stance: argues-against
 kind: pamphlet-excerpt
 period_window: nehruvian-era
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
+excerpt_of: crushing-burden-of-taxation-n-a-palkhivala-dec6-1958
 ---
 
-_**The following excerpt is taken from Nani Palkhivala's essay, "Crushing Burden of Taxation," published by the Forum of Free Enterprise in 1958. In this piece, Palkhivala critiques India's tax laws and the unchecked power of the Executive, advocating for a balanced approach that promotes fairness, equity, and economic growth.**_
+_The following excerpt is taken from Nani Palkhivala's essay, "Crushing Burden of Taxation," published by the Forum of Free Enterprise in 1958. In this piece, Palkhivala critiques India's tax laws and the unchecked power of the Executive, advocating for a balanced approach that promotes fairness, equity, and economic growth._
 
 Under the Constitution of India, the balance of powers is very well preserved between the Legislature, the Executive, and the Judiciary. However, in the eighth year of the Republic, it is clear to any student of constitutional law or public affairs that the Executive has become predominant, and the Legislature and Judiciary are not given the importance necessary to preserve this balance. The Executive’s power is unchecked by any effective opposition inside Parliament or by any mobilized public opinion outside it.
 
@@ -52,4 +53,3 @@ It is high time attention was paid to the fact that there are also honest taxpay
 Palkhivala’s argument is clear: taxation should be an instrument of public welfare, not a tool of oppression. The laws must reflect a balance between the state’s need for revenue and the citizen’s right to fairness and equity. The goal should not merely be to fill the coffers but to foster a system where both governance and business can thrive in harmony, creating a prosperous and equitable society.
 
 [Read the complete text here](https://indianliberals.in/forum-of-free-enterprise/crushing-burden-of-taxation-n-a-palkhivala-dec6-1958.pdf).
-type=content&#038;p=8631). Needs editorial review._
