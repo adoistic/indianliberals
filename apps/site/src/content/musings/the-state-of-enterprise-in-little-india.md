@@ -1,32 +1,33 @@
 ---
-id: "the-state-of-enterprise-in-little-india"
-title: "The State of Enterprise in Free India"
-pubDate: "2024-08-12T16:52:16Z"
-hero_image: "/musings/stock/economy-5.webp"
-themes:
-  - "economic-development"
-  - "free-enterprise"
-  - "governance"
-language: "en"
+id: the-state-of-enterprise-in-little-india
+title: The State of Enterprise in Free India
+pubDate: 2024-08-12T16:52:16Z
+hero_image: /musings/stock/economy-5.webp
+themes: 
+- economic-development
+- free-enterprise
+- governance
+language: en
 needs_review: true
 draft: false
-source_channel: "so-musings"
-proposed_themes:
-  - "decentralisation"
-  - "rural-development"
-key_concepts:
-  - "little-india"
-  - "over-regulation"
-  - "rural-infrastructure"
-  - "decentralised-governance"
-  - "spirit-of-enterprise"
+source_channel: so-musings
+proposed_themes: 
+- decentralisation
+- rural-development
+key_concepts: 
+- little-india
+- over-regulation
+- rural-infrastructure
+- decentralised-governance
+- spirit-of-enterprise
 pull_quote: India has had so much regulation that no amount of deregulation seems adequate.
 stance: argues-for
 kind: pamphlet-excerpt
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
+author: r-gopalakrishnan
 ---
 
 _The following excerpt has been taken from an essay titled 'Prosperity Beyond Our Cities by Spreading Enterprise' written by R. Gopalakrishnan, published by the Forum of Free Enterprise in 2007._
@@ -54,4 +55,3 @@ The issue of Little India's economic growth continues to be partially attended. 
 However, we cannot replicate the dramatic effects achieved in industrial and urban India by the single act of scrapping industrial licensing. Being rooted in society and politics, Little India's change agenda will be somewhat evolutionary. But the time has come.
 
 Robert Reich, a professor of public policy, observes, "Democracy means more than a process of free and fair elections. Democracy is a system for accomplishing what can only be achieved by 12 citizens joining together with other citizens." The role of capitalism is to enlarge the economic pie. The slicing up of the economic pie is the role of governance and democracy.
-type=content&#038;p=8610). Needs editorial review._
