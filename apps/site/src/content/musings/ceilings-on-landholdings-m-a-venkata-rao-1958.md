@@ -37,7 +37,7 @@ geographic_scope:
 
 _The following text is an excerpt from an essay titled "Ceilings on Landholdings" by M.A. Venkata Rao, published in The Indian Libertarian on September 15, 1958._
 
-_M.A. Venkata Rao was a prominent thinker and commentator known for his libertarian views on economic and social policies in post-independence India. _
+_M.A. Venkata Rao was a prominent thinker and commentator known for his libertarian views on economic and social policies in post-independence India._
 
 _In this piece, Rao critically examines the proposed land reforms in India, arguing against the imposition of landholding ceilings and highlighting the broader economic, social, and political implications of these policies. He highlights the ideological underpinnings of the reforms, warning of potential consequences for _**_property rights_**_ and _**_democratic governance_**_ in India._
 
