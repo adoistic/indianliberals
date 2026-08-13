@@ -1,38 +1,38 @@
 ---
-id: "globalisation-and-the-poor-johan-norberg-2003"
-title: "Globalisation and the Poor - Johan Norberg"
-pubDate: "2024-08-26T12:17:54Z"
-themes:
-  - "globalisation"
-language: "en"
+id: globalisation-and-the-poor-johan-norberg-2003
+title: Globalisation and the Poor - Johan Norberg
+pubDate: 2024-08-26T12:17:54Z
+themes: 
+- globalisation
+language: en
 needs_review: true
 draft: false
-author: "johan-norberg"
-hero_image: "/musings/stock/globalisation-2.webp"
-proposed_themes:
-  - "anti-globalisation"
-  - "free-trade"
-  - "poverty"
-key_concepts:
-  - "wto"
-  - "absolute-vs-relative-poverty"
-  - "seattle-protests"
-  - "anti-globalisation-movement"
+author: johan-norberg
+hero_image: /musings/stock/globalisation-2.webp
+proposed_themes: 
+- anti-globalisation
+- free-trade
+- poverty
+key_concepts: 
+- wto
+- absolute-vs-relative-poverty
+- seattle-protests
+- anti-globalisation-movement
 pull_quote: Relative poverty is not a measure of poverty, but of inequality.
 stance: argues-for
 kind: periodical-article
 period_window: reform-era
-thinker_mentions:
-  - thinker: amartya-sen
-    role: mention
-    reasoning: "Norberg leans on Sen's capability-style critique to acknowledge that poverty is wider than income — about powerlessness and unfreedom — before defending material measurement as still indispensable."
-    evidence:
-      - quote: As Amartya Sen, Indian economist and Nobel laureate, has emphasised, poverty is not just a material problem.
-        context: Norberg uses Sen to concede the limits of a pure dollar-a-day poverty line, then argues the absolutist measure still matters
-    key_passages: []
+thinker_mentions: 
+- thinker: amartya-sen
+  role: mention
+  reasoning: Norberg leans on Sen's capability-style critique to acknowledge that poverty is wider than income, about powerlessness and unfreedom, before defending material measurement as still indispensable.
+  evidence: 
+  - quote: As Amartya Sen, Indian economist and Nobel laureate, has emphasised, poverty is not just a material problem.
+    context: Norberg uses Sen to concede the limits of a pure dollar-a-day poverty line, then argues the absolutist measure still matters
+  key_passages: []
 related_thinkers: 
-  - amartya-sen
-
+- amartya-sen
+excerpt_of: globalisation-and-the-poor
 ---
 
 _The following excerpt has been taken from the Occasional Paper titled ‘Globalisation and the Poor’ written by Johan Norberg. The paper is based on a contribution of the author to the workshop Campaigning for Free Trade; organised by the Liberal Institute of the Friedrich Naumann Foundation in November 2003._
@@ -43,7 +43,7 @@ _“…has contributed to the concentration of wealth in the hands of the rich f
 
 Poverty is also a major issue when you read anti-globalist writers and theoreticians. Their view is that globalisation is making the rich richer and the poor poorer. If this is their biggest concern, surely they should change their mind about the globalisation process if they got new information, which not merely shows that globalisation is not increasing poverty, but in fact an efficient way of reducing human poverty. That is what I am going to argue for in this paper, and I will also present the current debate on poverty measurements. What has happened to poverty in the era of globalisation, and why? 
 
-### **Relative or absolute?**
+**Relative or absolute?**
 
 To begin with, we must define what we mean when we discuss poverty. Most often there is a discussion whether absolute or relative poverty is the most relevant measurement. In this debate, I am an absolutist. Relative poverty is not a measure of poverty, but of inequality. Instead of measuring how poor someone is, it says how poor that person is in relation to others. One poverty concept frequently used, e.g. by the UNDP, rates a person as poor if they have less than half the median wage in the country where they live. This means that a person regarded as 'loaded' when living in a poor country like Nepal is considered as poor as a church mouse when living in the affluent USA. These relative figures, consequently, cannot be compared internationally. 
 
@@ -55,7 +55,7 @@ But even though I accept this criticism to a big extent, the investigation of ma
 
 The most common international poverty line is the World Bank's definition of absolute poverty. According to this definition you are poor if your income is less than one dollar a day, to be exact, $1.08. And this is adjusted for purchasing power, so that it corresponds to the same standard in all countries. This definition was chosen because it was the median of the poverty definitions in the ten poorest countries that the World Bank had detailed statistics from. And probably also because it is easy to popularise and remember. Let's use that definition to dig into the historical change in poverty rates. 
 
-### **The extent of poverty **
+**The extent of poverty**
 
 In 1820, about 85 percent of the world population lived on the equivalent of a dollar a day, converted to today's purchasing power. The biggest misconception in the debate on globalisation is that poverty is supposedly something new, and that things are getting worse. It is not. One hundred years ago, every country was a developing country. The new thing in our modern world is not poverty, but wealth. The fact that some countries and regions have escaped that poverty. 
 
@@ -64,4 +64,3 @@ In the beginning of the 19th century something happened and poverty began to dec
 Even though the proportion of people in poverty has been shrinking in the last 200 years, the number of poor has increased, because the world population has been increasing constantly. Unique with the decline in the last twenty years is that not only the proportion, but also the absolute number of absolute poor has declined - for the first time in world history. During these two decades, the world population has grown by about 1.8 billion, but yet the number of absolute poor has declined by about 200 million people, according to the World Bank. Material developments in the past half-century have resulted in the world having over three billion more people liberated from poverty.
 
 Read the complete paper [here](https://indianliberals.in/other-publications/globalisation-and-the-poor.pdf).
-type=content&#038;p=8619). Needs editorial review._
