@@ -9,8 +9,9 @@ publication:
   publisher_id: centre-for-civil-society
   issuer_id: centre-for-civil-society
   series_id: ccs-viewpoint
+  publisher_name: centre for civil society
 pdf_url: https://archive.indianliberals.in/liberals/liberalism-in-india-2.pdf
-summary: Liberalism](https://archive.indianliberals.in/liberals/liberalism-in-india-2.pdf%22,%22summary%22:%22Liberalism) in India Past, Present and Future is a collection of essays in honour of S V Raju, edited by Parth J Shah and first published in 2016 by the Centre for Civil Society. The volume brings together essays examining the history, meaning and contemporary relevance of liberalism in India, with particular attention to liberty and its relationship with equality, security, welfare, democracy, reservations, constitutionalism, decentralisation, and religious and cultural freedom. 
+summary: Liberalism](https://archive.indianliberals.in/liberals/liberalism-in-india-2.pdf%22,%22summary%22:%22Liberalism) in India Past, Present and Future is a collection of essays in honour of S V Raju, edited by Parth J Shah and first published in 2016 by the Centre for Civil Society. The volume brings together essays examining the history, meaning and contemporary relevance of liberalism in India, with particular attention to liberty and its relationship with equality, security, welfare, democracy, reservations, constitutionalism, decentralisation, and religious and cultural freedom.
 provenance: 
   source: ccs_archive
 physical: 
@@ -19,32 +20,34 @@ physical:
 contributors: 
 - thinker: hindol-sengupta
   thinker_unresolved: Hindol Sengupta
-  role: Author 
+  role: Author
   toc_index: 2
 - thinker: gurcharan-das
   thinker_unresolved: Gurucharan Das
-  role: Author 
+  role: Author
   toc_index: 7
 - thinker: ashok-desai
   thinker_unresolved: Ashok V Desai
   role: Author
   toc_index: 9
 - thinker: jayaprakash-narayan
-  thinker_unresolved: Jayaprakash Narayan 
+  thinker_unresolved: Jayaprakash Narayan
   role: author
   toc_index: 10
 - thinker: ms-seetha
   thinker_unresolved: seetha
-  role: Author 
+  role: Author
   toc_index: 16
 - thinker: nadir-godrej
   thinker_unresolved: Nadir Godrej
-  role: Author 
+  role: Author
   toc_index: 17
 themes: 
-- Liberalism 
+- Liberalism
 pdf_staging_path: file:///C:/Users/SALT01/Downloads/Liberalism-in-India%20(2).pdf
 pdf_size_mb: 3
+editors: 
+- parth-shah
 ---
 
 ## Summary
