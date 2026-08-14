@@ -1,94 +1,93 @@
 ---
-id: "acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart"
+id: acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart
 title: "Acharya N G Ranga: The Farmer’s Friend and Swatantra Party Stalwart"
-pubDate: "2023-11-15T12:24:03Z"
-themes:
-  - "agriculture"
-  - "democracy"
-  - "liberalism"
-language: "en"
+pubDate: 2023-11-15T12:24:03Z
+themes: 
+- agriculture
+- democracy
+- liberalism
+language: en
 needs_review: true
 draft: false
-author: "n-g-ranga"
-hero_image: "/musings/covers/acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart.webp"
-thinker_mentions:
-  - thinker: kandukuri-veeresalingam
-    role: mention
-    reasoning: "Veeresalingam is identified as a key reformist and liberal thinker whose literature directly inspired Ranga's early intellectual formation."
-    evidence:
-      - quote: He was inspired by Kandukuri Veeresalingam, a social reformer and liberal thinker of his time.
-        context: Veeresalingam is cited as the formative ideational influence on Ranga before he went abroad for study
-    key_passages: []
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: "Nehru's socialist orientation and central-planning policies are identified as the political context against which Ranga's Swatantra Party formed as an opposition force."
-    evidence:
-      - quote: "Nehru's socialist orientation led to enacting policies encompassing central planning, land redistribution and state control over key industries."
-        context: "Nehru's statist agenda is the foil against which the Swatantra Party's free-market programme is defined"
-    key_passages: []
-  - thinker: indira-gandhi
-    role: mention
-    reasoning: "Indira Gandhi's leadership of the Congress split is described as the catalyst for the political realignments that divided the Swatantra Party leadership."
-    evidence:
-      - quote: The Congress underwent a split into two factions led by Indira Gandhi and K Kamraj. Minoo Masani opposed the proposal of a joint alliance between the Kamraj faction and the Swatantra party.
-        context: "Indira Gandhi's factional dominance is shown as a key destabilising factor for the Swatantra Party's strategic options"
-    key_passages: []
-  - thinker: minoo-masani
-    role: mention
-    reasoning: "Masani is named alongside Ranga and Rajaji as one of the principal architects of the Swatantra Party's electoral successes and its internal disagreements."
-    evidence:
-      - quote: Due to the continuous efforts by Ranga and other party leaders like Minoo Masani, Rajaji and Dayabhai Patel, the party became the single-largest opposition in Lok Sabha by winning 44 seats in the 1967 elections.
-        context: "Masani is named as co-builder of the Swatantra Party's peak electoral achievement"
-    key_passages: []
-  - thinker: john-stuart-mill
-    role: mention
-    reasoning: "Mill is listed among the influential political thinkers whose works Ranga studied abroad, placing him in Ranga's intellectual lineage alongside Russell and Wells."
-    evidence:
-      - quote: Ranga studied the works of influential political thinkers such as Bertrand Russel, HG Wells and JS Mill.
-        context: "Mill is one of the canonical liberal thinkers cited as shaping Ranga's early political education"
-    key_passages: []
-  - thinker: c-rajagopalachari
-    role: mention
-    reasoning: "Rajaji is identified as the founder of the Swatantra Party who recruited Ranga as president, making him the ideological and organisational anchor of Ranga's political career."
-    evidence:
-      - quote: Rajaji invited NG Ranga to take up the position of President of Swatantra party.
-        context: "Rajaji's recruitment of Ranga establishes the partnership at the heart of the Swatantra Party's founding era"
-    key_passages: []
-  - thinker: joseph-stalin
-    role: mention
-    reasoning: "Stalin's regime is cited as the direct cause of Ranga's disillusionment with socialism: witnessing the oppression of Soviet peasants turned Ranga away from Marxist ideology."
-    evidence:
-      - quote: "his belief in socialism was short-lived, as the Stalin regime's oppression of peasants and the initiation of Soviet land reforms such as forced collectivisation led to Ranga's departure from Marxist ideology."
-        context: "Stalin's agrarian terror is identified as the pivotal event that broke Ranga's faith in socialism"
-    key_passages: []
+hero_image: /musings/covers/acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart.webp
+thinker_mentions: 
+- thinker: kandukuri-veeresalingam
+  role: mention
+  reasoning: Veeresalingam is identified as a key reformist and liberal thinker whose literature directly inspired Ranga's early intellectual formation.
+  evidence: 
+  - quote: He was inspired by Kandukuri Veeresalingam, a social reformer and liberal thinker of his time.
+    context: Veeresalingam is cited as the formative ideational influence on Ranga before he went abroad for study
+  key_passages: []
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Nehru's socialist orientation and central-planning policies are identified as the political context against which Ranga's Swatantra Party formed as an opposition force.
+  evidence: 
+  - quote: Nehru's socialist orientation led to enacting policies encompassing central planning, land redistribution and state control over key industries.
+    context: Nehru's statist agenda is the foil against which the Swatantra Party's free-market programme is defined
+  key_passages: []
+- thinker: indira-gandhi
+  role: mention
+  reasoning: Indira Gandhi's leadership of the Congress split is described as the catalyst for the political realignments that divided the Swatantra Party leadership.
+  evidence: 
+  - quote: The Congress underwent a split into two factions led by Indira Gandhi and K Kamraj. Minoo Masani opposed the proposal of a joint alliance between the Kamraj faction and the Swatantra party.
+    context: Indira Gandhi's factional dominance is shown as a key destabilising factor for the Swatantra Party's strategic options
+  key_passages: []
+- thinker: minoo-masani
+  role: mention
+  reasoning: Masani is named alongside Ranga and Rajaji as one of the principal architects of the Swatantra Party's electoral successes and its internal disagreements.
+  evidence: 
+  - quote: Due to the continuous efforts by Ranga and other party leaders like Minoo Masani, Rajaji and Dayabhai Patel, the party became the single-largest opposition in Lok Sabha by winning 44 seats in the 1967 elections.
+    context: Masani is named as co-builder of the Swatantra Party's peak electoral achievement
+  key_passages: []
+- thinker: john-stuart-mill
+  role: mention
+  reasoning: Mill is listed among the influential political thinkers whose works Ranga studied abroad, placing him in Ranga's intellectual lineage alongside Russell and Wells.
+  evidence: 
+  - quote: Ranga studied the works of influential political thinkers such as Bertrand Russel, HG Wells and JS Mill.
+    context: Mill is one of the canonical liberal thinkers cited as shaping Ranga's early political education
+  key_passages: []
+- thinker: c-rajagopalachari
+  role: mention
+  reasoning: Rajaji is identified as the founder of the Swatantra Party who recruited Ranga as president, making him the ideological and organisational anchor of Ranga's political career.
+  evidence: 
+  - quote: Rajaji invited NG Ranga to take up the position of President of Swatantra party.
+    context: Rajaji's recruitment of Ranga establishes the partnership at the heart of the Swatantra Party's founding era
+  key_passages: []
+- thinker: joseph-stalin
+  role: mention
+  reasoning: "Stalin's regime is cited as the direct cause of Ranga's disillusionment with socialism: witnessing the oppression of Soviet peasants turned Ranga away from Marxist ideology."
+  evidence: 
+  - quote: his belief in socialism was short-lived, as the Stalin regime's oppression of peasants and the initiation of Soviet land reforms such as forced collectivisation led to Ranga's departure from Marxist ideology.
+    context: Stalin's agrarian terror is identified as the pivotal event that broke Ranga's faith in socialism
+  key_passages: []
 related_thinkers: 
-  - indira-gandhi
-  - jawaharlal-nehru
-  - john-stuart-mill
-  - joseph-stalin
-  - kandukuri-veeresalingam
-  - minoo-masani
-  - c-rajagopalachari
-source_channel: "so-musings"
-proposed_themes:
-  - "peasant-movement"
-  - "swatantra-party"
-key_concepts:
-  - "swatantra-party"
-  - "peasant-movement"
-  - "forced-collectivisation"
-  - "kisan-rights"
-  - "anti-socialism"
+- indira-gandhi
+- jawaharlal-nehru
+- john-stuart-mill
+- joseph-stalin
+- kandukuri-veeresalingam
+- minoo-masani
+- c-rajagopalachari
+source_channel: so-musings
+proposed_themes: 
+- peasant-movement
+- swatantra-party
+key_concepts: 
+- swatantra-party
+- peasant-movement
+- forced-collectivisation
+- kisan-rights
+- anti-socialism
 pull_quote: He was a champion of Peasant rights and is considered the father of the peasant movement in India.
 stance: profiles
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "andhra-pradesh"
-    - "soviet-union"
-    - "tamil-nadu"
-    - "united-kingdom"
+  places: 
+  - andhra-pradesh
+  - soviet-union
+  - tamil-nadu
+  - united-kingdom
 ---
 
 _Gogineni Ranga Nayakulu, also known as NG Ranga, was a distinguished politician and freedom fighter. He was a champion of Peasant rights and is considered the father of the peasant movement in India. In 1991, he was awarded with the Padma Vibhushan award. _
@@ -148,4 +147,4 @@ _Previous musing: [TANGUTURI PRAKASAM PANTHULU: A VISIONARY LEADER AND PIONEER O
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
 
 **Ch Prashanth**
-Prashanth is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.
+is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.
