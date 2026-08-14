@@ -1,68 +1,67 @@
 ---
-id: "two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak"
+id: two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak
 title: "Two Strands of Liberal Expression : Dr. Anandibai Joshi and Lakshmibai Tilak"
-pubDate: "2023-10-25T12:19:19Z"
-themes:
-  - "civil-society"
-  - "liberalism"
-  - "social-reform"
-language: "en"
+pubDate: 2023-10-25T12:19:19Z
+themes: 
+- civil-society
+- liberalism
+- social-reform
+language: en
 needs_review: true
 draft: false
-author: "lakshmibai-tilak"
-hero_image: "/musings/covers/two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak.webp"
-thinker_mentions:
-  - thinker: anandibai-joshee
-    role: subject
-    reasoning: The essay profiles Anandibai Joshi as one of two protagonists, tracing her journey from childhood marriage through her struggle for medical education in America to becoming a pioneering liberal feminist figure in 19th-century India.
-    evidence: []
-    key_passages:
-      - quote: At the mere age of 17, Anandibai Joshi sailed alone to America with the dream of becoming a doctor
-        what_it_shows: establishes the audacity of her individual agency against the social constraints of the time
-      - quote: Anandibai was a staunch Hindu and refused an education that would strip her of her faith
-        what_it_shows: captures her insistence on pursuing modernity without abandoning her cultural identity
-      - quote: I will go to America as a Hindu and return as a Hindu
-        what_it_shows: her public vow crystallises the tension between liberal self-determination and cultural rootedness
-      - quote: Anandibai and Lakshmibai, through their separate paths for empowerment, reiterated and affirmed liberal ideas in the intellectual churning of the 19th century
-        what_it_shows: situates her legacy within the broader 19th-century liberal intellectual movement
-  - thinker: pandita-ramabai
-    role: mention
-    reasoning: Pandita Ramabai is listed alongside Anandibai and Lakshmibai as one of the contemporaneous women who worked toward female emancipation through education in 19th-century India.
-    evidence:
-      - quote: Pandita Ramabai, Savitribai Phule, Ramabai Ranade, Dr. Anandibai Joshi, Lakshmibai Tilak among others, worked towards emancipation of women through education
-        context: contextualising the two protagonists within a broader movement of women reformers
-    key_passages: []
-  - thinker: ramabai-ranade
-    role: mention
-    reasoning: "Ramabai Ranade is named as one of the contemporaneous women reformers working for women's emancipation through education in the same intellectual milieu as the two protagonists."
-    evidence:
-      - quote: Pandita Ramabai, Savitribai Phule, Ramabai Ranade, Dr. Anandibai Joshi, Lakshmibai Tilak among others, worked towards emancipation of women through education
-        context: "listing of the women's education movement contemporaries"
-    key_passages: []
+hero_image: /musings/covers/two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak.webp
+thinker_mentions: 
+- thinker: anandibai-joshee
+  role: subject
+  reasoning: The essay profiles Anandibai Joshi as one of two protagonists, tracing her journey from childhood marriage through her struggle for medical education in America to becoming a pioneering liberal feminist figure in 19th-century India.
+  evidence: []
+  key_passages: 
+  - quote: At the mere age of 17, Anandibai Joshi sailed alone to America with the dream of becoming a doctor
+    what_it_shows: establishes the audacity of her individual agency against the social constraints of the time
+  - quote: Anandibai was a staunch Hindu and refused an education that would strip her of her faith
+    what_it_shows: captures her insistence on pursuing modernity without abandoning her cultural identity
+  - quote: I will go to America as a Hindu and return as a Hindu
+    what_it_shows: her public vow crystallises the tension between liberal self-determination and cultural rootedness
+  - quote: Anandibai and Lakshmibai, through their separate paths for empowerment, reiterated and affirmed liberal ideas in the intellectual churning of the 19th century
+    what_it_shows: situates her legacy within the broader 19th-century liberal intellectual movement
+- thinker: pandita-ramabai
+  role: mention
+  reasoning: Pandita Ramabai is listed alongside Anandibai and Lakshmibai as one of the contemporaneous women who worked toward female emancipation through education in 19th-century India.
+  evidence: 
+  - quote: Pandita Ramabai, Savitribai Phule, Ramabai Ranade, Dr. Anandibai Joshi, Lakshmibai Tilak among others, worked towards emancipation of women through education
+    context: contextualising the two protagonists within a broader movement of women reformers
+  key_passages: []
+- thinker: ramabai-ranade
+  role: mention
+  reasoning: Ramabai Ranade is named as one of the contemporaneous women reformers working for women's emancipation through education in the same intellectual milieu as the two protagonists.
+  evidence: 
+  - quote: Pandita Ramabai, Savitribai Phule, Ramabai Ranade, Dr. Anandibai Joshi, Lakshmibai Tilak among others, worked towards emancipation of women through education
+    context: listing of the women's education movement contemporaries
+  key_passages: []
 related_thinkers: 
-  - anandibai-joshee
-  - pandita-ramabai
-  - ramabai-ranade
-source_channel: "so-musings"
-proposed_themes:
-  - "feminism"
-  - "women-education"
-key_concepts:
-  - "women-emancipation"
-  - "liberal-feminism"
-  - "medical-education"
-  - "orthodoxy"
-  - "suffrage-movement"
+- anandibai-joshee
+- pandita-ramabai
+- ramabai-ranade
+source_channel: so-musings
+proposed_themes: 
+- feminism
+- women-education
+key_concepts: 
+- women-emancipation
+- liberal-feminism
+- medical-education
+- orthodoxy
+- suffrage-movement
 pull_quote: As liberal feminist ideas became more articulate and the suffrage movement became stronger in America, an intellectual churning shaped the Indian psyche in the latter half of the 19th century.
 stance: profiles
 kind: periodical-article
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "madras-presidency"
-    - "maharashtra"
-    - "united-states"
+  places: 
+  - madras-presidency
+  - maharashtra
+  - united-states
 ---
 
 _Dr. Anandibai Joshi and Lakshmibai Tilak embarked on two separate paths for education and yet their paths coalesce into a strong liberal expression for emancipation of the individual._
@@ -73,7 +72,7 @@ At the mere age of 17, Anandibai Joshi sailed alone to America with the dream of
 
 Gopalrao began correspondences with several philanthropic organizations but received no response. He also appealed to Rev. Wilder of Princeton for helping him and his wife travel to America in September 1878. Rev. Wilder advised the couple to stay in India and to “confess to Christ immediately.” (Kosambi, 1996, p. 3190) While Gopalrao gave the suggestion a serious thought, Anandibai firmly rejected it. Anandibai was a staunch Hindu and refused an education that would strip her of her faith. Anandibai then applied to Women’s Medical College of Pennsylvania where she could study while practicing her faith. Before leaving for America, Anandibai took a public vow at a gathering in Serampore, “I will go to America as a Hindu and return as a Hindu.” (Kosambi, 1996, p. 3195) Contrary to Gopalrao’s ambiguous position on colonialism and Hinduism, Anandibai was a nationalist and sought to retrieve ancient Hindu knowledge. Anandibai wrote to Mrs. Carpenter on 15 November 1880, “The Europeans are under the impression that there is nothing worth knowing in Hindu scriptures and I have therefore taken up Sanscrit to show them how sublime, useful, and instructive are the precepts in Hindu Shastras.” (Kosambi, 1996, p. 3194) Her steadfast belief in her faith is seen in her medical dissertation for MD, which was titled, ‘Obstetrics among the Aryan Hindoos’. 
 
-When Dr. Anandibai Joshi and Gopalrao returned to India in 1886, the Mahratta newspaper congratulated Dr. Anandibai and praised her for abiding by her public vow. “We bid a hearty welcome to Gopalrao Joshi and his wife, now Dr. Anandibai Joshi who returned to India by the last Mail Steamer… the difficulties of Mrs. Anandibai were such as no man or woman of ordinary moral and physical strength could have overcome. Happy it is that the worthy husband and wife have conquered all these difficulties and come back to India with Western culture but without a taint of Western vice. Mrs. Joshi has preserved her Hindu habits and customs and that too at no small personal inconvenience.” (_Mahratta_, 21 November 1886)
+When Dr. Anandibai Joshi and Gopalrao returned to India in 1886, the Mahratta newspaper congratulated Dr. Anandibai and praised her for abiding by her public vow. “We bid a hearty welcome to Gopalrao Joshi and his wife, now Dr. Anandibai Joshi who returned to India by the last Mail Steamer, the difficulties of Mrs. Anandibai were such as no man or woman of ordinary moral and physical strength could have overcome. Happy it is that the worthy husband and wife have conquered all these difficulties and come back to India with Western culture but without a taint of Western vice. Mrs. Joshi has preserved her Hindu habits and customs and that too at no small personal inconvenience.” (_Mahratta_, 21 November 1886)
 
 While Dr. Anandibai stood by her public vow and her faith, she spoke openly about the restrictions imposed on Hindu women. In her speech at Serampore, she also highlighted the difficulties faced by Hindu women while seeking education. Dr. Anandibai said, “I am neither a Christian nor a Brahmo. To continue to live as a Hindu and go to school in any part of India is very difficult. A convert who wears an English dress is not stared at. Native christian ladies are free from the opposition of public scandal which Hindu ladies like myself have to meet within and without the zenana.” (Kosambi, 1996, p. 3194)
 
@@ -89,7 +88,7 @@ Lakshmibai Tilak and Dr. Anandibai Joshi fought for emancipation and education. 
 
 **References**
 
-Kosambi, M. (1996). Anandibai Joshee : Retrieving a Fragmented Feminist Image. _Economic and Political Weekly_, _31_(49), 3189–3197. http://www.jstor.org/stable/4404856
+Kosambi, M. (1996). Anandibai Joshee : Retrieving a Fragmented Feminist Image. _Economic and Political Weekly_, _31_(49), 3189, 3197. http://www.jstor.org/stable/4404856
 
 Tilak, L. (2010). _Smritichitre_ (4th ed.) [Print]. Samanvay Prakashan.
 
@@ -108,4 +107,4 @@ Tilak, L. (2010). _Smritichitre_ (4th ed.) [Print]. Samanvay Prakashan.
 [](https://indianliberals.in/wp-content/uploads/2023/09/IMG_4159_Original.jpg)
 
 **Avanti Lele**
-Avanti Lele is a Minoo Masani Liberal Fellow. She is pursuing her PhD in English Literature from Lancaster University. She has worked as a lecturer of English Literature and as a Spanish language instructor. Her research interests include but are not limited to women's writing, liberal feminism, postcolonial studies, indigeneity.
+is a Minoo Masani Liberal Fellow. She is pursuing her PhD in English Literature from Lancaster University. She has worked as a lecturer of English Literature and as a Spanish language instructor. Her research interests include but are not limited to women's writing, liberal feminism, postcolonial studies, indigeneity.
