@@ -1,58 +1,58 @@
 ---
-id: "economic-growth-with-social-justice-1969"
-title: "Economic Growth with Social Justice"
-pubDate: "2024-01-16T13:47:25Z"
-themes:
-  - "economic-growth"
-  - "economic-policy"
-  - "free-enterprise"
-  - "nationalisation"
-  - "socialism"
-language: "en"
+id: economic-growth-with-social-justice-1969
+title: Economic Growth with Social Justice
+pubDate: 2024-01-16T13:47:25Z
+themes: 
+- economic-growth
+- economic-policy
+- free-enterprise
+- nationalisation
+- socialism
+language: en
 needs_review: true
 draft: false
-author: ""
-hero_image: "/musings/stock/economy-1.webp"
-thinker_mentions:
-  - thinker: nani-palkhivala
-    role: author
-    reasoning: "The entry is Palkhivala's Shriram Memorial Lecture of 1969; Palkhivala is the author of the text, though this was not captured in the frontmatter."
-    evidence:
-      - quote: "Nani Palkhivala's 'Economic Growth with Social Justice' was delivered as Shriram Memorial Lecture at New Delhi in 1969."
-        context: The editorial preamble identifies Palkhivala as the author of the delivered lecture
-    key_passages: []
-  - thinker: abraham-lincoln
-    role: mention
-    reasoning: "Lincoln's dictum about the power of public information is invoked to support Palkhivala's argument that free-enterprise advocates must educate the public rather than merely sell their goods."
-    evidence:
-      - quote: As Abraham Lincoln rightly said, the people would be able to face any crisis, provided only the correct facts were made known to them.
-        context: "Lincoln's aphorism is cited to argue that public education — not just commerce — is the liberal's primary obligation in a democracy"
-    key_passages: []
+author: nani-palkhivala
+hero_image: /musings/stock/economy-1.webp
+thinker_mentions: 
+- thinker: nani-palkhivala
+  role: author
+  reasoning: The entry is Palkhivala's Shriram Memorial Lecture of 1969; Palkhivala is the author of the text, though this was not captured in the frontmatter.
+  evidence: 
+  - quote: Nani Palkhivala's 'Economic Growth with Social Justice' was delivered as Shriram Memorial Lecture at New Delhi in 1969.
+    context: The editorial preamble identifies Palkhivala as the author of the delivered lecture
+  key_passages: []
+- thinker: abraham-lincoln
+  role: mention
+  reasoning: Lincoln's dictum about the power of public information is invoked to support Palkhivala's argument that free-enterprise advocates must educate the public rather than merely sell their goods.
+  evidence: 
+  - quote: As Abraham Lincoln rightly said, the people would be able to face any crisis, provided only the correct facts were made known to them.
+    context: Lincoln's aphorism is cited to argue that public education, not just commerce, is the liberal's primary obligation in a democracy
+  key_passages: []
 related_thinkers: 
-  - abraham-lincoln
-  - nani-palkhivala
-proposed_themes:
-  - "social-justice"
-key_concepts:
-  - "socialism-on-the-cheap"
-  - "controls"
-  - "nationalisation"
-  - "mass-education"
-  - "self-generating-growth"
-pull_quote: "“Socialism\" has become a word comprehensive enough to cover the entire spectrum of economic folly — a plethora of harmful controls, periodic bouts of nationalization, and the pursuit of policies which ensure unemployment and economic retrogression."
+- abraham-lincoln
+- nani-palkhivala
+proposed_themes: 
+- social-justice
+key_concepts: 
+- socialism-on-the-cheap
+- controls
+- nationalisation
+- mass-education
+- self-generating-growth
+pull_quote: “Socialism" has become a word comprehensive enough to cover the entire spectrum of economic folly, a plethora of harmful controls, periodic bouts of nationalization, and the pursuit of policies which ensure unemployment and economic retrogression.
 stance: argues-against
 kind: lecture
 period_window: late-license-raj
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
 
 _Nani Palkhivala's 'Economic Growth with Social Justice' was delivered as Shriram Memorial Lecture at New Delhi in 1969. This was under the section 'India - The Potential and The Reality' in the book 'We, the People: India-The Largest Democracy' published by Strand Book Stall in 1984_
 
-_You can read more about Nani Palkhivala [here](https://indianliberals.in/content/nani-palkhivala/) ___
+_You can read more about Nani Palkhivala [here](https://indianliberals.in/thinkers/nani-palkhivala/)_
 
-Our Constitution aimed at making India the land of opportunity; our politicians have converted it into a land of opportunism. They have made socialism the opiate of the people. “Socialism" has become a word comprehensive enough to cover the entire spectrum of economic folly — a plethora of harmful controls, periodic bouts of nationalization, and the pursuit of policies which ensure unemployment and economic retrogression.
+Our Constitution aimed at making India the land of opportunity; our politicians have converted it into a land of opportunism. They have made socialism the opiate of the people. “Socialism" has become a word comprehensive enough to cover the entire spectrum of economic folly, a plethora of harmful controls, periodic bouts of nationalization, and the pursuit of policies which ensure unemployment and economic retrogression.
 
 Every thinking man in India today accepts without reser- vation the true socialistic objectives of economic development. True socialism means the subordination of private gain to public good. It means the investment of human and material resources in an imaginatively planned manner which can con- tribute to the vitality and progress of the whole nation, keep it in the mainstream of self-generating growth and develop- ment, raise the standard of living of the masses, and bring forth the maximum gifts of each for the fullest enjoyment of all. The translation of such socialism into action demands intellect and knowledge, character and dedication, of the highest order.
 
@@ -60,4 +60,4 @@ But there is the other type of socialism which is socialism on the cheap, which 
 
 It seems doubtful whether in the immediate future we shall attain stability and rapid progress through the democratic set- up. However, what is more valuable and easier to save is the more distant future of this great nation. Years of intensive mass education will be needed if the standards of rationality and fair dealing, of social justice and individual freedom, which are enshrined in our Constitution, are to be bred in the bones of our young men and women who are in their formative years and to whom the future belongs.
 
-_Previous musing: [Profit-Shy Asians (1957)](https://indianliberals.in/content/profit-shy-asians-by-kd-valicha/)_
+_Previous musing: [Profit-Shy Asians (1957)](https://indianliberals.in/musings/profit-shy-asians-by-kd-valicha/)_
