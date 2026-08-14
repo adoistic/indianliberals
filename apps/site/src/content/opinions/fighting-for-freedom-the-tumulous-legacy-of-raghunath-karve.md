@@ -2,6 +2,10 @@
 id: "fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve"
 title: "Fighting for Freedom : The Tumultuous Legacy of Raghunath Karve"
 pubDate: "2023-09-06T16:11:23Z"
+author_name: Avanti Lele
+author: avanti-lele
+subject: raghunath-karve
+kind: profile
 themes:
   - "civil-liberties"
   - "liberalism"
@@ -9,8 +13,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
-author: "raghunath-karve"
-hero_image: "/musings/covers/fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve.webp"
+hero_image: "/opinions/covers/fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve.webp"
 thinker_mentions:
   - thinker: bhimrao-ambedkar
     role: mention
@@ -34,7 +37,6 @@ key_concepts:
   - "samajswasthya"
 pull_quote: Karve was a strong believer in individual autonomy especially of the corporeal kind and was a strong supporter of birth control.
 stance: profiles
-kind: periodical-article
 period_window: post-reform
 geographic_scope:
   scale: regional

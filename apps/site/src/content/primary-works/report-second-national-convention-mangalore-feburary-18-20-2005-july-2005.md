@@ -63,6 +63,7 @@ related_thinkers:
 
 
 publication:
+  series_id: indian-liberal-group
   language: en
   publisher_id: indian-liberal-group
   publisher_name: "Published by: Kashmira Rao, Executive Secretary\nINDIAN LIBERAL GROUP\nSassoon Building, 1st Floor\n143, Mahatma Gandhi Road, Mumbai 400 001."

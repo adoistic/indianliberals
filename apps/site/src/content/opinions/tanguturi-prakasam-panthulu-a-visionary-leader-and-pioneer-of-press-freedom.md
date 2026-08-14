@@ -2,13 +2,17 @@
 id: tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom
 title: "Tanguturi Prakasam Panthulu: A Visionary Leader and pioneer of Press Freedom"
 pubDate: 2023-11-08T11:39:16Z
+author_name: Ch Prashanth
+author: ch-prashanth
+subject: tanguturi-prakasam
+kind: profile
 themes: 
 - civil-liberties
 - social-reform
 language: en
 needs_review: true
 draft: false
-hero_image: /musings/covers/tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom.webp
+hero_image: /opinions/covers/tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom.webp
 thinker_mentions: 
 - thinker: mahatma-gandhi
   role: mention
@@ -31,7 +35,7 @@ thinker_mentions:
   - quote: Khasa Subbarao, freedom fighter and journalist, started a magazine with the patronage of C Rajagopalachari and named it "Swarajya" magazine, carrying forward the legacy of Tanguturi Prakasam.
     context: Khasa Subba Rau identified as the continuator of the Swarajya tradition
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - c-rajagopalachari
 - khasa-subba-rau
 - mahatma-gandhi
@@ -46,7 +50,6 @@ key_concepts:
 - first-cm-andhra-pradesh
 pull_quote: He championed Press freedom as a reputed journalist and carried out crucial reforms for the development of Rural people.
 stance: profiles
-kind: periodical-article
 period_window: post-reform
 geographic_scope: 
   scale: regional

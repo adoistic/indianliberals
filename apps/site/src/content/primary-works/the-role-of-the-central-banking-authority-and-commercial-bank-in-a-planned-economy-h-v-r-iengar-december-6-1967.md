@@ -15,6 +15,7 @@ contributors:
 related_thinkers:
   - a-d-shroff
 publication:
+  series_id: ad-shroff-memorial-lecture
   language: en
   publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, 235, Dr. D. N. Road, Bombay-1.
   issuer_id: a-d-shroff-memorial-trust

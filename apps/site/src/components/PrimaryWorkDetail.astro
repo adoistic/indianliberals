@@ -59,9 +59,25 @@ const hreflang = hreflangAlternates(
 // Pull resolved author thinker entries for byline + bio links.
 const authorEntries = await resolveAuthorEntries(fm.authors, entry.id);
 
+// An edited volume's byline belongs to whoever edited it. Resolved first,
+// because a festschrift is "Edited by Parth J Shah" and not "By" any one of
+// its seventeen contributors.
+const editorEntries = await resolveAuthorEntries(fm.editors, entry.id);
+
 // Byline string for the header / meta description when no resolved authors.
+//
+// The role comparison is case-insensitive and trimmed on purpose. It used to be
+// `c.role === "author"`, and the extraction writes whatever the model returned:
+// on `liberalism-in-india-2` five contributors came back as "Author" and one as
+// "author", so the strict test matched exactly one of the six and the S. V. Raju
+// festschrift was bylined to a single essayist. CCS reported it as "the author's
+// name is not displaying correctly" (round 4, point 2). One lowercase letter
+// should not decide a book's byline.
+//
+// Contributors are a last resort. When a volume has editors this fallback is
+// not used at all: see the "Edited by" line in the header.
 const bylineFallback = (fm.contributors ?? [])
-  .filter((c) => c.role === "author")
+  .filter((c) => (c.role ?? "").trim().toLowerCase() === "author")
   .map((c) => c.thinker_unresolved || c.thinker?.id || "")
   .filter(Boolean)
   .join(", ");
@@ -248,8 +264,23 @@ const relatedThinkerSlugs = (fm.related_thinkers ?? [])
         </p>
       )}
 
-      {/* Byline */}
-      {(authorEntries.length > 0 || bylineFallback) && (
+      {/* Byline. An edited volume with no named authors is credited to its
+          editors; only when there is neither do the contributors stand in. */}
+      {authorEntries.length === 0 && editorEntries.length > 0 && (
+        <p class="mt-5 text-base text-(--color-fg) font-(family-name:--font-ui)">
+          Edited by{" "}
+          {editorEntries.map((e, i) => {
+            const sep = i < editorEntries.length - 1 ? ", " : "";
+            return e.kind === "organisation" ? (
+              <><a href={`/organisations/${e.id}/`} class="text-(--color-saffron-700)">{e.name}</a>{sep}</>
+            ) : (
+              <><a href={`/thinkers/${e.id}/`} class="text-(--color-forest-700)">{e.name}</a>{sep}</>
+            );
+          })}
+        </p>
+      )}
+
+      {(authorEntries.length > 0 || (editorEntries.length === 0 && bylineFallback)) && (
         <p class="mt-5 text-base text-(--color-fg) font-(family-name:--font-ui)">
           By{" "}
           {authorEntries.length > 0

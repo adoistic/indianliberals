@@ -22,7 +22,7 @@ themes:
 - religious_reform
 - womens_rights
 - free_press
-affiliations: 
+affiliations:
 - brahmo-samaj
 portrait: 
   photo: /thinkers/photos/raja-ram-mohan-roy.png

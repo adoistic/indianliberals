@@ -15,7 +15,6 @@ themes:
 - alternative-budgets
 - liberal-economic-thinking
 - project-for-economic-education
-- indian-liberal-group
 - fiscal-policy
 - privatization-and-globalization
 needs_review: true

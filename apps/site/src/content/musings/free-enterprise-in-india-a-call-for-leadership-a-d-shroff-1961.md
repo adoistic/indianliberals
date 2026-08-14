@@ -27,7 +27,7 @@ thinker_mentions:
   - quote: Vilhelm Roepke, eminent economist who was in no small measure responsible for the Economic Miracle in West Germany
     context: Röpke's credentials anchor Shroff's use of his warning about underdeveloped countries transplanting Western industrial forms without their underlying conditions
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - jayaprakash-narayan
 - wilhelm-ropke
 proposed_themes: []

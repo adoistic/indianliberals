@@ -47,7 +47,7 @@ thinker_mentions:
   - quote: Naoroji was instrumental in shaping the educational reform agenda along with fellow western-educated, liberal-minded reformers- Navrozji Fardunji, Karsondas Mulji, Bhau Daji
     context: listing Karsandas Mulji as part of Naoroji's immediate reform circle in Bombay
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - dadabhai-naoroji
 - gopal-krishna-gokhale
 - karsandas-mulji

@@ -30,7 +30,7 @@ thinker_mentions:
   - quote: Karsandas Mulji, a contemporary of Dadabhai Naoroji, was one of the pioneer Indian social reformers working for the cause of women emancipation.
     context: establishes Naoroji as the peer reference point for Mulji's historical placement
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - dadabhai-naoroji
 source_channel: editorial-opinions
 proposed_themes: 

@@ -17,6 +17,7 @@ related_thinkers:
   - aldous-huxley
   - a-d-shroff
 publication:
+  series_id: ad-shroff-memorial-lecture
   language: en
   publisher_name: "Published by THE A. D. SHROFF MEMORIAL TRUST, \"Piramal Mansion,\" 235, Dr. D. N. Road, BOMBAY 400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust ... and Printed by S. V. Limaye at the India Printing Works, 9, Nagindas Master Road, Fort, Bombay 400 023."
   issuer_id: a-d-shroff-memorial-trust

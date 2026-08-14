@@ -20,7 +20,7 @@ thinker_mentions:
   - quote: Friedrich Hayek** wrote a very influential book titled "[The Road to Serfdom](https://en.wikipedia.org/wiki/The_Road_to_Serfdom)." This book not only represents the essence of what is now called economic freedom, it also makes the important distinction between negative human rights (the core) and positive human rights (the undesirable and the noncore).
     context: Hayek's 1944 book is the theoretical anchor for Debroy's entire argument about freedom and economic freedom
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - friedrich-hayek
 proposed_themes: 
 - human-rights

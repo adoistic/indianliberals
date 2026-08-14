@@ -2,6 +2,10 @@
 id: acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart
 title: "Acharya N G Ranga: The Farmer’s Friend and Swatantra Party Stalwart"
 pubDate: 2023-11-15T12:24:03Z
+author_name: Ch Prashanth
+author: ch-prashanth
+subject: n-g-ranga
+kind: profile
 themes: 
 - agriculture
 - democracy
@@ -9,7 +13,7 @@ themes:
 language: en
 needs_review: true
 draft: false
-hero_image: /musings/covers/acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart.webp
+hero_image: /opinions/covers/acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart.webp
 thinker_mentions: 
 - thinker: kandukuri-veeresalingam
   role: mention
@@ -60,7 +64,7 @@ thinker_mentions:
   - quote: his belief in socialism was short-lived, as the Stalin regime's oppression of peasants and the initiation of Soviet land reforms such as forced collectivisation led to Ranga's departure from Marxist ideology.
     context: Stalin's agrarian terror is identified as the pivotal event that broke Ranga's faith in socialism
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - indira-gandhi
 - jawaharlal-nehru
 - john-stuart-mill

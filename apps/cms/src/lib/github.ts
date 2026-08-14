@@ -180,6 +180,26 @@ export async function readFile(env: GitHubEnv, path: string): Promise<ExistingFi
   }
 }
 
+/**
+ * Read a file as base64, without trying to decode it as text.
+ *
+ * `readFile` above returns UTF-8, which is right for markdown and wrong for a
+ * picture. A move has to carry hero images from one section's folder to
+ * another's, and a webp put through a text decoder does not survive the trip.
+ */
+export async function readBlob(env: GitHubEnv, path: string): Promise<{ base64: string; sha: string } | null> {
+  try {
+    const data = await api(
+      env,
+      repoPath(env, `contents/${encodeURI(path)}?ref=${env.GITHUB_BRANCH}`),
+    );
+    return { base64: String(data.content).replace(/\n/g, ''), sha: data.sha };
+  } catch (error) {
+    if (String(error).includes('404')) return null;
+    throw error;
+  }
+}
+
 export interface CommitRequest {
   path: string;
   content: string;
@@ -226,6 +246,12 @@ export interface BatchFile {
   content?: string;
   /** Binary content, already base64-encoded: pictures ride along this way. */
   base64?: string;
+  /**
+   * Delete this path instead of writing it. A move is a write and a delete in
+   * one commit, which is what keeps an entry from existing twice, or briefly
+   * not at all, while the site rebuilds.
+   */
+  remove?: boolean;
 }
 
 /**
@@ -268,10 +294,13 @@ export async function commitFiles(
   // A blob per file, sent as base64 so a Marathi title survives the trip.
   // Eight at a time: enough to be quick over fifty files, few enough that
   // GitHub's secondary rate limit never sees a burst worth throttling.
+  const removals = files.filter((file) => file.remove);
+  const writes = files.filter((file) => !file.remove);
+
   const blobs: { path: string; sha: string }[] = [];
-  for (let i = 0; i < files.length; i += 8) {
+  for (let i = 0; i < writes.length; i += 8) {
     const slice = await Promise.all(
-      files.slice(i, i + 8).map(async (file) => {
+      writes.slice(i, i + 8).map(async (file) => {
         let encoded = file.base64;
         if (encoded === undefined) {
           const bytes = new TextEncoder().encode(file.content ?? '');
@@ -293,12 +322,22 @@ export async function commitFiles(
     method: 'POST',
     body: JSON.stringify({
       base_tree: headCommit.tree.sha,
-      tree: blobs.map((blob) => ({
-        path: blob.path,
-        mode: '100644',
-        type: 'blob',
-        sha: blob.sha,
-      })),
+      tree: [
+        ...blobs.map((blob) => ({
+          path: blob.path,
+          mode: '100644',
+          type: 'blob',
+          sha: blob.sha,
+        })),
+        // A null sha removes the path from the tree. This is the git data
+        // API's way of saying "delete", and it is why a move can be one commit.
+        ...removals.map((file) => ({
+          path: file.path,
+          mode: '100644',
+          type: 'blob',
+          sha: null,
+        })),
+      ],
     }),
   });
 

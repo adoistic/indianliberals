@@ -41,7 +41,7 @@ thinker_mentions:
   - quote: She has been surviving on Amartya Sen, Fukoyama and Karl Marx not only for the sheer joy of critiquing, analyzing and learning their works but to see how economics and developmental policies could work in tandem.
     context: author bio at the end of the essay; Marx listed among the author's formative thinkers
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - amartya-sen
 - karl-marx
 ---

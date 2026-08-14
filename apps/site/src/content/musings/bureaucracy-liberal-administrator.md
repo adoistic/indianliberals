@@ -25,7 +25,7 @@ thinker_mentions:
   - quote: it may be said that the state of nature--what Adam Smith called 'natural liberty'--is the ideal of the liberal administrator.
     context: Smith's 'natural liberty' serves as the normative benchmark against which the liberal administrator's conduct is measured
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - adam-smith
 - ludwig-von-mises
 source_channel: so-musings

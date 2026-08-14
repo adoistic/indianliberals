@@ -35,7 +35,7 @@ thinker_mentions:
   - quote: While the internationalist vision of Nehru and his advocacy of non-alignment is well-recognized and deservedly so, the same is not the case with his comrade-turned-opponent C Rajagopalachari
     context: sets up Nehru's recognized internationalism as a foil for Rajaji's neglected anti-nuclear stance
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - c-rajagopalachari
 - jawaharlal-nehru
 - mahatma-gandhi

@@ -14,6 +14,7 @@ contributors:
   thinker: nani-palkhivala
 related_thinkers: []
 publication:
+  series_id: ad-shroff-memorial-lecture
   language: en
   publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. ROAD,
     BOMBAY-400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial

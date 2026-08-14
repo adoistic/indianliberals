@@ -46,7 +46,7 @@ thinker_mentions:
   - quote: Batlivala argued that these states could be strategically targeted by opposition parties.
     context: credits Batlivala with the strategic proposal for targeted opposition coordination
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - c-rajagopalachari
 - minoo-masani
 - s-v-raju

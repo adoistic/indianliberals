@@ -30,7 +30,7 @@ thinker_mentions:
   - quote: As Amartya Sen, Indian economist and Nobel laureate, has emphasised, poverty is not just a material problem.
     context: Norberg uses Sen to concede the limits of a pure dollar-a-day poverty line, then argues the absolutist measure still matters
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - amartya-sen
 excerpt_of: globalisation-and-the-poor
 ---

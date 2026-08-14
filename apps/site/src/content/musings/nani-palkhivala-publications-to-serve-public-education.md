@@ -24,7 +24,7 @@ thinker_mentions:
   - quote: Dadabhai Naoroji to political subjects like dismissal of a Governor, to budgets and musings on life.
     context: Naoroji cited as one of the historical figures Palkhivala reflected on in his collected articles
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - dadabhai-naoroji
 - m-c-chagla
 proposed_themes: 

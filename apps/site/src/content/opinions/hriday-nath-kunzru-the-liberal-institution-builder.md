@@ -52,7 +52,7 @@ thinker_mentions:
   - quote: The project also had the support of Pandit Nehru who sought foreign policy scholars to steer India in international affairs
     context: Nehru's backing for Kunzru's ISIS project as an area where liberal institution-building and state interest converged
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - c-y-chintamani
 - gopal-krishna-gokhale
 - jawaharlal-nehru

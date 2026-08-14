@@ -30,7 +30,7 @@ thinker_mentions:
   - quote: While most of us are aware of the works of the prominent male socio-religious reformers like Raja Rammohan Roy, the contributions of the female reformers, at a time when Indian society was still at odds with the concept of women's rights and liberty, need to be highlighted.
     context: Roy is invoked as the well-known benchmark against which Rukhmabai's neglected contributions are measured
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - raja-ram-mohan-roy
 source_channel: editorial-opinions
 proposed_themes: 

@@ -86,7 +86,7 @@ thinker_mentions:
   - quote: He demanded the withdrawal of the Indian ambassador to China; resignation of the Defence Minister
     context: Mody's demand for Krishna Menon's resignation as Defence Minister after the 1962 war debacle
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - dadabhai-naoroji
 - gopal-krishna-gokhale
 - jawaharlal-nehru

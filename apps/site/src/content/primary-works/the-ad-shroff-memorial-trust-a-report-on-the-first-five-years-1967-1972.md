@@ -12,6 +12,7 @@ contributors:
   thinker: n-a-palkhivala-chairman-board-of-trustees
 related_thinkers: []
 publication:
+  series_id: ffe-booklets
   language: en
   publisher_name: The A. D. Shroff Memorial Trust, Sohrab House, 3rd Floor, Dr. D.
     N. Road, Bombay 400 001

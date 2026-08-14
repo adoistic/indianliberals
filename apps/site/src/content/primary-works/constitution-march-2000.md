@@ -5,13 +5,14 @@ title:
   subtitle: ""
 work_type: occasional_paper
 authors:
-  - indian-liberal-group
+  - { collection: organisations, id: indian-liberal-group }
 editors: []
 contributors: []
 related_thinkers: 
   - s-v-raju
 
 publication:
+  series_id: indian-liberal-group
   language: en
   publisher_id: indian-liberal-group
   publisher_name: Indian Liberal Group, Sassoon Building, 1st Floor, 143, Mahatma Gandhi Road, Mumbai 400 001.

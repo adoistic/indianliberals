@@ -35,7 +35,7 @@ thinker_mentions:
   - quote: Naoroji's place in London was the hub of Indian liberal activists and it is here that Mehta made valuable connections.
     context: identifies Naoroji's London presence as the network node that shaped Mehta's liberal formation
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - dadabhai-naoroji
 source_channel: editorial-opinions
 proposed_themes: 
@@ -45,7 +45,6 @@ key_concepts:
 - local-self-governance
 - moderate-nationalism
 - gladstonian-liberalism
-- indian-national-congress
 - municipal-government
 pull_quote: However, the shrinking of the liberal space and a clear absence of substantial liberal constituency have left the moderate nationalists heirless, so to speak.
 stance: profiles

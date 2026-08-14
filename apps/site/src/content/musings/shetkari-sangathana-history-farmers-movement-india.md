@@ -11,7 +11,7 @@ language: en
 needs_review: true
 draft: false
 thinker_mentions: 
-- thinker: sharad-anantrao-joshi
+- thinker: sharad-joshi
   role: mention
   reasoning: Sharad Anantrao Joshi is identified as the founder and driving force of the Shetkari Sanghatana farmers' movement in Maharashtra, which is the primary subject of this historical account.
   evidence: 
@@ -20,8 +20,8 @@ thinker_mentions:
   - quote: The SS was kick-started in the late 1970s by Sharad Joshi.
     context: names Joshi directly as the person who launched the Shetkari Sanghatana
   key_passages: []
-related_thinkers: 
-- sharad-anantrao-joshi
+related_thinkers:
+- sharad-joshi
 source_channel: so-musings
 proposed_themes: 
 - farmers-movement

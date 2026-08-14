@@ -28,7 +28,7 @@ thinker_mentions:
   - quote: As Abraham Lincoln rightly said, the people would be able to face any crisis, provided only the correct facts were made known to them.
     context: Lincoln's aphorism is cited to argue that public education, not just commerce, is the liberal's primary obligation in a democracy
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - abraham-lincoln
 - nani-palkhivala
 proposed_themes: 

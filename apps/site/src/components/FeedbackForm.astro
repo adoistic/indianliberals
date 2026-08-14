@@ -1,0 +1,209 @@
+---
+// The form readers write to us on.
+//
+// CCS asked for "a dialogue box/feedback box on the website where users can
+// submit their responses or feedback" (round 4, point 4). This is it, and it is
+// built around what an archive actually receives: corrections. Somebody who
+// notices that a date is wrong, or that a pamphlet is filed under the wrong
+// author, is doing the archive a favour, and the form should cost them as
+// little as possible. So: no account, no email address required, and the page
+// they were reading is carried along automatically, because "the date is wrong"
+// is useless without it and nobody should have to paste a URL.
+//
+// The endpoint lives on the CMS Worker, which already has the archive bucket
+// bound and already knows who the editors are. Submissions land in R2 and are
+// read on the CMS's Feedback screen. Nothing here needs a mailbox.
+//
+// Three quiet guards: a honeypot field, a minimum time on the form, and a cap
+// of one message a minute per sender. All three are enforced again at the
+// endpoint, because a form field is only ever a suggestion.
+
+interface Props {
+  /** Where to post. The CMS origin, which holds the store and the inbox. */
+  endpoint?: string;
+  /** Set on an article page so the message arrives with its subject attached. */
+  page?: string;
+}
+
+const { endpoint = "https://cms.indianliberals.in/api/feedback", page } = Astro.props;
+
+const KINDS = [
+  { value: "correction", label: "A correction", hint: "A wrong date, a misattributed author, a broken scan." },
+  { value: "contribution", label: "Something to contribute", hint: "A document, a photograph, or a recollection." },
+  { value: "rights", label: "A rights query", hint: "You hold rights in something here." },
+  { value: "general", label: "Something else", hint: "" },
+];
+---
+
+<form
+  id="fb-form"
+  class="not-prose font-(family-name:--font-ui)"
+  data-endpoint={endpoint}
+  data-page={page ?? ""}
+  novalidate
+>
+  <div class="grid gap-5">
+    <fieldset class="grid gap-2">
+      <legend class="text-xs uppercase tracking-widest text-(--color-fg-muted) mb-1">
+        What is this about
+      </legend>
+      <div class="grid sm:grid-cols-2 gap-2">
+        {KINDS.map((k, i) => (
+          <label class="flex gap-2.5 items-start p-3 rounded-md border border-(--color-border) bg-(--color-bg) cursor-pointer hover:border-(--color-fg) transition-colors has-[:checked]:border-(--color-saffron-500) has-[:checked]:bg-(--color-saffron-100)/40">
+            <input
+              type="radio"
+              name="kind"
+              value={k.value}
+              checked={i === 0}
+              class="mt-1 accent-(--color-saffron-500)"
+            />
+            <span>
+              <span class="block text-sm font-semibold text-(--color-fg)">{k.label}</span>
+              {k.hint && <span class="block text-xs text-(--color-fg-muted) leading-snug mt-0.5">{k.hint}</span>}
+            </span>
+          </label>
+        ))}
+      </div>
+    </fieldset>
+
+    <div class="grid sm:grid-cols-2 gap-4">
+      <label class="grid gap-1.5">
+        <span class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Your name</span>
+        <input
+          type="text"
+          name="name"
+          autocomplete="name"
+          maxlength="120"
+          class="px-3 py-2.5 rounded-md border border-(--color-border) bg-(--color-bg) text-(--color-fg) text-sm focus:border-(--color-fg) outline-0 transition-colors"
+        />
+        <span class="text-xs text-(--color-fg-muted)">Optional.</span>
+      </label>
+
+      <label class="grid gap-1.5">
+        <span class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Your email</span>
+        <input
+          type="email"
+          name="email"
+          autocomplete="email"
+          maxlength="200"
+          class="px-3 py-2.5 rounded-md border border-(--color-border) bg-(--color-bg) text-(--color-fg) text-sm focus:border-(--color-fg) outline-0 transition-colors"
+        />
+        <span class="text-xs text-(--color-fg-muted)">Only if you would like a reply.</span>
+      </label>
+    </div>
+
+    <label class="grid gap-1.5">
+      <span class="text-xs uppercase tracking-widest text-(--color-fg-muted)">Your message</span>
+      <textarea
+        name="message"
+        rows="7"
+        required
+        maxlength="5000"
+        class="px-3 py-2.5 rounded-md border border-(--color-border) bg-(--color-bg) text-(--color-fg) text-sm leading-relaxed focus:border-(--color-fg) outline-0 transition-colors"
+      ></textarea>
+      <span class="text-xs text-(--color-fg-muted)" id="fb-count"></span>
+    </label>
+
+    {/* The honeypot. Hidden from people and from screen readers; a machine
+        filling every input it finds will fill this one, and that is the tell. */}
+    <div aria-hidden="true" style="position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden">
+      <label>Do not fill this in<input type="text" name="website" tabindex="-1" autocomplete="off" /></label>
+    </div>
+
+    <div class="flex flex-wrap items-center gap-4">
+      <button
+        type="submit"
+        id="fb-send"
+        class="inline-flex items-center gap-2 px-5 py-2.5 bg-(--color-fg) text-white! rounded-full text-sm font-semibold no-underline hover:bg-(--color-forest-700) transition-colors disabled:opacity-50"
+      >
+        Send it
+      </button>
+      <p class="text-xs text-(--color-fg-muted) max-w-sm leading-snug">
+        We keep what you send only to act on it. If you leave no address, we cannot write back, and
+        the message is still read.
+      </p>
+    </div>
+
+    <div id="fb-result" aria-live="polite"></div>
+  </div>
+</form>
+
+<script is:inline>
+  (function () {
+    const form = document.getElementById("fb-form");
+    if (!form) return;
+    const endpoint = form.dataset.endpoint;
+    const button = document.getElementById("fb-send");
+    const result = document.getElementById("fb-result");
+    const counter = document.getElementById("fb-count");
+    const area = form.querySelector('textarea[name="message"]');
+    const startedAt = Date.now();
+
+    function say(text, tone) {
+      const good = tone === "good";
+      result.innerHTML =
+        '<p class="text-sm rounded-md px-3.5 py-3 border ' +
+        (good
+          ? 'border-(--color-forest-700) text-(--color-forest-700)'
+          : 'border-(--color-border) text-(--color-fg)') +
+        '"></p>';
+      result.firstChild.textContent = text;
+    }
+
+    function paintCount() {
+      const left = 5000 - area.value.length;
+      counter.textContent = left < 500 ? left + " characters left" : "";
+    }
+    area.addEventListener("input", paintCount);
+    paintCount();
+
+    form.addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const data = new FormData(form);
+      const message = String(data.get("message") || "").trim();
+      if (message.length < 10) {
+        say("Please write a little more, so we can act on it.");
+        area.focus();
+        return;
+      }
+
+      button.disabled = true;
+      const original = button.textContent;
+      button.textContent = "Sending";
+
+      try {
+        const response = await fetch(endpoint, {
+          method: "POST",
+          headers: { "content-type": "application/json" },
+          body: JSON.stringify({
+            kind: data.get("kind"),
+            name: data.get("name"),
+            email: data.get("email"),
+            message,
+            website: data.get("website"),
+            startedAt,
+            // The page they were reading, so a correction arrives attached to
+            // the thing it corrects.
+            page: form.dataset.page || location.pathname,
+          }),
+        });
+        const payload = await response.json().catch(() => ({}));
+        if (!response.ok) {
+          say(payload.error || "That did not send. Please try again in a moment.");
+          return;
+        }
+        form.querySelector(".grid").innerHTML = "";
+        say(
+          "Thank you. It has reached the editors, and somebody will read it. " +
+            "If you left an address and it needs a reply, you will get one.",
+          "good",
+        );
+      } catch (error) {
+        say("That did not send, which usually means the connection dropped. Please try again.");
+      } finally {
+        button.disabled = false;
+        button.textContent = original;
+      }
+    });
+  })();
+</script>

@@ -14,6 +14,7 @@ contributors:
   thinker: nani-palkhivala
 related_thinkers: []
 publication:
+  series_id: ad-shroff-memorial-lecture
   language: en
   publisher_id: a-d-shroff-memorial-trust
   publisher_name: 'Published by

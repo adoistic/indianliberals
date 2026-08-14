@@ -16,6 +16,7 @@ related_thinkers:
   - a-d-shroff
 
 publication:
+  series_id: ad-shroff-memorial-lecture
   language: en
   publisher_id: a-d-shroff-memorial-trust
   publisher_name: The A. D. Shroff Memorial Trust, Piramal Mansion, 235, Dr. D. N. Rd., BOMBAY - 400 001.

@@ -11,6 +11,7 @@ blurb: >-
 kind: annual_analysis
 publisher_id: indian-liberal-group
 issuer_id: indian-liberal-group
+parent_series: indian-liberal-group
 numbered: true
 needs_review: true
 draft: false

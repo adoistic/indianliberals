@@ -45,7 +45,7 @@ thinker_mentions:
   - quote: Karl Marx (the perverse student of Hegel) also had some dim notion of Freedom as the culmination of his communist society
     context: assessment of Marxist theory of freedom as a dim echo of Hegelian idealism, contrasted with Swatantra's free-market freedom
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - jawaharlal-nehru
 - karl-marx
 - mahatma-gandhi

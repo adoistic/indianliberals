@@ -5,7 +5,7 @@ title:
   subtitle: A Manifesto
 work_type: occasional_paper
 authors:
-  - forum-of-free-enterprise
+  - { collection: organisations, id: forum-of-free-enterprise }
 editors: []
 contributors: []
 related_thinkers: []

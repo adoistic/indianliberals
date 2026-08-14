@@ -2,12 +2,16 @@
 id: lokmanya-tilak-a-conservative-liberal
 title: "Lokmanya Tilak : A Conservative Liberal?"
 pubDate: 2023-10-11T22:15:37Z
+author_name: Avanti Lele
+author: avanti-lele
+subject: bal-gangadhar-tilak
+kind: profile
 themes: 
 - liberalism
 language: en
 needs_review: true
 draft: false
-hero_image: /musings/covers/lokmanya-tilak-a-conservative-liberal.webp
+hero_image: /opinions/covers/lokmanya-tilak-a-conservative-liberal.webp
 thinker_mentions: 
 - thinker: gopal-krishna-gokhale
   role: mention
@@ -32,7 +36,7 @@ thinker_mentions:
   - quote: The ‘moderate’ leadership in the late 19th century included Gopal Krishna Gokhale, M.G Ranade, Dadabhai Naoroji, Pherozeshah Mehta
     context: lists Mehta as one of the English-educated moderate leaders whose approach Tilak challenged
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - dadabhai-naoroji
 - gopal-krishna-gokhale
 - pherozeshah-mehta
@@ -47,14 +51,12 @@ key_concepts:
 - miscarriage-of-historical-scholarship
 pull_quote: He has often been interpreted and largely misinterpreted as a revolutionary, an extremist, and a nationalist leader who supported the use of violence.
 stance: profiles
-kind: periodical-article
 period_window: post-reform
 geographic_scope: 
   scale: national
   places: 
   - maharashtra
 translation_status: original
-author: Avanti lele 
 ---
 
 _Bal Gangadhar Tilak was well known as an extremist and revolutionary. By limiting him to these terms, historians misjudged him with a bias towards Anglo-saxan supremacy and left different facets of Tilak unexplored._

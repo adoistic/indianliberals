@@ -10,6 +10,7 @@ editors: []
 contributors: []
 related_thinkers: []
 publication:
+  series_id: ad-shroff-memorial-lecture
   language: en
   publisher_name: "Published by THE A. D. SHROFF MEMORIAL TRUST, Piramal Mansion, 2nd Floor, 235, Dr. D. N. Road, Mumbai - 400 001. [colophon p.4: Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Mumbai 400 001, and printed by Tata Donnelley Limited, 414, Veer Savarkar Marg, Prabhadevi, Mumbai 400 025.]"
   issuer_id: a-d-shroff-memorial-trust

@@ -47,7 +47,7 @@ thinker_mentions:
   - quote: there were some intellectuals such as Rammohan Roy and Dwarkanath who defended indigo planters as a class of entrepreneurs who wanted to raise the productivity of land
     context: Rammohan Roy's contrasting pro-planter stance illustrating the complexity of liberal opinion on indigo cultivation
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - dwarkanath-tagore
 - ishwar-chandra-vidyasagar
 - raja-ram-mohan-roy

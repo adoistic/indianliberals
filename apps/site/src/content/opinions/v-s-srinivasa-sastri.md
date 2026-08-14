@@ -50,7 +50,7 @@ thinker_mentions:
   - quote: what name can be placed beside his, save only that of Dadabhai [Naoroji]?
     context: Naoroji invoked as the supreme exemplar of Indian liberal patriotism alongside Gokhale
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - dadabhai-naoroji
 - gopal-krishna-gokhale
 - mahatma-gandhi

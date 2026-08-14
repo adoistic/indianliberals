@@ -19,6 +19,7 @@ contributors:
   thinker: seetha-parthasarathy-freelance-journalist-and-copy-writer
 related_thinkers: []
 publication:
+  series_id: ffe-union-budget
   language: en
   publisher_id: forum-of-free-enterprise
   publisher_name: Published by S.S. Bhandare for Forum of Free Enterprise, "Peninsula

@@ -2,6 +2,10 @@
 id: two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak
 title: "Two Strands of Liberal Expression : Dr. Anandibai Joshi and Lakshmibai Tilak"
 pubDate: 2023-10-25T12:19:19Z
+author_name: Avanti Lele
+author: avanti-lele
+subject: anandibai-joshee
+kind: profile
 themes: 
 - civil-society
 - liberalism
@@ -9,7 +13,7 @@ themes:
 language: en
 needs_review: true
 draft: false
-hero_image: /musings/covers/two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak.webp
+hero_image: /opinions/covers/two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak.webp
 thinker_mentions: 
 - thinker: anandibai-joshee
   role: subject
@@ -38,10 +42,11 @@ thinker_mentions:
   - quote: Pandita Ramabai, Savitribai Phule, Ramabai Ranade, Dr. Anandibai Joshi, Lakshmibai Tilak among others, worked towards emancipation of women through education
     context: listing of the women's education movement contemporaries
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - anandibai-joshee
 - pandita-ramabai
 - ramabai-ranade
+- lakshmibai-tilak
 source_channel: so-musings
 proposed_themes: 
 - feminism
@@ -54,7 +59,6 @@ key_concepts:
 - suffrage-movement
 pull_quote: As liberal feminist ideas became more articulate and the suffrage movement became stronger in America, an intellectual churning shaped the Indian psyche in the latter half of the 19th century.
 stance: profiles
-kind: periodical-article
 period_window: post-reform
 geographic_scope: 
   scale: national

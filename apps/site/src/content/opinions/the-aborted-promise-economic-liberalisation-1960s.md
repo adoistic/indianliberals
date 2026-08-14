@@ -53,7 +53,7 @@ thinker_mentions:
   - quote: L K Jha, the influential Principal Secretary to Shastri, was also very much a pro-market bureaucrat.
     context: identifies Jha as a key technocratic driver of the liberalisation agenda under Shastri
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - indira-gandhi
 - l-k-jha
 - lal-bahadur-shastri

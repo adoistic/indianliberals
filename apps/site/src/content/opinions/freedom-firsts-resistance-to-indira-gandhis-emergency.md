@@ -63,7 +63,7 @@ thinker_mentions:
   - quote: Rajaji seems to have leaned favorably towards Khrushchev in his writings in the late 1950s, probably because Khrushchev first politely refused to pay heed to his call and then went on to announce a unilateral test moratorium. This, for Rajaji, stood in contrast with belligerent US posturing and the doctrine of brinkmanship under John Foster Dulles
     context: contextualising Rajaji's relative sympathy for Khrushchev against Dulles's confrontational Cold War posture
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - jawaharlal-nehru
 - john-foster-dulles
 - lal-bahadur-shastri

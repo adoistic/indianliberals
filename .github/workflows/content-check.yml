@@ -51,6 +51,13 @@ jobs:
         working-directory: apps/site
         run: npx astro sync
 
+      # Shapes are not enough. Astro's reference() records an id without
+      # checking that the entry exists, so a mistyped author silently drops a
+      # byline and nothing anywhere says so. See the header of the script.
+      - name: Check that every reference resolves
+        working-directory: apps/site
+        run: node scripts/check-references.mjs
+
       - name: Say what broke
         if: failure()
         run: |

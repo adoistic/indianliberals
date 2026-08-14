@@ -57,7 +57,7 @@ thinker_mentions:
   - quote: The influence of Mill on Agarkar is conspicuous
     context: direct identification of Mill as Agarkar's most significant intellectual source
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - bal-gangadhar-tilak
 - dadabhai-naoroji
 - john-stuart-mill

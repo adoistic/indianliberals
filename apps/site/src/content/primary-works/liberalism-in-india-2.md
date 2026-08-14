@@ -1,53 +1,117 @@
 ---
 id: liberalism-in-india-2
-title: 
-  main: LIBERALISM IN INDIA PAST, PRESENT AND FUTURE
+title:
+  main: "Liberalism in India: Past, Present and Future"
+  subtitle: Essays in Honour of S V Raju
 work_type: edited_volume
-publication: 
+purpose: festschrift
+editors:
+- parth-shah
+publication:
   year: 2016
   language: en
   publisher_id: centre-for-civil-society
   issuer_id: centre-for-civil-society
   series_id: ccs-viewpoint
-  publisher_name: centre for civil society
+  publisher_name: Centre for Civil Society
+  place: New Delhi
 pdf_url: https://archive.indianliberals.in/liberals/liberalism-in-india-2.pdf
-summary: Liberalism](https://archive.indianliberals.in/liberals/liberalism-in-india-2.pdf%22,%22summary%22:%22Liberalism) in India Past, Present and Future is a collection of essays in honour of S V Raju, edited by Parth J Shah and first published in 2016 by the Centre for Civil Society. The volume brings together essays examining the history, meaning and contemporary relevance of liberalism in India, with particular attention to liberty and its relationship with equality, security, welfare, democracy, reservations, constitutionalism, decentralisation, and religious and cultural freedom.
-provenance: 
+cover_image: https://archive.indianliberals.in/covers/liberalism-in-india-2.webp
+summary: >-
+  Liberalism in India, Past, Present and Future is a collection of essays in
+  honour of S V Raju, edited by Parth J Shah and published in 2016 by the Centre
+  for Civil Society with support from the Friedrich Naumann Foundation for
+  Freedom. The volume examines the history, meaning and contemporary relevance
+  of liberalism in India, with particular attention to liberty and its
+  relationship with equality, security, welfare, democracy, reservations,
+  constitutionalism, decentralisation, and religious and cultural freedom.
+provenance:
   source: ccs_archive
-physical: 
-  page_count: 254
-  page_count_visible: 254
-contributors: 
+  scan_quality: good
+physical:
+  pages_total: 254
+  pages_total_source: pypdfium2
+contributors:
+- thinker: parth-shah
+  thinker_unresolved: Parth J Shah
+  role: editor
+  toc_index: 1
 - thinker: hindol-sengupta
   thinker_unresolved: Hindol Sengupta
-  role: Author
+  role: author
   toc_index: 2
+- thinker_unresolved: Atanu Dey
+  role: author
+  toc_index: 3
+- thinker_unresolved: Laveesh Bhandari
+  role: author
+  toc_index: 4
+- thinker_unresolved: Nirvikar Singh
+  role: author
+  toc_index: 5
+- thinker_unresolved: Surjit S Bhalla
+  role: author
+  toc_index: 6
 - thinker: gurcharan-das
-  thinker_unresolved: Gurucharan Das
-  role: Author
+  thinker_unresolved: Gurcharan Das
+  role: author
   toc_index: 7
+- thinker_unresolved: R Jagannathan
+  role: author
+  toc_index: 8
 - thinker: ashok-desai
   thinker_unresolved: Ashok V Desai
-  role: Author
+  role: author
   toc_index: 9
 - thinker: jayaprakash-narayan
   thinker_unresolved: Jayaprakash Narayan
   role: author
   toc_index: 10
+- thinker_unresolved: Pranay Kotasthane
+  role: author
+  toc_index: 11
+- thinker_unresolved: Nitin Pai
+  role: author
+  toc_index: 11
+- thinker_unresolved: Barun S Mitra
+  role: author
+  toc_index: 13
+- thinker_unresolved: Jaithirth Rao
+  role: author
+  toc_index: 14
+- thinker_unresolved: John, Lord Alderdice
+  role: author
+  toc_index: 15
 - thinker: ms-seetha
-  thinker_unresolved: seetha
-  role: Author
+  thinker_unresolved: Seetha
+  role: author
   toc_index: 16
 - thinker: nadir-godrej
   thinker_unresolved: Nadir Godrej
-  role: Author
+  role: author
   toc_index: 17
-themes: 
-- Liberalism
-pdf_staging_path: file:///C:/Users/SALT01/Downloads/Liberalism-in-India%20(2).pdf
+themes:
+- liberalism
+- individual-liberty
+- constitutionalism
+recommended_authority_additions:
+- kind: thinker
+  verbatim: Atanu Dey
+  context: Author of "Why India Needs a New Constitution". No profile in the archive.
+- kind: thinker
+  verbatim: R Jagannathan
+  context: >-
+    Author of the chapter on religious and cultural freedom. Text extraction
+    split his name across the small-capitals setting and the archive recorded it
+    for a time as "R J AGANNATHAN"; the printed contents page reads R
+    JAGANNATHAN.
+- kind: thinker
+  verbatim: Barun S Mitra
+  context: Author of "Liberalism for Whom? Confessions of an Incorrigible Liberal".
+- kind: thinker
+  verbatim: Jaithirth Rao
+  context: Author of "The Problem with Liberal Parties".
 pdf_size_mb: 3
-editors: 
-- parth-shah
 ---
 
 ## Summary
@@ -66,7 +130,7 @@ The essays examine what Shah calls the 'liberty conflicts' and 'liberty implicat
 - Nirvikar Singh examines how digital technology is changing economic activity, social interaction and government, while also creating new questions concerning freedom and security.
 - Surjit S Bhalla examines reservations and affirmative action in relation to equality of opportunity.
 - Gurcharan Das examines the relationship between liberty, opportunity and inequality.
-- R J AGANNATHAN examines religious and cultural freedom through contemporary Indian examples involving expression, religion and state intervention.
+- R Jagannathan examines religious and cultural freedom through contemporary Indian examples involving expression, religion and state intervention.
 - Ashok V Desai examines the relationship between political and economic freedom, while Jayaprakash Narayan examines the relationship between liberty and the location of political power.
 
 ## Essays
@@ -141,14 +205,14 @@ Gurcharan Das's chapter examines inequality through the lens of opportunity. The
 - Das considers the implications of inequality for a liberal society.
 
 ### Religious and Cultural Freedom in India: Both too little and too much
-*By R J AGANNATHAN*
+*By R Jagannathan*
 
-R J AGANNATHAN's chapter examines religious and cultural freedom through a series of contemporary Indian cases. The chapter considers questions involving freedom of expression, threats by organised groups, state intervention in religious institutions, minority status and restrictions on films and speech. Its central concern is whether the state adequately protects individual freedom while maintaining equal treatment across religious and cultural groups. 
+R Jagannathan's chapter examines religious and cultural freedom through a series of contemporary Indian cases. The chapter considers questions involving freedom of expression, threats by organised groups, state intervention in religious institutions, minority status and restrictions on films and speech. Its central concern is whether the state adequately protects individual freedom while maintaining equal treatment across religious and cultural groups. 
 
-- AGANNATHAN examines the case of writer Perumal Murugan and the pressure placed on his freedom of expression.
-- AGANNATHAN examines the state's response to violent protests following offensive speech.
-- AGANNATHAN discusses the Ramakrishna Mission's dispute over minority status and state intervention.
-- AGANNATHAN uses these cases to question the protection of religious and cultural freedom in India.
+- Jagannathan examines the case of writer Perumal Murugan and the pressure placed on his freedom of expression.
+- Jagannathan examines the state's response to violent protests following offensive speech.
+- Jagannathan discusses the Ramakrishna Mission's dispute over minority status and state intervention.
+- Jagannathan uses these cases to question the protection of religious and cultural freedom in India.
 
 ### Political and Economic Freedom: Are they compatible?
 *By ASHOK V DESAI*

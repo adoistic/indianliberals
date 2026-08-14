@@ -31,7 +31,7 @@ thinker_mentions:
   - quote: The various forces which have contributed to the shaping of modern India originated in the mind of Raja Ram Mohan Roy.
     context: author credits Roy with generating all the transformative ideas of modern India
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - rabindranath-tagore
 - raja-ram-mohan-roy
 source_channel: indian-libertarian

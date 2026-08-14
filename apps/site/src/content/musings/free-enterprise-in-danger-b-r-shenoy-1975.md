@@ -42,7 +42,7 @@ thinker_mentions:
   - quote: even a hypothetical government of Gandhian ascetics - with J.P. Narayan or Vinoba Bhave as prime minister - could make no significant difference to these developments under the prevailing 'schizophrenic policies'
     context: Both Narayan and Bhave illustrate Shenoy's structural-not-moral diagnosis of India's economic problems
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - jayaprakash-narayan
 - jrd-tata
 - p-n-haksar

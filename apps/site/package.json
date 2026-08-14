@@ -7,13 +7,14 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "npm run lint:emdash && astro build && pagefind --site dist",
+    "build": "npm run lint:emdash && npm run lint:refs && astro build && pagefind --site dist",
     "build:astro-only": "astro build",
     "build:index": "pagefind --site dist",
     "preview": "astro preview",
     "astro": "astro",
     "check": "astro check",
-    "lint:emdash": "node scripts/lint-no-emdash.mjs"
+    "lint:emdash": "node scripts/lint-no-emdash.mjs",
+    "lint:refs": "node scripts/check-references.mjs"
   },
   "dependencies": {
     "@astrojs/cloudflare": "^12.6.6",

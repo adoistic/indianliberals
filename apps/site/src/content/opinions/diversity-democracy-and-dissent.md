@@ -19,7 +19,7 @@ thinker_mentions:
   - quote: we see Mahatma Gandhi, the "arch dissenter of the twentieth century" winning India its freedom in 1947
     context: Gandhi invoked as the supreme historical example of constructive dissent in the Indian tradition
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - mahatma-gandhi
 source_channel: editorial-opinions
 proposed_themes: 
@@ -39,7 +39,7 @@ geographic_scope:
   scale: national
   places: 
   - maharashtra
-author: Lakshmi-Ramanandan
+author: lakshmi-ramanandan
 ---
 
 **DIVERSITY, DEMOCRACY AND DISSENT**

@@ -36,7 +36,7 @@ thinker_mentions:
   - quote: "Chintamani's response to Gokahle's protest at the criticism went: 'Sir, I have worshipped you all my life. Must you grudge my freedom even for one day?'"
     context: their direct exchange encapsulating the tension between reverence and editorial independence
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - gopal-krishna-gokhale
 source_channel: editorial-opinions
 proposed_themes: 

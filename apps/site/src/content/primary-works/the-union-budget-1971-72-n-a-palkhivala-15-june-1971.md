@@ -8,8 +8,7 @@ authors:
   - nani-palkhivala
 editors: []
 contributors: []
-related_thinkers:
-  - federation-of-indian-chambers-of-commerce
+related_thinkers: []
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

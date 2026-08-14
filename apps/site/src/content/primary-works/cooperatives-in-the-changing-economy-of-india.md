@@ -5,7 +5,7 @@ title:
   subtitle: ""
 work_type: pamphlet
 authors:
-  - forum-of-free-enterprise
+  - { collection: organisations, id: forum-of-free-enterprise }
 editors: []
 contributors: []
 related_thinkers:

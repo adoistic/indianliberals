@@ -60,7 +60,7 @@ thinker_mentions:
   - quote: What enabled this coalition of disparate groups was the Nehruvian Congress' grip over political power which effectively turned India into one-party democracy and a radical left drift in economic policy.
     context: identifies Nehru's policy agenda as the direct catalyst for the Swatantra coalition
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - b-r-shenoy
 - c-rajagopalachari
 - friedrich-hayek

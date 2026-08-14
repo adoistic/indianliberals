@@ -14,6 +14,7 @@ related_thinkers:
   - a-d-shroff
   - mahatma-gandhi
 publication:
+  series_id: ad-shroff-memorial-lecture
   language: en
   publisher_name: "Published by The A. D. Shroff Memorial Trust, Piramal Mansion, 2nd Floor, 235, Dr. D. N. Road, Mumbai-400 001. (Colophon: Published by M. R. Pai on behalf of the A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Mumbai-400 001, and printed by India Printing Works, 42, G. D. Ambekar Marg, Wadala, Mumbai-400031.)"
   issuer_id: a-d-shroff-memorial-trust

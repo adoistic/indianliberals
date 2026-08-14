@@ -19,7 +19,7 @@ thinker_mentions:
   - quote: Abraham Lincoln described it as government of the people, by the people and for the people. This is the only kind of government which can be trusted with a Plan of this kind.
     context: Lincoln's definition is invoked as the standard a democratic government must meet before it can legitimately plan the economy
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - abraham-lincoln
 source_channel: so-musings
 proposed_themes: 

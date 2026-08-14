@@ -12,6 +12,7 @@ contributors:
 related_thinkers:
   - margaret-thatcher
 publication:
+  series_id: indian-liberal-group
   language: en
   publisher_id: indian-liberal-group
   publisher_name: "Published by: Kashmira Rao for the INDIAN LIBERAL GROUP, 1st Floor, Sassoon Building, 143, Mahatma Gandhi Road, Mumbai 400 001"

@@ -2,14 +2,17 @@
 id: "gopal-ganesh-agarkar-and-the-vindication-of-womens-education"
 title: "Gopal Ganesh Agarkar and the Vindication of Women’s Education"
 pubDate: "2023-10-04T18:17:11Z"
+author_name: Avanti Lele
+author: avanti-lele
+subject: gopal-ganesh-agarkar
+kind: profile
 themes:
   - "liberalism"
   - "social-reform"
 language: "en"
 needs_review: true
 draft: false
-author: "gopal-ganesh-agarkar"
-hero_image: "/musings/covers/gopal-ganesh-agarkar-and-the-vindication-of-womens-education.webp"
+hero_image: "/opinions/covers/gopal-ganesh-agarkar-and-the-vindication-of-womens-education.webp"
 thinker_mentions:
   - thinker: bal-gangadhar-tilak
     role: mention
@@ -40,7 +43,6 @@ key_concepts:
   - "sudharak"
 pull_quote: In the face of opposition from several sections of the society, Agarkar held on to the liberal ideas of equality of opportunity, individual choice, individual freedom, and education for women.
 stance: profiles
-kind: periodical-article
 period_window: post-reform
 geographic_scope:
   scale: regional

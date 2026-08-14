@@ -12,6 +12,7 @@ contributors:
 related_thinkers:
   - minoo-masani
 publication:
+  series_id: ilg-liberal-budget
   language: en
   publisher_id: indian-liberal-group
   publisher_name: "Indian Liberal Group, National Headquarters: Sassoon Building, 1st Floor, 143 Mahatma Gandhi Road, Mumbai 400 001"

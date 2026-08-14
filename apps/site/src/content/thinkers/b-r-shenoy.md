@@ -21,7 +21,7 @@ themes:
 - anti_planning
 - free_trade
 - austrian_economics
-affiliations: 
+affiliations:
 - gujarat-university
 - forum-of-free-enterprise
 - mont-pelerin-society

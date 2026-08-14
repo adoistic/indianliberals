@@ -46,7 +46,7 @@ thinker_mentions:
   - quote: The likes of Gokhale, Tilak, Chiplunkar, and Agarkar sought to reform and mobilise the native population to create a modern Indian society and polity.
     context: situates Gokhale in Phule's reform milieu as a fellow but differently-oriented Punekar
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - bhimrao-ambedkar
 - gopal-krishna-gokhale
 - periyar-e-v-ramasamy

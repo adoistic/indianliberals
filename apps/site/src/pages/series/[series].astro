@@ -68,23 +68,53 @@ const numberedCount = g.items.filter((w) => ordinalOf(w) !== null).length;
         </p>
       )}
 
-      {g.children.length > 0 && (
-        <p class="text-sm mt-4 font-(family-name:--font-ui)">
-          <span class="text-(--color-fg-muted)">Sub-series: </span>
-          {g.children.map((c, i) => (
-            <>
-              {i > 0 && <span class="text-(--color-fg-muted)"> · </span>}
-              <a href={`/series/${c.entry.id}/`} class="text-(--color-forest-700)">
-                {c.entry.data.name} ({c.items.length})
-              </a>
-            </>
-          ))}
-        </p>
-      )}
     </div>
   </section>
 
+  {/* The runs inside this run. These used to sit on the Periodicals index
+      beside their own parent, which made the Forum of Free Enterprise read as
+      six publishers rather than one (CCS, round 4, point 1). They live here
+      now, where a reader has already chosen the Forum and the distinction
+      between its lecture series and its budget booklets starts to matter. */}
+  {g.children.length > 0 && (
+    <div class="mx-auto max-w-6xl px-6 pt-10">
+      <h2 class="font-(family-name:--font-display) font-semibold text-lg text-(--color-fg) mb-1">
+        Runs within {d.name}
+      </h2>
+      <p class="text-(--color-fg-muted) text-sm mb-5 font-(family-name:--font-ui)">
+        {g.children.reduce((n, c) => n + c.items.length, 0)} further works, in{" "}
+        {g.children.length === 1 ? "one run" : `${g.children.length} runs`}
+      </p>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 font-(family-name:--font-ui)">
+        {g.children.map((c) => (
+          <li>
+            <a
+              href={`/series/${c.entry.id}/`}
+              class="block h-full p-3.5 bg-(--color-bg) border border-(--color-border) rounded no-underline hover:border-(--color-fg) hover:shadow-sm transition-all group"
+            >
+              <span class="text-[10px] uppercase tracking-wider font-semibold text-(--color-fg-muted)">
+                {KIND_LABEL[c.entry.data.kind]}
+              </span>
+              <h3 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight mt-0.5">
+                {c.entry.data.name}
+              </h3>
+              <p class="text-xs text-(--color-fg-muted) mt-1">
+                {c.items.length} {c.items.length === 1 ? "work" : "works"}
+                {c.yearRange && ` · ${c.yearRange}`}
+              </p>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )}
+
   <div class="mx-auto max-w-6xl px-6 py-12">
+    {g.children.length > 0 && (
+      <h2 class="font-(family-name:--font-display) font-semibold text-lg text-(--color-fg) mb-5">
+        The rest of the run
+      </h2>
+    )}
     <ul class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-3 font-(family-name:--font-ui)">
       {g.items.map((w) => (
         <li>

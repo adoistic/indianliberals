@@ -13,6 +13,7 @@ related_thinkers:
   - m-r-pai
   - nani-palkhivala
 publication:
+  series_id: ad-shroff-memorial-lecture
   language: en
   publisher_name: THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. ROAD, BOMBAY-400 001. Published by M. R. Pai on behalf of The A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400 001, and Printed by S. V. Limaye at the India Printing Works, 9, Nagindas Master Road, Fort, Bombay 400 023.
   issuer_id: a-d-shroff-memorial-trust

@@ -30,7 +30,7 @@ period_window: post-reform
 geographic_scope: 
   scale: national
   places: []
-author: Dileep-P-Chandran
+author: dileep-p-chandran
 ---
 
 **THE IMAGINED DEMOCRACY IN INDIA: A DEMOCRACY MINUS DISSENT?**

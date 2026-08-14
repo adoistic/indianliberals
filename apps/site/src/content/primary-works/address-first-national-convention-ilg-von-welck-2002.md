@@ -28,7 +28,6 @@ rights:
   rights_statement: "Rights held by original publishers / Centre for Civil Society; reproduced for archival access."
 themes:
   - liberalism
-  - indian-liberal-group
   - good-governance
   - civil-society
   - friedrich-naumann-foundation

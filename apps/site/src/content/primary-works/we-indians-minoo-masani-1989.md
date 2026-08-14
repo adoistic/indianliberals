@@ -13,6 +13,7 @@ contributors:
     thinker_unresolved: null
 related_thinkers: []
 publication:
+  series_id: indian-liberal-group
   language: en
   publisher_id: indian-liberal-group
   publisher_name: Indian Liberal Group, Sassoon Building, 1st floor, 143, M. G. Road, Mumbai 400 001

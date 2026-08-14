@@ -1,0 +1,58 @@
+---
+// The picture at the top of an opinion piece or a musing.
+//
+// CCS, round 4: "when we open an individual opinion piece, the image gets
+// cropped again, and the complete image is not visible."
+//
+// They were right, and the cause was not the one we assumed. Both the listing
+// card and the article page capped height and applied object-cover. What
+// differs is the column: a card is 408px wide, the article column is 720px.
+// The same 480px cap therefore bites nearly three times harder on the article
+// page. A 192x306 portrait showed 74% of itself on the card and 42% here, which
+// is why the subject's head ended at the chin.
+//
+// The fix is to stop cropping and constrain the other axis instead. Given the
+// image's real proportions, the widest it may be drawn is whatever keeps it
+// inside MAX_HEIGHT; a tall portrait is rendered narrow and centred rather than
+// wide and beheaded. Nothing is ever cut off, and no image is enlarged past the
+// column. Height is still bounded, so a very tall picture cannot take the whole
+// screen before the first line of prose.
+//
+// Real dimensions come from imageSize(), read out of the file header at build
+// time. The old markup hard-coded width="1024" height="576" on every image
+// regardless of its shape, which reserved the wrong box and made the page jump
+// as it loaded.
+
+import { imageSize } from "~/lib/image-size";
+
+interface Props {
+  src: string;
+  /** Tallest the picture may be drawn, in px. */
+  maxHeight?: number;
+  /** Widest the column allows, in px — the image is never upscaled past it. */
+  maxWidth?: number;
+  class?: string;
+}
+
+const { src, maxHeight = 512, maxWidth = 768, class: extraClass = "" } = Astro.props;
+
+const dim = imageSize(src);
+
+// The widest this image may be drawn without exceeding maxHeight. Unknown
+// formats fall back to the column width, which is the old behaviour minus the
+// crop.
+const cap = dim ? Math.min(maxWidth, Math.round((maxHeight * dim.width) / dim.height)) : maxWidth;
+---
+
+<figure class:list={["mb-10", extraClass]}>
+  <img
+    src={src}
+    alt=""
+    width={dim?.width ?? 1024}
+    height={dim?.height ?? 576}
+    style={`max-width:${cap}px`}
+    fetchpriority="high"
+    decoding="async"
+    class="w-full h-auto mx-auto rounded-sm border border-(--color-border) bg-(--color-bg-muted)"
+  />
+</figure>

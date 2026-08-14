@@ -19,7 +19,7 @@ thinker_mentions:
   - quote: The bouts of relaxation of controls were termed liberalisation episodes by Bhagwati and Srinivasan, and so they were in a sense.
     context: Desai invokes Bhagwati's analytic framework to distinguish pragmatic deregulation from principled liberalism
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - jagdish-bhagwati
 proposed_themes: []
 key_concepts: 

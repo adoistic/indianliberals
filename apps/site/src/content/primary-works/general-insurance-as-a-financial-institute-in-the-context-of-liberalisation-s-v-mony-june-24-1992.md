@@ -12,6 +12,7 @@ contributors:
 related_thinkers:
   - a-d-shroff
 publication:
+  series_id: ad-shroff-memorial-lecture
   language: en
   publisher_name: "Published by THE A. D. SHROFF MEMORIAL TRUST, \"Piramal Mansion\", 235, Dr. D. N. Road, BOMBAY - 400 001. Colophon (p. 4): \"Published by M. R. Pai on behalf of the A. D. Shroff Memorial Trust, 235, Dr. Dadabhai Naoroji Road, Bombay 400001, and Printed by S. V. Limaye at the India Printing Works, 42, G. D. Ambekar Marg, Wadala, Bombay 400031.\""
   issuer_id: a-d-shroff-memorial-trust

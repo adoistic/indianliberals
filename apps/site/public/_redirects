@@ -131,3 +131,27 @@
 # article, it should be added as a new musing rather than by reverting this.
 /musings/wastage-in-public-sector-enterprises/   /musings/mavenkata-rao-corruption-of-thought/   301
 
+
+# Twelve pieces moved from Musings to Opinions (2026-08-14, CCS round 4).
+#
+# CCS: "several pieces currently under Musings are actually Opinion Pieces and
+# should be shifted there." They were right. These twelve ran weekly between
+# August and November 2023, are the work of two present-day writers, Ch
+# Prashanth and Avanti Lele, and each was credited in the author field to the
+# dead person it is about, because a musing's author field points at the
+# thinkers collection and a living writer has no record there. They are
+# profiles, which is what Opinions holds.
+#
+# The slugs are unchanged, so these rules are section-to-section only.
+/musings/dr-muthulakshmi-reddi-beacon-of-womens-liberty/   /opinions/dr-muthulakshmi-reddi-beacon-of-womens-liberty/   301
+/musings/gurcharan-das-champion-of-liberal-ideas/   /opinions/gurcharan-das-champion-of-liberal-ideas/   301
+/musings/fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve/   /opinions/fighting-for-freedom-the-tumulous-legacy-of-raghunath-karve/   301
+/musings/gurajada-apparao-liberal-and-feminist-insights-in-kanyasulkam/   /opinions/gurajada-apparao-liberal-and-feminist-insights-in-kanyasulkam/   301
+/musings/the-forgotten-legacy-of-yashodabai-agarkar/   /opinions/the-forgotten-legacy-of-yashodabai-agarkar/   301
+/musings/gopal-ganesh-agarkar-and-the-vindication-of-womens-education/   /opinions/gopal-ganesh-agarkar-and-the-vindication-of-womens-education/   301
+/musings/lokmanya-tilak-a-conservative-liberal/   /opinions/lokmanya-tilak-a-conservative-liberal/   301
+/musings/bhartaateel-udaarmatavadache-puraskrute-gopal-krishna-gokhale/   /opinions/bhartaateel-udaarmatavadache-puraskrute-gopal-krishna-gokhale/   301
+/musings/two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak/   /opinions/two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak/   301
+/musings/kandukuri-veeresalingam-icon-of-andhras-renaissance/   /opinions/kandukuri-veeresalingam-icon-of-andhras-renaissance/   301
+/musings/tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom/   /opinions/tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom/   301
+/musings/acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart/   /opinions/acharya-n-g-ranga-the-farmers-friend-and-swatantra-party-stalwart/   301

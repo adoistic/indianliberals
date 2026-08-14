@@ -58,6 +58,37 @@ import Shell from '../layouts/Shell.astro';
           <div id="result"></div>
         </div>
 
+        {/* Filed in the wrong place, or should not be on the site at all.
+            Both are folded away, because neither is a thing anyone does often
+            and both change what the public sees. */}
+        <details class="card" id="movecard">
+          <summary>Move or remove this entry</summary>
+          <p class="hint">
+            Moving keeps the entry's web address working: the old one forwards to the new one, so
+            nothing already linked or bookmarked breaks.
+          </p>
+
+          <div class="field">
+            <label for="moveto">Move it to</label>
+            <select id="moveto"></select>
+            <p class="hint" id="movenote"></p>
+          </div>
+          <button class="btn btn-quiet" id="movebtn" type="button" style="width:100%">
+            Move it
+          </button>
+          <div id="moveresult"></div>
+
+          <hr class="rule" style="margin:1.5rem 0 1rem" />
+          <p class="hint">
+            Removing takes the entry off the public site. Its last version stays in the archive's
+            history, so it can be brought back, but every link to it stops working.
+          </p>
+          <button class="btn btn-quiet" id="retirebtn" type="button" style="width:100%">
+            Remove it from the site
+          </button>
+          <div id="retireresult"></div>
+        </details>
+
         <details class="card preview">
           <summary>See the file this will write</summary>
           <p class="hint">
@@ -132,7 +163,8 @@ import Shell from '../layouts/Shell.astro';
   <script>
     import { watchUser, roleFor } from '../lib/firebase';
     import { canPublish, type Role } from '../lib/roles';
-    import { collectionById, type CollectionDef, type Field } from '../lib/collections';
+    import { COLLECTIONS, collectionById, type CollectionDef, type Field } from '../lib/collections';
+    import { planMove } from '../lib/move';
     import { surfaceFor } from '../lib/site-surfaces';
     import { GROUPS } from '../lib/groups';
     import { toMarkdownFile } from '../lib/ingest';
@@ -1164,6 +1196,163 @@ import Shell from '../layouts/Shell.astro';
       }
     }
 
+    // ── Moving and removing ────────────────────────────────────────────
+    //
+    // The CMS could only ever write. An editor who found a piece under the
+    // wrong heading could copy it across and was then stuck with the original,
+    // because nothing here could delete. CCS asked for this in round 4, having
+    // found twelve opinion pieces filed under Musings, each credited to the
+    // person it was about rather than the person who wrote it.
+    //
+    // The transformation happens here rather than on the server: this page
+    // already holds the record as an object, and the Worker has no YAML parser.
+
+    function moveResultBox(id: string) {
+      const box = document.getElementById(id)!;
+      return (message: string, tone: 'plain' | 'good' | 'bad' = 'plain', extra = '') => {
+        box.innerHTML = `<div class="notice${tone === 'bad' ? ' notice-stop' : ''}" style="margin-top:.8rem">${esc(message)}${extra}</div>`;
+      };
+    }
+
+    function fillMoveTargets(): void {
+      const select = document.getElementById('moveto') as HTMLSelectElement | null;
+      const card = document.getElementById('movecard') as HTMLDetailsElement | null;
+      if (!select || !card || !collection) return;
+      // Only a sub_admin and above may change what the public sees.
+      if (!canPublish(role)) { card.hidden = true; return; }
+      select.replaceChildren();
+      for (const def of COLLECTIONS) {
+        if (def.id === collection.id) continue;
+        const option = document.createElement('option');
+        option.value = def.id;
+        option.textContent = def.label;
+        select.appendChild(option);
+      }
+      const note = document.getElementById('movenote');
+      if (note) {
+        note.textContent =
+          `This is currently filed as a ${collection.singular.toLowerCase()}. ` +
+          'Anything the new section has no room for is dropped, and you will be told what before it happens.';
+      }
+    }
+
+    /** The record as it would look in the target section. */
+    function movedRecord(to: CollectionDef): { data: Record<string, unknown>; dropped: string[]; missing: string[] } {
+      const cleaned = (prune(JSON.parse(JSON.stringify(data)) as unknown) ?? {}) as Record<string, unknown>;
+      return planMove(cleaned, collection!, to);
+    }
+
+    async function doMove(): Promise<void> {
+      if (!me || !collection) return;
+      const select = document.getElementById('moveto') as HTMLSelectElement;
+      const say = moveResultBox('moveresult');
+      const to = collectionById(select.value);
+      if (!to) return say('Pick a section to move it into.', 'bad');
+
+      const plan = movedRecord(to);
+
+      // A required field the old section never had cannot be filled in on this
+      // form, because this form is the old section's. Moving a musing to
+      // Opinions needs a byline, and a musing has nowhere to put one. So ask
+      // here, rather than sending the editor away to a box that does not exist.
+      for (const field of to.fields) {
+        if (!field.required || field.name.includes('.')) continue;
+        const held = plan.data[field.name];
+        const empty = held === undefined || held === '' || (Array.isArray(held) && held.length === 0);
+        if (!empty) continue;
+        if (field.kind !== 'text' && field.kind !== 'textarea' && field.kind !== 'slug') continue;
+        const answer = prompt(
+          `A ${to.singular.toLowerCase()} needs ${field.label.toLowerCase()}.\n\n` +
+            (field.hint ?? ''),
+          '',
+        );
+        if (answer === null) return;
+        if (answer.trim()) plan.data[field.name] = answer.trim();
+      }
+
+      const stillMissing = to.fields
+        .filter((f) => f.required && !f.name.includes('.'))
+        .filter((f) => {
+          const held = plan.data[f.name];
+          return held === undefined || held === '' || (Array.isArray(held) && held.length === 0);
+        })
+        .map((f) => f.label);
+      if (stillMissing.length > 0) {
+        return say(
+          `A ${to.singular.toLowerCase()} cannot exist without ${stillMissing.join(', ')}. ` +
+            'Fill those in on this form, save, then move it.',
+          'bad',
+        );
+      }
+      const warning = plan.dropped.length
+        ? `Moving it will drop these, which a ${to.singular.toLowerCase()} has no room for:\n\n  ${plan.dropped.join(', ')}\n\n`
+        : '';
+      if (!confirm(`${warning}Move "${slug}" from ${collection.label} to ${to.label}?`)) return;
+
+      // The picture travels with the entry: its folder is named after the
+      // section, so a hero image left behind is a broken image afterwards.
+      const images: { from: string; to: string }[] = [];
+      for (const field of collection.fields) {
+        if (field.kind !== 'image' || field.image?.store !== 'repo') continue;
+        const held = getPath(plan.data, field.name);
+        const target = to.fields.find((f) => f.name === field.name);
+        if (typeof held !== 'string' || !held.startsWith('/') || !target?.image?.dir) continue;
+        const moved = held.replace(field.image.dir, target.image.dir);
+        if (moved === held) continue;
+        setPath(plan.data, field.name, moved);
+        images.push({ from: `apps/site/public${held}`, to: `apps/site/public${moved}` });
+      }
+
+      say('Moving.');
+      try {
+        const token = await me.getIdToken();
+        const response = await fetch('/api/move', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json', Authorization: `Bearer ${token}` },
+          body: JSON.stringify({
+            action: 'move',
+            collection: collection.id,
+            slug,
+            toCollection: to.id,
+            content: toMarkdownFile(plan.data, to.hasBody ? body : undefined),
+            images,
+          }),
+        });
+        const payload = (await response.json()) as { error?: string; to?: string; problems?: string[] };
+        if (!response.ok) return say(payload.error ?? `The server said ${response.status}.`, 'bad');
+        say('Moved. Opening it in its new section.', 'good');
+        setTimeout(() => { location.href = payload.to!; }, 900);
+      } catch (error) {
+        say(`Could not move it: ${(error as Error).message}`, 'bad');
+      }
+    }
+
+    async function doRetire(): Promise<void> {
+      if (!me || !collection) return;
+      const say = moveResultBox('retireresult');
+      if (!confirm(
+        `Remove "${slug}" from the site?\n\n` +
+        'Every link to it stops working. Its last version stays in the archive history and can be restored.',
+      )) return;
+      say('Removing.');
+      try {
+        const token = await me.getIdToken();
+        const response = await fetch('/api/move', {
+          method: 'POST',
+          headers: { 'content-type': 'application/json', Authorization: `Bearer ${token}` },
+          body: JSON.stringify({ action: 'retire', collection: collection.id, slug }),
+        });
+        const payload = (await response.json()) as { error?: string; note?: string };
+        if (!response.ok) return say(payload.error ?? `The server said ${response.status}.`, 'bad');
+        say(payload.note ?? 'Removed.', 'good');
+      } catch (error) {
+        say(`Could not remove it: ${(error as Error).message}`, 'bad');
+      }
+    }
+
+    document.getElementById('movebtn')?.addEventListener('click', () => void doMove());
+    document.getElementById('retirebtn')?.addEventListener('click', () => void doRetire());
+
     // ── Start ──────────────────────────────────────────────────────────
 
     saveBtn.addEventListener('click', () => void save());
@@ -1237,6 +1426,7 @@ import Shell from '../layouts/Shell.astro';
       syncDatalists();
       buildForm(collection);
       showOthers(collection);
+      fillMoveTargets();
 
       if (collection.hasBody) {
         bodyCard.hidden = false;

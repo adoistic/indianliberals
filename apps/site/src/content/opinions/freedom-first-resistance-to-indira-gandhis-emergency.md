@@ -81,7 +81,7 @@ thinker_mentions:
   - quote: Masani argued that Gokhale's coincidental meeting with the leader of a Soviet Law delegation might have something to do with the proposed measure
     context: Masani's Cold War-tinged suspicion about Soviet influence on domestic law reform proposals
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - bhimrao-ambedkar
 - gopal-krishna-gokhale
 - hans-raj-khanna

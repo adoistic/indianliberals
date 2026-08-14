@@ -2,6 +2,10 @@
 id: "dr-muthulakshmi-reddi-beacon-of-womens-liberty"
 title: "Dr Muthulakshmi Reddi: Beacon of Women's Liberty"
 pubDate: "2023-08-23T15:09:44Z"
+author_name: Ch Prashanth
+author: ch-prashanth
+subject: muthulakshmi-reddi
+kind: profile
 themes:
   - "civil-society"
   - "liberalism"
@@ -9,8 +13,7 @@ themes:
 language: "en"
 needs_review: true
 draft: false
-author: "muthulakshmi-reddi"
-hero_image: "/musings/covers/dr-muthulakshmi-reddi-beacon-of-womens-liberty.webp"
+hero_image: "/opinions/covers/dr-muthulakshmi-reddi-beacon-of-womens-liberty.webp"
 thinker_mentions:
   - thinker: mahatma-gandhi
     role: mention
@@ -34,7 +37,6 @@ key_concepts:
   - "progressive-liberalism"
 pull_quote: By championing gender equality she left an indelible mark on South Indian social fabric.
 stance: profiles
-kind: periodical-article
 period_window: post-reform
 geographic_scope:
   scale: regional

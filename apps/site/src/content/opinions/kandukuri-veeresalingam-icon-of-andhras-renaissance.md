@@ -2,14 +2,17 @@
 id: kandukuri-veeresalingam-icon-of-andhras-renaissance
 title: "Kandukuri Veeresalingam: Icon of Andhra’s Renaissance"
 pubDate: 2023-11-01T15:27:11Z
+author_name: Ch Prashanth
+author: ch-prashanth
+subject: kandukuri-veeresalingam
+kind: profile
 themes: 
 - liberalism
 - social-reform
 language: en
 needs_review: true
 draft: false
-author: kandukuri-veeresalingam
-hero_image: /musings/covers/kandukuri-veeresalingam-icon-of-andhras-renaissance.webp
+hero_image: /opinions/covers/kandukuri-veeresalingam-icon-of-andhras-renaissance.webp
 source_channel: so-musings
 proposed_themes: 
 - renaissance
@@ -22,7 +25,6 @@ key_concepts:
 - brahmin-reform
 pull_quote: Veeresalingam used literature as a tool to banish the darkness of superstition and social vices, and spread awareness.
 stance: profiles
-kind: periodical-article
 period_window: post-reform
 geographic_scope: 
   scale: regional
@@ -43,7 +45,7 @@ thinker_mentions:
   - quote: In 1898, MG Ranade, in a meeting, acclaimed Veeresalingam as "Iswar Chandra Vidyasagar of South"
     context: Vidyasagar invoked as the canonical reformer-benchmark; the comparison transfers his moral authority on widow remarriage onto Veeresalingam
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - ishwar-chandra-vidyasagar
 - mahadev-govind-ranade
 ---

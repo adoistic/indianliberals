@@ -33,7 +33,7 @@ thinker_mentions:
   - quote: once Former Prime Minister Mrs. Indira Gandhi lost the election of 1977, the newly victorious Janata Party offered him the position of the Head of the Commission of Inquiry against the illegal imposition of the Emergency
     context: Indira Gandhi's Emergency as the context for the Janata Party's offer, which Khanna declined to preserve his impartiality
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - indira-gandhi
 source_channel: editorial-opinions
 proposed_themes: 

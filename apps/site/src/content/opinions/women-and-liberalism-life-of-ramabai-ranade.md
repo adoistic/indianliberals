@@ -39,7 +39,7 @@ thinker_mentions:
   - quote: Ramabai was also greatly inspired by Pandita Ramabai, with whom she took English classes from a christian missionary during the former's stay at the Ranade residence.
     context: identifies Pandita Ramabai as a direct intellectual influence on Ramabai Ranade
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - mahadev-govind-ranade
 - pandita-ramabai
 source_channel: editorial-opinions

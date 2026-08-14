@@ -5,11 +5,11 @@ title:
   subtitle: ""
 work_type: edited_volume
 authors:
-  - bk-nehru-cn
+  - bk-nehru
 editors: []
 contributors:
   - role: author
-    thinker: bk-nehru-cn
+    thinker: bk-nehru
     toc_index: 1
   - role: author
     thinker_unresolved: Prof. K. B. Suri

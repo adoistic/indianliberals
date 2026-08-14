@@ -19,7 +19,7 @@ thinker_mentions:
   - quote: among our own business magnates, Mr. J. R. D. Tata.
     context: Tata is cited as a domestic authoritative voice supporting Shenoy's case for inflation control through fiscal discipline
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - jrd-tata
 source_channel: so-musings
 proposed_themes: 

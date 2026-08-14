@@ -11,6 +11,8 @@ contributors:
     role: author
 related_thinkers: []
 publication:
+  publisher_id: swatantra-party
+  series_id: swatantra-party-publications
   language: en
   publisher_name: "Swatantra Party"
   place: Bombay

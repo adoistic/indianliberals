@@ -2,14 +2,17 @@
 id: "the-forgotten-legacy-of-yashodabai-agarkar"
 title: "The Forgotten Legacy of Yashodabai Agarkar"
 pubDate: "2023-09-27T10:45:38Z"
+author_name: Avanti Lele
+author: avanti-lele
+subject: yashodabai-agarkar
+kind: profile
 themes:
   - "civil-liberties"
   - "social-reform"
 language: "en"
 needs_review: true
 draft: false
-author: "yashodabai-agarkar"
-hero_image: "/musings/covers/the-forgotten-legacy-of-yashodabai-agarkar.webp"
+hero_image: "/opinions/covers/the-forgotten-legacy-of-yashodabai-agarkar.webp"
 thinker_mentions:
   - thinker: gopal-ganesh-agarkar
     role: mention
@@ -33,7 +36,6 @@ key_concepts:
   - "sudharak"
 pull_quote: Yashodabai Agarkar is a figure missed entirely by history.
 stance: profiles
-kind: periodical-article
 period_window: post-reform
 geographic_scope:
   scale: regional

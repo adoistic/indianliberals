@@ -34,7 +34,7 @@ thinker_mentions:
   - quote: When Jyotirao and Savitribai were made to leave their ancestral home, it was Fatima who gave them refuge in her house
     context: Fatima's concrete support for Jyotirao and Savitribai at their moment of social exile
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - jyotirao-phule
 source_channel: editorial-opinions
 proposed_themes: 

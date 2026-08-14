@@ -10,6 +10,7 @@ contributors: []
 related_thinkers:
   - mahatma-gandhi
 publication:
+  series_id: swatantra-party-publications
   language: en
   publisher_id: swatantra-party
   publisher_name: The Swatantra Party

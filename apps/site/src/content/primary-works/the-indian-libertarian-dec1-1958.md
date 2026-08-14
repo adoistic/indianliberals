@@ -30,8 +30,7 @@ contributors:
   - role: author
     thinker_unresolved: "\"Academicus\""
     toc_index: 8
-related_thinkers:
-  - indian-national-congress
+related_thinkers: []
 publication:
   language: en
   publisher_id: the-indian-libertarian

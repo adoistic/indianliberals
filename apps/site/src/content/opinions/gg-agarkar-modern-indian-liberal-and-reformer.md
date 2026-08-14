@@ -68,7 +68,7 @@ thinker_mentions:
   - quote: an ardent devotee of John Stuart Mill
     context: identifying Mill as the primary Western liberal philosophical source of Agarkar's rationalist and individualist worldview
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - bal-gangadhar-tilak
 - dadabhai-naoroji
 - gopal-krishna-gokhale

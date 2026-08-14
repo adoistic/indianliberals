@@ -46,6 +46,7 @@ import { hreflangAlternates, shouldNoindex, pathForCollection } from "~/lib/i18n
 import RelatedSection from "~/components/RelatedSection.astro";
 import PeopleInPiece from "~/components/PeopleInPiece.astro";
 import ContributorCard from "~/components/ContributorCard.astro";
+import ArticleHero from "~/components/ArticleHero.astro";
 
 interface Props {
   entry: CollectionEntry<"opinions">;
@@ -159,21 +160,9 @@ const descriptionForMeta = o.data.pull_quote?.trim() || metaExcerpt(o.body ?? ""
 
     {/* Featured image, recovered from the legacy site (Adnan, 2026-07).
         Sits between the header and the prose exactly where the old
-        WordPress layout placed it. object-top keeps portrait subjects'
-        faces in frame when the height cap crops a tall image. */}
-    {o.data.hero_image && (
-      <figure class="mb-10">
-        <img
-          src={o.data.hero_image}
-          alt=""
-          width="1024"
-          height="576"
-          fetchpriority="high"
-          decoding="async"
-          class="w-full h-auto max-h-[30rem] object-cover object-top rounded-sm border border-(--color-border) bg-(--color-bg-muted)"
-        />
-      </figure>
-    )}
+        WordPress layout placed it. ArticleHero keeps the whole picture
+        visible, however tall it is — see the note in that component. */}
+    {o.data.hero_image && <ArticleHero src={o.data.hero_image} />}
 
     <div class="prose-container text-(--color-fg) leading-relaxed text-[1.0625rem] [&_p]:my-5 [&_h2]:mt-10 [&_h2]:mb-4 [&_h3]:mt-8 [&_h3]:mb-3 [&_a]:text-(--color-forest-700) [&_blockquote]:border-l-2 [&_blockquote]:border-(--color-saffron-500) [&_blockquote]:pl-4 [&_blockquote]:italic [&_blockquote]:text-(--color-fg-muted) [&_blockquote]:my-5">
       <Content />

@@ -18,7 +18,7 @@ thinker_mentions:
   - quote: Secretary to the Government of India in the Ministry of the States, under Sardar Patel.
     context: Menon's service under Patel is cited in the editorial introduction to frame his authority on administrative challenges
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - sardar-patel
 source_channel: so-musings
 proposed_themes: 

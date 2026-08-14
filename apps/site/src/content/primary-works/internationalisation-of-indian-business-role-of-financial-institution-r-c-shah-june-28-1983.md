@@ -13,6 +13,7 @@ related_thinkers:
   - a-d-shroff
 
 publication:
+  series_id: ad-shroff-memorial-lecture
   language: en
   publisher_id: a-d-shroff-memorial-trust
   publisher_name: THE A. D. SHROFF MEMORIAL TRUST, 235, Dr. D. N. ROAD, BOMBAY-400 001.

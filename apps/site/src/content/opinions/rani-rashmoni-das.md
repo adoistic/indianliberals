@@ -43,7 +43,7 @@ thinker_mentions:
   - quote: Inspired by their works and beliefs, Das also became a prominent voice against child marriage
     context: credits Vidyasagar and Roy's reformism as inspiring Das's own activism
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - ishwar-chandra-vidyasagar
 - raja-ram-mohan-roy
 source_channel: editorial-opinions

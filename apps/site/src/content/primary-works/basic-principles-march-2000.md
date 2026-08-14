@@ -9,6 +9,7 @@ editors: []
 contributors: []
 related_thinkers: []
 publication:
+  series_id: indian-liberal-group
   language: en
   publisher_id: indian-liberal-group
   publisher_name: "Issued by: Indian Liberal Group, Sassoon Building, 1st Floor, 143, Mahatma Gandhi Road, Mumbai 400 001. Phones : (91-22)2843416 / 2674453. Telefax : (91-22)2843416. email : freedom@vsnl.com"

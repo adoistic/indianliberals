@@ -14,6 +14,7 @@ contributors:
   thinker: nani-palkhivala
 related_thinkers: []
 publication:
+  series_id: builders-of-indian-economy
   language: en
   publisher_id: a-d-shroff-memorial-trust
   publisher_name: Published by Mr. M. R. Pai, Trustee, The A. D. Shroff Memorial Trust,

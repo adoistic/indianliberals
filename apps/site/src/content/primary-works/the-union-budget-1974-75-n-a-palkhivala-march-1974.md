@@ -10,7 +10,6 @@ editors: []
 contributors: []
 related_thinkers:
   - jagdish-bhagwati
-  - planning-commission-india
 publication:
   language: en
   publisher_id: forum-of-free-enterprise

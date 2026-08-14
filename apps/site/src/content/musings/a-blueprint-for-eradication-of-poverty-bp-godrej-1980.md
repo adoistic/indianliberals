@@ -19,7 +19,7 @@ thinker_mentions:
   - quote: "Bernard Shaw's warning: \"Those who minister to poverty and disease are accomplices in the two worst of all crimes.\""
     context: Shaw's aphorism is cited to caution against treating poverty relief as an end in itself
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - bernard-shaw
 proposed_themes: 
 - poverty-eradication

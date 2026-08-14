@@ -78,7 +78,7 @@ thinker_mentions:
   - quote: Not only did Ambedkar recognize the important groundwork laid by Ranade and Phule in this regard, but he also approved of liberal gradualism as the method to bring change
     context: Ambedkar's appreciation of Phule's contribution to the social reform project
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - bal-gangadhar-tilak
 - henry-louis-vivian-derozio
 - ishwar-chandra-vidyasagar

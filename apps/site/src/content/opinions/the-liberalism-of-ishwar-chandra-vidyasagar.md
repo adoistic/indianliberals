@@ -41,7 +41,7 @@ thinker_mentions:
   - quote: "The poet-saint Rabindranath Tagore's pithy tribute accurately captures the stature of Vidyasagar: \"One wonders how God, in the process of producing forty million Bengalis, produced a man!\""
     context: Tagore's tribute serves as the article's closing judgment on Vidyasagar's greatness
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - rabindranath-tagore
 - raja-ram-mohan-roy
 source_channel: editorial-opinions

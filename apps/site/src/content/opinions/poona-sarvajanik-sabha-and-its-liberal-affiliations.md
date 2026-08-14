@@ -29,7 +29,7 @@ thinker_mentions:
   - quote: The liberals- Gopal Krishan Gokhale and Mahadev Govind Ranade, left the Sabha to form Deccan Sabha in 1896.
     context: marks Gokhale's principled exit from the Sabha alongside Ranade
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - gopal-krishna-gokhale
 - mahadev-govind-ranade
 source_channel: editorial-opinions
@@ -41,7 +41,6 @@ key_concepts:
 - self-rule
 - press-freedom
 - responsible-executive
-- indian-national-congress
 pull_quote: The Sabha was meant to work as a mediating body between the state and people by airing the grievances of people and helping them make claims on the state.
 stance: analyzes
 kind: commentary

@@ -17,6 +17,7 @@ related_thinkers:
 - margaret-thatcher
 - n-vittal
 publication:
+  series_id: ffe-booklets
   language: en
   publisher_id: forum-of-free-enterprise
   publisher_name: Published by S. S. Bhandare for the Forum of Free Enterprise, Peninsula

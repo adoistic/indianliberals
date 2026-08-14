@@ -149,6 +149,9 @@ const showDecade = decadeOptions.length > 1;
 const showLang = langOptions.length > 1;
 const showTheme = themeOptions.length > 0 && cards.filter((c) => c.themes.length > 0).length >= 2;
 const showToolbar = cards.length > 6;
+// Whether there is anything to put behind the Filters control at all. On a
+// person with one work type, one decade and one language there is not.
+const hasFacets = showType || showDecade || showLang || showTheme;
 
 const chipClass =
   "twx-chip px-2 py-1 bg-(--color-bg-muted) border border-(--color-border) rounded text-xs text-(--color-fg) hover:border-(--color-fg) transition-colors";
@@ -158,24 +161,53 @@ const chipClass =
 <div id="twx" data-facet-key={scope.facet} data-facet-value={scope.id} data-pagefind-ignore class="font-(family-name:--font-ui)">
   {showToolbar && (
     <div class="mb-6">
-      <div class="flex items-center gap-3 px-3.5 py-2.5 bg-(--color-bg) border border-(--color-border) rounded-lg focus-within:border-(--color-fg) transition-colors max-w-xl">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-(--color-fg-muted) shrink-0" aria-hidden="true">
-          <circle cx="11" cy="11" r="7"></circle>
-          <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
-        </svg>
-        <label for="twx-q" class="sr-only">Search within {name}'s works</label>
-        <input
-          id="twx-q"
-          type="search"
-          placeholder={`Search within ${name}'s works…`}
-          autocomplete="off"
-          autocapitalize="off"
-          spellcheck="false"
-          class="flex-1 bg-transparent border-0 outline-0 text-sm text-(--color-fg) placeholder:text-(--color-fg-muted)"
-        />
+      {/* Search stays in the open; the facets go behind one control.
+          CCS, round 4: "a large number of filters are displayed at once… we
+          would prefer the filters to remain hidden by default and appear only
+          when the user explicitly clicks the Filters option… consistently on
+          both desktop and mobile." Minoo Masani's page carried 27 chips and
+          262px of controls before the first work. */}
+      <div class="flex flex-wrap items-center gap-3">
+        <div class="flex items-center gap-3 px-3.5 py-2.5 bg-(--color-bg) border border-(--color-border) rounded-lg focus-within:border-(--color-fg) transition-colors flex-1 min-w-0 max-w-xl">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" class="text-(--color-fg-muted) shrink-0" aria-hidden="true">
+            <circle cx="11" cy="11" r="7"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <label for="twx-q" class="sr-only">Search within {name}'s works</label>
+          <input
+            id="twx-q"
+            type="search"
+            placeholder={`Search within ${name}'s works…`}
+            autocomplete="off"
+            autocapitalize="off"
+            spellcheck="false"
+            class="flex-1 bg-transparent border-0 outline-0 text-sm text-(--color-fg) placeholder:text-(--color-fg-muted)"
+          />
+        </div>
+
+        {hasFacets && (
+          <button
+            id="twx-filter-toggle"
+            type="button"
+            aria-expanded="true"
+            aria-controls="twx-filter-panel"
+            class="shrink-0 inline-flex items-center gap-2 px-3.5 py-2.5 bg-(--color-bg) border border-(--color-border) rounded-lg text-sm text-(--color-fg) hover:border-(--color-fg) transition-colors"
+          >
+            <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" class="text-(--color-fg-muted)" aria-hidden="true">
+              <line x1="3" y1="6" x2="21" y2="6"></line>
+              <line x1="7" y1="12" x2="17" y2="12"></line>
+              <line x1="10" y1="18" x2="14" y2="18"></line>
+            </svg>
+            Filters
+            <span id="twx-filter-count" class="hidden px-1.5 py-0.5 rounded text-[10px] font-semibold bg-(--color-saffron-100) text-(--color-saffron-700)"></span>
+            <span aria-hidden="true" class="twx-caret text-(--color-fg-muted) transition-transform">&#9662;</span>
+          </button>
+        )}
       </div>
 
-      <div class="mt-4 flex flex-col gap-3 text-sm">
+      {/* Open in the markup so nothing is hidden without JavaScript; the
+          script collapses it on load, at every viewport width. */}
+      <div id="twx-filter-panel" class="mt-4 flex flex-col gap-3 text-sm">
         {showType && (
           <div class="flex flex-wrap items-baseline gap-1.5">
             <span class="text-[10px] uppercase tracking-wider text-(--color-fg-muted) mr-1 w-16 shrink-0">Type</span>
@@ -262,6 +294,11 @@ const chipClass =
   </section>
 </div>
 
+<style>
+  #twx-filter-panel[data-collapsed] { display: none; }
+  #twx-filter-toggle[aria-expanded="true"] .twx-caret { transform: rotate(180deg); }
+</style>
+
 <script is:inline>
   (function () {
     const root = document.getElementById("twx");
@@ -277,9 +314,37 @@ const chipClass =
     const deepResults = document.getElementById("twx-deep-results");
     const deepStatus = document.getElementById("twx-deep-status");
     const chips = Array.from(root.querySelectorAll(".twx-chip"));
+    const panelEl = document.getElementById("twx-filter-panel");
+    const toggleEl = document.getElementById("twx-filter-toggle");
+    const countEl = document.getElementById("twx-filter-count");
 
     const state = { q: "", type: new Set(), decade: new Set(), lang: new Set(), theme: new Set() };
     const ACTIVE = ["bg-(--color-saffron-500)", "text-white", "border-(--color-saffron-500)"];
+
+    // Collapsed on load at every width, which is what CCS asked for: the
+    // filters appear only when someone asks for them. The panel ships open in
+    // the markup so that with JavaScript off nothing is unreachable.
+    function setCollapsed(collapsed) {
+      if (!panelEl || !toggleEl) return;
+      if (collapsed) panelEl.setAttribute("data-collapsed", "true");
+      else panelEl.removeAttribute("data-collapsed");
+      toggleEl.setAttribute("aria-expanded", String(!collapsed));
+    }
+    setCollapsed(true);
+    if (toggleEl) {
+      toggleEl.addEventListener("click", () =>
+        setCollapsed(!panelEl.hasAttribute("data-collapsed")),
+      );
+    }
+
+    // With the chips hidden, the button has to say how many are on, or a
+    // filtered grid looks like a broken one.
+    function paintCount() {
+      if (!countEl) return;
+      const n = state.type.size + state.decade.size + state.lang.size + state.theme.size;
+      countEl.textContent = String(n);
+      countEl.classList.toggle("hidden", n === 0);
+    }
 
     function applyFilters() {
       const words = state.q.toLowerCase().split(/\s+/).filter(Boolean);
@@ -303,6 +368,7 @@ const chipClass =
           state.type.size + state.decade.size + state.lang.size + state.theme.size > 0;
         resetBtn.classList.toggle("hidden", !any);
       }
+      paintCount();
     }
 
     chips.forEach((btn) => {

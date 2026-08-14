@@ -480,7 +480,7 @@ const thinkers: CollectionDef = {
     },
     THEMES_FIELD,
 
-    { name: 'portrait.photo', label: 'Photograph', kind: 'image', required: false, group: 'files', image: { store: 'repo', dir: '/thinkers/photos' }, hint: 'Drop a photograph here or choose one from your computer. It is saved with the entry.' },
+    { name: 'portrait.photo', label: 'Photograph', kind: 'image', required: false, group: 'essential', image: { store: 'repo', dir: '/thinkers/photos' }, hint: 'Drop a photograph here or choose one from your computer. It is saved with the entry, and it is the picture used everywhere this person appears.' },
     { name: 'portrait.caricature', label: 'Drawing or caricature', kind: 'image', required: false, group: 'files', image: { store: 'repo', dir: '/thinkers/caricatures' }, hint: 'Use this when no photograph survives but a drawing does.' },
     { name: 'portrait.ring_portrait', label: 'Circular portrait', kind: 'image', required: false, group: 'files', image: { store: 'repo', dir: '/thinkers/ring-portraits' }, hint: 'A version cropped to a circle, used in small round frames.' },
     { name: 'portrait.duotone', label: 'Two-tone portrait', kind: 'image', required: false, group: 'files', image: { store: 'repo', dir: '/thinkers/duotone' }, hint: 'The uniform two-colour version used on the main thinkers page. It is generated from the photograph by a script, but one can also be dropped here.' },
@@ -537,7 +537,7 @@ const contributors: CollectionDef = {
     { name: 'name.also_known_as', label: 'Other names', kind: 'string-list', required: false, group: 'people', hint: 'Other spellings that appear on their bylines, so the same person is not split across two records.' },
     { name: 'joined_at', label: 'Year they joined', kind: 'year', required: false, group: 'people', hint: 'The year they started at the organisation above. Leave blank if it is not stated anywhere.' },
     { name: 'areas_of_interest', label: 'What they write about', kind: 'string-list', required: false, group: 'classification', hint: 'Two or three subjects, taken from their own biography note rather than guessed from their pieces.' },
-    { name: 'photo', label: 'Photograph', kind: 'image', required: false, group: 'files', image: { store: 'repo', dir: '/contributors/photos' }, hint: 'Drop a photograph here or choose one from your computer. Many imported biographies have none.' },
+    { name: 'photo', label: 'Photograph', kind: 'image', required: false, group: 'essential', image: { store: 'repo', dir: '/contributors/photos' }, hint: 'Drop a photograph here or choose one from your computer. Many imported biographies have none.' },
 
     { name: 'bio_source', label: 'Where the biography came from', kind: 'select', required: false, options: ['extracted_from_opinion_bio', 'curator', 'imported'], group: 'advanced', hint: 'Most were lifted automatically from the note at the foot of an opinion piece. Change it to curator once you have written the biography yourself.' },
     ...workflowFields('These records were pulled out of opinion pieces automatically, so most start needing a check. Untick it once you have confirmed the name, the title and the photograph.'),
@@ -574,7 +574,7 @@ const organisations: CollectionDef = {
     { name: 'name.full', label: 'Full name', kind: 'text', required: false, group: 'people', hint: 'The complete registered name, when the organisation is usually known by a shorter one.' },
     { name: 'name.also_known_as', label: 'Other names', kind: 'string-list', required: false, group: 'people', hint: 'Abbreviations and former names, so a search for any of them finds this record.' },
     { name: 'ideology', label: 'What it stood for', kind: 'string-list', required: false, group: 'classification', hint: 'A few lowercase hyphenated tags describing its politics, for example free-markets or constitutional-reform.' },
-    { name: 'logo', label: 'Logo', kind: 'image', required: false, group: 'files', image: { store: 'repo', dir: '/organisations/logos' }, hint: 'Drop a logo here or choose one from your computer. Most defunct organisations have none, and the page draws a lettered tile instead.' },
+    { name: 'logo', label: 'Logo', kind: 'image', required: false, group: 'essential', image: { store: 'repo', dir: '/organisations/logos' }, hint: 'Drop a logo here or choose one from your computer. Most defunct organisations have none, and the page draws a lettered tile instead.' },
 
     { name: 'hide_from_index', label: 'Keep off the organisations list', kind: 'boolean', required: false, group: 'advanced', hint: 'Tick this for bodies that are in the archive only because thinkers worked inside them, such as a large national party. The page still exists and still links from profiles: it just does not appear in the main list.' },
     ...languageFields('organisations'),
@@ -608,7 +608,7 @@ const musings: CollectionDef = {
       hint: 'What sort of thing the passage was taken out of.',
     },
 
-    { name: 'hero_image', label: 'Picture at the top', kind: 'image', required: false, group: 'files', image: { store: 'repo', dir: '/musings/covers' }, hint: 'Drop a picture here or choose one from your computer. It appears on the listing card and across the top of the page.' },
+    { name: 'hero_image', label: 'Picture at the top', kind: 'image', required: false, group: 'essential', image: { store: 'repo', dir: '/musings/covers' }, hint: 'Drop a picture here or choose one from your computer. It appears on the listing card and across the top of the page.' },
 
     { name: 'related_thinkers', label: 'Other people it concerns', kind: 'reference-list', required: false, collection: 'thinkers', group: 'people', hint: 'People named in the passage who are neither its author nor its subject.' },
     thinkerMentionsField(),
@@ -648,7 +648,7 @@ const opinions: CollectionDef = {
       hint: 'What the article is: a portrait of a person, an argument, a book review, an obituary, a report on an event, or an unsigned editorial.',
     },
 
-    { name: 'hero_image', label: 'Picture at the top', kind: 'image', required: false, group: 'files', image: { store: 'repo', dir: '/opinions/covers' }, hint: 'Drop a picture here or choose one from your computer. It appears on the listing card and across the top of the page.' },
+    { name: 'hero_image', label: 'Picture at the top', kind: 'image', required: false, group: 'essential', image: { store: 'repo', dir: '/opinions/covers' }, hint: 'Drop a picture here or choose one from your computer. It appears on the listing card and across the top of the page.' },
 
     { name: 'related_thinkers', label: 'Other people it concerns', kind: 'reference-list', required: false, collection: 'thinkers', group: 'people', hint: 'People discussed in the piece besides its subject.' },
     thinkerMentionsField(),
@@ -768,7 +768,7 @@ const primaryWorks: CollectionDef = {
     { name: 'youtube_url', label: 'YouTube video', kind: 'url', required: false, group: 'files', hint: 'For a recorded lecture or interview, the address of the video on YouTube.' },
     { name: 'transcript_status', label: 'State of the transcript', kind: 'select', required: false, options: ['none', 'partial', 'complete', 'unavailable'], group: 'files', hint: 'How much of the recording has been written out. Choose unavailable when no transcript can be made.' },
     { name: 'video_group', label: 'Which video shelf', kind: 'select', required: false, options: ['oral', 'talks', 'explainers', 'conversations'], group: 'files', hint: 'Where a recorded interview belongs on the interviews page: an oral history, a talk, an explainer or a conversation.' },
-    { name: 'cover_image', label: 'Cover picture', kind: 'image', required: false, group: 'files', image: { store: 'r2' }, hint: 'The first page of the PDF is captured for you when a document is uploaded. Drop a different picture here to replace it.' },
+    { name: 'cover_image', label: 'Cover picture', kind: 'image', required: false, group: 'essential', image: { store: 'r2' }, hint: 'The picture that fronts this work everywhere it is listed. The first page of the PDF is captured for you when a document is uploaded; drop a different picture here to replace it.' },
     { name: 'clean_markdown_url', label: 'Full text file', kind: 'url', required: false, group: 'files', hint: 'The address of a cleaned-up text version of the work, once one exists.' },
     ...rightsFields(),
 

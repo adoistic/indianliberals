@@ -34,7 +34,7 @@ thinker_mentions:
   - quote: Nehru clarified his intentions of introducing a uniform civil law applicable to both Hindus and Muslim in the future as soon as the community was amicable to such an idea
     context: Nehru's stated commitment to uniform civil code deferred by political calculation
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - jawaharlal-nehru
 source_channel: editorial-opinions
 proposed_themes: 

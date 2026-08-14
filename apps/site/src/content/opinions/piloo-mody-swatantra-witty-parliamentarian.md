@@ -44,7 +44,7 @@ thinker_mentions:
   - quote: the son of venerable Parsi entrepreneur Homi Mody
     context: identifies Piloo's father and family context
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - c-rajagopalachari
 - homi-mody
 - minoo-masani

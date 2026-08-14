@@ -9,7 +9,6 @@ authors:
 editors: []
 contributors: []
 related_thinkers:
-  - planning-commission-india
   - john-kenneth-galbraith
   - a-d-shroff
 publication:

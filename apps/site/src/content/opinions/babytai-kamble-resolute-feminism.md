@@ -34,7 +34,7 @@ thinker_mentions:
   - quote: Kamble herself was inspired by the life of Dr B.R. Ambedkar and the contributions he made to the Dalit community. Taking his beliefs and morals forward, Kamble not only became a torchbearer of Ambedkar's values and motives
     context: framing Kamble's activism as a continuation of Ambedkar's emancipatory project
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - bhimrao-ambedkar
 source_channel: editorial-opinions
 proposed_themes: 

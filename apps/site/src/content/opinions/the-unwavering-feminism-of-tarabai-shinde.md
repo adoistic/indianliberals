@@ -30,7 +30,7 @@ thinker_mentions:
   - quote: He was associated with Mahatma Phule's Satyasahodhak Samaj though the level of participation and involvement is unknown.
     context: links Shinde's family background to the Phule reformist tradition
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - jyotirao-phule
 source_channel: editorial-opinions
 proposed_themes: 

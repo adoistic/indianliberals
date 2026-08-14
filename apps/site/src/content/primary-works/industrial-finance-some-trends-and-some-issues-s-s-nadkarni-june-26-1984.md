@@ -17,6 +17,7 @@ related_thinkers:
 - dr-ig-patel
 - s-s-nadkarni
 publication:
+  series_id: ad-shroff-memorial-lecture
   language: en
   publisher_id: a-d-shroff-memorial-trust
   publisher_name: Published by THE A. D. SHROFF MEMORIAL TRUST, 235 Dr. D. N. Road,

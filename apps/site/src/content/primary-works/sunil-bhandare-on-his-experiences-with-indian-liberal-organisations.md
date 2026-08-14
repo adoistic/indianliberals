@@ -12,7 +12,6 @@ publication:
   year: 2015
 themes:
 - forum-of-free-enterprise
-- indian-liberal-group
 - project-for-economic-education
 - alternative-liberal-budgets
 - economic-reforms

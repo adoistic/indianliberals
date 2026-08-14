@@ -5,11 +5,12 @@ title:
   subtitle: ""
 work_type: edited_volume
 authors:
-  - swatantra-party
+  - { collection: organisations, id: swatantra-party }
 editors: []
 contributors: []
 related_thinkers: []
 publication:
+  series_id: swatantra-party-publications
   language: en
   publisher_id: swatantra-party
   publisher_name: Swatantra Party

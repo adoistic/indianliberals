@@ -34,9 +34,16 @@ import Shell from '../layouts/Shell.astro';
     <hr class="rule" />
     <p class="hint">
       All the files in one batch become the same kind of entry. If the folder is mixed, do it in two
-      goes.
+      goes. Books, pamphlets, lectures and scanned documents are all
+      <strong>primary works</strong>.
     </p>
     <div id="kinds" class="kinds"></div>
+    <p class="hint" style="margin-top:1rem">
+      Adding a whole run, such as a booklet series or a memorial lecture? A series is the shelf, not
+      the books on it, so it is made once on the
+      <a href="/add">single-document screen</a> and works are filed into it afterwards, under
+      Publication details.
+    </p>
   </section>
 
   <!-- Step 2 -->
@@ -193,13 +200,25 @@ import Shell from '../layouts/Shell.astro';
 
     // ── Step 1: what kind ──────────────────────────────────────────────
     //
-    // The same seven offered on the single-document screen. Batching a
+    // Six of the seven offered on the single-document screen. Batching a
     // thinker profile makes as much sense as batching a pamphlet.
+    //
+    // Series is deliberately absent. A series is a shelf, not a book, and one
+    // shelf covers a whole run, so a batch of N files can only ever produce N
+    // wrong shelves. That is not hypothetical: on 13 August 2026 four CCS books
+    // were uploaded as a Series batch and became four empty headings named "CCS
+    // Viewpoint" with no works under them, while the books themselves never
+    // entered the archive at all. CCS reported it as "the system created
+    // separate boxes/categories under CCS Viewpoints, which is not what we
+    // intended". Making a new run is a one-off job for the single-document
+    // screen; filing books into it is done per work, under Publication details.
+
+    const BATCHABLE = COLLECTIONS.filter((def) => def.id !== 'series');
 
     function drawKinds(): void {
       const box = $('kinds');
       if (!box) return;
-      for (const def of COLLECTIONS) {
+      for (const def of BATCHABLE) {
         const button = document.createElement('button');
         button.type = 'button';
         button.className = 'kind';
@@ -441,7 +460,18 @@ import Shell from '../layouts/Shell.astro';
         const title = titleOf(data) || item.file.name.replace(/\.[a-z0-9]+$/i, '');
         const slug = slugify(String(data.id || title));
         if (!data.id) data.id = slug;
-        if (item.pdfUrl && !data.pdf_url) data.pdf_url = item.pdfUrl;
+        // Only where the record can actually hold it. This used to be
+        // unconditional, and a Series batch wrote a pdf_url onto four series
+        // records, a field the series schema has no room for. Zod discarded it
+        // without a word, which is why nothing looked wrong until the empty
+        // shelves appeared on the public site.
+        if (
+          item.pdfUrl &&
+          !data.pdf_url &&
+          chosen.fields.some((field) => field.name === 'pdf_url')
+        ) {
+          data.pdf_url = item.pdfUrl;
+        }
 
         // A document's cover is its first page. Capture it here, while the
         // file is still in hand, so every batch entry lands with a cover

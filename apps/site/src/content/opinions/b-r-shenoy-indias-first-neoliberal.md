@@ -51,7 +51,7 @@ thinker_mentions:
   - quote: effusive praise from the likes of Milton Friedman, Friedrich Hayek, Peter Bauer, Henry Hazlitt
     context: listing Friedman among the Western neoliberal validators of Shenoy's work
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - friedrich-hayek
 - milton-friedman
 - peter-bauer

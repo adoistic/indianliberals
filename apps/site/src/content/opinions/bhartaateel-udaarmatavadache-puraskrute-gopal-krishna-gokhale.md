@@ -2,6 +2,10 @@
 id: bhartaateel-udaarmatavadache-puraskrute-gopal-krishna-gokhale
 title: Gopal Krishna Gokhale, a proponent of liberalism in India (भारतातील उदारमतवादाचे पुरस्कर्ते गोपाळ कृष्ण गोखले)
 pubDate: 2023-10-18T12:52:03Z
+author_name: Avanti Lele
+author: avanti-lele
+subject: gopal-krishna-gokhale
+kind: profile
 themes: 
 - democracy
 - liberalism
@@ -9,8 +13,7 @@ themes:
 language: en
 needs_review: true
 draft: false
-author: gopal-krishna-gokhale
-hero_image: /musings/covers/bhartaateel-udaarmatavadache-puraskrute-gopal-krishna-gokhale.webp
+hero_image: /opinions/covers/bhartaateel-udaarmatavadache-puraskrute-gopal-krishna-gokhale.webp
 source_channel: so-musings
 proposed_themes: 
 - moderate-nationalism

@@ -30,7 +30,7 @@ thinker_mentions:
   - quote: India under the Emergency (1975-77) imposed by Indira Gandhi saw the suspension of fundamental rights, electoral democracy, and press freedom.
     context: establishes the authoritarian context driving the article's analysis
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - indira-gandhi
 source_channel: editorial-opinions
 proposed_themes: 

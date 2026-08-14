@@ -16,7 +16,6 @@ proposed_themes:
 - decentralisation
 - human-rights
 key_concepts: 
-- indian-liberal-group
 - fundamental-rights
 - freedom-of-worship
 pull_quote: Respect for the individual as guaranteed under the original Constitution of 1950 is the true basis of society.

@@ -12,6 +12,7 @@ related_thinkers:
   - milton-friedman
 
 publication:
+  series_id: ffe-booklets
   language: en
   publisher_id: forum-of-free-enterprise
   publisher_name: "Published by M. R. PAI for the Forum of Free Enterprise, \"Sohrab House\", 235 Dr. Dadabhai Naoroji Road, Bombay-1, and printed by B. D. Nadirshaw at Bombay Chronicle Press, Sayed Abdulla Brelvi Road, Fort, Bombay-1."

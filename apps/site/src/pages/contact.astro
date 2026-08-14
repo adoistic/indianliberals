@@ -1,12 +1,103 @@
 ---
-import ComingSoon from "~/components/ComingSoon.astro";
+// Contact, and the feedback box CCS asked for in round 4.
+//
+// Replaces the ComingSoon placeholder that stood here. The page is built around
+// corrections rather than around a mailbox: an archive of 1,500 scanned works
+// read by people who know the material will be told when something is wrong,
+// and the cheapest way to hear it is a form on every page that already knows
+// which page it is on.
+
+import BaseLayout from "~/layouts/BaseLayout.astro";
+import FeedbackForm from "~/components/FeedbackForm.astro";
+import { breadcrumbNode, collectionPageNode } from "~/lib/schema";
 import { siteCopy, t } from "~/lib/site-copy";
 
 const copy = await siteCopy("coming-soon");
+const identity = await siteCopy("identity");
+const contactEmail = t(identity, "contact_email", "");
+
+const title = t(copy, "contact_title", "Contact Us");
+const blurb = t(
+  copy,
+  "contact_blurb",
+  "How to reach the team behind the archive, whether you have a correction, a document to contribute, or a rights query.",
+);
 ---
 
-<ComingSoon
-  title={t(copy, "contact_title", "Contact Us")}
-  path="/contact/"
-  blurb={t(copy, "contact_blurb", "How to reach the team behind the archive, whether you have a correction, a document to contribute, or a rights query.")}
-/>
+<BaseLayout
+  schema={[
+    collectionPageNode({ pagePath: "/contact/", name: title }),
+    breadcrumbNode([
+      ["Home", "/"],
+      [title, "/contact/"],
+    ]),
+  ]}
+  title={`${title} · Indian Liberals`}
+  description={blurb}
+>
+  <section class="border-b border-(--color-border)">
+    <div class="mx-auto max-w-6xl px-6 py-12 md:py-16">
+      <h1 class="text-(--color-fg) mb-4">{title}</h1>
+      <p class="text-(--color-fg-muted) leading-relaxed max-w-prose">{blurb}</p>
+      {contactEmail && (
+        <p class="text-(--color-fg-muted) leading-relaxed max-w-prose mt-4 font-(family-name:--font-ui) text-sm">
+          You can also write to{" "}
+          <a href={`mailto:${contactEmail}`} class="text-(--color-forest-700)">{contactEmail}</a>.
+        </p>
+      )}
+    </div>
+  </section>
+
+  <div class="mx-auto max-w-6xl px-6 py-12 grid lg:grid-cols-[minmax(0,34rem)_1fr] gap-12 lg:gap-16">
+    <div>
+      <h2 class="font-(family-name:--font-display) font-semibold text-xl text-(--color-fg) mb-1">
+        Write to the editors
+      </h2>
+      <p class="text-(--color-fg-muted) text-sm mb-7 font-(family-name:--font-ui) leading-relaxed">
+        Everything sent here is read by the people who maintain the archive.
+      </p>
+      <FeedbackForm />
+    </div>
+
+    <aside class="font-(family-name:--font-ui) text-sm">
+      <h2 class="font-(family-name:--font-display) font-semibold text-xl text-(--color-fg) mb-4">
+        What is most useful to us
+      </h2>
+      <dl class="grid gap-5">
+        <div>
+          <dt class="font-semibold text-(--color-fg) mb-1">Corrections</dt>
+          <dd class="text-(--color-fg-muted) leading-relaxed">
+            Much of this archive was read off scans by machine, and machines misread title pages.
+            A wrong year, a misattributed author, a pamphlet filed under the wrong publisher: these
+            are the most valuable things you can tell us, and the quickest to fix. Say which page
+            you were on and we can usually check it the same day.
+          </dd>
+        </div>
+        <div>
+          <dt class="font-semibold text-(--color-fg) mb-1">Material we do not have</dt>
+          <dd class="text-(--color-fg-muted) leading-relaxed">
+            Runs with gaps in them, pamphlets nobody scanned, photographs of the people and the
+            meetings. If you hold something and are willing to let it be digitised, tell us what it
+            is and we will come back about how.
+          </dd>
+        </div>
+        <div>
+          <dt class="font-semibold text-(--color-fg) mb-1">Rights</dt>
+          <dd class="text-(--color-fg-muted) leading-relaxed">
+            Some works here are hosted on the understanding that they will come down if the rights
+            holder asks. If that is you, write and say so; we will act on it rather than argue.
+          </dd>
+        </div>
+      </dl>
+
+      <h2 class="font-(family-name:--font-display) font-semibold text-xl text-(--color-fg) mt-9 mb-3">
+        Elsewhere
+      </h2>
+      <ul class="grid gap-1.5">
+        <li><a href="/about/" class="text-(--color-forest-700)">About the archive</a></li>
+        <li><a href="/search/" class="text-(--color-forest-700)">Search inside every document</a></li>
+        <li><a href="/primary-works/" class="text-(--color-forest-700)">Browse the primary works</a></li>
+      </ul>
+    </aside>
+  </div>
+</BaseLayout>

@@ -23,7 +23,7 @@ thinker_mentions:
     what_it_shows: article structure is organised around itemising Palkhivala's legal arguments
   - quote: Nani Palkhivala foresaw the possibility of such an unintended outcome. Therefore, he staunchly argued for treating exceedingly broad laws as single, indivisible enactments before striking them down fairly
     what_it_shows: closing reflection attributing prescient legal insight to Palkhivala, framing the article's broader argument
-related_thinkers: 
+related_thinkers:
 - nani-palkhivala
 source_channel: editorial-opinions
 proposed_themes: 

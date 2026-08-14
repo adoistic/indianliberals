@@ -35,7 +35,7 @@ thinker_mentions:
   - quote: The delegation, which included suffragists such as Sarojini Naidu, Margaret Cousins, Ramabai Ranade, and Dorothy Jinarajadasa, contributed to women in India being first granted the right to vote in 1921, in Madras.
     context: identifies Ramabai Ranade as a fellow suffragist in the key franchise delegation
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - ramabai-ranade
 - sarojini-naidu
 source_channel: editorial-opinions

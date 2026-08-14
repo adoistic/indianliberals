@@ -41,7 +41,7 @@ const totalWorks = issueCount + seriesWorkCount;
   ogImage={ogSection("periodicals")}
   title={t(copy, "title", "Periodicals · Indian Liberals")}
   description={fmt(
-    t(copy, "description", "{works} works across {runs} runs: the Forum of Free Enterprise booklets, Freedom First, The Indian Libertarian, Khoj, Shetkari Sanghatak, the annual budget analyses and the memorial lectures, indexed item by item."),
+    t(copy, "description", "{works} works across {runs} runs: the Forum of Free Enterprise booklets, the Swatantra Party pamphlets, the Indian Liberal Group papers, CCS Publications, Freedom First, The Indian Libertarian, Khoj and Shetkari Sanghatak, indexed item by item."),
     { works: totalWorks, runs: runCount },
   )}
 >
@@ -63,17 +63,29 @@ const totalWorks = issueCount + seriesWorkCount;
 
   {/* Non-periodical runs lead: the Forum booklets are the single largest body
       of work in the archive, and listing them under the magazines would
-      misrepresent the shape of the collection. */}
+      misrepresent the shape of the collection. The heading covers party
+      pamphlets and think-tank papers as well as booklets and lectures, so it
+      names the material rather than trying to list every shape of it. */}
   <div class="mx-auto max-w-6xl px-6 pt-12">
     <h2 class="font-(family-name:--font-display) font-semibold text-xl text-(--color-fg) mb-1">
-      Booklet series, lectures &amp; annual analyses
+      Booklets, papers and lectures
     </h2>
     <p class="text-(--color-fg-muted) text-sm mb-6 font-(family-name:--font-ui)">
       {seriesWorkCount} works · {seriesGroups.length} runs
     </p>
   </div>
 
-  <div class="mx-auto max-w-6xl px-6 space-y-10">
+  {/* One card per run, and the sub-runs stay inside the run they belong to.
+      CCS, round 4: "the Forum of Free Enterprise pieces are currently divided
+      into several categories. We would like all Forum pieces to be consolidated
+      under Forum of Free Enterprise only." They were: the Forum showed as one
+      card plus five more for the Shroff and Palkhivala lectures, the Union
+      Budget and the Builders portraits, which read as five separate
+      publishers. Those runs still exist and still have their own pages; they
+      are now reached through the Forum's page rather than competing with it
+      here. The card says how many sub-series are inside, so nothing is
+      hidden. */}
+  <div class="mx-auto max-w-6xl px-6 space-y-5">
     {seriesGroups.map((g) => (
       <section>
         <a
@@ -114,29 +126,6 @@ const totalWorks = issueCount + seriesWorkCount;
           </div>
         </a>
 
-        {g.children.length > 0 && (
-          <ul class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 mt-3 ml-0 md:ml-8 font-(family-name:--font-ui)">
-            {g.children.map((c) => (
-              <li>
-                <a
-                  href={`/series/${c.entry.id}/`}
-                  class="block h-full p-3.5 bg-(--color-bg) border border-(--color-border) rounded no-underline hover:border-(--color-fg) transition-all group"
-                >
-                  <span class="text-[10px] uppercase tracking-wider font-semibold text-(--color-fg-muted)">
-                    {KIND_LABEL[c.entry.data.kind]}
-                  </span>
-                  <h4 class="font-(family-name:--font-display) font-semibold text-(--color-fg) group-hover:text-(--color-saffron-700) transition-colors leading-tight mt-0.5">
-                    {c.entry.data.name}
-                  </h4>
-                  <p class="text-xs text-(--color-fg-muted) mt-1">
-                    {c.items.length} {c.items.length === 1 ? "work" : "works"}
-                    {c.yearRange && ` · ${c.yearRange}`}
-                  </p>
-                </a>
-              </li>
-            ))}
-          </ul>
-        )}
       </section>
     ))}
   </div>

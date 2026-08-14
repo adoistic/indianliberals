@@ -26,7 +26,7 @@ thinker_mentions:
   - quote: Shri T. T. Krishnamachari, the Finance Minister, has declared that the Second Plan would demand sacrifice and regimentation of our economy
     context: Krishnamachari's statement used as evidence of the government's explicitly regimented economic programme
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - jawaharlal-nehru
 - t-t-krishnamachari
 source_channel: forum-of-free-enterprise

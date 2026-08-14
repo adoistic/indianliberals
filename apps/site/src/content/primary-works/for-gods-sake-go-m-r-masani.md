@@ -13,6 +13,8 @@ related_thinkers:
   - b-r-shenoy
   - jayaprakash-narayan
 publication:
+  publisher_id: swatantra-party
+  series_id: swatantra-party-publications
   language: en
   publisher_name: "Swatantra Party"
   year: 1966

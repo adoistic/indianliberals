@@ -326,8 +326,11 @@ function themesAttr(w: (typeof works)[number]): string {
         <ul class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-x-5 gap-y-8 font-(family-name:--font-ui)">
           {d.works.map((w) => {
             const y = w.data.publication?.year;
+            // Case-insensitive: the extraction writes the model's own casing,
+            // so "Author" and "author" both appear in the corpus. See the note
+            // on the same comparison in PrimaryWorkDetail.astro.
             const byline = (w.data.contributors ?? [])
-              .filter((c) => c.role === "author")
+              .filter((c) => (c.role ?? "").trim().toLowerCase() === "author")
               .map((c) => c.thinker_unresolved || (c.thinker as { id?: string } | undefined)?.id || "")
               .filter(Boolean)
               .map((s) => s.replace(/-/g, " "))

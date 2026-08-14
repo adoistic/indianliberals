@@ -18,7 +18,7 @@ thinker_mentions:
   - quote: This piece is an excerpt about Parliament's Amending Power from Nani Palkhivala's "Our Constitution Defaced and Defiled". This was first published in 1960 by The Macmillan Company of India Limited.
     context: The editorial preamble identifies Palkhivala as the author of the constitutional analysis being excerpted
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - nani-palkhivala
 proposed_themes: 
 - amending-power

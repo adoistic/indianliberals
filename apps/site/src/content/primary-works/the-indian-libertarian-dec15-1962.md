@@ -33,7 +33,7 @@ related_thinkers:
   - v-k-krishna-menon
   - mao-zedong
   - jayaprakash-narayan
-  - bk-nehru-cn
+  - bk-nehru
   - ralph-borsodi
 publication:
   language: en

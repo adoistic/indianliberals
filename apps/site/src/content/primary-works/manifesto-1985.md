@@ -5,11 +5,12 @@ title:
   subtitle: ""
 work_type: occasional_paper
 authors:
-  - indian-liberal-group
+  - { collection: organisations, id: indian-liberal-group }
 editors: []
 contributors: []
 related_thinkers: []
 publication:
+  series_id: indian-liberal-group
   language: en
   publisher_id: indian-liberal-group
   issuer_id: indian-liberal-group

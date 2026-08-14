@@ -14,6 +14,8 @@ related_thinkers:
   - n-g-ranga
   - k-m-munshi
 publication:
+  publisher_id: swatantra-party
+  series_id: swatantra-party-publications
   language: en
   publisher_name: "Swatantra Party Parliamentary Office, New Delhi"
   place: New Delhi

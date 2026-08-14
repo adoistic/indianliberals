@@ -72,7 +72,7 @@ thinker_mentions:
   - quote: Rabindranath Tagore is an instrument of marvellous production. I do not know that he will submit to be nationalised.
     context: Gandhi's witty riposte using Tagore as an example against Masani's nationalisation agenda
   key_passages: []
-related_thinkers: 
+related_thinkers:
 - b-r-shenoy
 - c-rajagopalachari
 - jawaharlal-nehru
