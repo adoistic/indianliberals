@@ -1,65 +1,64 @@
 ---
-id: "tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom"
+id: tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom
 title: "Tanguturi Prakasam Panthulu: A Visionary Leader and pioneer of Press Freedom"
-pubDate: "2023-11-08T11:39:16Z"
-themes:
-  - "civil-liberties"
-  - "social-reform"
-language: "en"
+pubDate: 2023-11-08T11:39:16Z
+themes: 
+- civil-liberties
+- social-reform
+language: en
 needs_review: true
 draft: false
-author: "tanguturi-prakasam"
-hero_image: "/musings/covers/tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom.webp"
-thinker_mentions:
-  - thinker: mahatma-gandhi
-    role: mention
-    reasoning: "Gandhi is invoked as the inspiration who prompted Prakasam to renounce law and join the independence movement, making Gandhi the direct catalyst for Prakasam's activist transformation."
-    evidence:
-      - quote: Inspired by Mahatma Gandhi, he renounced his profession as an advocate and got wholly involved in politics.
-        context: "Gandhi's influence identified as the turning point in Prakasam's career"
-    key_passages: []
-  - thinker: c-rajagopalachari
-    role: mention
-    reasoning: "Rajagopalachari is named as the patron who supported Khasa Subbarao in reviving the Swarajya magazine to carry forward Prakasam's journalistic legacy."
-    evidence:
-      - quote: "Khasa Subbarao, freedom fighter and journalist, started a magazine with the patronage of C Rajagopalachari and named it \"Swarajya\" magazine"
-        context: "Rajagopalachari cited as the institutional patron who enabled continuation of Prakasam's journalistic tradition"
-    key_passages: []
-  - thinker: khasa-subba-rau
-    role: mention
-    reasoning: "Khasa Subba Rau is named as the person who revived the Swarajya magazine under Rajagopalachari's patronage, continuing Prakasam's journalistic legacy."
-    evidence:
-      - quote: "Khasa Subbarao, freedom fighter and journalist, started a magazine with the patronage of C Rajagopalachari and named it \"Swarajya\" magazine, carrying forward the legacy of Tanguturi Prakasam."
-        context: Khasa Subba Rau identified as the continuator of the Swarajya tradition
-    key_passages: []
+hero_image: /musings/covers/tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom.webp
+thinker_mentions: 
+- thinker: mahatma-gandhi
+  role: mention
+  reasoning: Gandhi is invoked as the inspiration who prompted Prakasam to renounce law and join the independence movement, making Gandhi the direct catalyst for Prakasam's activist transformation.
+  evidence: 
+  - quote: Inspired by Mahatma Gandhi, he renounced his profession as an advocate and got wholly involved in politics.
+    context: Gandhi's influence identified as the turning point in Prakasam's career
+  key_passages: []
+- thinker: c-rajagopalachari
+  role: mention
+  reasoning: Rajagopalachari is named as the patron who supported Khasa Subbarao in reviving the Swarajya magazine to carry forward Prakasam's journalistic legacy.
+  evidence: 
+  - quote: Khasa Subbarao, freedom fighter and journalist, started a magazine with the patronage of C Rajagopalachari and named it "Swarajya" magazine
+    context: Rajagopalachari cited as the institutional patron who enabled continuation of Prakasam's journalistic tradition
+  key_passages: []
+- thinker: khasa-subba-rau
+  role: mention
+  reasoning: Khasa Subba Rau is named as the person who revived the Swarajya magazine under Rajagopalachari's patronage, continuing Prakasam's journalistic legacy.
+  evidence: 
+  - quote: Khasa Subbarao, freedom fighter and journalist, started a magazine with the patronage of C Rajagopalachari and named it "Swarajya" magazine, carrying forward the legacy of Tanguturi Prakasam.
+    context: Khasa Subba Rau identified as the continuator of the Swarajya tradition
+  key_passages: []
 related_thinkers: 
-  - c-rajagopalachari
-  - khasa-subba-rau
-  - mahatma-gandhi
-source_channel: "so-musings"
-proposed_themes:
-  - "biography"
-  - "press-freedom"
-key_concepts:
-  - "press-freedom"
-  - "swarajya-newspaper"
-  - "surat-split"
-  - "first-cm-andhra-pradesh"
+- c-rajagopalachari
+- khasa-subba-rau
+- mahatma-gandhi
+source_channel: so-musings
+proposed_themes: 
+- biography
+- press-freedom
+key_concepts: 
+- press-freedom
+- swarajya-newspaper
+- surat-split
+- first-cm-andhra-pradesh
 pull_quote: He championed Press freedom as a reputed journalist and carried out crucial reforms for the development of Rural people.
 stance: profiles
 kind: periodical-article
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: regional
-  places:
-    - "andhra-pradesh"
-    - "madras-presidency"
-    - "united-kingdom"
+  places: 
+  - andhra-pradesh
+  - madras-presidency
+  - united-kingdom
 ---
 
 _Tanguturi Prakasam was the first Chief Minister of Andhra Pradesh. He was a visionary leader and able administrator. His dynamic personality earned him a lasting reputation in the hearts of the Telugu people. He championed Press freedom as a reputed journalist and carried out crucial reforms for the development of Rural people._
 
- 	- Tanguturi Prakasam was born on 23rd August 1987 to Sri Gopalakrishnayya and Srimati Subbamma. He was born into a middle-class family and spent most of his childhood in his native village, Vinodarayudupalem, in Ongole taluk of then Madras Province. When Tanguturi was twelve years old, his father passed away. The sudden demise of his father left Tanguturi in shock. By 1885, Tanguturi’s family was facing financial difficulties. Owing to these circumstances, Tanguturi and his mother moved to Ongole Town. Tanguturi’s mother ran a small hotel and supported him to study. Tanguturi departed for Rajahmundry, located in Andhra Pradesh, where he successfully passed his Matriculation examination. In 1890, he entered into matrimony with Hanumayamma. Subsequently, he enrolled at Arts College in Rajahmundry and successfully completed the 'Fellow of Arts program’. In 1892, he relocated to Madras, where he joined the Law College and completed his legal education. After completing his legal studies, he began his career as a pleader. Later, he returned to Rajahmundry, establishing a solid presence as a pleader and actively participating in local politics.In 1904, Tanguturi moved to the United Kingdom to further his legal studies. Upon completing his studies and qualifying as a Barrister, he returned to India in 1907 and commenced legal practice in the Madras High Court. For the ensuing fourteen years until 1921, he continued his dedicated service in the legal profession.
+Tanguturi Prakasam was born on 23rd August 1987 to Sri Gopalakrishnayya and Srimati Subbamma. He was born into a middle-class family and spent most of his childhood in his native village, Vinodarayudupalem, in Ongole taluk of then Madras Province. When Tanguturi was twelve years old, his father passed away. The sudden demise of his father left Tanguturi in shock. By 1885, Tanguturi’s family was facing financial difficulties. Owing to these circumstances, Tanguturi and his mother moved to Ongole Town. Tanguturi’s mother ran a small hotel and supported him to study. Tanguturi departed for Rajahmundry, located in Andhra Pradesh, where he successfully passed his Matriculation examination. In 1890, he entered into matrimony with Hanumayamma. Subsequently, he enrolled at Arts College in Rajahmundry and successfully completed the 'Fellow of Arts program’. In 1892, he relocated to Madras, where he joined the Law College and completed his legal education. After completing his legal studies, he began his career as a pleader. Later, he returned to Rajahmundry, establishing a solid presence as a pleader and actively participating in local politics.In 1904, Tanguturi moved to the United Kingdom to further his legal studies. Upon completing his studies and qualifying as a Barrister, he returned to India in 1907 and commenced legal practice in the Madras High Court. For the ensuing fourteen years until 1921, he continued his dedicated service in the legal profession.
 
 However, Tanguturi’s career started taking a political turn when he began to attend Congress party meetings regularly. After the ‘Surat Split’ in 1907, Tanguturi became an active follower of Congress. Inspired by Mahatma Gandhi, he renounced his profession as an advocate and got wholly involved in politics. On October 29, 1921, he founded ‘Swarajya’, an English daily. He was also the working editor of the publication. Swarajya’s closure came in the year 1936.  Later, in 1956, Khasa Subbarao, freedom fighter and journalist, started a magazine with the patronage of C Rajagopalachari and named it “Swarajya” magazine, carrying forward the legacy of Tanguturi Prakasam. Through Swarajya, Tanguturi published Congress's aims and its blueprint of events. During the Nationalist movement, Swarajya was published in English, Telugu, and Tamil. 
 
@@ -79,19 +78,17 @@ Tanguturi Prakasam inspired a generation of leaders as a role model politician o
 
 References
 
- 	[Proud Moment For Swarajya: University Named After First AP CM And Publication’s Original Founder Prakasham Panthulu (swarajyamag.com)](https://swarajyamag.com/insta/proud-moment-for-swarajya-university-named-after-first-ap-cm-and-publications-original-founder-prakasham-panthulu)
+1. [Proud Moment For Swarajya: University Named After First AP CM And Publication’s Original Founder Prakasham Panthulu (swarajyamag.com)](https://swarajyamag.com/insta/proud-moment-for-swarajya-university-named-after-first-ap-cm-and-publications-original-founder-prakasham-panthulu)
 
- 	- [T. Prakasam - Constitution of India](https://www.constitutionofindia.net/members/t-prakasam/)
+2. [T. Prakasam - Constitution of India](https://www.constitutionofindia.net/members/t-prakasam/)
 
- 	- [Tanguturi Prakasam's Role in the Library Movement | INDIAN CULTURE](https://indianculture.gov.in/node/2831650)
+3. [Tanguturi Prakasam's Role in the Library Movement | INDIAN CULTURE](https://indianculture.gov.in/node/2831650)
 
- 	- [Tanguturi Prakasham (amritmahotsav.nic.in)](https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?376)
+4. [Tanguturi Prakasham (amritmahotsav.nic.in)](https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?376)
 
- 	- [Tanguturi Prakasham Pantulu (amritmahotsav.nic.in)](https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2885)
-
-_Previous musing: [KANDUKURI VEERESALINGAM: ICON OF ANDHRA’S RENAISSANCE](https://indianliberals.in/content/kandukuri-veeresalingam-icon-of-andhras-renaissance/)_
+5. [Tanguturi Prakasham Pantulu (amritmahotsav.nic.in)](https://cmsadmin.amritmahotsav.nic.in/unsung-heroes-detail.htm?2885)
 
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
 
 **Ch Prashanth**
-Prashanth is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.
+is pursuing his Master's in International Relations and Politics at the Central University of Kerala. He likes to spend his weekdays at the library or gym. His weekends are spent in front of the television watching the Premier League.
