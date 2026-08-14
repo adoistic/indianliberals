@@ -105,4 +105,4 @@ The following are some of the essential features of the Constitution which Parli
 
  
 
-_Previous musing: [Economic Growth with Social Justice(1969)](https://indianliberals.in/content/economic-growth-with-social-justice-1969/)_
+_Previous musing: [Economic Growth with Social Justice(1969)](https://indianliberals.in/primary-works/economic-growth-with-social-justice-dr-b-r-shenoy-august-1977/#read)_
