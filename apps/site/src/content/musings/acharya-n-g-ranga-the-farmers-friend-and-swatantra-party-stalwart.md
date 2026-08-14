@@ -90,17 +90,17 @@ geographic_scope:
   - united-kingdom
 ---
 
-_Gogineni Ranga Nayakulu, also known as NG Ranga, was a distinguished politician and freedom fighter. He was a champion of Peasant rights and is considered the father of the peasant movement in India. In 1991, he was awarded with the Padma Vibhushan award. _
+_Gogineni Ranga Nayakulu, also known as NG Ranga, was a distinguished politician and freedom fighter. He was a champion of Peasant rights and is considered the father of the peasant movement in India. In 1991, he was awarded with the Padma Vibhushan award._
 
 NG Ranga was born on November 7, 1990, in Nidabrolu Village of Guntur District, Andhra Pradesh. His parents, Nagaih and Atchamamba, were farmers. He completed his primary and secondary education in Nidabrolu. He matriculated and graduated from Andhra Christian College, Guntur. 
 
 In 1920, Ranga left for England and studied Economics and Political Science at Oxford University. He received a doctorate for his research on “The Economics of Handlooms” from the Oxford University. He completed his higher studies and returned to India by 1926. At Oxford, Ranga studied the works of influential political thinkers such as Bertrand Russel, HG Wells and JS Mill. He was attracted to socialist philosophy after witnessing the progress of the USSR. However, his belief in socialism was short-lived, as the Stalin regime’s oppression of peasants and the initiation of Soviet land reforms such as forced collectivisation led to Ranga’s departure from Marxist ideology.
 
- Commenting on the forced collectivisation, Ranga remarked, _“Peasants were faced with the awful prospect of having to slave hard on their holdings and produce bumper crops, only to hand them over, at the preemptory behests of the Soviet armed proletariat, to the soviet authorities without any hope of receiving any of their most elementary necessaries.” _ 
+_Commenting on the forced collectivisation, Ranga remarked, _“Peasants were faced with the awful prospect of having to slave hard on their holdings and produce bumper crops, only to hand them over, at the preemptory behests of the Soviet armed proletariat, to the soviet authorities without any hope of receiving any of their most elementary necessaries.”_ 
 
 Since NG Ranga belonged to a farming family, he understood the problems of farmers well. He was determined to contribute to eradicating these problems. It is also worth noting that during his schooling, NG Ranga began reading reformist literature. He was inspired by Kandukuri Veeresalingam, a social reformer and liberal thinker of his time. 
 
-Ranga said, _“The most important all-India leader who made the biggest impact on my mind and activity before I left for studies at Oxford in 1920 was Veeresalingam. His books lifted me out of my rural moorings and placed me in the ever-expanding stream of national feelings, thoughts and movements.” _
+Ranga said, _“The most important all-India leader who made the biggest impact on my mind and activity before I left for studies at Oxford in 1920 was Veeresalingam. His books lifted me out of my rural moorings and placed me in the ever-expanding stream of national feelings, thoughts and movements.”_
 
 After returning to India, Ranga worked at Pachayappa College in Madras as an Economics lecturer. Soon after, he was duly appointed by the Justice party as ‘Adviser of the Madras state government on economic affairs’. 
 
@@ -108,9 +108,9 @@ In 1930, Ranga’s career took a political turn. He resigned as a lecturer and s
 
 Rajagopalachari wrote the introduction in Bapu blesses, _“Whether we follow Mahatma Gandhi’s advice on various matters or not, it is an undeniable fact that our people in India consider him the wisest of men our country produced. NG. Ranga is one of our exceptional men, whose whole concern is the happiness of our people and not one’s own advantage”_.
 
-NG Ranga  had a progressive vision of educating the peasant population. He believed that peasants would understand the government policies affecting them through education. In 1934, Ranga launched the Indian Peasant Institute in Guntur, Andhra Pradesh. He insisted on using orthodox Telugu knowledge-sharing methods. These included using Burrakatha(oral storytelling), Veera Katha(storytelling on brave acts/people) and Mono acting. 
+NG Ranga  had a progressive vision of educating the peasant population. He believed that peasants would understand the government policies affecting them through education. In 1934, Ranga launched the Indian Peasant Institute in Guntur, Andhra Pradesh. He insisted on using orthodox Telugu knowledge-sharing methods. These included using Burrakatha (oral storytelling), Veera Katha (storytelling on brave acts/people) and Mono acting. 
 
-In 1954, following his defeat as the President of the Congress party of Andhra Pradesh, Ranga resigned from the party. On his resignation, he wrote, _“I have differed violently from Jawaharlal over the fate of self-employed masses of India and parted political company with him.” _
+In 1954, following his defeat as the President of the Congress party of Andhra Pradesh, Ranga resigned from the party. On his resignation, he wrote, _“I have differed violently from Jawaharlal over the fate of self-employed masses of India and parted political company with him.”_
 
 By the mid-1950s, a growing sense of discontent was prevalent in the country regarding the ruling Congress party. Nehru’s socialist orientation led to enacting policies encompassing central planning, land redistribution and state control over key industries. 
 
@@ -134,15 +134,9 @@ Distinguished Acquaintances, Volume 1&II, by N. G. Ranga. Desi Book Distributors
 
 [https://www.constitutionofindia.net/members/n-g-ranga-rao/](https://www.constitutionofindia.net/members/n-g-ranga-rao/)
 
-[https://www.peepultree.world/livehistoryindia/story/eras/c-rajagopalachari](https://www.peepultree.world/livehistoryindia/story/eras/c-rajagopalachari)
-
 [N G Ranga: Swatantra's Peasant Leader - Spontaneous Order](https://spontaneousorder.in/n-g-ranga/)
 
 [N.G Ranga and the Peasant Movement | INDIAN CULTURE](https://indianculture.gov.in/node/2822394)
-
- 
-
-_Previous musing: [TANGUTURI PRAKASAM PANTHULU: A VISIONARY LEADER AND PIONEER OF PRESS FREEDOM](https://indianliberals.in/content/tanguturi-prakasam-panthulu-a-visionary-leader-and-pioneer-of-press-freedom/)_
 
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
 
