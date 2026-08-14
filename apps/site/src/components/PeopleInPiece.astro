@@ -9,7 +9,7 @@
 // Used at the bottom of each Tier-A/B detail page so a reader can jump
 // from any name in the piece to that thinker's bio.
 
-import { getCollection } from "astro:content";
+import { entityIndex } from "~/lib/entity-index";
 import { siteCopy, label } from "~/lib/site-copy";
 
 interface Props {
@@ -28,8 +28,8 @@ const {
   title = label(labels, "people.heading", "People in this piece"),
 } = Astro.props;
 
-const allThinkers = await getCollection("thinkers");
-const thinkersBySlug = new Map(allThinkers.map((t) => [t.id, t]));
+// One shared index for the whole build; see lib/entity-index.ts.
+const { thinkersById: thinkersBySlug } = await entityIndex();
 
 type Role = "author" | "subject" | "mention";
 type Person = { id: string; name: string; role: Role };

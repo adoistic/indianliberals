@@ -17,7 +17,7 @@
 // See docs/superpowers/specs/2026-05-23-organisational-authorship-design.md §5.2
 // and SESSION-SUMMARY-org-authorship.md (deferred items 1 + 2).
 
-import { getCollection } from "astro:content";
+import { entityIndex } from "./entity-index";
 
 export type AuthorEntry =
   | { kind: "thinker"; id: string; name: string }
@@ -39,10 +39,11 @@ export async function resolveAuthorEntries(
   authors: readonly AuthorsRef[] | undefined,
   workId: string,
 ): Promise<AuthorEntry[]> {
-  const allThinkers = await getCollection("thinkers");
-  const allOrgs = await getCollection("organisations");
-  const thinkersById = new Map(allThinkers.map((t) => [t.id, t]));
-  const orgsById = new Map(allOrgs.map((o) => [o.id, o]));
+  // Nothing to resolve: do not touch the collections at all. Most pages that
+  // call this twice have an empty list on at least one of them.
+  if (!authors || authors.length === 0) return [];
+
+  const { thinkersById, orgsById } = await entityIndex();
 
   const resolved: AuthorEntry[] = [];
 

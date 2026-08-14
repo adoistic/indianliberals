@@ -185,3 +185,30 @@ this applies to all 106 organisation pages too.
   endpoint answers at `cms.indianliberals.in/api/feedback` and the inbox at
   `/feedback`. Worth remembering for next time: unlike the site, the CMS is not
   git-integrated, so a push does not deploy it.
+
+---
+
+## Postscript: the first deploy timed out
+
+The first push built for fifty minutes on Cloudflare and was killed:
+`build exceeded the time limit and was terminated`. Not a content error, and
+nothing was ever wrong on the live site, which kept serving the previous build
+throughout.
+
+The cause was in this change set. Crediting an edited volume to its editors
+added a second `resolveAuthorEntries()` call to every work page, and that
+function loaded both collections and rebuilt an 831-entry index **on every
+call**. Across 1,580 work pages that doubled the most expensive per-page
+operation and took the build from its usual twenty-three minutes past the limit.
+
+The repair is `src/lib/entity-index.ts`: one promise, built once per build,
+shared by the byline resolver and by `PeopleInPiece`, which had been rebuilding
+the same 725-entry map on every article page since long before today. An empty
+author list now short-circuits without touching the collections at all.
+
+A full local build went from about eighteen minutes to **3 minutes 18 seconds**,
+2,748 pages, so there is now real headroom rather than none.
+
+Worth remembering: this site is large enough that a per-page cost multiplied by
+1,580 is a deployment risk, not a micro-optimisation. Anything added to a detail
+page's frontmatter script should be checked against that multiplier.
