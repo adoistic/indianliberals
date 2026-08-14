@@ -1,52 +1,51 @@
 ---
-id: "kandukuri-veeresalingam-icon-of-andhras-renaissance"
+id: kandukuri-veeresalingam-icon-of-andhras-renaissance
 title: "Kandukuri Veeresalingam: Icon of Andhra’s Renaissance"
-pubDate: "2023-11-01T15:27:11Z"
-themes:
-  - "liberalism"
-  - "social-reform"
-language: "en"
+pubDate: 2023-11-01T15:27:11Z
+themes: 
+- liberalism
+- social-reform
+language: en
 needs_review: true
 draft: false
-author: "kandukuri-veeresalingam"
-hero_image: "/musings/covers/kandukuri-veeresalingam-icon-of-andhras-renaissance.webp"
-source_channel: "so-musings"
-proposed_themes:
-  - "renaissance"
-  - "telugu-literature"
-  - "women-education"
-key_concepts:
-  - "andhra-renaissance"
-  - "telugu-novel"
-  - "satire-against-superstition"
-  - "brahmin-reform"
+author: kandukuri-veeresalingam
+hero_image: /musings/covers/kandukuri-veeresalingam-icon-of-andhras-renaissance.webp
+source_channel: so-musings
+proposed_themes: 
+- renaissance
+- telugu-literature
+- women-education
+key_concepts: 
+- andhra-renaissance
+- telugu-novel
+- satire-against-superstition
+- brahmin-reform
 pull_quote: Veeresalingam used literature as a tool to banish the darkness of superstition and social vices, and spread awareness.
 stance: profiles
 kind: periodical-article
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: regional
-  places:
-    - "andhra-pradesh"
-thinker_mentions:
-  - thinker: mahadev-govind-ranade
-    role: mention
-    reasoning: "Ranade enters as the contemporary judge whose 1898 acclamation — 'Iswar Chandra Vidyasagar of South' — canonises Veeresalingam within the all-India reform tradition."
-    evidence:
-      - quote: "In 1898, MG Ranade, in a meeting, acclaimed Veeresalingam as \"Iswar Chandra Vidyasagar of South\""
-        context: "the essay's pivotal validation — Ranade is invoked as the authority who places Veeresalingam beside Vidyasagar in the reform canon"
-    key_passages: []
-  - thinker: ishwar-chandra-vidyasagar
-    role: mention
-    reasoning: "Vidyasagar is the comparator — Ranade's epithet 'Iswar Chandra Vidyasagar of South' uses the Bengal widow-remarriage reformer as the standard against which Veeresalingam's Andhra work is measured."
-    evidence:
-      - quote: "In 1898, MG Ranade, in a meeting, acclaimed Veeresalingam as \"Iswar Chandra Vidyasagar of South\""
-        context: Vidyasagar invoked as the canonical reformer-benchmark; the comparison transfers his moral authority on widow remarriage onto Veeresalingam
-    key_passages: []
+  places: 
+  - andhra-pradesh
+thinker_mentions: 
+- thinker: mahadev-govind-ranade
+  role: mention
+  reasoning: Ranade enters as the contemporary judge whose 1898 acclamation, 'Iswar Chandra Vidyasagar of South', canonises Veeresalingam within the all-India reform tradition.
+  evidence: 
+  - quote: In 1898, MG Ranade, in a meeting, acclaimed Veeresalingam as "Iswar Chandra Vidyasagar of South"
+    context: the essay's pivotal validation, Ranade is invoked as the authority who places Veeresalingam beside Vidyasagar in the reform canon
+  key_passages: []
+- thinker: ishwar-chandra-vidyasagar
+  role: mention
+  reasoning: Vidyasagar is the comparator, Ranade's epithet 'Iswar Chandra Vidyasagar of South' uses the Bengal widow-remarriage reformer as the standard against which Veeresalingam's Andhra work is measured.
+  evidence: 
+  - quote: In 1898, MG Ranade, in a meeting, acclaimed Veeresalingam as "Iswar Chandra Vidyasagar of South"
+    context: Vidyasagar invoked as the canonical reformer-benchmark; the comparison transfers his moral authority on widow remarriage onto Veeresalingam
+  key_passages: []
 related_thinkers: 
-  - ishwar-chandra-vidyasagar
-  - mahadev-govind-ranade
-
+- ishwar-chandra-vidyasagar
+- mahadev-govind-ranade
 ---
 
 _Sri Kandukuri Veeresalingam is considered the father of Renaissance in Andhra Pradesh. He was not only a literary figure but also a social reformer. He awakened the masses out of their medieval orthodox customs and superstitions.  He was a multifaceted personality whose literary and revolutionary activities left an indelible mark on Andhra society._
@@ -75,7 +74,7 @@ Veeresalingam was heavily moved by societal norms and practices that denied wome
 
 In 1910, he published “Athibalya vivaham”, a commentary on child marriage. In that Veeresalingam writes _“These child marriages have been prevalent in our country for a very long time. But the question arises, what is the necessity of this practice in today's world? Why should young girls and boys be forced into a marriage at such a young age? The injustices related to marriage are not just limited to the poor, it's widespread. It's time to rethink and break this cycle._
 
-_We should ensure that our children have a good education and lead a life full of happiness and fulfillment rather than being burdened with the responsibilities of marriage at such a tender age. We need to stop these injustices and stand up for what is right. It's high time that we put an end to child marriages, whether among the rich or the poor.” _
+_We should ensure that our children have a good education and lead a life full of happiness and fulfillment rather than being burdened with the responsibilities of marriage at such a tender age. We need to stop these injustices and stand up for what is right. It's high time that we put an end to child marriages, whether among the rich or the poor.”_
 
 The plight of young widowed women influenced Veersealingam. He believed that young women can lead a joyful life after remarriage. Despite the strong opposition from orthodoxy, Veeresalingam conducted the first widow remarriage in Andhra Pradesh on December 11, 1881. 
 
@@ -85,15 +84,13 @@ In India, this news quickly spread across different parts of the country, and ma
 
 References
 
- 	- [https://amritmahotsav.nic.in/district-reopsitory-detail.htm?3788](https://amritmahotsav.nic.in/district-reopsitory-detail.htm?3788)
+1. https://amritmahotsav.nic.in/district-reopsitory-detail.htm?3788](https://amritmahotsav.nic.in/district-reopsitory-detail.htm?3788)
 
- 	- [https://indianculture.gov.in/node/2833251](https://indianculture.gov.in/node/2833251)
+2. [https://indianculture.gov.in/node/2833251](https://indianculture.gov.in/node/2833251)
 
- 	- Rani, S. (2012). Women’s worlds in the novels of Kandukuri and Gilman. _CLCWeb_,_14_(2). [https://doi.org/10.7771/1481-4374.1963](https://doi.org/10.7771/1481-4374.1963)
+3. Rani, S. (2012). Women’s worlds in the novels of Kandukuri and Gilman. _CLCWeb_,_14_(2). [https://doi.org/10.7771/1481-4374.1963](https://doi.org/10.7771/1481-4374.1963)
 
- 	- Uma, A., & Sridhar, M. (2021). Kandukuri Veeresalingam: Women’s Education [February 1875]. In _Routledge eBooks_ (pp. 28–34). [https://doi.org/10.4324/9781003224761-2](https://doi.org/10.4324/9781003224761-2)
-
-_Previous musing: [TWO STRANDS OF LIBERAL EXPRESSION : DR. ANANDIBAI JOSHI AND LAKSHMIBAI TILAK](https://indianliberals.in/content/two-strands-of-liberal-expression-dr-anandibai-joshi-and-lakshmibai-tilak/)_
+4. Uma, A., & Sridhar, M. (2021). Kandukuri Veeresalingam: Women’s Education [February 1875]. In _Routledge eBooks_ (pp. 28, 34). [https://doi.org/10.4324/9781003224761-2](https://doi.org/10.4324/9781003224761-2)
 
 [](https://indianliberals.in/wp-content/uploads/2023/08/IMG_20220724_121630_copy-removebg-preview.png)
 
