@@ -1,39 +1,39 @@
 ---
-id: "planning-by-minoo-masani-1945"
-title: "Planning by Minoo Masani"
-pubDate: "2023-12-21T11:52:59Z"
-themes:
-  - "democracy"
-  - "economic-planning"
-  - "governance"
-language: "en"
+id: planning-by-minoo-masani-1945
+title: Planning by Minoo Masani
+pubDate: 2023-12-21T11:52:59Z
+themes: 
+- democracy
+- economic-planning
+- governance
+language: en
 needs_review: true
 draft: false
-author: "minoo-masani"
-hero_image: "/musings/covers/planning-by-minoo-masani-1945.webp"
-thinker_mentions:
-  - thinker: abraham-lincoln
-    role: mention
-    reasoning: Lincoln is quoted for his definition of democracy — government of, by, and for the people — used by Masani to argue that only a truly representative government can be trusted to implement a national economic plan.
-    evidence:
-      - quote: Abraham Lincoln described it as government of the people, by the people and for the people. This is the only kind of government which can be trusted with a Plan of this kind.
-        context: "Lincoln's definition is invoked as the standard a democratic government must meet before it can legitimately plan the economy"
-    key_passages: []
+author: minoo-masani
+hero_image: /musings/covers/planning-by-minoo-masani-1945.webp
+thinker_mentions: 
+- thinker: abraham-lincoln
+  role: mention
+  reasoning: Lincoln is quoted for his definition of democracy, government of, by, and for the people, used by Masani to argue that only a truly representative government can be trusted to implement a national economic plan.
+  evidence: 
+  - quote: Abraham Lincoln described it as government of the people, by the people and for the people. This is the only kind of government which can be trusted with a Plan of this kind.
+    context: Lincoln's definition is invoked as the standard a democratic government must meet before it can legitimately plan the economy
+  key_passages: []
 related_thinkers: 
-  - abraham-lincoln
-source_channel: "so-musings"
-proposed_themes:
-  - "central-planning"
-key_concepts:
-  - "responsible-government"
-  - "planning"
-  - "democratic-state"
-  - "self-government"
+- abraham-lincoln
+source_channel: so-musings
+proposed_themes: 
+- central-planning
+key_concepts: 
+- responsible-government
+- planning
+- democratic-state
+- self-government
 pull_quote: Just as an injection can cure or kill a man, so too a Plan can enrich or ruin a country.
 stance: analyzes
 kind: book-excerpt
 period_window: pre-independence
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
@@ -84,4 +84,4 @@ The best guarantee for the preservation of political liberty is that of free opp
 
 Above all, what needs to be remembered is that planning is but a means to an end. It is an instrument by the use of which certain desired results may be achieved and, like all tools, it can be used for good or for ill. The question therefore arises: Planning, yes, but to what end?
 
-_Previous musing: [Fundamental Right to Property by V M Tarkunde](https://indianliberals.in/content/fundamental-right-to-property-by-v-m-tarkunde/)_
+_Previous musing: [Fundamental Right to Property by V M Tarkunde](https://indianliberals.in/primary-works/fundamental-right-to-propety-v-m-tarkunde-may-10-1971/#read)_
