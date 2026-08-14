@@ -171,7 +171,17 @@ this applies to all 106 organisation pages too.
   is a real inconsistency worth resolving, but it is a data-modelling decision for
   CCS, not a defect, and failing the build on it would have meant not shipping any
   of the above.
-- **The CMS must be deployed** for the feedback endpoint to exist at
-  `cms.indianliberals.in`. It is not git-integrated: run `npm run deploy` in
-  `apps/cms`. Until then the form on the live site will report that it could not
-  send.
+- **The five books are not in the full-text index yet.** They are in the archive,
+  browsable, summarised, covered, and findable by title through the header
+  search. What they are not in is the separate `/search/` index of the *interiors*
+  of every PDF, which lives on R2 and is rebuilt by the multi-step pipeline in
+  `scripts/fulltext/README.md`: download the 50 MB corpus, extract per-page text
+  for the new works, rebuild the bundle, upload every file under `search/`. That
+  is a batch job, it wants more free disk than this machine currently has, and a
+  half-finished upload degrades a search that works today. It should be run as its
+  own pass, with the next ingestion batch rather than on its own.
+
+- **The CMS is deployed.** `npm run deploy` was run from `apps/cms`; the feedback
+  endpoint answers at `cms.indianliberals.in/api/feedback` and the inbox at
+  `/feedback`. Worth remembering for next time: unlike the site, the CMS is not
+  git-integrated, so a push does not deploy it.
