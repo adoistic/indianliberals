@@ -1,46 +1,47 @@
 ---
-id: "examination-of-objections-to-limitations-of-amending-power-1960"
-title: "Examination of Objections to Limitations of Amending Power"
-pubDate: "2024-01-26T16:26:58Z"
-hero_image: "/musings/stock/liberty-4.webp"
-themes:
-  - "civil-liberties"
-  - "democracy"
-  - "rule-of-law"
-language: "en"
+id: examination-of-objections-to-limitations-of-amending-power-1960
+title: Examination of Objections to Limitations of Amending Power
+pubDate: 2024-01-26T16:26:58Z
+hero_image: /musings/stock/liberty-4.webp
+themes: 
+- civil-liberties
+- democracy
+- rule-of-law
+language: en
 needs_review: true
 draft: false
-thinker_mentions:
-  - thinker: nani-palkhivala
-    role: author
-    reasoning: "The entry is an excerpt from Palkhivala's 'Our Constitution Defaced and Defiled' (1960); Palkhivala is the author of the reproduced text, though this was not captured in the frontmatter."
-    evidence:
-      - quote: "This piece is an excerpt about Parliament's Amending Power from Nani Palkhivala's \"Our Constitution Defaced and Defiled\". This was first published in 1960 by The Macmillan Company of India Limited."
-        context: The editorial preamble identifies Palkhivala as the author of the constitutional analysis being excerpted
-    key_passages: []
+thinker_mentions: 
+- thinker: nani-palkhivala
+  role: author
+  reasoning: The entry is an excerpt from Palkhivala's 'Our Constitution Defaced and Defiled' (1960); Palkhivala is the author of the reproduced text, though this was not captured in the frontmatter.
+  evidence: 
+  - quote: This piece is an excerpt about Parliament's Amending Power from Nani Palkhivala's "Our Constitution Defaced and Defiled". This was first published in 1960 by The Macmillan Company of India Limited.
+    context: The editorial preamble identifies Palkhivala as the author of the constitutional analysis being excerpted
+  key_passages: []
 related_thinkers: 
-  - nani-palkhivala
-proposed_themes:
-  - "amending-power"
-  - "constitutionalism"
-key_concepts:
-  - "amending-power"
-  - "fundamental-rights"
-  - "article-368"
-  - "golaknath-case"
-  - "sankari-prasad-case"
+- nani-palkhivala
+proposed_themes: 
+- amending-power
+- constitutionalism
+key_concepts: 
+- amending-power
+- fundamental-rights
+- article-368
+- golaknath-case
+- sankari-prasad-case
 pull_quote: If the representatives of the people could be trusted to respect citizens’ basic freedoms, there would have been no need for the chapter on fundamental rights at all.
 stance: argues-against
 kind: book-excerpt
 period_window: late-license-raj
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
+author: nani-palkhivala
 ---
 
 _This piece is an excerpt about Parliament’s Amending Power from Nani Palkhivala’s “Our Constitution Defaced and Defiled”. This was first published in 1960 by The Macmillan Company of India Limited. In the introduction to this publication, Nani Palkhivala says “WE, THE PEOPLE OP INDIA, adopted, enacted and gave to ourselves the Constitution. We, the people, are also its only keepers. We have to pay the State not only in taxes but in time and in thought.”_
 
-_You can read more about Nani Palkhivala [here](https://indianliberals.in/content/nani-palkhivala/) ___
+_You can read more about Nani Palkhivala [here](https://indianliberals.in/thinkers/nani-palkhivala/)_
 
 The arguments frequently urged against imposing any limits on Parliament’s amending power may nowbe examined.
 
@@ -66,11 +67,11 @@ Another plea against holding the amending power to be limited has been that it w
 
 It has been urged that a test which involves consideration of the essential features of the Constitution would be vague, because the essential features are not precisely ascertainable.
 
-It is true that the borderline cannot be definitely drawn between amendments which would be valid and those which would be invalid on the principle that the essential features cannot be altered or destroyed ; nor would it be possible to specify exhaustively the amendments which would be invalid by this test. But this is no argument against the validity of the principle. Rejecting a similar plea that administrative action should not be struck down on the ground that it violated the rules of natural justice since the concept of natural justice was too nebulous to afford a legal test, Lord Reid* observed. In modern times opinions have sometimes been expressed to the effect that natural justice is so vague as to be practically meaningless. But I would regard these as tainted by the perennial fallacy that because something cannot be cut and dried or nicely weighed or measured therefore it does not exist. The idea of negligence is equally insusceptible of exact definition, but what a reasonable man would regard as fair procedure in particular circumstances and what he would regard as negligence in particular circumstances are equally capable of serving as tests in law, and natural justice as it has been interpreted in the courts is much more definite than that . . .
+It is true that the borderline cannot be definitely drawn between amendments which would be valid and those which would be invalid on the principle that the essential features cannot be altered or destroyed ; nor would it be possible to specify exhaustively the amendments which would be invalid by this test. But this is no argument against the validity of the principle. Rejecting a similar plea that administrative action should not be struck down on the ground that it violated the rules of natural justice since the concept of natural justice was too nebulous to afford a legal test, Lord Reid* observed. In modern times opinions have sometimes been expressed to the effect that natural justice is so vague as to be practically meaningless. But I would regard these as tainted by the perennial fallacy that because something cannot be cut and dried or nicely weighed or measured therefore it does not exist. The idea of negligence is equally insusceptible of exact definition, but what a reasonable man would regard as fair procedure in particular circumstances and what he would regard as negligence in particular circumstances are equally capable of serving as tests in law, and natural justice as it has been interpreted in the courts is much more definite than that. 
 
 Adapting the words of Frankfurter, one may say that the essential features of the Constitution are not authoritatively formulated anywhere as though they were prescriptions in a pharmacopoeia. The fact that judges among themselves may differ whether in a particular case an amendment alters or destroys a fundamental principle of the Constitution is no disproof that general rather than idiosyncratic standards have to be applied.
 
-Legal tests of the validity of a law, based on the concept of what is essential, fundamental or basic in a constitution, in a power, in a religion, etc.^ arc well- known. They have been applied time and again in interpreting the Constitution and determining the vires of legislative or administrative action. These legal tests have been universally accepted despite the fact that in no case can there be an exhaustive enumeration of the laws which would be valid or invalid by the application of the tests, nor can there be unanimity of judicial opinion in the cases which arise from time to time. A few examples may suffice. Delegated legislation is invalid where the legislature has parted with ‘^its essential legislative function”. “Exactly what constitutes an essential feature cannot be enunciated in general terms, and there was some divergence of view about this . . . , but this much is clear . . . : it cannot include a change of policy.” The protection of Articles 25 and 26 has been held to extend to “ceremonies and modes of worship which are integral parts of religion. . . . What constitutes an essential part of a religion or religious practice has to be decided by the courts. . . . “
+Legal tests of the validity of a law, based on the concept of what is essential, fundamental or basic in a constitution, in a power, in a religion, etc. are well- known. They have been applied time and again in interpreting the Constitution and determining the vires of legislative or administrative action. These legal tests have been universally accepted despite the fact that in no case can there be an exhaustive enumeration of the laws which would be valid or invalid by the application of the tests, nor can there be unanimity of judicial opinion in the cases which arise from time to time. A few examples may suffice. Delegated legislation is invalid where the legislature has parted with ‘^its essential legislative function”. “Exactly what constitutes an essential feature cannot be enunciated in general terms, and there was some divergence of view about this . . . , but this much is clear . . . : it cannot include a change of policy.” The protection of Articles 25 and 26 has been held to extend to “ceremonies and modes of worship which are integral parts of religion. . . . What constitutes an essential part of a religion or religious practice has to be decided by the courts."
 
 Our Constitution requires the courts to use legal concepts which are no less “vague” than the concept of fundamental or essential features. The rule of pith and substance which is to be applied to any ordinary law with a view to ascertaining whether it is within legislative competence is surely no more precise. Legislation which usurps or infringes the judicial power is void, although it would be an impossible task to trace where the line is to be drawn between what will and what will not constitute such an interference. Even in the field of fundamental rights, restrictions are permissible if they are “reasonable”, “in the interests of the general public”, or arc imposed on the ground of “decency” or “morality”. These tests do not permit any abstract standard to be laid down as applicable to all cases. Yet they have to be applied in determining the validity of ordinary laws.
 
@@ -82,25 +83,25 @@ There cannot possibly be any mistake about the authentic voice of our Constituti
 
 The following are some of the essential features of the Constitution which Parliament cannot alter or destroy in the exercise of its amending power.
 
- 	- The supremacy of the Constitution. Ours is a “controlled constitution” par excellence. All institutions, including Parliament, arc merely creatures of the Constitution and none of them is its master.
+1. The supremacy of the Constitution. Ours is a “controlled constitution” par excellence. All institutions, including Parliament, arc merely creatures of the Constitution and none of them is its master.
 
- 	- The sovereignty of India. This country cannot be made a satellite, colony or dependency of any foreign country.
+2. The sovereignty of India. This country cannot be made a satellite, colony or dependency of any foreign country.
 
- 	- The integrity of the country. The unity of the nation, transcending all the regional, linguistic, religious and other diversities, is the bedrock on which the constitutional fabric has been raised.
+3. The integrity of the country. The unity of the nation, transcending all the regional, linguistic, religious and other diversities, is the bedrock on which the constitutional fabric has been raised.
 
- 	- The republican form of government. India cannot be transformed into a monarchy.
+4. The republican form of government. India cannot be transformed into a monarchy.
 
- 	- The democratic way of life as distinct from mere adult franchise. There is a guarantee of fundamental rights to ensure justice, social, economic and political; liberty of thought, expression, belief, faith and worship; and equality of status and of opportunity.
+5. The democratic way of life as distinct from mere adult franchise. There is a guarantee of fundamental rights to ensure justice, social, economic and political; liberty of thought, expression, belief, faith and worship; and equality of status and of opportunity.
 
- 	- A State in which there is no State religion. All religions are equal and none is favoured.
+6. A State in which there is no State religion. All religions are equal and none is favoured.
 
- 	- A free and independent judiciary. Without it, all rights would be writ in water.
+7. A free and independent judiciary. Without it, all rights would be writ in water.
 
- 	- The dual structure of the Union and the States. It permits centralization and decentralization to coexist.
+8. The dual structure of the Union and the States. It permits centralization and decentralization to coexist.
 
- 	- The balance between the legislature, the executive and the judiciary. None of the three organs can use its powers to destroy the powers of the other two, nor can any of them abdicate its power in favor of another.
+9. The balance between the legislature, the executive and the judiciary. None of the three organs can use its powers to destroy the powers of the other two, nor can any of them abdicate its power in favor of another.
 
- 	- The amendability of the Constitution according to the basic scheme of Article 368. The Constitution must continue to be amendable without being alterable in its essentials.
+10. The amendability of the Constitution according to the basic scheme of Article 368. The Constitution must continue to be amendable without being alterable in its essentials.
 
  
 
