@@ -289,6 +289,19 @@ def thinker_names(root: str) -> dict[str, str]:
     return names
 
 
+def author_id(ref) -> str:
+    """The slug out of an authors[] entry, in either shape it comes in.
+
+    A thinker is a bare string. An organisation has to be written as
+    ``{collection: organisations, id: forum-of-free-enterprise}``, because a
+    bare string always resolves through the thinkers arm of the schema's union
+    and the byline silently disappears. Both forms are in the corpus.
+    """
+    if isinstance(ref, dict):
+        return str(ref.get("id") or "")
+    return str(ref or "")
+
+
 def listed(data: dict) -> bool:
     return not data.get("draft") and not data.get("hide_from_index")
 
@@ -319,7 +332,7 @@ def collect() -> list[dict]:
         year = year_of((data.get("publication") or {}).get("year"))
         kind = pretty(str(data.get("work_type") or "work"))
         eyebrow = f"{kind} · {year}" if year else kind
-        authors = [names.get(a, "") for a in (data.get("authors") or [])[:3]]
+        authors = [names.get(author_id(a), "") for a in (data.get("authors") or [])[:3]]
         authors = [a for a in authors if a]
         sub = "by " + ", ".join(authors) if authors else ""
         add(f"og/w/{name[:-3]}.jpg", title, eyebrow, sub, data.get("cover_image"))
