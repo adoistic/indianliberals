@@ -212,3 +212,41 @@ A full local build went from about eighteen minutes to **3 minutes 18 seconds**,
 Worth remembering: this site is large enough that a per-page cost multiplied by
 1,580 is a deployment risk, not a micro-optimisation. Anything added to a detail
 page's frontmatter script should be checked against that multiplier.
+
+---
+
+## Postscript 2: the legacy redirects had never been deployed
+
+Found while checking that the twelve moved musings still resolved at their old
+addresses. They did. Their *WordPress* addresses did not, and neither did
+anybody else's.
+
+Cloudflare Pages looks for Functions at `<root directory>/functions`. This
+project's root directory is the repository root, and the functions live at
+`apps/site/functions/`. They had therefore never been deployed. Every legacy
+address 404'd in production: roughly 1,400 `/content/<slug>/` URLs, the
+`/content_category/`, `/content_tag/`, `/content_letter/`, `/author/` and
+`/all-categories/` archives, and the `/bn/ /gj/ /hi/ /mr/` language subsites.
+
+It hid for months because it works. `wrangler pages dev` run from `apps/site`,
+which is where anyone would test a change to `apps/site/functions/`, mounts them
+correctly and redirects exactly as designed. Only the deployed site was wrong,
+and a redirect that fails is invisible unless you go looking for it.
+
+The fix is `functions/` at the repository root: one line per route, re-exporting
+the handler that stays next to the site. Verified by running
+`wrangler pages dev apps/site/dist` from the repository root, which is how
+Cloudflare mounts it:
+
+- `/content/<slug>/` 301s to the work
+- `/hi/content/<slug>/` resolves through the language table
+- `/all-categories/` lands on the works index
+- an unknown slug still 404s rather than guessing a target
+- every static page still serves; the functions do not shadow the assets
+
+The alternative was to change the project's root directory in the Cloudflare
+dashboard. That also moves the build command and the output directory, and it
+cannot be reviewed in a diff. This can.
+
+**Check this after any change to the deploy shape**, and prefer testing
+redirects from the repository root rather than from `apps/site`.
