@@ -1,74 +1,74 @@
 ---
-id: "to-prosperity-through-freedom-v-r-1960"
-title: "To Prosperity through Freedom"
-pubDate: "2024-05-20T17:01:04Z"
-hero_image: "/musings/stock/economy-4.webp"
-themes:
-  - "economic-policy"
-  - "free-enterprise"
-  - "liberalism"
-language: "en"
+id: to-prosperity-through-freedom-v-r-1960
+title: To Prosperity through Freedom
+pubDate: 2024-05-20T17:01:04Z
+hero_image: /musings/stock/economy-4.webp
+themes: 
+- economic-policy
+- free-enterprise
+- liberalism
+language: en
 needs_review: true
 draft: false
-thinker_mentions:
-  - thinker: c-rajagopalachari
-    role: mention
-    reasoning: "C. Rajagopalachari is invoked as the author of the Swatantra Party's Fourteen Points challenging Congress's socialist ideology, framed as a Luther-like challenge nailed to the ruling party's door."
-    evidence:
-      - quote: Mr. C. Rajqopalachari has nailed his Fourteen Points on the door of the Ruling Party in the crucial challenge
-        context: "opening analogy likening Rajaji's challenge to Luther's Ninety-Five Theses"
-      - quote: the challenging speeches of Sri C. Rajagoalachari, Mr. M. R. Maoani, Mr. K. M. Muhani, Prof. Ranga
-        context: listing Rajaji among the Swatantra voices initiating a national debate on socialism versus democratic freedom
-    key_passages: []
-  - thinker: mahatma-gandhi
-    role: mention
-    reasoning: "Gandhi is cited as the origin of Congress's avoidance of ideological debate and as the source of the constructive programme vision that Swatantra contrasts with Nehru's socialism."
-    evidence:
-      - quote: The congress from the days of its founder Mahatma Gandhi has contented itself with practical programmes leaving ideology and refinement of ideals to the supreme leader
-        context: context for why Congress never rigorously debated its socialist orientation
-      - quote: Gandhi dreamt of Hind Swaraj. a republic of autonomous villages living an Arcadian life of simplicity close to nature
-        context: "Gandhi's vision listed among competing visions that Swatantra opposes with free-economy ideas"
-    key_passages: []
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: Nehru is identified as the supreme ideological leader whose Marxist-influenced planning has driven India toward socialism, posing a threat to democratic foundations.
-    evidence:
-      - quote: Today we have a similar situation in the country with Nehru as supreme leader
-        context: comparison of Congress under Gandhi and Nehru as examples of uncritical ideological deference
-      - quote: Nehru has the vision of socialised society with industrialisation carried to its apogee, full of science and technology
-        context: "Nehru's vision contrasted with Gandhi's and with Swatantra's free-market alternative"
-    key_passages: []
-  - thinker: karl-marx
-    role: mention
-    reasoning: "Karl Marx is mentioned as the 'perverse student of Hegel' whose dialectical materialism informs communist ideology, deployed here to critique the Swatantra alternative's ideological foil."
-    evidence:
-      - quote: Karl Marx (the perverse student of Hegel) also had some dim notion of Freedom as the culmination of his communist society
-        context: "assessment of Marxist theory of freedom as a dim echo of Hegelian idealism, contrasted with Swatantra's free-market freedom"
-    key_passages: []
+thinker_mentions: 
+- thinker: c-rajagopalachari
+  role: mention
+  reasoning: C. Rajagopalachari is invoked as the author of the Swatantra Party's Fourteen Points challenging Congress's socialist ideology, framed as a Luther-like challenge nailed to the ruling party's door.
+  evidence: 
+  - quote: Mr. C. Rajqopalachari has nailed his Fourteen Points on the door of the Ruling Party in the crucial challenge
+    context: opening analogy likening Rajaji's challenge to Luther's Ninety-Five Theses
+  - quote: the challenging speeches of Sri C. Rajagoalachari, Mr. M. R. Maoani, Mr. K. M. Muhani, Prof. Ranga
+    context: listing Rajaji among the Swatantra voices initiating a national debate on socialism versus democratic freedom
+  key_passages: []
+- thinker: mahatma-gandhi
+  role: mention
+  reasoning: Gandhi is cited as the origin of Congress's avoidance of ideological debate and as the source of the constructive programme vision that Swatantra contrasts with Nehru's socialism.
+  evidence: 
+  - quote: The congress from the days of its founder Mahatma Gandhi has contented itself with practical programmes leaving ideology and refinement of ideals to the supreme leader
+    context: context for why Congress never rigorously debated its socialist orientation
+  - quote: Gandhi dreamt of Hind Swaraj. a republic of autonomous villages living an Arcadian life of simplicity close to nature
+    context: Gandhi's vision listed among competing visions that Swatantra opposes with free-economy ideas
+  key_passages: []
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Nehru is identified as the supreme ideological leader whose Marxist-influenced planning has driven India toward socialism, posing a threat to democratic foundations.
+  evidence: 
+  - quote: Today we have a similar situation in the country with Nehru as supreme leader
+    context: comparison of Congress under Gandhi and Nehru as examples of uncritical ideological deference
+  - quote: Nehru has the vision of socialised society with industrialisation carried to its apogee, full of science and technology
+    context: Nehru's vision contrasted with Gandhi's and with Swatantra's free-market alternative
+  key_passages: []
+- thinker: karl-marx
+  role: mention
+  reasoning: Karl Marx is mentioned as the 'perverse student of Hegel' whose dialectical materialism informs communist ideology, deployed here to critique the Swatantra alternative's ideological foil.
+  evidence: 
+  - quote: Karl Marx (the perverse student of Hegel) also had some dim notion of Freedom as the culmination of his communist society
+    context: assessment of Marxist theory of freedom as a dim echo of Hegelian idealism, contrasted with Swatantra's free-market freedom
+  key_passages: []
 related_thinkers: 
-  - jawaharlal-nehru
-  - karl-marx
-  - mahatma-gandhi
-  - c-rajagopalachari
-source_channel: "so-musings"
-proposed_themes:
-  - "swatantra-party"
-key_concepts:
-  - "rajaji"
-  - "patna-convention"
-  - "swatantra-party"
-  - "nehruvian-socialism"
-  - "directive-principles"
+- jawaharlal-nehru
+- karl-marx
+- mahatma-gandhi
+- c-rajagopalachari
+source_channel: so-musings
+proposed_themes: 
+- swatantra-party
+key_concepts: 
+- rajaji
+- patna-convention
+- swatantra-party
+- nehruvian-socialism
+- directive-principles
 pull_quote: Like Luther at Godeoburg, Mr. C. Rajqopalachari has nailed his Fourteen Points on the door of the Ruling Party in the crucial challenge.
 stance: argues-for
 kind: periodical-article
 period_window: nehruvian-era
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
 
-_The following musing is an excerpt from ‘To Prosperity through Freedom’, published in journal Incorporating the 'Free Economic Review' and 'The Indian Rationalist’ Vol. 8 No. 5. The piece written by V. R. discusses and contextualizes Swatantra Party’s Philosophy and Policy which was declared at Patna on 19 and 20 March 1960. _
+_The following musing is an excerpt from ‘To Prosperity through Freedom’, published in journal Incorporating the 'Free Economic Review' and 'The Indian Rationalist’ Vol. 8 No. 5. The piece written by V. R. discusses and contextualizes Swatantra Party’s Philosophy and Policy which was declared at Patna on 19 and 20 March 1960._
 
 Like Luther at Godeoburg, Mr. C. Rajqopalachari has nailed his Fourteen Points on the door of the Ruling Party in the crucial challenge. The Patna Convention authorised a statement of policy on 19 and 20 March 1960 which is issued to the general public in the form of a brochure called: To Prosperity through Freedom. 
 
@@ -98,5 +98,4 @@ Free self-realisation through self-chosen activities in all the spheres of knowl
 
 It is in the picture of proximate ideals, of actual governmental policies that social goals come to have vastly differing impacts on the day-to-day lives of the people, giving them the exhilaration of expanding freedom or cribbing, cabinning and confining them into narrow grooves charged with pain and frustration.
 
-_You can access the complete piece _[_here_](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-jun1-1960.pdf)_._
-type=content&#038;p=8512). Needs editorial review._
+You can access the complete piece [here](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-jun1-1960.pdf).
