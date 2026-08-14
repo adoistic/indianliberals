@@ -1,52 +1,53 @@
 ---
-id: "shetkari-sangathana-history-farmers-movement-india"
-title: "The Shetkari Sangathana and the History of the Farmers' Movement in India"
-pubDate: "2024-05-27T10:10:57Z"
-hero_image: "/musings/stock/agriculture-2.webp"
-themes:
-  - "agriculture"
-  - "economic-freedom"
-  - "economic-reform"
-language: "en"
+id: shetkari-sangathana-history-farmers-movement-india
+title: The Shetkari Sangathana and the History of the Farmers' Movement in India
+pubDate: 2024-05-27T10:10:57Z
+hero_image: /musings/stock/agriculture-2.webp
+themes: 
+- agriculture
+- economic-freedom
+- economic-reform
+language: en
 needs_review: true
 draft: false
-thinker_mentions:
-  - thinker: sharad-anantrao-joshi
-    role: mention
-    reasoning: "Sharad Anantrao Joshi is identified as the founder and driving force of the Shetkari Sanghatana farmers' movement in Maharashtra, which is the primary subject of this historical account."
-    evidence:
-      - quote: The following musing is an excerpt from a booklet titled ‘Visionaries of a New Bharat – Shetkari Sanghathana’ which traces the evolution, the ideology, and the vision of the Shetkari Sanghatana, a farmer’s movement spearheaded by Sharad Anantrao Joshi
-        context: "introductory attribution naming Joshi as the movement's founder"
-      - quote: The SS was kick-started in the late 1970s by Sharad Joshi.
-        context: names Joshi directly as the person who launched the Shetkari Sanghatana
-    key_passages: []
+thinker_mentions: 
+- thinker: sharad-anantrao-joshi
+  role: mention
+  reasoning: Sharad Anantrao Joshi is identified as the founder and driving force of the Shetkari Sanghatana farmers' movement in Maharashtra, which is the primary subject of this historical account.
+  evidence: 
+  - quote: The following musing is an excerpt from a booklet titled ‘Visionaries of a New Bharat, Shetkari Sanghathana’ which traces the evolution, the ideology, and the vision of the Shetkari Sanghatana, a farmer’s movement spearheaded by Sharad Anantrao Joshi
+    context: introductory attribution naming Joshi as the movement's founder
+  - quote: The SS was kick-started in the late 1970s by Sharad Joshi.
+    context: names Joshi directly as the person who launched the Shetkari Sanghatana
+  key_passages: []
 related_thinkers: 
-  - sharad-anantrao-joshi
-source_channel: "so-musings"
-proposed_themes:
-  - "farmers-movement"
-key_concepts:
-  - "shetkari-sangathana"
-  - "remunerative-prices"
-  - "zamindari-vs-ryotwari"
-  - "village-panchayat-land"
-pull_quote: The SS is a non-political, non communal and non-pastoral union of peasants with a single point-programme – “Securing remunerative prices for the agricultural produce.”
+- sharad-anantrao-joshi
+source_channel: so-musings
+proposed_themes: 
+- farmers-movement
+key_concepts: 
+- shetkari-sangathana
+- remunerative-prices
+- zamindari-vs-ryotwari
+- village-panchayat-land
+pull_quote: The SS is a non-political, non communal and non-pastoral union of peasants with a single point-programme, “Securing remunerative prices for the agricultural produce.”
 stance: analyzes
 kind: pamphlet-excerpt
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "maharashtra"
+  places: 
+  - maharashtra
+author: sharad-joshi
 ---
 
 _The farmers’ movement in India is as old as time itself. Throughout our independent history, there have been numerous struggles and demands for reforms by Indian farmers against all dispensations. The demand for reforming the agricultural sector, giving access to open markets and de-regulating the economic freedom of farmers has been time and again raised in the past decades._
 
-_The following musing is an excerpt from a booklet titled ‘Visionaries of a New Bharat – Shetkari Sanghathana’ which traces the evolution, the ideology, and the vision of the Shetkari Sanghatana, a farmer’s movement spearheaded by Sharad Anantrao Joshi, and elaborately lays down their demands with their rationale. _
+_The following musing is an excerpt from a booklet titled ‘Visionaries of a New Bharat, Shetkari Sanghathana’ which traces the evolution, the ideology, and the vision of the Shetkari Sanghatana, a farmer’s movement spearheaded by Sharad Anantrao Joshi, and elaborately lays down their demands with their rationale._
 
-The Shetkari Sangathana (SS) in Maharashtra functioning since 1998 is a true representative of the present epoch of the farmer’s movement. The SS has been spearheading the developmental and ideological debate. The SS was kick-started in the late 1970s by Sharad Joshi. The SS is a non-political, non communal and non-pastoral union of peasants with a single point-programme – “Securing remunerative prices for the agricultural produce.” The single point may seem to be extremely simplistic, but, according to the thought of SS, it is the key to the economic development of India. 
+The Shetkari Sangathana (SS) in Maharashtra functioning since 1998 is a true representative of the present epoch of the farmer’s movement. The SS has been spearheading the developmental and ideological debate. The SS was kick-started in the late 1970s by Sharad Joshi. The SS is a non-political, non communal and non-pastoral union of peasants with a single point-programme, “Securing remunerative prices for the agricultural produce.” The single point may seem to be extremely simplistic, but, according to the thought of SS, it is the key to the economic development of India. 
 
-## HISTORY OF FARMERS’ MOVEMENT IN INDIA
+**HISTORY OF FARMERS’ MOVEMENT IN INDIA**
 
 Movements; agitations, uprisings and revolts by peasants are as old as history itself. The primary objective of the farmers’ uprising, agitations and conquests during the period of British Rule was to seek abolition of the Zamindari as against the Ryotwari (lease holder) system. In the long tradition of lndian history, the land in the village belonged to the village Panchayat. The division of agricultural labour continued from generation to generation between the cultivators and the artisans. The British brought in their own revenue system based on private ownership of land. Land was measured, numbered and allotted to prominent villagers who undertook to collect their revenue for the government or to those whose traditional role came closest to that of the cultivator/accountant. 
 
@@ -57,4 +58,3 @@ The independence and the partition marked the beginning of the years of food sho
 This signalled the right moment for the emergence of a Nationalist farmers’ organisation. The blame for the poverty could no more be put on the moneylenders or on the landlords. It was no more possible to blame the illiteracy, the indolence and wasteful social customs. The time survived for the emergence of the Shetkari Sanghatana.  
 
 To read the full text, click on this [link](https://indianliberals.in/liberals/visionaries-of-a-new-bharat-shetkari-sanghatana.pdf).
-type=content&#038;p=8520). Needs editorial review._
