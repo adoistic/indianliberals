@@ -1,34 +1,35 @@
 ---
-id: "indian-agricultural-policy-in-a-nutshell"
-title: "Indian agricultural policy in a nutshell"
-pubDate: "2023-12-20T16:49:31Z"
-hero_image: "/musings/covers/indian-agricultural-policy-in-a-nutshell.webp"
-themes:
-  - "agriculture"
-  - "economic-policy"
-  - "free-markets"
-language: "en"
+id: indian-agricultural-policy-in-a-nutshell
+title: Indian agricultural policy in a nutshell
+pubDate: 2023-12-20T16:49:31Z
+hero_image: /musings/covers/indian-agricultural-policy-in-a-nutshell.webp
+themes: 
+- agriculture
+- economic-policy
+- free-markets
+language: en
 needs_review: true
 draft: false
-source_channel: "so-musings"
-proposed_themes:
-  - "farmer-movements"
-key_concepts:
-  - "negative-subsidy"
-  - "shetkari-sanghatana"
-  - "freedom-of-access"
-  - "wto"
-  - "farm-poverty"
+source_channel: so-musings
+proposed_themes: 
+- farmer-movements
+key_concepts: 
+- negative-subsidy
+- shetkari-sanghatana
+- freedom-of-access
+- wto
+- farm-poverty
 pull_quote: The central and the most essential fact about Indian agriculture is that it suffers from either the caprices of nature or, when the nature is benign, by the tyranny of governmental interventions.
 stance: argues-against
 kind: periodical-article
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
+author: sharad-joshi
 ---
 
-_The following is an article written by Farmer Leader Mr. Sharad Joshi in Down to Earth in 2012. Joshi founded the Shetkari Sanghatana, a non-political union of farmers formed to secure ‘Freedom of access to markets and technology,’ which later emerged as one of the largest farm groups in India. He was also the founder of the largest organization of rural women, Shetkari Mahila Aghadi, celebrated for its work for women’s property rights. _
+_The following is an article written by Farmer Leader Mr. Sharad Joshi in Down to Earth in 2012. Joshi founded the Shetkari Sanghatana, a non-political union of farmers formed to secure ‘Freedom of access to markets and technology,’ which later emerged as one of the largest farm groups in India. He was also the founder of the largest organization of rural women, Shetkari Mahila Aghadi, celebrated for its work for women’s property rights._
 
 A large number of researchers and scholars who wish to study agriculture in India are intrigued by the extreme penury of the farmers and the low levels of productivity. It surprises them that the peasantry of a country so well endowed in water resources and sunlight should be so miserably placed.
 
@@ -64,11 +65,12 @@ The government did not need to depress the prices of each of the hundreds of agr
 
 These anti-farmer policies were sought to be justified by various arguments:
 
-1. The desirability of low-cost economy;
+1.The desirability of low-cost economy;
 
-2. The need to promote industry by keeping prices of wage goods and raw material low;
+2.The need to promote industry by keeping prices of wage goods and raw material low;
 
-3. Need for comprehensive consumer protection; etc
+3.Need for comprehensive consumer protection; etc
 
 This is a brief summary of the essentials of the State policy on agriculture. And, all that I have written in last 30 years was essentially a commentary on the various methods used by the government to exploit the ‘Bharat’ to the benefit of the ‘India’.
-_Previous musing: [Fundamental Right to Property by V M Tarkunde](https://indianliberals.in/content/fundamental-right-to-property-by-v-m-tarkunde/)_
+
+_Previous musing: [Fundamental Right to Property by V M Tarkunde](https://indianliberals.in/primary-works/fundamental-right-to-propety-v-m-tarkunde-may-10-1971/#read)_
