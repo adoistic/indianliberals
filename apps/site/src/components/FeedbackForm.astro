@@ -151,8 +151,12 @@ const KINDS = [
       </p>
     </div>
 
-    <div id="fb-result" aria-live="polite"></div>
   </div>
+
+  {/* Outside the grid on purpose. Sending clears the grid, and this element
+      has to survive that or the thank-you is written into a node that is no
+      longer on the page, which is exactly what happened the first time. */}
+  <div id="fb-result" aria-live="polite" class="mt-5"></div>
 </form>
 
 {sitekey && (
@@ -237,7 +241,8 @@ const KINDS = [
           if (window.turnstile && widget) window.turnstile.reset(widget);
           return;
         }
-        form.querySelector(".grid").innerHTML = "";
+        const grid = form.querySelector(".grid");
+        if (grid) grid.innerHTML = "";
         say(
           "Thank you. It has reached the editors, and somebody will read it. " +
             "If you left an address and it needs a reply, you will get one.",
