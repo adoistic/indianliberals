@@ -74,11 +74,10 @@ import { COLLECTIONS } from '../lib/collections';
       border-radius: 999px;
       transition: border-color .15s, background .15s;
     }
-    .pick:hover { border-color: var(--gold); }
+    .pick:hover { box-shadow: 2px 2px 0 var(--ink); }
     .pick[aria-pressed='true'] {
-      background: color-mix(in srgb, var(--gold) 22%, transparent);
-      color: var(--deep);
-      border-color: var(--gold);
+      background: var(--ink);
+      color: var(--paper);
     }
     .tabcount {
       font-size: .75rem;
@@ -86,7 +85,7 @@ import { COLLECTIONS } from '../lib/collections';
       color: var(--body);
       min-width: .6rem;
     }
-    .pick[aria-pressed='true'] .tabcount { color: var(--deep); }
+    .pick[aria-pressed='true'] .tabcount { color: var(--paper); }
     .about { margin-top: .7rem; max-width: 44rem; min-height: 1.2rem; }
 
     .head { display: flex; gap: 1.25rem; align-items: flex-end; flex-wrap: wrap; margin-bottom: .5rem; }
@@ -107,12 +106,12 @@ import { COLLECTIONS } from '../lib/collections';
       display: flex;
       flex-direction: column;
       border: 1px solid var(--line2);
-      border-radius: 13px;
+      border-radius: 0;
       overflow: hidden;
       background: var(--card);
       transition: border-color .15s, transform .15s;
     }
-    .entry-card:hover { border-color: var(--gold); }
+    .entry-card:hover { box-shadow: 3px 3px 0 var(--ink); }
 
     .cover-wrap {
       aspect-ratio: 3 / 4;
@@ -132,7 +131,7 @@ import { COLLECTIONS } from '../lib/collections';
       font-family: var(--serif);
       font-size: 2.6rem;
       color: var(--gold);
-      background: linear-gradient(160deg, var(--tile), var(--sand) 220%);
+      background: var(--paper); border: 1px solid var(--ink);
     }
 
     .entry-body { padding: .85rem .95rem 1rem; display: flex; flex-direction: column; gap: .3rem; flex: 1; }
@@ -169,7 +168,7 @@ import { COLLECTIONS } from '../lib/collections';
       color: var(--body);
       text-decoration: none;
     }
-    .view-live:hover { color: var(--brown); text-decoration: underline; }
+    .view-live:hover { text-decoration: underline; }
 
     .more { margin-top: 1.5rem; text-align: center; }
     #status .notice { margin-top: .5rem; }

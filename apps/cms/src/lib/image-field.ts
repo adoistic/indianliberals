@@ -110,7 +110,7 @@ export function imageField(options: ImageFieldOptions): HTMLElement {
 
   function say(text: string, bad = false): void {
     line.textContent = text;
-    line.style.color = bad ? 'var(--stop, #a33)' : '';
+    line.style.fontWeight = bad ? '700' : '';
   }
 
   function previewUrl(): string {
@@ -233,11 +233,11 @@ export function stagedForSave(
 export function imageFieldStyles(): string {
   return `
     .imgfield { margin: .2rem 0 .3rem; }
-    .imgzone { border: 2px dashed var(--line, #ccc); border-radius: 10px; padding: .9rem; text-align: center; background: var(--page, #faf8f4); transition: border-color .15s, background .15s; }
-    .imgzone.over { border-color: var(--gold, #b8860b); background: var(--cream, #f6efe2); }
-    .imgshown { max-width: 200px; max-height: 260px; display: inline-block; border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,.12); }
-    .imgempty { margin: .4rem 0; font-size: .85rem; color: var(--body, #555); }
+    .imgzone { border: 2px dashed var(--ink, #000); border-radius: 0; padding: .9rem; text-align: center; background: var(--paper, #fff); }
+    .imgzone.over { border-style: solid; }
+    .imgshown { max-width: 200px; max-height: 260px; display: inline-block; border: 1px solid var(--ink, #000); }
+    .imgempty { margin: .4rem 0; font-size: .85rem; color: var(--ink, #000); }
     .imgrow { display: flex; gap: .5rem; flex-wrap: wrap; margin-top: .5rem; }
-    .imgline { font-size: .82rem; margin: .35rem 0 0; color: var(--body, #555); }
+    .imgline { font-size: .82rem; margin: .35rem 0 0; color: var(--ink, #000); }
   `;
 }

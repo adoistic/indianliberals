@@ -76,7 +76,7 @@ import Shell from '../layouts/Shell.astro';
 
     .draft {
       display: grid; grid-template-columns: auto 1fr auto; gap: .9rem; align-items: start;
-      background: var(--card); border: 1px solid var(--line2); border-radius: 12px;
+      background: var(--card); border: 1px solid var(--line2); border-radius: 0;
       padding: .9rem 1.1rem; margin-bottom: .6rem;
     }
     .draft.ready { border-color: var(--sand); background: var(--cream); }
@@ -89,10 +89,10 @@ import Shell from '../layouts/Shell.astro';
     .draft .doing .btn { white-space: nowrap; }
     .pill {
       display: inline-block; font-size: 11px; letter-spacing: .1em; text-transform: uppercase;
-      font-weight: 700; padding: .12rem .45rem; border-radius: 5px; margin-left: .5rem;
+      font-weight: 700; padding: .12rem .45rem; border-radius: 0; margin-left: .5rem;
       background: var(--tile); color: var(--body);
     }
-    .pill.ok { background: #e4efe0; color: #37602b; }
+    .pill.ok { background: var(--ink); color: var(--paper); }
     @media (max-width: 640px) {
       .draft { grid-template-columns: auto 1fr; }
       .draft .doing { grid-column: 2; flex-direction: row; }

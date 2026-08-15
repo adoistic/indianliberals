@@ -1,30 +1,39 @@
-/* Thothica brand tokens.
-   Warm, editorial, scholarly. One family of browns with gold as seasoning,
-   never as a fill. Cormorant Garamond for voice, Teachers for clarity. */
+/* Thothica Black.
+   Two inks and no third: black on white, a literary serif against a plain sans.
+   Hierarchy comes from weight, size, inversion and hairline rules, never from a
+   tint, because there are no tints to reach for.
 
-@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,500&family=Teachers:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap');
+   This replaces the brown and gold palette. The old token names are kept below
+   as aliases rather than renamed across forty files: every one of them now
+   resolves to ink or paper, so a stray var(--gold) can only ever draw black.
+   New work should use --ink and --paper. */
+
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,500&family=Teachers:ital,wght@0,400;0,600;0,700;0,800;1,400&display=swap');
 
 :root {
-  --brown: #624120;
-  --brown2: #5a4530;
-  --deep: #4f3419;
-  --gold: #b8956a;
-  --sand: #e0c4ac;
-  --cream: #fcf7f1;
-  --page: #fcfcfa;
-  --card: #ffffff;
-  --tile: #f4efe8;
-  --badge: #efeeea;
-  --line: #c9c2ba;
-  --line2: #e3ddd5;
-  --body: #6f665e;
+  --ink: #000000;
+  --paper: #ffffff;
 
   --serif: 'Cormorant Garamond', Georgia, serif;
   --sans: 'Teachers', 'Trebuchet MS', Calibri, sans-serif;
 
-  --ok: #2d7a3e;
-  --warn: #b8860b;
-  --stop: #a33a2a;
+  /* Legacy aliases. Every one is ink or paper. */
+  --brown: #000000;
+  --brown2: #000000;
+  --deep: #000000;
+  --gold: #000000;
+  --sand: #ffffff;
+  --cream: #ffffff;
+  --page: #ffffff;
+  --card: #ffffff;
+  --tile: #ffffff;
+  --badge: #ffffff;
+  --line: #000000;
+  --line2: #000000;
+  --body: #000000;
+  --ok: #000000;
+  --warn: #000000;
+  --stop: #000000;
 }
 
 * { box-sizing: border-box; }
@@ -33,33 +42,40 @@ html { -webkit-text-size-adjust: 100%; }
 
 body {
   margin: 0;
-  background: var(--page);
-  color: var(--body);
+  background: var(--paper);
+  color: var(--ink);
   font-family: var(--sans);
   font-size: 15px;
   line-height: 1.6;
 }
 
+/* Cormorant ships oldstyle figures, which make a year look like a typo in a
+   heading. Force lining and tabular everywhere digits can appear. */
+h1, h2, h3,
+.tabular,
+.num {
+  font-feature-settings: 'lnum' 1, 'tnum' 1;
+}
+
 h1, h2, h3 {
   font-family: var(--serif);
-  color: var(--brown);
-  font-weight: 500;
-  line-height: 1.2;
+  color: var(--ink);
+  font-weight: 600;
+  line-height: 1.15;
   margin: 0;
 }
 
-h1 { font-size: 2.1rem; }
-h2 { font-size: 1.5rem; }
+h1 { font-size: 2.3rem; letter-spacing: -0.01em; }
+h2 { font-size: 1.55rem; }
 h3 { font-size: 1.15rem; }
 
-a { color: var(--brown); }
+a { color: var(--ink); text-underline-offset: 0.18em; }
 
-/* The signature divider: a short gold hairline, used under an eyebrow or a
-   heading. It is the one place gold appears at any size. */
+/* The divider under an eyebrow or a heading. Black, because everything is. */
 .rule {
   width: 44px;
   height: 1px;
-  background: var(--gold);
+  background: var(--ink);
   border: 0;
   margin: 0.75rem 0 1.25rem;
 }
@@ -69,105 +85,145 @@ a { color: var(--brown); }
   letter-spacing: 0.18em;
   text-transform: uppercase;
   font-weight: 700;
-  color: var(--brown);
+  color: var(--ink);
   margin: 0;
 }
 
 .card {
-  background: var(--card);
-  border: 1px solid var(--line2);
-  border-radius: 15px;
+  background: var(--paper);
+  border: 1px solid var(--ink);
+  border-radius: 0;
   padding: 1.5rem;
 }
 
-.tile { background: var(--tile); border-radius: 14px; }
+/* Kept for the pages that use it. A tile is no longer a fill; it is an outline,
+   because a fill would need a tint. */
+.tile { background: var(--paper); border: 1px solid var(--ink); border-radius: 0; }
 
 .btn {
   font-family: var(--sans);
   font-size: 0.95rem;
-  font-weight: 600;
+  font-weight: 700;
   padding: 0.65rem 1.25rem;
-  border-radius: 10px;
-  border: 1px solid transparent;
+  border-radius: 0;
+  border: 1px solid var(--ink);
   cursor: pointer;
-  transition: filter 0.15s, background 0.15s;
+  /* Transform only. A colour or opacity transition passes through grey. */
+  transition: transform 0.12s ease;
 }
-/* A link styled as a button should not also be underlined like a link. */
 a.btn { text-decoration: none; }
-.btn:disabled { opacity: 0.45; cursor: not-allowed; }
-.btn-primary { background: var(--brown); color: var(--cream); }
-.btn-primary:hover:not(:disabled) { filter: brightness(1.12); }
-.btn-quiet {
-  background: var(--card);
-  color: var(--brown);
-  border-color: var(--line);
+.btn:active:not(:disabled) { transform: translateY(1px); }
+
+/* Disabled without grey and without opacity.
+   The hatch was tried here first and had to go: stripes behind the label made
+   "Saving" unreadable, which is a worse failure than the grey it replaced. A
+   dashed edge says unavailable and leaves the word legible. */
+.btn:disabled {
+  cursor: not-allowed;
+  background: var(--paper);
+  color: var(--ink);
+  border-style: dashed;
+  font-weight: 400;
+  box-shadow: none;
 }
-.btn-quiet:hover:not(:disabled) { background: var(--tile); }
+.btn:disabled:hover { box-shadow: none; }
 
-label { display: block; font-weight: 600; color: var(--brown2); margin-bottom: 0.3rem; }
+/* Inversion is the emphasis. The primary action is the one filled black. */
+.btn-primary { background: var(--ink); color: var(--paper); }
+.btn-quiet { background: var(--paper); color: var(--ink); }
+.btn-quiet:hover:not(:disabled),
+.btn-primary:hover:not(:disabled) { box-shadow: 2px 2px 0 var(--ink); }
 
-.hint { font-size: 0.85rem; color: var(--body); margin: 0.25rem 0 0; }
+label { display: block; font-weight: 700; color: var(--ink); margin-bottom: 0.3rem; }
+
+.hint { font-size: 0.85rem; color: var(--ink); margin: 0.25rem 0 0; }
 
 input[type='text'], input[type='email'], input[type='number'], input[type='url'],
+input[type='password'], input[type='search'], input[type='date'],
 textarea, select {
   width: 100%;
   font-family: var(--sans);
   font-size: 0.95rem;
-  color: var(--brown);
-  background: var(--card);
-  border: 1px solid var(--line);
-  border-radius: 9px;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--ink);
+  border-radius: 0;
   padding: 0.55rem 0.7rem;
 }
 input:focus, textarea:focus, select:focus {
-  outline: 2px solid var(--gold);
-  outline-offset: 1px;
-  border-color: var(--gold);
+  outline: 2px solid var(--ink);
+  outline-offset: 2px;
 }
 
 .field { margin-bottom: 1.2rem; }
 
+/* A chip is an outline. The one that matters is inverted. */
 .chip {
   display: inline-flex;
   align-items: center;
   gap: 0.35rem;
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   font-weight: 700;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.08em;
   text-transform: uppercase;
   padding: 0.2rem 0.6rem;
-  border-radius: 999px;
-  background: var(--badge);
-  color: var(--brown2);
+  border-radius: 0;
+  border: 1px solid var(--ink);
+  background: var(--paper);
+  color: var(--ink);
 }
-.chip-gold { background: color-mix(in srgb, var(--gold) 22%, transparent); color: var(--deep); }
-.chip-ok { background: color-mix(in srgb, var(--ok) 15%, transparent); color: var(--ok); }
-.chip-stop { background: color-mix(in srgb, var(--stop) 13%, transparent); color: var(--stop); }
+.chip-gold, .chip-ok { background: var(--ink); color: var(--paper); }
+/* Something wrong is marked by a dashed edge, not by a colour. */
+.chip-stop { background: var(--paper); color: var(--ink); border-style: dashed; }
 
 .tabular { font-variant-numeric: tabular-nums; }
 
 .notice {
-  border-left: 2px solid var(--gold);
-  background: var(--cream);
+  border: 1px solid var(--ink);
+  border-left-width: 4px;
+  background: var(--paper);
   padding: 0.9rem 1.1rem;
-  border-radius: 0 10px 10px 0;
+  border-radius: 0;
 }
-.notice-stop { border-left-color: var(--stop); }
+/* A stop is the inverted notice: it is the one thing on the page you cannot
+   miss, and it does not need red to say so. */
+.notice-stop {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
+.notice-stop a { color: var(--paper); }
 
 code, pre, .mono { font-family: ui-monospace, 'SF Mono', Menlo, monospace; font-size: 0.85em; }
-pre { background: var(--tile); padding: 1rem; border-radius: 10px; overflow-x: auto; }
+pre {
+  background: var(--paper);
+  border: 1px solid var(--ink);
+  padding: 1rem;
+  border-radius: 0;
+  overflow-x: auto;
+}
 
-.muted { color: var(--body); }
+/* There is no muted ink. What used to be quieter is now smaller and lighter in
+   weight, which is the only honest way to say it with one colour. */
+.muted { color: var(--ink); font-size: 0.92em; font-weight: 400; }
 .stack > * + * { margin-top: 1rem; }
 .row { display: flex; gap: 0.75rem; align-items: center; }
 .grow { flex: 1; min-width: 0; }
 
-/* The marker beside a field that cannot be left empty. Both forms draw their
-   labels at runtime, so this lives here rather than in either page. */
 .req {
-  font-weight: 400;
-  font-size: 0.75rem;
-  color: var(--stop);
-  letter-spacing: 0.04em;
+  font-weight: 700;
+  font-size: 0.72rem;
+  color: var(--ink);
+  letter-spacing: 0.08em;
   text-transform: uppercase;
+}
+
+/* The narration voice: italic serif, larger than body, for the one sentence on
+   a screen that the reader has to keep. */
+.lede {
+  font-family: var(--serif);
+  font-style: italic;
+  font-size: 1.25rem;
+  line-height: 1.45;
+  color: var(--ink);
 }

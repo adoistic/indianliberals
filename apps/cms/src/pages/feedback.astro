@@ -54,16 +54,17 @@ import Shell from '../layouts/Shell.astro';
 
   <style is:global>
     .head { max-width: 46rem; }
-    .bar { display: flex; align-items: center; gap: 1rem; padding: .9rem 1.1rem; border: 1px solid var(--line2); border-radius: 12px; background: var(--page); margin-bottom: 1.1rem; }
+    .bar { display: flex; align-items: center; gap: 1rem; padding: .9rem 1.1rem; border: 1px solid var(--line2); border-radius: 0; background: var(--page); margin-bottom: 1.1rem; }
     .grow { flex: 1; }
     .tick { display: flex; align-items: center; gap: .55rem; }
     .tick input { width: auto; }
-    .msg { border: 1px solid var(--line2); border-radius: 12px; padding: 1.15rem 1.3rem; margin-bottom: .9rem; background: var(--page); }
-    .msg.done { opacity: .55; }
+    .msg { border: 1px solid var(--line2); border-radius: 0; padding: 1.15rem 1.3rem; margin-bottom: .9rem; background: var(--page); }
+    .msg.done { border-style: dashed; }
+    .msg.done .who { text-decoration: line-through; }
     .msghead { display: flex; align-items: baseline; gap: .75rem; flex-wrap: wrap; margin-bottom: .5rem; }
     .who { font-weight: 600; color: var(--brown); }
     .when, .where { font-size: .82rem; color: var(--body); }
-    .tag { font-size: 10px; letter-spacing: .14em; text-transform: uppercase; font-weight: 700; padding: .18rem .45rem; border-radius: 4px; background: var(--gold-soft, #f3ead6); color: var(--brown); }
+    .tag { font-size: 10px; letter-spacing: .14em; text-transform: uppercase; font-weight: 700; padding: .18rem .45rem; border-radius: 0; background: var(--ink); color: var(--paper); }
     .msg p.body { margin: .6rem 0 .9rem; white-space: pre-wrap; }
     .msgfoot { display: flex; align-items: center; gap: .8rem; flex-wrap: wrap; }
   </style>

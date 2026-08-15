@@ -17,7 +17,7 @@ const { title, bare = false } = Astro.props;
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="robots" content="noindex, nofollow" />
     <title>{title} · Thothica CMS</title>
-    <link rel="icon" href="/thothica-logo.png" />
+    <link rel="icon" href="/thothica-thumb.png" />
   </head>
   <body>
     {
@@ -67,13 +67,15 @@ const { title, bare = false } = Astro.props;
         display: flex;
         flex-direction: column;
       }
+      /* A hairline separates the chrome from the work. There is no fill to do
+         it with, so the rule does it. */
       .bar {
         display: flex;
         align-items: center;
         gap: 2rem;
         padding: 0.9rem 1.75rem;
-        background: var(--card);
-        border-bottom: 1px solid var(--line2);
+        background: var(--paper);
+        border-bottom: 1px solid var(--ink);
       }
       .brand {
         display: flex;
@@ -81,7 +83,7 @@ const { title, bare = false } = Astro.props;
         flex: none;
       }
       .brand img {
-        height: 34px;
+        height: 30px;
         width: auto;
         display: block;
       }
@@ -92,20 +94,23 @@ const { title, bare = false } = Astro.props;
       }
       nav a {
         text-decoration: none;
-        font-weight: 600;
-        color: var(--brown2);
+        font-weight: 700;
+        font-size: 0.92rem;
+        color: var(--ink);
         padding: 0.2rem 0;
         border-bottom: 2px solid transparent;
       }
-      nav a:hover {
-        border-bottom-color: var(--gold);
+      /* Hover and current page are the same gesture: the rule appears. */
+      nav a:hover,
+      nav a[aria-current='page'] {
+        border-bottom-color: var(--ink);
       }
       .who {
         margin-left: auto;
         display: flex;
         align-items: center;
         gap: 0.75rem;
-        font-size: 0.9rem;
+        font-size: 0.88rem;
       }
       .page {
         flex: 1;
@@ -115,17 +120,17 @@ const { title, bare = false } = Astro.props;
         padding: 2.25rem 1.75rem 4rem;
       }
       .foot {
-        border-top: 1px solid var(--line2);
+        border-top: 1px solid var(--ink);
         padding: 1.1rem 1.75rem;
         display: flex;
         gap: 1.5rem;
         flex-wrap: wrap;
         font-size: 0.85rem;
-        color: var(--body);
+        color: var(--ink);
       }
       @media (max-width: 720px) {
         .bar { flex-wrap: wrap; gap: 1rem; }
-        nav { order: 3; width: 100%; }
+        nav { order: 3; width: 100%; flex-wrap: wrap; gap: 1rem; }
       }
     </style>
 
@@ -150,6 +155,13 @@ const { title, bare = false } = Astro.props;
             return;
           }
           nav?.removeAttribute('hidden');
+          // Name the current page in the nav. With one ink, the underline is
+          // the only thing available to say "you are here".
+          for (const link of nav?.querySelectorAll('a') ?? []) {
+            if (link.getAttribute('href') === location.pathname) {
+              link.setAttribute('aria-current', 'page');
+            }
+          }
           if (canManagePeople(role)) people?.removeAttribute('hidden');
           who.innerHTML = `
             <span class="chip chip-gold">${ROLE_INFO[role].label}</span>

@@ -89,7 +89,7 @@ const bySlug = new Map(SURFACES.map((s) => [s.slug, s]));
     .grouping .hint { margin: 0.2rem 0 1rem; }
     .cards { display: grid; gap: 0.85rem; grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr)); }
     .surface { text-decoration: none; display: block; padding: 1.05rem 1.2rem; transition: border-color 0.15s, transform 0.15s; }
-    .surface:hover { border-color: var(--gold); transform: translateY(-1px); }
+    .surface:hover { transform: translateY(-1px); box-shadow: 3px 3px 0 var(--ink); }
     .surface h3 { margin: 0 0 0.35rem; font-size: 1.1rem; }
     .surface p { margin: 0; font-size: 0.85rem; color: var(--body); }
   </style>

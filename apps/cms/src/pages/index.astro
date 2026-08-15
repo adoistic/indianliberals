@@ -88,7 +88,7 @@ const jobs = [
       position: relative;
       transition: border-color .15s, transform .15s, box-shadow .15s;
     }
-    .job:hover { border-color: var(--gold); transform: translateY(-2px); box-shadow: 0 6px 20px rgba(98, 65, 32, .07); }
+    .job:hover { transform: translateY(-2px); box-shadow: 3px 3px 0 var(--ink); }
     .job.first { grid-column: 1 / -1; background: var(--cream); border-color: var(--sand); }
     .job.first h2 { font-size: 1.75rem; }
     .job h2 { margin-bottom: .4rem; }
@@ -110,7 +110,7 @@ const jobs = [
   <!-- The tiles below are written in after the count arrives, so scoped rules
        would never reach them. -->
   <style is:global>
-    .count { background: var(--tile); border-radius: 12px; padding: .85rem 1rem; }
+    .count { background: var(--tile); border-radius: 0; padding: .85rem 1rem; }
     .count .n { font-family: var(--serif); font-size: 1.5rem; color: var(--brown); line-height: 1; font-variant-numeric: tabular-nums; }
     .count .k { font-size: .78rem; margin-top: .25rem; color: var(--body); }
   </style>

@@ -137,18 +137,20 @@ import Shell from '../layouts/Shell.astro';
     .kinds { display: grid; gap: .6rem; grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr)); }
     .kind {
       text-align: left; background: var(--card); border: 1px solid var(--line2);
-      border-radius: 12px; padding: .9rem 1rem; cursor: pointer;
+      border-radius: 0; padding: .9rem 1rem; cursor: pointer;
     }
-    .kind:hover { border-color: var(--gold); }
-    .kind[aria-pressed='true'] { border-color: var(--brown); background: var(--cream); }
+    .kind:hover { box-shadow: 3px 3px 0 var(--ink); }
+    .kind[aria-pressed='true'] { background: var(--ink); color: var(--paper); }
+    .kind[aria-pressed='true'] strong,
+    .kind[aria-pressed='true'] span { color: var(--paper); }
     .kind strong { display: block; font-family: var(--serif); font-size: 1.1rem; color: var(--brown); }
     .kind span { font-size: .85rem; color: var(--body); }
 
     .drop {
-      border: 2px dashed var(--line2); border-radius: 14px;
+      border: 2px dashed var(--line2); border-radius: 0;
       padding: 2rem 1rem; text-align: center; margin: 1rem 0;
     }
-    .drop.over { border-color: var(--gold); background: var(--cream); }
+    .drop.over { border-style: solid; box-shadow: inset 0 0 0 2px var(--ink); }
     .drop p { margin: .2rem 0; }
 
     .tally { display: flex; gap: 1.25rem; flex-wrap: wrap; margin-bottom: 1rem; font-size: .9rem; }
@@ -157,12 +159,12 @@ import Shell from '../layouts/Shell.astro';
     .queue { list-style: none; padding: 0; margin: 0; display: grid; gap: .4rem; }
     .row {
       display: grid; grid-template-columns: 1fr auto; gap: .75rem; align-items: center;
-      padding: .6rem .85rem; background: var(--tile); border-radius: 10px;
+      padding: .6rem .85rem; background: var(--tile); border-radius: 0;
     }
     .row .name { font-size: .9rem; word-break: break-all; }
     .row .state { font-size: .8rem; color: var(--body); white-space: nowrap; }
-    .row.done { background: #eef4ec; }
-    .row.failed { background: #fbeeec; }
+    .row.done { border-left: 4px solid var(--ink); }
+    .row.failed { border-left: 4px dashed var(--ink); }
     .row .why { grid-column: 1 / -1; font-size: .8rem; color: var(--stop); margin: .2rem 0 0; }
     .actions { display: flex; gap: .75rem; flex-wrap: wrap; margin-top: 1.1rem; align-items: center; }
   </style>
