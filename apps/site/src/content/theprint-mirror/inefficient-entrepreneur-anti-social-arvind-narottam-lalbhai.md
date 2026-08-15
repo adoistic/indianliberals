@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/inefficient-entrepreneur-anti-social-arvind-narottam-lalbhai/2926117/) on 2026-08-08. Originally published 2026-05-09. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/inefficient-entrepreneur-anti-social-arvind-narottam-lalbhai/2926117/) on 2026-08-15. Originally published 2026-05-09. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # An inefficient entrepreneur deserves to be branded as anti-social: Arvind Narottam Lalbhai
 

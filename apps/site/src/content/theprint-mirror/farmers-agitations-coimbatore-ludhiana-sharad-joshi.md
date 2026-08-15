@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/farmers-agitations-coimbatore-ludhiana-sharad-joshi/2890665/) on 2026-08-08. Originally published 2026-03-28. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/farmers-agitations-coimbatore-ludhiana-sharad-joshi/2890665/) on 2026-08-15. Originally published 2026-03-28. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # Farmers’ agitations started in developed states like Coimbatore & Ludhiana: Sharad Joshi
 

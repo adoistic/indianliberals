@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/democracy-fundamental-rights-and-the-constitution-why-citizens-liberty-is-non-negotiable-n-a-palkhivala/994443/) on 2026-08-08. Originally published 2026-07-04. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/democracy-fundamental-rights-and-the-constitution-why-citizens-liberty-is-non-negotiable-n-a-palkhivala/994443/) on 2026-08-15. Originally published 2026-07-04. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # लोकतंत्र, मौलिक अधिकार और संविधान: क्यों नागरिकों की आज़ादी पर कोई समझौता नहीं हो सकता: एन.ए. पालखीवाला
 

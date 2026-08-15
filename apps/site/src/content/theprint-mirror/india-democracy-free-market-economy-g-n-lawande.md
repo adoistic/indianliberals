@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/india-democracy-free-market-economy-g-n-lawande/3008946/) on 2026-08-08. Originally published 2026-08-08. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/india-democracy-free-market-economy-g-n-lawande/3008946/) on 2026-08-15. Originally published 2026-08-08. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # True democracy can only be attained through free market economy: G N Lawande
 

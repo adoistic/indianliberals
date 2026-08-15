@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/the-average-citizen-in-india-is-a-victim-of-all-kinds-of-abuses-kh-subramaniam/1008402/) on 2026-08-08. Originally published 2026-08-03. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/the-average-citizen-in-india-is-a-victim-of-all-kinds-of-abuses-kh-subramaniam/1008402/) on 2026-08-15. Originally published 2026-08-03. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # भारत में आम नागरिक हर तरह के शोषण का शिकार है: केएच सुब्रमण्यम
 

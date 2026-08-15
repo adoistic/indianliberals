@@ -2,7 +2,7 @@
 id: "welfare-state-or-a-harmful-state-gn-lawande"
 title: "कल्याणकारी राज्य देश के लिए सामाजिक और आर्थिक आपदा: जीएन लवांडे"
 pubDate: 2026-01-31T06:10:08.000Z
-author_name: "जीएन लावंडे"
+author_name: "जीएन लवांडे"
 theprint_url: "https://hindi.theprint.in/indianliberalsmatter/welfare-state-or-a-harmful-state-gn-lawande/926366/"
 hero_image: "https://staticprinthindi.theprint.in/wp-content/uploads/2026/01/welfare-state.png"
 language: "hi"
@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/welfare-state-or-a-harmful-state-gn-lawande/926366/) on 2026-08-08. Originally published 2026-01-31. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/welfare-state-or-a-harmful-state-gn-lawande/926366/) on 2026-08-15. Originally published 2026-01-31. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # कल्याणकारी राज्य देश के लिए सामाजिक और आर्थिक आपदा: जीएन लवांडे
 

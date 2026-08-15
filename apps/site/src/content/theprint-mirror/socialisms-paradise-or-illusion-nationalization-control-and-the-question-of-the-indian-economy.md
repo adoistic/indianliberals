@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/socialisms-paradise-or-illusion-nationalization-control-and-the-question-of-the-indian-economy/991335/) on 2026-08-08. Originally published 2026-06-27. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/socialisms-paradise-or-illusion-nationalization-control-and-the-question-of-the-indian-economy/991335/) on 2026-08-15. Originally published 2026-06-27. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # समाजवाद का ‘स्वर्ग’ या भ्रम? राष्ट्रीयकरण, नियंत्रण और भारतीय अर्थव्यवस्था पर सवाल
 

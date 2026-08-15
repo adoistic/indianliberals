@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/rupees-value-falling-govt-servants-corrupt-pheroze-j-shroff/2945839/) on 2026-08-08. Originally published 2026-05-30. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/rupees-value-falling-govt-servants-corrupt-pheroze-j-shroff/2945839/) on 2026-08-15. Originally published 2026-05-30. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # When the rupee’s value keeps falling, govt servants grow more corrupt: Pheroze J. Shroff
 
