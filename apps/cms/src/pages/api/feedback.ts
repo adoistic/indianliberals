@@ -15,23 +15,51 @@ import { requireRole, refuse, json, type Env } from '../../lib/guard';
  * feedback/, and editors read them on the Feedback screen, in the same place
  * they already sign in to.
  *
- * On spam, the honest position: this is a public endpoint on a public archive,
- * and nothing short of a challenge widget stops a determined bot. What is here
- * stops the casual kind, costs a reader nothing, and asks nobody to identify
- * himself to leave a correction:
+ * On spam, four guards, none of which asks a reader to identify himself to
+ * leave a correction:
  *
  *   - a honeypot field a human never sees and never fills in;
  *   - a minimum time on the form, because a script posts instantly;
  *   - one submission per address per minute, held as a short-lived marker;
- *   - hard length caps, so nobody can post a novel into the bucket.
+ *   - hard length caps, so nobody can post a novel into the bucket;
+ *   - Cloudflare Turnstile, verified here against its own API.
  *
- * If it is ever abused past that, the next step is Turnstile, which is a
- * setting rather than a rewrite.
+ * Turnstile is on only when TURNSTILE_SECRET is set, and the form only shows
+ * the widget when the matching site key is set in the site copy. Either half
+ * can be added first without breaking the form, which is what makes the
+ * rollout safe. With the secret set, a submission without a valid token is
+ * refused, so a bot cannot skip the check by posting straight at this endpoint.
  */
 
 const SITE_ORIGINS = ['https://indianliberals.in', 'https://www.indianliberals.in'];
 
 const LIMITS = { name: 120, email: 200, subject: 200, message: 5000, page: 300 };
+
+/**
+ * Ask Cloudflare whether this token is good.
+ *
+ * A token is single use and short lived, so a replay fails here rather than
+ * being caught later. The sender's address goes with it, which is what lets
+ * Turnstile score the request rather than only the puzzle.
+ */
+async function turnstileOk(secret: string, token: string, ip: string): Promise<boolean> {
+  if (!token) return false;
+  const body = new FormData();
+  body.append('secret', secret);
+  body.append('response', token);
+  if (ip) body.append('remoteip', ip);
+  try {
+    const response = await fetch('https://challenges.cloudflare.com/turnstile/v0/siteverify', {
+      method: 'POST',
+      body,
+    });
+    const result = (await response.json()) as { success?: boolean };
+    return result.success === true;
+  } catch {
+    // Cloudflare being unreachable should not silently let everything through.
+    return false;
+  }
+}
 
 interface Bucket {
   get(key: string): Promise<{ text(): Promise<string> } | null>;
@@ -118,6 +146,21 @@ export const POST: APIRoute = async ({ request, locals }) => {
       return reply({ error: 'That email address does not look right.' }, 422);
     }
 
+    // The spam check. Skipped entirely until a secret exists, so the form keeps
+    // working while the key and the secret are being put in place.
+    const secret = (env as unknown as { TURNSTILE_SECRET?: string }).TURNSTILE_SECRET;
+    const checked = Boolean(secret);
+    if (secret) {
+      const ip = request.headers.get('CF-Connecting-IP') ?? '';
+      const passed = await turnstileOk(secret, text(body.turnstileToken, 4000), ip);
+      if (!passed) {
+        return reply(
+          { error: 'The spam check did not pass. Please try it again, then send.' },
+          403,
+        );
+      }
+    }
+
     // One a minute per sender.
     //
     // R2 has no expiry, so the marker carries its own: the timestamp it was
@@ -152,6 +195,9 @@ export const POST: APIRoute = async ({ request, locals }) => {
         ? String(body.kind)
         : 'general',
       country: request.headers.get('CF-IPCountry') ?? '',
+      // Whether this one came through the spam check, so the inbox can tell
+      // messages taken before Turnstile was switched on from those after.
+      spam_checked: checked,
       handled: false,
     };
 

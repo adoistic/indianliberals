@@ -14,9 +14,18 @@
 // bound and already knows who the editors are. Submissions land in R2 and are
 // read on the CMS's Feedback screen. Nothing here needs a mailbox.
 //
-// Three quiet guards: a honeypot field, a minimum time on the form, and a cap
-// of one message a minute per sender. All three are enforced again at the
-// endpoint, because a form field is only ever a suggestion.
+// Four guards: a honeypot field, a minimum time on the form, a cap of one
+// message a minute per sender, and a Cloudflare Turnstile check. All four are
+// enforced again at the endpoint, because a form field is only ever a
+// suggestion.
+//
+// Turnstile is off until a site key is set, under Name, description and credits
+// on the CMS's site screen. Off, the form behaves as it did before. On, it
+// shows a spam check and the endpoint refuses anything without a valid token.
+// Keeping it a setting means the form is never broken by a half-finished
+// rollout: the key and the matching secret can be added in either order.
+
+import { siteCopy, t as copyText } from "~/lib/site-copy";
 
 interface Props {
   /** Where to post. The CMS origin, which holds the store and the inbox. */
@@ -26,6 +35,9 @@ interface Props {
 }
 
 const { endpoint = "https://cms.indianliberals.in/api/feedback", page } = Astro.props;
+
+const identity = await siteCopy("identity");
+const sitekey = copyText(identity, "turnstile_sitekey", "").trim();
 
 const KINDS = [
   { value: "correction", label: "A correction", hint: "A wrong date, a misattributed author, a broken scan." },
@@ -110,6 +122,21 @@ const KINDS = [
       <label>Do not fill this in<input type="text" name="website" tabindex="-1" autocomplete="off" /></label>
     </div>
 
+    {sitekey && (
+      <div>
+        <div
+          class="cf-turnstile"
+          data-sitekey={sitekey}
+          data-theme="auto"
+          data-action="feedback"
+        ></div>
+        <p class="text-xs text-(--color-fg-muted) mt-2 leading-snug">
+          A quick check that you are a person and not a machine. It usually
+          passes on its own.
+        </p>
+      </div>
+    )}
+
     <div class="flex flex-wrap items-center gap-4">
       <button
         type="submit"
@@ -127,6 +154,10 @@ const KINDS = [
     <div id="fb-result" aria-live="polite"></div>
   </div>
 </form>
+
+{sitekey && (
+  <script is:inline async defer src="https://challenges.cloudflare.com/turnstile/v0/api.js"></script>
+)}
 
 <script is:inline>
   (function () {
@@ -167,6 +198,16 @@ const KINDS = [
         return;
       }
 
+      // The spam check, when one is configured. Turnstile writes its token
+      // into a hidden field inside the widget, so reading the form is enough
+      // and there is no need to talk to its JavaScript API.
+      const widget = form.querySelector(".cf-turnstile");
+      const turnstileToken = String(data.get("cf-turnstile-response") || "");
+      if (widget && !turnstileToken) {
+        say("Please complete the spam check above, then send again.");
+        return;
+      }
+
       button.disabled = true;
       const original = button.textContent;
       button.textContent = "Sending";
@@ -182,6 +223,7 @@ const KINDS = [
             message,
             website: data.get("website"),
             startedAt,
+            turnstileToken,
             // The page they were reading, so a correction arrives attached to
             // the thing it corrects.
             page: form.dataset.page || location.pathname,
@@ -190,6 +232,9 @@ const KINDS = [
         const payload = await response.json().catch(() => ({}));
         if (!response.ok) {
           say(payload.error || "That did not send. Please try again in a moment.");
+          // A Turnstile token is good for one attempt. Without a reset, a
+          // second try fails on a spent token and the reason looks unrelated.
+          if (window.turnstile && widget) window.turnstile.reset(widget);
           return;
         }
         form.querySelector(".grid").innerHTML = "";

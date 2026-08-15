@@ -825,6 +825,9 @@ const site = defineCollection({
     builder_url: z.string().optional(),
     copyright_start: z.number().int().optional(),
     contact_email: z.string().optional(),
+    // Cloudflare Turnstile public site key for the contact form. Empty means
+    // no challenge is shown, and the form falls back to its other guards.
+    turnstile_sitekey: z.string().optional(),
 
     // navigation
     groups: z

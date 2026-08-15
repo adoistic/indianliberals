@@ -91,6 +91,7 @@ const identity = surface(
     text('builder_url', 'Their website', 'The address that credit links to.'),
     { name: 'copyright_start', label: 'Copyright starts from year', kind: 'number', required: false, group: 'essential', hint: 'The first year in the copyright line at the foot of every page.' },
     text('contact_email', 'Contact email', 'Shown on the contact page once filled in. Leave empty to show none.'),
+    text('turnstile_sitekey', 'Spam check key for the contact form', 'The Cloudflare Turnstile site key. With it filled in, the contact form shows a spam check before it will send. Leave empty to turn the check off.'),
   ],
 );
 

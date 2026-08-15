@@ -250,3 +250,54 @@ cannot be reviewed in a diff. This can.
 
 **Check this after any change to the deploy shape**, and prefer testing
 redirects from the repository root rather than from `apps/site`.
+
+---
+
+## Postscript 3: a spam check on the contact form
+
+Turnstile, Cloudflare's captcha. It is usually invisible: most people see a box
+that ticks itself in about a second, and nobody is asked to identify buses.
+
+It is built as a switch rather than a hard dependency, in two halves that can be
+turned on in either order without breaking the form:
+
+- **The site key** lives in the site copy, under *Name, description and credits*
+  on the CMS site screen. Empty, no widget is rendered and the form behaves
+  exactly as it did before. Filled in, the widget appears.
+- **The secret** is a Worker secret on the CMS, `TURNSTILE_SECRET`. Absent, the
+  endpoint skips verification. Present, it verifies every submission against
+  Cloudflare and refuses anything without a valid token, so a bot cannot skip
+  the widget by posting straight at the endpoint.
+
+Verified locally against Cloudflare's published test keys, all four states:
+
+| Secret | Token | Result |
+|---|---|---|
+| always-passes | present | accepted |
+| always-passes | missing | refused |
+| always-fails | present | refused |
+| not set | missing | accepted, as today |
+
+The widget was also checked in the browser with the test site key: it renders,
+the script loads, it solves itself, and it writes the token into the hidden
+`cf-turnstile-response` field the form reads. A failed send resets the widget,
+because a token is good for one attempt and a stale one fails for a reason that
+looks unrelated.
+
+### To turn it on
+
+The account's stored Cloudflare token does not carry the `challenge-widgets`
+scope, so the widget could not be created from here. Two steps:
+
+1. Create a Turnstile widget for `indianliberals.in` (dashboard, or
+   `npx wrangler login` to refresh scopes first). Managed mode, which is the
+   default.
+2. Set the secret and the key:
+   ```
+   cd apps/cms && npx wrangler pages secret put TURNSTILE_SECRET --project-name thothica-cms
+   ```
+   then paste the site key into the CMS site screen, or into
+   `apps/site/src/content/site/identity.md` as `turnstile_sitekey`.
+
+Until both are done the form works as it does now, with the honeypot, the timing
+check, the per-sender rate limit and the origin check.
