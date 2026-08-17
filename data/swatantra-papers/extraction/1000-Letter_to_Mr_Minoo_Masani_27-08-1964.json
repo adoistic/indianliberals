@@ -1,0 +1,161 @@
+{
+ "metadata.a": {
+  "work_type": "letter",
+  "purpose": null,
+  "title": {
+   "main": {
+    "value": null,
+    "confidence": "low"
+   },
+   "subtitle": {
+    "value": null,
+    "confidence": "low"
+   },
+   "original_script": null,
+   "translit": null
+  },
+  "authors": [],
+  "editors": [],
+  "contributors": [],
+  "publication": {
+   "publisher_id": null,
+   "publisher_verbatim": null,
+   "issuer_id": null,
+   "place": "Sunninghill, Ascot, Berks.",
+   "year": {
+    "value": 1964,
+    "confidence": "high"
+   },
+   "edition": null,
+   "series": null,
+   "language": "en"
+  },
+  "physical": {
+   "pages_rendered": 1,
+   "pages_total": 1,
+   "pages_total_source": "pypdfium2",
+   "format": "Typewritten letter on printed personal letterhead ('KINGS BEECHES, SUNNINGHILL, ASCOT, BERKS. ASCOT 432.'), with handwritten salutation; archival sheet with punch holes and an inked accession number '1000' at top left. Text runs to the foot of the sheet and continues beyond this page."
+  },
+  "identifiers": {
+   "isbn": null,
+   "issn": null,
+   "oclc": null
+  },
+  "language": "en",
+  "themes": [
+   "party-politics"
+  ],
+  "theme_proposed_new": [],
+  "toc": {
+   "extracted_from_pages": [],
+   "entries": [],
+   "entries_not_yet_rendered": []
+  },
+  "missing_metadata_flags": [
+   "title_not_printed",
+   "author_not_named_on_rendered_page",
+   "signature_page_not_rendered",
+   "no_publisher",
+   "no_page_numbers_printed"
+  ],
+  "needs_human_review": true,
+  "recommended_authority_additions": [
+   {
+    "kind": "thinker",
+    "verbatim": "Minoo",
+    "language": "en",
+    "context": "Addressee of the letter ('My dear Minoo'); per the file context this is Minoo Masani, Swatantra Party leader, who has no entry in the supplied authority subset.",
+    "page": 1
+   }
+  ],
+  "notes": "Private archival letter, not a publication. No printed title and no visible signature or byline on the single rendered page — the closing/signature falls on an unrendered continuation. Letterhead is a private residence (Kings Beeches, Sunninghill, Ascot), not a publisher. Internal evidence (Lok Sabha attendance, Rajasthan party work, Rajaji, Party meetings) indicates a Swatantra Party parliamentarian writing from England, but no name is printed, so authors[] is left empty per rule 1.",
+  "classification_reasoning": {
+   "work_type": "The document is a typewritten personal letter on a private residential letterhead, dated 27th August 1964, opening 'My dear Minoo' and replying to a letter of 21st August 1964. One named recipient and a personal salutation make it `letter` rather than `circular` (which requires a group addressee) or `minutes`/`press_note`.",
+   "purpose": "Null — the taxonomy lists no purpose qualifiers for `letter`, and none of the optional qualifiers apply to an archival item of private correspondence.",
+   "language": "Entirely Latin script, standard English typescript with an English handwritten salutation; language is en.",
+   "authors_resolution": "No byline, signature block, or printed name appears on the rendered page — the letter breaks off mid-sentence at the foot of the sheet, so the closing signature is not visible. Per rule 1 (only what's visible) no author is emitted; authors[] is empty and needs_human_review is true. Contextual signals (Kings Beeches Ascot letterhead, Lok Sabha, Rajasthan party organisation) suggest a Swatantra MP, but the authority subset contains no matching entry and inferring a name would be a guess.",
+   "year": "The letterhead line prints '27th August, 1964.' and the body cites 'your letter of the 21st of August, 1964' — year 1964, high confidence.",
+   "publisher": "No publisher line anywhere; the only imprint is a private address letterhead ('KINGS BEECHES, SUNNINGHILL, ASCOT, BERKS. ASCOT 432.'), which is a residence, not an issuing body. publisher_id and issuer_id are null; the 'Swatantra Party papers' folder hint is a weak signal and is not used to assert an issuer.",
+   "toc": "Single-author archival letter with no table of contents; toc.entries[] is deliberately empty."
+  }
+ },
+ "metadata.b": {
+  "work_type": "letter",
+  "purpose": null,
+  "title": {
+   "main": {
+    "value": null,
+    "confidence": "low"
+   },
+   "subtitle": {
+    "value": null,
+    "confidence": "low"
+   },
+   "original_script": null,
+   "translit": null
+  },
+  "authors": [],
+  "editors": [],
+  "contributors": [],
+  "publication": {
+   "publisher_id": null,
+   "publisher_verbatim": null,
+   "issuer_id": null,
+   "place": "Sunninghill, Ascot, Berks",
+   "year": {
+    "value": 1964,
+    "confidence": "high"
+   },
+   "edition": null,
+   "series": null,
+   "language": "en"
+  },
+  "physical": {
+   "pages_rendered": 1,
+   "pages_total": 1,
+   "pages_total_source": "pypdfium2",
+   "format": "Typed letter on personal printed letterhead ('KINGS BEECHES, SUNNINGHILL, ASCOT, BERKS. ASCOT 432.'), with handwritten salutation; archival item number '1000' circled in ink at top left. Letter continues beyond the single rendered page (no signature block visible)."
+  },
+  "identifiers": {
+   "isbn": null,
+   "issn": null,
+   "oclc": null
+  },
+  "language": "en",
+  "themes": [
+   "party-politics"
+  ],
+  "theme_proposed_new": [],
+  "toc": {
+   "extracted_from_pages": [],
+   "entries": [],
+   "entries_not_yet_rendered": []
+  },
+  "missing_metadata_flags": [
+   "title_not_printed",
+   "author_not_named",
+   "publisher_not_named",
+   "signature_not_visible_in_chunk"
+  ],
+  "needs_human_review": true,
+  "recommended_authority_additions": [
+   {
+    "kind": "thinker",
+    "verbatim": "Minoo",
+    "language": "en",
+    "context": "Addressee of the letter, greeted as 'My dear Minoo'; from the Swatantra Party context this is almost certainly Minoo Masani, who does not appear in the authority subset supplied.",
+    "page": 1
+   }
+  ],
+  "notes": "Private typed letter dated 27 Aug 1964 from a personal letterhead in Ascot, Berkshire, addressed 'My dear Minoo'. No printed title and no visible signature — the sender is a Swatantra Party MP (mentions being in the Lok Sabha on 21 Sept, Rajasthan party reports from Major Bhatnagar, Ayuvan Singh, Kesri Singh, Bhargava, and wishing to see Rajaji). Author left null per binary rule; identity not on the rendered page.",
+  "classification_reasoning": {
+   "work_type": "A single typed letter with a dateline, a personal letterhead address block, and a handwritten salutation to one named recipient ('My dear Minoo'). One named recipient rather than a membership or unit means `letter`, not `circular`; it is an archival office/personal record, not a published open letter, but `letter` is the correct enum for a single letter to a named individual.",
+   "purpose": "Null — the taxonomy defines no `purpose` qualifiers for `letter`.",
+   "language": "Entirely Latin script, English prose throughout the typed body and printed letterhead.",
+   "authors_resolution": "No byline, no printed sender name, and no signature is visible on the single rendered page (the letter is cut off mid-sentence). Nothing to normalise or search in authority_subset, so `authors[]` is left empty rather than inferring a sender from the letterhead address or the filename. needs_human_review set true.",
+   "year": "1964 taken directly from the printed dateline '27th August, 1964.' at the top right of page 1; the body also references 'your letter of the 21st of August, 1964'.",
+   "publisher": "No publisher or issuer line — this is an unpublished piece of private correspondence on a personal letterhead, so publisher_id and publisher_verbatim are null; `place` records the letterhead address only.",
+   "toc": "No table of contents; a one-page letter has none. `toc.entries[]` empty, high confidence."
+  }
+ }
+}

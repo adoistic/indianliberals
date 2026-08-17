@@ -1,0 +1,204 @@
+{
+ "metadata.a": {
+  "work_type": "letter",
+  "purpose": null,
+  "title": {
+   "main": {
+    "value": null,
+    "confidence": "low"
+   },
+   "subtitle": {
+    "value": null,
+    "confidence": "low"
+   },
+   "original_script": null,
+   "translit": null
+  },
+  "authors": [
+   {
+    "thinker_id": null,
+    "byline_verbatim": "Ayesh",
+    "honorifics": [],
+    "confidence": "low"
+   }
+  ],
+  "editors": [],
+  "contributors": [],
+  "publication": {
+   "publisher_id": null,
+   "publisher_verbatim": null,
+   "issuer_id": null,
+   "place": "Kings Beeches, Sunninghill, Ascot, Berks.",
+   "year": {
+    "value": null,
+    "confidence": "low"
+   },
+   "edition": null,
+   "series": null,
+   "language": "en"
+  },
+  "physical": {
+   "pages_rendered": 1,
+   "pages_total": 1,
+   "pages_total_source": "pypdfium2",
+   "format": "Single typed leaf on personal printed letterhead ('KINGS BEECHES, SUNNINGHILL, ASCOT, BERKS. ASCOT 432.'), two-hole punched, with handwritten archival accession number '1001' circled at top left and a handwritten signature. Text begins mid-sentence ('do my best for the Party.'), so this is a continuation/second leaf of a longer letter."
+  },
+  "identifiers": {
+   "isbn": null,
+   "issn": null,
+   "oclc": null
+  },
+  "language": "en",
+  "themes": [
+   "party-politics"
+  ],
+  "theme_proposed_new": [],
+  "toc": {
+   "extracted_from_pages": [],
+   "entries": [],
+   "entries_not_yet_rendered": []
+  },
+  "missing_metadata_flags": [
+   "title_not_printed",
+   "date_not_printed",
+   "year_not_printed",
+   "author_unresolved",
+   "no_publisher",
+   "first_page_missing"
+  ],
+  "needs_human_review": true,
+  "recommended_authority_additions": [
+   {
+    "kind": "thinker",
+    "verbatim": "Ayesh",
+    "language": "en",
+    "context": "Handwritten signature ('Yours ever / Ayesh') of the letter's author, writing from a private address at Kings Beeches, Sunninghill, Ascot, Berkshire; a Swatantra Party associate corresponding with M. R. Masani. Reading of the signature is uncertain.",
+    "page": 1
+   },
+   {
+    "kind": "thinker",
+    "verbatim": "Shri M.R. Masani",
+    "language": "en",
+    "context": "Named recipient, addressed at the Swatantra Party Central Office, Sassoon Building, 143 Mahatma Gandhi Road, Bombay 1; not present in the supplied authority subset.",
+    "page": 1
+   },
+   {
+    "kind": "thinker",
+    "verbatim": "Prof. Ranga",
+    "language": "en",
+    "context": "Mentioned in the letter body as being in Copenhagen; presumably N. G. Ranga of the Swatantra Party. Not in the supplied authority subset.",
+    "page": 1
+   }
+  ],
+  "notes": "Continuation leaf of a private typed letter to M. R. Masani at the Swatantra Party Central Office, Bombay. No printed title, no date, no year, no publisher. Signature reads 'Ayesh' (possibly 'Ayesha'); reading uncertain. Circled '1001' at top left is an archival accession number, not a page number. Body mentions trouble in Behar (Bihar) and Prof. Ranga in Copenhagen.",
+  "classification_reasoning": {
+   "work_type": "The document is a typed personal letter on private printed letterhead, closing 'Yours ever' with a handwritten signature and bearing a single named recipient block ('Shri M.R. Masani, Swatantra Party Central Office'). One named recipient means `letter` rather than `circular`; it is office/personal correspondence, not a publication.",
+   "purpose": "null — the purpose enum offers no qualifiers for `letter`, and nothing on the page supports a sub-type.",
+   "language": "Entirely Latin script, standard English typescript, so language is `en`.",
+   "authors_resolution": "The only byline is the handwritten signature 'Ayesh' beneath 'Yours ever'. Searched the authority subset for 'Ayesh' among canonical names and aliases; no match (the subset is alphabetical and ends at Margaret Thatcher, so it may simply be truncated). Applying the binary rule: thinker_id null, byline_verbatim kept, needs_human_review true.",
+   "year": "No date line survives on this continuation leaf and no year appears in the letterhead or body; per rule 1 no year is inferred, so value null with low confidence.",
+   "publisher": "No publisher, imprint, or colophon appears — this is unpublished office correspondence. publisher_id and publisher_verbatim are null. The letterhead address (Kings Beeches, Sunninghill, Ascot, Berks.) is recorded as `place` only.",
+   "toc": "Single-author, single-leaf letter; no table of contents exists, so toc.entries is empty."
+  }
+ },
+ "metadata.b": {
+  "work_type": "letter",
+  "purpose": null,
+  "title": {
+   "main": {
+    "value": null,
+    "confidence": "low"
+   },
+   "subtitle": {
+    "value": null,
+    "confidence": "low"
+   },
+   "original_script": null,
+   "translit": null
+  },
+  "authors": [
+   {
+    "thinker_id": null,
+    "byline_verbatim": "Ayesh",
+    "honorifics": [],
+    "confidence": "low"
+   }
+  ],
+  "editors": [],
+  "contributors": [],
+  "publication": {
+   "publisher_id": null,
+   "publisher_verbatim": null,
+   "issuer_id": null,
+   "place": "Sunninghill, Ascot, Berks.",
+   "year": {
+    "value": null,
+    "confidence": "low"
+   },
+   "edition": null,
+   "series": null,
+   "language": "en"
+  },
+  "physical": {
+   "pages_rendered": 1,
+   "pages_total": 1,
+   "pages_total_source": "pypdfium2",
+   "format": "Single typed sheet on personal letterhead ('KINGS BEECHES, SUNNINGHILL, ASCOT, BERKS. ASCOT 432'), continuation page of a private letter, handwritten signature, archival accession number '1001' circled in ink at top left."
+  },
+  "identifiers": {
+   "isbn": null,
+   "issn": null,
+   "oclc": null
+  },
+  "language": "en",
+  "themes": [
+   "party-politics"
+  ],
+  "theme_proposed_new": [],
+  "toc": {
+   "extracted_from_pages": [],
+   "entries": [],
+   "entries_not_yet_rendered": []
+  },
+  "missing_metadata_flags": [
+   "title_not_printed",
+   "year_not_printed",
+   "publisher_not_applicable",
+   "author_unresolved"
+  ],
+  "needs_human_review": true,
+  "recommended_authority_additions": [
+   {
+    "kind": "thinker",
+    "verbatim": "Ayesh",
+    "language": "en",
+    "context": "Handwritten signature of the letter's writer, corresponding from Kings Beeches, Sunninghill, Ascot, Berks., writing to M. R. Masani about Swatantra Party affairs.",
+    "page": 1
+   },
+   {
+    "kind": "thinker",
+    "verbatim": "Shri M.R. Masani",
+    "language": "en",
+    "context": "Named recipient of the letter, addressed at the Swatantra Party Central Office, Sassoon Building, 143 Mahatma Gandhi Road, Bombay 1.",
+    "page": 1
+   },
+   {
+    "kind": "thinker",
+    "verbatim": "Prof. Ranga",
+    "language": "en",
+    "context": "Swatantra Party figure mentioned in the letter's body as being in Copenhagen.",
+    "page": 1
+   }
+  ],
+  "notes": "Archival office record, not a publication. Only the closing page of the letter is present: text begins mid-sentence ('do my best for the Party.'). No printed title, date or year anywhere on the sheet; no dateline survives on this continuation page. Content concerns Swatantra Party discipline and 'trouble in Behar'.",
+  "classification_reasoning": {
+   "work_type": "A typed personal letter on private letterhead, closing with 'With best wishes to you and Shakuntala,' / 'Yours ever' and a handwritten signature, and addressed at the foot to one named recipient, 'Shri M.R. Masani, Swatantra Party Central Office'. A single named recipient rules out circular; the past/present conversational register and absence of attendance lists or numbered items rule out minutes and resolution. Hence work_type: letter.",
+   "purpose": "purpose is null — the taxonomy provides no purpose qualifiers for work_type: letter.",
+   "language": "Entirely Latin script, English throughout the typed body and the address block; no non-Latin script observed.",
+   "authors_resolution": "Byline is a handwritten signature reading 'Ayesh' (no printed byline). Searched authority_subset canonical names and aliases for 'Ayesh' / 'Ayesha' — no canonical entry and no alias matches. Per the binary rule, thinker_id: null, byline_verbatim preserved as signed, confidence low (the signature is a hand-written given name only, and its reading is itself uncertain), needs_human_review: true.",
+   "year": "No year printed anywhere on the rendered page — this is a continuation sheet and any dateline was on the missing first page. Refusing to infer from the filename or from the Behar/Ranga references.",
+   "publisher": "No publisher line; the letterhead 'KINGS BEECHES, SUNNINGHILL, ASCOT, BERKS. ASCOT 432' is a private residential address, not an imprint. publisher_id and publisher_verbatim null; place recorded from the letterhead.",
+   "toc": "No table of contents — single-sheet archival letter with no front matter."
+  }
+ }
+}

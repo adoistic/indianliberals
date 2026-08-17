@@ -116,7 +116,7 @@ For thinkers:
 
 For primary works:
 - \`title.main\`, \`title.original_script\`, \`title.translit\`, \`title.translation\`
-- \`work_type\`: \`book\` | \`pamphlet\` | \`speech\` | \`essay\` | \`edited_volume\`
+- \`work_type\`: \`book\` | \`pamphlet\` | \`speech\` | \`essay\` | \`edited_volume\` | \`occasional_paper\` | \`letter\` | \`correspondence\` | \`periodical_issue\` | \`reference\` | \`interview\` | \`lecture\` | \`telegram\` | \`minutes\` | \`circular\` | \`resolution\` | \`press_note\` — see content.config.ts for the authoritative list
 - \`authors\`: thinker IDs
 - \`publication.year\`, \`publication.publisher_name\`, \`publication.language\`
 - \`pdf_url\`: R2 URL

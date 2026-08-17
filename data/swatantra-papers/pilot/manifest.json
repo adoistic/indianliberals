@@ -1,0 +1,419 @@
+[
+  {
+    "file": "6149-Letter_to_Mr_Minoo_Masani_04-04-1970.pdf",
+    "archive_id": "6149",
+    "legibility": "faint",
+    "separation": "29.4",
+    "pages_total": 1,
+    "pages_rendered": [
+      1
+    ],
+    "filename_hint": {
+      "date": "1970-04-04",
+      "year": "1970",
+      "correspondent": "Minoo Masani",
+      "thinker_id": "minoo-masani",
+      "genre": "letter",
+      "work_type_suggest": "letter"
+    },
+    "requests": {
+      "metadata.a": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.a/6149-Letter_to_Mr_Minoo_Masani_04-04-1970-chunk0-14652d821f2d",
+        "response_path": "/tmp/llm-extract-requests/metadata.a/6149-Letter_to_Mr_Minoo_Masani_04-04-1970-chunk0-14652d821f2d/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.a/6149-Letter_to_Mr_Minoo_Masani_04-04-1970-chunk0-14652d821f2d/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.a/6149-Letter_to_Mr_Minoo_Masani_04-04-1970-chunk0-14652d821f2d/user.txt\n3. Read each of the following 1 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.a/6149-Letter_to_Mr_Minoo_Masani_04-04-1970-chunk0-14652d821f2d/page-001.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.a/6149-Letter_to_Mr_Minoo_Masani_04-04-1970-chunk0-14652d821f2d/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      },
+      "metadata.b": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.b/6149-Letter_to_Mr_Minoo_Masani_04-04-1970-chunk0-2740528b1995",
+        "response_path": "/tmp/llm-extract-requests/metadata.b/6149-Letter_to_Mr_Minoo_Masani_04-04-1970-chunk0-2740528b1995/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.b/6149-Letter_to_Mr_Minoo_Masani_04-04-1970-chunk0-2740528b1995/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.b/6149-Letter_to_Mr_Minoo_Masani_04-04-1970-chunk0-2740528b1995/user.txt\n3. Read each of the following 1 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.b/6149-Letter_to_Mr_Minoo_Masani_04-04-1970-chunk0-2740528b1995/page-001.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.b/6149-Letter_to_Mr_Minoo_Masani_04-04-1970-chunk0-2740528b1995/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      }
+    }
+  },
+  {
+    "file": "4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962.pdf",
+    "archive_id": "4902",
+    "legibility": "faint",
+    "separation": "32.9",
+    "pages_total": 7,
+    "pages_rendered": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "filename_hint": {
+      "date": "1962-07-21",
+      "year": "1962",
+      "correspondent": "",
+      "thinker_id": "",
+      "genre": "minutes",
+      "work_type_suggest": "minutes"
+    },
+    "requests": {
+      "metadata.a": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.a/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-61509cf65cbb",
+        "response_path": "/tmp/llm-extract-requests/metadata.a/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-61509cf65cbb/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.a/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-61509cf65cbb/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.a/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-61509cf65cbb/user.txt\n3. Read each of the following 7 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.a/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-61509cf65cbb/page-001.jpg\n- /tmp/llm-extract-requests/metadata.a/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-61509cf65cbb/page-002.jpg\n- /tmp/llm-extract-requests/metadata.a/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-61509cf65cbb/page-003.jpg\n- /tmp/llm-extract-requests/metadata.a/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-61509cf65cbb/page-004.jpg\n- /tmp/llm-extract-requests/metadata.a/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-61509cf65cbb/page-005.jpg\n- /tmp/llm-extract-requests/metadata.a/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-61509cf65cbb/page-006.jpg\n- /tmp/llm-extract-requests/metadata.a/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-61509cf65cbb/page-007.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.a/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-61509cf65cbb/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      },
+      "metadata.b": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.b/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-83efeafefc70",
+        "response_path": "/tmp/llm-extract-requests/metadata.b/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-83efeafefc70/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.b/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-83efeafefc70/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.b/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-83efeafefc70/user.txt\n3. Read each of the following 7 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.b/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-83efeafefc70/page-001.jpg\n- /tmp/llm-extract-requests/metadata.b/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-83efeafefc70/page-002.jpg\n- /tmp/llm-extract-requests/metadata.b/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-83efeafefc70/page-003.jpg\n- /tmp/llm-extract-requests/metadata.b/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-83efeafefc70/page-004.jpg\n- /tmp/llm-extract-requests/metadata.b/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-83efeafefc70/page-005.jpg\n- /tmp/llm-extract-requests/metadata.b/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-83efeafefc70/page-006.jpg\n- /tmp/llm-extract-requests/metadata.b/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-83efeafefc70/page-007.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.b/4902-Swatantra_Party_Minutes_of_Meeting_21-07-1962-chunk0-83efeafefc70/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      }
+    }
+  },
+  {
+    "file": "5179-Letter_to_B_K_Sen_25-11-1959.pdf",
+    "archive_id": "5179",
+    "legibility": "faint",
+    "separation": "46.4",
+    "pages_total": 2,
+    "pages_rendered": [
+      1,
+      2
+    ],
+    "filename_hint": {
+      "date": "1959-11-25",
+      "year": "1959",
+      "correspondent": "B K Sen",
+      "thinker_id": "",
+      "genre": "letter",
+      "work_type_suggest": "letter"
+    },
+    "requests": {
+      "metadata.a": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.a/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-9630d5cf2808",
+        "response_path": "/tmp/llm-extract-requests/metadata.a/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-9630d5cf2808/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.a/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-9630d5cf2808/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.a/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-9630d5cf2808/user.txt\n3. Read each of the following 2 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.a/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-9630d5cf2808/page-001.jpg\n- /tmp/llm-extract-requests/metadata.a/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-9630d5cf2808/page-002.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.a/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-9630d5cf2808/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      },
+      "metadata.b": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.b/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-873b2158f51f",
+        "response_path": "/tmp/llm-extract-requests/metadata.b/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-873b2158f51f/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.b/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-873b2158f51f/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.b/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-873b2158f51f/user.txt\n3. Read each of the following 2 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.b/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-873b2158f51f/page-001.jpg\n- /tmp/llm-extract-requests/metadata.b/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-873b2158f51f/page-002.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.b/5179-Letter_to_B_K_Sen_25-11-1959-chunk0-873b2158f51f/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      }
+    }
+  },
+  {
+    "file": "4375-Letter_to_S_V_Raju_26-09-1977.pdf",
+    "archive_id": "4375",
+    "legibility": "weak",
+    "separation": "74.8",
+    "pages_total": 16,
+    "pages_rendered": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16
+    ],
+    "filename_hint": {
+      "date": "1977-09-26",
+      "year": "1977",
+      "correspondent": "S V Raju",
+      "thinker_id": "s-v-raju",
+      "genre": "letter",
+      "work_type_suggest": "letter"
+    },
+    "requests": {
+      "metadata.a": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4",
+        "response_path": "/tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/user.txt\n3. Read each of the following 16 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-001.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-002.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-003.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-004.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-005.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-006.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-007.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-008.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-009.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-010.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-011.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-012.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-013.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-014.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-015.jpg\n- /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/page-016.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.a/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-4c67d8b19fb4/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      },
+      "metadata.b": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c",
+        "response_path": "/tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/user.txt\n3. Read each of the following 16 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-001.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-002.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-003.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-004.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-005.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-006.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-007.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-008.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-009.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-010.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-011.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-012.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-013.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-014.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-015.jpg\n- /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/page-016.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.b/4375-Letter_to_S_V_Raju_26-09-1977-chunk0-bd3587a8929c/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      }
+    }
+  },
+  {
+    "file": "3897-Central_Office_Circular_no-36_05-03-1965.pdf",
+    "archive_id": "3897",
+    "legibility": "weak",
+    "separation": "82.1",
+    "pages_total": 2,
+    "pages_rendered": [
+      1,
+      2
+    ],
+    "filename_hint": {
+      "date": "1965-03-05",
+      "year": "1965",
+      "correspondent": "",
+      "thinker_id": "",
+      "genre": "circular",
+      "work_type_suggest": "circular"
+    },
+    "requests": {
+      "metadata.a": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.a/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-d6a9a738f8cd",
+        "response_path": "/tmp/llm-extract-requests/metadata.a/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-d6a9a738f8cd/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.a/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-d6a9a738f8cd/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.a/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-d6a9a738f8cd/user.txt\n3. Read each of the following 2 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.a/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-d6a9a738f8cd/page-001.jpg\n- /tmp/llm-extract-requests/metadata.a/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-d6a9a738f8cd/page-002.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.a/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-d6a9a738f8cd/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      },
+      "metadata.b": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.b/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-4a899a5b04df",
+        "response_path": "/tmp/llm-extract-requests/metadata.b/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-4a899a5b04df/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.b/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-4a899a5b04df/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.b/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-4a899a5b04df/user.txt\n3. Read each of the following 2 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.b/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-4a899a5b04df/page-001.jpg\n- /tmp/llm-extract-requests/metadata.b/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-4a899a5b04df/page-002.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.b/3897-Central_Office_Circular_no-36_05-03-1965-chunk0-4a899a5b04df/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      }
+    }
+  },
+  {
+    "file": "125-Telegram_to_Mr_Minoo_Masani_02-03-1971.pdf",
+    "archive_id": "125",
+    "legibility": "weak",
+    "separation": "68.0",
+    "pages_total": 1,
+    "pages_rendered": [
+      1
+    ],
+    "filename_hint": {
+      "date": "1971-03-02",
+      "year": "1971",
+      "correspondent": "Minoo Masani",
+      "thinker_id": "minoo-masani",
+      "genre": "telegram",
+      "work_type_suggest": "telegram"
+    },
+    "requests": {
+      "metadata.a": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.a/125-Telegram_to_Mr_Minoo_Masani_02-03-1971-chunk0-765fd576dadc",
+        "response_path": "/tmp/llm-extract-requests/metadata.a/125-Telegram_to_Mr_Minoo_Masani_02-03-1971-chunk0-765fd576dadc/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.a/125-Telegram_to_Mr_Minoo_Masani_02-03-1971-chunk0-765fd576dadc/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.a/125-Telegram_to_Mr_Minoo_Masani_02-03-1971-chunk0-765fd576dadc/user.txt\n3. Read each of the following 1 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.a/125-Telegram_to_Mr_Minoo_Masani_02-03-1971-chunk0-765fd576dadc/page-001.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.a/125-Telegram_to_Mr_Minoo_Masani_02-03-1971-chunk0-765fd576dadc/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      },
+      "metadata.b": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.b/125-Telegram_to_Mr_Minoo_Masani_02-03-1971-chunk0-6d2de3c70400",
+        "response_path": "/tmp/llm-extract-requests/metadata.b/125-Telegram_to_Mr_Minoo_Masani_02-03-1971-chunk0-6d2de3c70400/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.b/125-Telegram_to_Mr_Minoo_Masani_02-03-1971-chunk0-6d2de3c70400/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.b/125-Telegram_to_Mr_Minoo_Masani_02-03-1971-chunk0-6d2de3c70400/user.txt\n3. Read each of the following 1 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.b/125-Telegram_to_Mr_Minoo_Masani_02-03-1971-chunk0-6d2de3c70400/page-001.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.b/125-Telegram_to_Mr_Minoo_Masani_02-03-1971-chunk0-6d2de3c70400/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      }
+    }
+  },
+  {
+    "file": "4682-Letter_to_Mr_Minoo_Masani_17-09-1964.pdf",
+    "archive_id": "4682",
+    "legibility": "adequate",
+    "separation": "107.2",
+    "pages_total": 1,
+    "pages_rendered": [
+      1
+    ],
+    "filename_hint": {
+      "date": "1964-09-17",
+      "year": "1964",
+      "correspondent": "Minoo Masani",
+      "thinker_id": "minoo-masani",
+      "genre": "letter",
+      "work_type_suggest": "letter"
+    },
+    "requests": {
+      "metadata.a": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.a/4682-Letter_to_Mr_Minoo_Masani_17-09-1964-chunk0-3e1247e030d8",
+        "response_path": "/tmp/llm-extract-requests/metadata.a/4682-Letter_to_Mr_Minoo_Masani_17-09-1964-chunk0-3e1247e030d8/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.a/4682-Letter_to_Mr_Minoo_Masani_17-09-1964-chunk0-3e1247e030d8/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.a/4682-Letter_to_Mr_Minoo_Masani_17-09-1964-chunk0-3e1247e030d8/user.txt\n3. Read each of the following 1 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.a/4682-Letter_to_Mr_Minoo_Masani_17-09-1964-chunk0-3e1247e030d8/page-001.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.a/4682-Letter_to_Mr_Minoo_Masani_17-09-1964-chunk0-3e1247e030d8/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      },
+      "metadata.b": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.b/4682-Letter_to_Mr_Minoo_Masani_17-09-1964-chunk0-2a78f9e9e5b9",
+        "response_path": "/tmp/llm-extract-requests/metadata.b/4682-Letter_to_Mr_Minoo_Masani_17-09-1964-chunk0-2a78f9e9e5b9/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.b/4682-Letter_to_Mr_Minoo_Masani_17-09-1964-chunk0-2a78f9e9e5b9/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.b/4682-Letter_to_Mr_Minoo_Masani_17-09-1964-chunk0-2a78f9e9e5b9/user.txt\n3. Read each of the following 1 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.b/4682-Letter_to_Mr_Minoo_Masani_17-09-1964-chunk0-2a78f9e9e5b9/page-001.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.b/4682-Letter_to_Mr_Minoo_Masani_17-09-1964-chunk0-2a78f9e9e5b9/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      }
+    }
+  },
+  {
+    "file": "419-Swatantra_Party_Minutes_of_Meeting_16-04-1969.pdf",
+    "archive_id": "419",
+    "legibility": "adequate",
+    "separation": "112.8",
+    "pages_total": 1,
+    "pages_rendered": [
+      1
+    ],
+    "filename_hint": {
+      "date": "1969-04-16",
+      "year": "1969",
+      "correspondent": "",
+      "thinker_id": "",
+      "genre": "minutes",
+      "work_type_suggest": "minutes"
+    },
+    "requests": {
+      "metadata.a": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.a/419-Swatantra_Party_Minutes_of_Meeting_16-04-1969-chunk0-0d6f3505ee13",
+        "response_path": "/tmp/llm-extract-requests/metadata.a/419-Swatantra_Party_Minutes_of_Meeting_16-04-1969-chunk0-0d6f3505ee13/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.a/419-Swatantra_Party_Minutes_of_Meeting_16-04-1969-chunk0-0d6f3505ee13/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.a/419-Swatantra_Party_Minutes_of_Meeting_16-04-1969-chunk0-0d6f3505ee13/user.txt\n3. Read each of the following 1 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.a/419-Swatantra_Party_Minutes_of_Meeting_16-04-1969-chunk0-0d6f3505ee13/page-001.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.a/419-Swatantra_Party_Minutes_of_Meeting_16-04-1969-chunk0-0d6f3505ee13/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      },
+      "metadata.b": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.b/419-Swatantra_Party_Minutes_of_Meeting_16-04-1969-chunk0-aa162cd96afa",
+        "response_path": "/tmp/llm-extract-requests/metadata.b/419-Swatantra_Party_Minutes_of_Meeting_16-04-1969-chunk0-aa162cd96afa/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.b/419-Swatantra_Party_Minutes_of_Meeting_16-04-1969-chunk0-aa162cd96afa/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.b/419-Swatantra_Party_Minutes_of_Meeting_16-04-1969-chunk0-aa162cd96afa/user.txt\n3. Read each of the following 1 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.b/419-Swatantra_Party_Minutes_of_Meeting_16-04-1969-chunk0-aa162cd96afa/page-001.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.b/419-Swatantra_Party_Minutes_of_Meeting_16-04-1969-chunk0-aa162cd96afa/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      }
+    }
+  },
+  {
+    "file": "2264-Who_Owns_The_Air-Express_Magazine_11-10-1987.pdf",
+    "archive_id": "2264",
+    "legibility": "adequate",
+    "separation": "113.7",
+    "pages_total": 4,
+    "pages_rendered": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "filename_hint": {
+      "date": "1987-10-11",
+      "year": "1987",
+      "correspondent": "",
+      "thinker_id": "",
+      "genre": "press_note",
+      "work_type_suggest": "press_note"
+    },
+    "requests": {
+      "metadata.a": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.a/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-392460f7487f",
+        "response_path": "/tmp/llm-extract-requests/metadata.a/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-392460f7487f/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.a/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-392460f7487f/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.a/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-392460f7487f/user.txt\n3. Read each of the following 4 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.a/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-392460f7487f/page-001.jpg\n- /tmp/llm-extract-requests/metadata.a/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-392460f7487f/page-002.jpg\n- /tmp/llm-extract-requests/metadata.a/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-392460f7487f/page-003.jpg\n- /tmp/llm-extract-requests/metadata.a/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-392460f7487f/page-004.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.a/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-392460f7487f/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      },
+      "metadata.b": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.b/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-5d310a7abc5d",
+        "response_path": "/tmp/llm-extract-requests/metadata.b/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-5d310a7abc5d/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.b/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-5d310a7abc5d/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.b/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-5d310a7abc5d/user.txt\n3. Read each of the following 4 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.b/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-5d310a7abc5d/page-001.jpg\n- /tmp/llm-extract-requests/metadata.b/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-5d310a7abc5d/page-002.jpg\n- /tmp/llm-extract-requests/metadata.b/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-5d310a7abc5d/page-003.jpg\n- /tmp/llm-extract-requests/metadata.b/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-5d310a7abc5d/page-004.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.b/2264-Who_Owns_The_Air-Express_Magazine_11-10-1987-chunk0-5d310a7abc5d/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      }
+    }
+  },
+  {
+    "file": "1151-Letter_to_Girish_Munshi_04-04-1977.pdf",
+    "archive_id": "1151",
+    "legibility": "strong",
+    "separation": "131.8",
+    "pages_total": 1,
+    "pages_rendered": [
+      1
+    ],
+    "filename_hint": {
+      "date": "1977-04-04",
+      "year": "1977",
+      "correspondent": "Girish Munshi",
+      "thinker_id": "",
+      "genre": "letter",
+      "work_type_suggest": "letter"
+    },
+    "requests": {
+      "metadata.a": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.a/1151-Letter_to_Girish_Munshi_04-04-1977-chunk0-1b929e8b95d5",
+        "response_path": "/tmp/llm-extract-requests/metadata.a/1151-Letter_to_Girish_Munshi_04-04-1977-chunk0-1b929e8b95d5/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.a/1151-Letter_to_Girish_Munshi_04-04-1977-chunk0-1b929e8b95d5/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.a/1151-Letter_to_Girish_Munshi_04-04-1977-chunk0-1b929e8b95d5/user.txt\n3. Read each of the following 1 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.a/1151-Letter_to_Girish_Munshi_04-04-1977-chunk0-1b929e8b95d5/page-001.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.a/1151-Letter_to_Girish_Munshi_04-04-1977-chunk0-1b929e8b95d5/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      },
+      "metadata.b": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.b/1151-Letter_to_Girish_Munshi_04-04-1977-chunk0-5de4fcc05342",
+        "response_path": "/tmp/llm-extract-requests/metadata.b/1151-Letter_to_Girish_Munshi_04-04-1977-chunk0-5de4fcc05342/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.b/1151-Letter_to_Girish_Munshi_04-04-1977-chunk0-5de4fcc05342/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.b/1151-Letter_to_Girish_Munshi_04-04-1977-chunk0-5de4fcc05342/user.txt\n3. Read each of the following 1 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.b/1151-Letter_to_Girish_Munshi_04-04-1977-chunk0-5de4fcc05342/page-001.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.b/1151-Letter_to_Girish_Munshi_04-04-1977-chunk0-5de4fcc05342/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      }
+    }
+  },
+  {
+    "file": "185-The_New_Liberalism_in_India.pdf",
+    "archive_id": "185",
+    "legibility": "strong",
+    "separation": "144.5",
+    "pages_total": 8,
+    "pages_rendered": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "filename_hint": {
+      "date": "",
+      "year": "",
+      "correspondent": "",
+      "thinker_id": "",
+      "genre": "",
+      "work_type_suggest": ""
+    },
+    "requests": {
+      "metadata.a": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1",
+        "response_path": "/tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1/user.txt\n3. Read each of the following 8 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1/page-001.jpg\n- /tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1/page-002.jpg\n- /tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1/page-003.jpg\n- /tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1/page-004.jpg\n- /tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1/page-005.jpg\n- /tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1/page-006.jpg\n- /tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1/page-007.jpg\n- /tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1/page-008.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.a/185-The_New_Liberalism_in_India-chunk0-513b52fda6f1/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      },
+      "metadata.b": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b",
+        "response_path": "/tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b/user.txt\n3. Read each of the following 8 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b/page-001.jpg\n- /tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b/page-002.jpg\n- /tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b/page-003.jpg\n- /tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b/page-004.jpg\n- /tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b/page-005.jpg\n- /tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b/page-006.jpg\n- /tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b/page-007.jpg\n- /tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b/page-008.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.b/185-The_New_Liberalism_in_India-chunk0-02c92e33353b/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      }
+    }
+  },
+  {
+    "file": "846-Swatantra_party_Convention_04-08-1974.pdf",
+    "archive_id": "846",
+    "legibility": "strong",
+    "separation": "147.8",
+    "pages_total": 1,
+    "pages_rendered": [
+      1
+    ],
+    "filename_hint": {
+      "date": "1974-08-04",
+      "year": "1974",
+      "correspondent": "",
+      "thinker_id": "",
+      "genre": "souvenir",
+      "work_type_suggest": "edited_volume"
+    },
+    "requests": {
+      "metadata.a": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.a/846-Swatantra_party_Convention_04-08-1974-chunk0-ac8d06d11fb9",
+        "response_path": "/tmp/llm-extract-requests/metadata.a/846-Swatantra_party_Convention_04-08-1974-chunk0-ac8d06d11fb9/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.a/846-Swatantra_party_Convention_04-08-1974-chunk0-ac8d06d11fb9/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.a/846-Swatantra_party_Convention_04-08-1974-chunk0-ac8d06d11fb9/user.txt\n3. Read each of the following 1 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.a/846-Swatantra_party_Convention_04-08-1974-chunk0-ac8d06d11fb9/page-001.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.a/846-Swatantra_party_Convention_04-08-1974-chunk0-ac8d06d11fb9/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      },
+      "metadata.b": {
+        "request_dir": "/tmp/llm-extract-requests/metadata.b/846-Swatantra_party_Convention_04-08-1974-chunk0-662ecf393b2b",
+        "response_path": "/tmp/llm-extract-requests/metadata.b/846-Swatantra_party_Convention_04-08-1974-chunk0-662ecf393b2b/response.json",
+        "agent_prompt": "You are an LLM extraction subagent for the Indian Liberals archive.\n\n1. Read the SYSTEM prompt from: /tmp/llm-extract-requests/metadata.b/846-Swatantra_party_Convention_04-08-1974-chunk0-662ecf393b2b/system.txt\n2. Read the USER prompt from: /tmp/llm-extract-requests/metadata.b/846-Swatantra_party_Convention_04-08-1974-chunk0-662ecf393b2b/user.txt\n3. Read each of the following 1 page images (these are the rendered PDF pages you'll analyse):\n- /tmp/llm-extract-requests/metadata.b/846-Swatantra_party_Convention_04-08-1974-chunk0-662ecf393b2b/page-001.jpg\n\nThen follow the SYSTEM prompt's instructions, applied to the images, per the USER prompt. Return JSON only. No preamble. No markdown fence. No trailing prose.\n\nDo not add commentary about what you're doing \u2014 emit the final output only.\n\nIMPORTANT \u2014 output handling:\nWrite your JSON object to /tmp/llm-extract-requests/metadata.b/846-Swatantra_party_Convention_04-08-1974-chunk0-662ecf393b2b/response.json using the Write tool.\nThen reply with ONE line only, no JSON, no prose:\n  OK <work_type> | year=<year or ?> | authors=<thinker_id or null> | themes=<count> | proposed=<count> | review=<true|false>\nIf you cannot produce valid JSON, write nothing and reply: FAIL <one-line reason>",
+        "prompt_version": "1.5"
+      }
+    }
+  }
+]

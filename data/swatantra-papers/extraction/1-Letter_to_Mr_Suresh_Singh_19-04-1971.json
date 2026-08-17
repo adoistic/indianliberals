@@ -1,0 +1,188 @@
+{
+ "metadata.a": {
+  "work_type": "letter",
+  "purpose": null,
+  "title": {
+   "main": {
+    "value": null,
+    "confidence": "low"
+   },
+   "subtitle": {
+    "value": null,
+    "confidence": "low"
+   },
+   "original_script": null,
+   "translit": null
+  },
+  "authors": [
+   {
+    "thinker_id": null,
+    "byline_verbatim": "(M. R. MASANI)",
+    "honorifics": [],
+    "confidence": "high"
+   }
+  ],
+  "editors": [],
+  "contributors": [],
+  "publication": {
+   "publisher_id": null,
+   "publisher_verbatim": null,
+   "issuer_id": null,
+   "place": null,
+   "year": {
+    "value": 1971,
+    "confidence": "high"
+   },
+   "edition": null,
+   "series": null,
+   "language": "en"
+  },
+  "physical": {
+   "pages_rendered": 1,
+   "pages_total": 1,
+   "pages_total_source": "pypdfium2",
+   "format": "Single-leaf typewritten office letter (carbon/file copy) on unheaded paper; manuscript numeral '1' circled in ink at head; typist reference 'mrm/rb.' at foot; ink signature above typed name."
+  },
+  "identifiers": {
+   "isbn": null,
+   "issn": null,
+   "oclc": null
+  },
+  "language": "en",
+  "themes": [
+   "party-politics"
+  ],
+  "theme_proposed_new": [],
+  "toc": {
+   "extracted_from_pages": [],
+   "entries": [],
+   "entries_not_yet_rendered": []
+  },
+  "missing_metadata_flags": [
+   "title_not_printed",
+   "no_publisher",
+   "no_letterhead",
+   "no_place_of_writing"
+  ],
+  "needs_human_review": true,
+  "recommended_authority_additions": [
+   {
+    "kind": "thinker",
+    "verbatim": "M. R. MASANI",
+    "language": "en",
+    "context": "Signatory of this 1971 letter; writes of having stepped down from the Presidentship of his Party — Minoo Masani, Swatantra Party leader. No matching entry in the supplied authority subset.",
+    "page": 1
+   },
+   {
+    "kind": "thinker",
+    "verbatim": "Mr Suresh Singh",
+    "language": "en",
+    "context": "Recipient of the letter, of Kala Kankar, U.P.; runs a hospital the writer offers to visit.",
+    "page": 1
+   }
+  ],
+  "notes": "Typewritten office letter, single leaf, no printed title or letterhead; title left null per D15. Dateline '19th April, 1971' top right. Inside address: 'Mr Suresh Singh / Kala Kankar / U. P.'. Body mentions stepping down from the Presidentship of 'my Party' and asks for Svetlana's new address in the States. Faint bleed-through from the verso; some typewriter strikeovers.",
+  "classification_reasoning": {
+   "work_type": "The document is a dated, signed communication addressed to one named individual ('Dear Mr Suresh Singh', with inside address Kala Kankar, U.P.) and closed 'Yours sincerely' over a signature — the office-record disambiguation rule assigns a single named recipient to 'letter' rather than 'circular'. It is not a publication: no title page, imprint, or series line.",
+   "purpose": "No purpose qualifier applies: the taxonomy lists purpose values only for occasional_paper, edited_volume, book and speech, and none is defined for work_type 'letter'.",
+   "language": "Entirely Latin script, standard English prose and salutation formulas ('Dear', 'Yours sincerely'), so language is en; no Devanagari appears, so the hi/mr question does not arise.",
+   "authors_resolution": "Byline extracted verbatim as printed above the signature block: '(M. R. MASANI)'. Searched the authority subset for 'M. R. Masani', 'M.R. Masani', 'MR Masani', 'Masani' and 'Minoo Masani' against every canonical name and aliases[] entry; the subset's thinkers list runs alphabetically and ends at 'Margaret Thatcher' with no Masani entry. Per the binary rule, thinker_id is null despite Masani being a well-known Swatantra figure, and he is listed under recommended_authority_additions.",
+   "year": "The dateline printed at the head of the page reads '19th April, 1971', giving the year directly — high confidence.",
+   "publisher": "No publisher, letterhead, imprint or address appears anywhere on the sheet; publisher_id and publisher_verbatim are null. The 'Swatantra Party papers' folder hint and the body's reference to 'the Presidentship of my Party' are suggestive but the party is never named on the page, so issuer_id is left null rather than silently inferred.",
+   "toc": "Single-page single-author letter with no table of contents; toc.entries is empty by design."
+  }
+ },
+ "metadata.b": {
+  "work_type": "letter",
+  "purpose": null,
+  "title": {
+   "main": {
+    "value": null,
+    "confidence": "low"
+   },
+   "subtitle": {
+    "value": null,
+    "confidence": "low"
+   },
+   "original_script": null,
+   "translit": null
+  },
+  "authors": [
+   {
+    "thinker_id": null,
+    "byline_verbatim": "(M. R. MASANI)",
+    "honorifics": [],
+    "confidence": "high"
+   }
+  ],
+  "editors": [],
+  "contributors": [],
+  "publication": {
+   "publisher_id": null,
+   "publisher_verbatim": null,
+   "issuer_id": null,
+   "place": null,
+   "year": {
+    "value": 1971,
+    "confidence": "high"
+   },
+   "edition": null,
+   "series": null,
+   "language": "en"
+  },
+  "physical": {
+   "pages_rendered": 1,
+   "pages_total": 1,
+   "pages_total_source": "pypdfium2",
+   "format": "Single-sheet typescript carbon/office copy of a signed letter, with typist reference 'mrm/rb.' at foot"
+  },
+  "identifiers": {
+   "isbn": null,
+   "issn": null,
+   "oclc": null
+  },
+  "language": "en",
+  "themes": [
+   "party-politics"
+  ],
+  "theme_proposed_new": [],
+  "toc": {
+   "extracted_from_pages": [],
+   "entries": [],
+   "entries_not_yet_rendered": []
+  },
+  "missing_metadata_flags": [
+   "title_not_printed",
+   "publisher_not_printed",
+   "place_not_printed",
+   "author_unresolved"
+  ],
+  "needs_human_review": true,
+  "recommended_authority_additions": [
+   {
+    "kind": "thinker",
+    "verbatim": "M. R. MASANI",
+    "language": "en",
+    "context": "Signatory of the letter; describes having stepped down from the Presidentship of his Party, consistent with a senior Swatantra Party figure, but not present in the supplied authority subset.",
+    "page": 1
+   },
+   {
+    "kind": "thinker",
+    "verbatim": "Mr Suresh Singh",
+    "language": "en",
+    "context": "Named addressee at Kala Kankar, U. P., apparently running a hospital; not in the authority subset.",
+    "page": 1
+   }
+  ],
+  "notes": "Typed office copy of a personal letter dated 19th April 1971, addressed to Mr Suresh Singh, Kala Kankar, U. P. No printed title, letterhead, publisher or place visible on the rendered page. Signed off '(M. R. MASANI)' above a manuscript signature; typist mark 'mrm/rb.' A handwritten '1' is circled near the salutation (archival foliation).",
+  "classification_reasoning": {
+   "work_type": "Single sheet of correspondence opening 'Dear Mr Suresh Singh,' with a date line, a valediction 'Yours sincerely,' a signature block, and an inside address block naming one individual recipient. Per the office-records disambiguation rule, one named recipient makes this a letter rather than a circular; it is private office correspondence, not a press note or minutes.",
+   "purpose": "Set null: no purpose qualifier is defined in the taxonomy for work_type 'letter'.",
+   "language": "Latin script throughout, standard English typescript; no non-Latin script present, so language is 'en'.",
+   "authors_resolution": "Byline verbatim '(M. R. MASANI)'. Normalised to 'm r masani' and searched the authority_subset canonicals and aliases; the M-entries present are m-r-pai, ma-sreenivasan, ma-venkata-rao, maharana-pratap, mahatma-gandhi, mao-zedong, margaret-thatcher, m-c-chagla, m-n-roy — none matches 'M. R. Masani' as canonical or alias. Applying the binary rule: thinker_id null, byline preserved verbatim, needs_human_review true.",
+   "year": "The date line at the top right reads '19th April, 1971', giving year 1971 at high confidence directly from the page.",
+   "publisher": "No publisher, letterhead, imprint or address line is printed on the rendered page; publisher_id and publisher_verbatim are null.",
+   "toc": "No table of contents: the document is a one-page letter, so toc.entries is empty."
+  }
+ }
+}

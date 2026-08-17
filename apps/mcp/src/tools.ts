@@ -139,7 +139,7 @@ export const TOOLS: Tool[] = [
         work_type: {
           type: 'string',
           description:
-            'book | pamphlet | speech | essay | edited_volume | occasional_paper | letter | correspondence | periodical_issue | reference | interview',
+            'book | pamphlet | speech | essay | edited_volume | occasional_paper | letter | correspondence | periodical_issue | reference | interview | lecture | telegram | minutes | circular | resolution | press_note',
         },
         theme: { type: 'string', description: 'Theme substring, e.g. "economic-policy"' },
         language: { type: 'string', description: 'Language of the work, e.g. en, hi, mr, gu' },

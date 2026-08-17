@@ -680,7 +680,7 @@ const primaryWorks: CollectionDef = {
       label: 'Kind of work',
       kind: 'select',
       required: true,
-      options: ['book', 'pamphlet', 'speech', 'essay', 'edited_volume', 'occasional_paper', 'letter', 'correspondence', 'periodical_issue', 'reference', 'interview', 'lecture'],
+      options: ['book', 'pamphlet', 'speech', 'essay', 'edited_volume', 'occasional_paper', 'letter', 'correspondence', 'periodical_issue', 'reference', 'interview', 'lecture', 'telegram', 'minutes', 'circular', 'resolution', 'press_note'],
       group: 'essential',
       hint: 'What sort of document this is. Choose edited volume when several authors contributed chapters, and lecture for a named annual or memorial lecture.',
     },

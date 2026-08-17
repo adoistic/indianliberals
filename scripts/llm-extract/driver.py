@@ -22,6 +22,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import sys
 import time
 from pathlib import Path
@@ -39,7 +40,11 @@ from ledger import LedgerEntry, append as ledger_append, _now_utc  # noqa: E402
 from validator import validate_metadata  # noqa: E402
 
 REPO = Path(__file__).resolve().parents[2]
-PDF_ROOT = Path("/Volumes/One Touch/Indian Liberals/PDFs-by-publisher")
+# Overridable so the same pipeline can run against another corpus (e.g. the
+# Swatantra Party papers on a shared drive) without editing this file.
+PDF_ROOT = Path(os.environ.get(
+    "LLM_EXTRACT_PDF_ROOT",
+    "/Volumes/One Touch/Indian Liberals/PDFs-by-publisher"))
 BAKEOFF_OUTPUT = REPO / "data/bake-off-output"
 
 
@@ -125,11 +130,25 @@ def _substitute(template: str, **kwargs) -> str:
 # ---------------------------------------------------------------------------
 
 
-def _load_authority_subset(language: str | None = None, max_thinkers: int = 60) -> str:
+def _load_authority_subset(
+    language: str | None = None,
+    max_thinkers: int = 60,
+    include_ids: list[str] | None = None,
+) -> str:
     """
     Return a JSON-string subset of the authority file for inclusion in the
     user prompt. Picks canonical thinkers first, then high-confidence ones,
     filtered weakly by language hint when provided.
+
+    `include_ids` pins specific thinker IDs into the subset regardless of where
+    the confidence+id sort would place them. Without it the cap is a blind
+    alphabetical guillotine: on the Swatantra Party papers the default 60 of 454
+    ran "A. D. Shroff through Margaret Thatcher" and excluded Minoo Masani, who
+    is the correspondent in 1,171 of 6,355 files. Six pilot subagents
+    independently reported him absent and correctly emitted `thinker_id: null`
+    per the binary rule — the rule worked, the subset was wrong. Callers
+    processing a known corpus should pass its most frequent bylines here.
+    Defaults to None, so existing behaviour is unchanged.
     """
     auth_file = REPO / "data/authority/thinkers.json"
     if not auth_file.exists():
@@ -140,8 +159,16 @@ def _load_authority_subset(language: str | None = None, max_thinkers: int = 60) 
     order = {"canonical": 0, "high": 1, "medium": 2}
     thinkers.sort(key=lambda t: (order.get(t.get("confidence", "low"), 9), t.get("id", "")))
 
+    selected = thinkers[:max_thinkers]
+    if include_ids:
+        want = set(include_ids)
+        have = {t.get("id") for t in selected}
+        selected = selected + [
+            t for t in thinkers if t.get("id") in want and t.get("id") not in have
+        ]
+
     pruned = []
-    for t in thinkers[:max_thinkers]:
+    for t in selected:
         pruned.append({
             "id": t["id"],
             "canonical": t["name"]["canonical"],
@@ -177,6 +204,28 @@ work_type enum (pick ONE):
   correspondence  — Collected letters between named individuals
   periodical_issue — One issue of a serial (routes to periodicals collection)
   reference       — Bibliography / dictionary / catalogue / index
+
+Archival office records (party/organisation internal papers, not publications):
+  telegram        — Telegram or cable. Distinguished by the form itself (telegraph
+                    office header, block capitals, clipped wording), not by length.
+  minutes         — Record of a meeting held: attendance list, numbered items,
+                    decisions taken. Past tense. NOT the notice calling it.
+  circular        — Communication sent from a party office to members or units:
+                    circulars, notices of meetings, instructions to units.
+                    Addressed to a GROUP, which is what separates it from `letter`.
+  resolution      — A resolution as adopted, issued as its own document.
+                    Usually "Resolved that…" or a numbered adopted text.
+  press_note      — Statement issued to the press, or a press release.
+
+Disambiguation for the office records:
+  - One named recipient → letter. A membership or unit → circular.
+  - Meeting NOTICE (future, "will be held") → circular.
+    Meeting RECORD (past, "were present") → minutes.
+  - A resolution quoted inside minutes stays `minutes`. A resolution issued
+    standalone on its own sheet is `resolution`.
+  - If the document is a party's public argument rather than office machinery
+    (manifesto, statement of principles) it is `occasional_paper`, not
+    `press_note` — press_note is specifically addressed to the press.
 
 purpose qualifier (optional, sub-type granularity):
   occasional_paper:  manifesto | statement_of_principles | report | working_paper | position_paper | annual_report
@@ -237,7 +286,20 @@ def cmd_prep(args) -> None:
     rasterize_s = time.monotonic() - t0
 
     # Build user_text via substitution
-    authority_subset = _load_authority_subset()
+    # Pin corpus-frequent bylines into the subset. Without this the 60-thinker
+    # cap is an alphabetical guillotine: on the Swatantra papers it excluded
+    # Minoo Masani, the correspondent in 1,171 of 6,355 files, so every one of
+    # his documents would resolve to thinker_id: null. Point
+    # LLM_EXTRACT_PIN_THINKERS_FILE at a JSON array of ids to guarantee they
+    # are present. Unset -> unchanged behaviour.
+    _pin = os.environ.get("LLM_EXTRACT_PIN_THINKERS_FILE")
+    _pin_ids = None
+    if _pin and Path(_pin).exists():
+        try:
+            _pin_ids = json.loads(Path(_pin).read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            _pin_ids = None
+    authority_subset = _load_authority_subset(include_ids=_pin_ids)
     page_numbers = [p.page_num for p in chunk.pages]
 
     # For summary jobs, also load the metadata.a output (or .b, whichever
@@ -274,8 +336,7 @@ def cmd_prep(args) -> None:
             "```json\n" + p.read_text(encoding="utf-8").strip() + "\n```\n"
         )
 
-    user_text = _substitute(
-        user_template,
+    subs = dict(
         PDF_NAME=pdf_path.name,
         PUBLISHER_FOLDER=pdf_path.parent.name,
         TOTAL_PDF_PAGES=chunk.total_pages_in_pdf,
@@ -289,6 +350,18 @@ def cmd_prep(args) -> None:
         TOC_INDEX=toc_index_str,
         PREV_SUBCHUNK_CONTEXT=prev_subchunk_str,
     )
+
+    # BOTH blocks need substitution. `{{ WORK_TYPE_TAXONOMY }}` and
+    # `{{ THEME_VOCABULARY }}` live in the SYSTEM section of metadata.a.md,
+    # metadata.b.md and metadata-tiebreak.md — only AUTHORITY_SUBSET is in the
+    # USER_TEMPLATE. Substituting the user block alone shipped the system
+    # prompt with the literal placeholder text under the headings "## Work-type
+    # taxonomy" and "Theme vocabulary (pick from this list…)", so the model
+    # never received either controlled vocabulary and fell back to the schema
+    # example's "one of the 10 enum values". Found by the Swatantra pilot,
+    # 2026-08-17; it affects every metadata record extracted before that date.
+    system = _substitute(system, **subs)
+    user_text = _substitute(user_template, **subs)
 
     # Package via dispatcher
     req = DispatchRequest(
@@ -387,7 +460,15 @@ def cmd_collect(args) -> None:
     # Auto-emit Astro MD on summary completion (when we have both metadata
     # + summary on disk). The emitter is intentionally side-effect-only
     # and idempotent: refuses to overwrite an existing MD file.
-    if args.job == "summary" and resp.ok:
+    # LLM_EXTRACT_NO_EMIT=1 suppresses MD emission so extraction produces
+    # records only. Needed for the Swatantra papers: emit-astro-md.py derives
+    # its slug from the raw PDF stem (underscores kept) and sets no pdf_url,
+    # so it wrote a SECOND entry per work — `1-letter_to_mr_suresh_singh...`
+    # alongside the existing `1-letter-to-mr-suresh-singh...` — with the raw
+    # filename as the title and no link to the scan on R2. Across the corpus
+    # that would have been 6,355 duplicates. Extract to JSON here; merge into
+    # the existing entries separately, where slug and pdf_url are already right.
+    if args.job == "summary" and resp.ok and os.environ.get("LLM_EXTRACT_NO_EMIT") != "1":
         try:
             import subprocess as _sp
             here = Path(__file__).resolve().parents[1]

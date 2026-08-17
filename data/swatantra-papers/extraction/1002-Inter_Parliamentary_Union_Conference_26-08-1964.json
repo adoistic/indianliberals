@@ -1,0 +1,191 @@
+{
+ "metadata.a": {
+  "work_type": "telegram",
+  "purpose": null,
+  "title": {
+   "main": {
+    "value": null,
+    "confidence": "low"
+   },
+   "subtitle": {
+    "value": null,
+    "confidence": "low"
+   },
+   "original_script": null,
+   "translit": null
+  },
+  "authors": [
+   {
+    "thinker_id": null,
+    "byline_verbatim": "MASANI",
+    "honorifics": [],
+    "confidence": "high"
+   }
+  ],
+  "editors": [],
+  "contributors": [],
+  "publication": {
+   "publisher_id": null,
+   "publisher_verbatim": null,
+   "issuer_id": null,
+   "place": "Bombay",
+   "year": {
+    "value": 1964,
+    "confidence": "high"
+   },
+   "edition": null,
+   "series": null,
+   "language": "en"
+  },
+  "physical": {
+   "pages_rendered": 1,
+   "pages_total": 1,
+   "pages_total_source": "pypdfium2",
+   "format": "Single typed sheet; confirmatory copy of an outgoing cable, block-capital telegram text with addressee block at head, sender name and address below a rule, dated at foot. Archival number '1002' pencilled at top left; typist mark 'mrm:pz' at bottom left."
+  },
+  "identifiers": {
+   "isbn": null,
+   "issn": null,
+   "oclc": null
+  },
+  "language": "en",
+  "themes": [],
+  "theme_proposed_new": [],
+  "toc": {
+   "extracted_from_pages": [],
+   "entries": [],
+   "entries_not_yet_rendered": []
+  },
+  "missing_metadata_flags": [
+   "title_not_printed",
+   "no_publisher",
+   "no_publisher_address",
+   "issuer_not_printed"
+  ],
+  "needs_human_review": true,
+  "recommended_authority_additions": [
+   {
+    "kind": "thinker",
+    "verbatim": "Mr. M. R. Masani",
+    "language": "en",
+    "context": "Sender of the cable, signing as 'MASANI'; address given as 143 Mahatma Gandhi Rd., Bombay 1 — a Swatantra Party figure who does not appear in the supplied authority subset (which ends alphabetically at 'Margaret Thatcher').",
+    "page": 1
+   },
+   {
+    "kind": "thinker",
+    "verbatim": "PROFESSOR RANGA",
+    "language": "en",
+    "context": "Addressee of the cable, care of the Inter-Parliamentary Union Conference, Parliament House, Copenhagen; not present in the supplied authority subset.",
+    "page": 1
+   }
+  ],
+  "notes": "Confirmatory copy of an outgoing cable, 26 Aug 1964, from Masani to Professor Ranga at the Inter-Parliamentary Union Conference, Copenhagen, about not abandoning a Washington visit and arranging the fare difference (~Rs 2,000) with Air India London. No printed title; header lines are the addressee block, not a title, so title.main is null per D15. Reference number 29687 at foot. Typed 'STOP' and block capitals confirm telegram form. Note: the STRICT ENUM block lists only 10 types, but the taxonomy's archival office-record set includes 'telegram', which is the exact form here.",
+  "classification_reasoning": {
+   "work_type": "The document is a confirmatory copy of a cable: block-capital body text, clipped telegraphic wording with the word 'STOP' used as punctuation, an addressee block at the head giving a conference venue abroad, and a sender address plus reference number 29687 below a rule. That is the telegram form itself, which the taxonomy says is the deciding signal rather than length. It is not a letter (no salutation/closing) and not a circular (a single named recipient, Professor Ranga).",
+   "purpose": "No purpose qualifier applies — the purpose list covers only occasional_paper, edited_volume, book and speech sub-types, and none of them fits an office cable, so purpose is null.",
+   "language": "Latin script throughout, English wording ('YOURS TWENTY SECOND PLEASE DO NOT ABANDON WASHINGTON VISIT'), so language is en; no Devanagari or other Indic script appears.",
+   "authors_resolution": "The sender's byline is printed as 'MASANI' in block capitals below the cable text, with 'Mr. M. R. Masani, 143 Mahatma Gandhi Rd., Bombay 1.' typed below the rule. I searched the authority_subset for 'Masani' and 'M. R. Masani' across all canonical names and aliases; there is no match (the subset is alphabetical and stops at 'Margaret Thatcher', and the only similar entry is 'M. R. Pai', a different person). Per the binary rule, thinker_id is null, byline_verbatim retained, needs_human_review set true.",
+   "year": "The foot of the sheet is typed 'August 26, 1964.' — an explicit date on the document itself, so year 1964 with high confidence.",
+   "publisher": "No publisher or imprint line is printed anywhere on the sheet; it is an internal office record, not a publication, so publisher_id and publisher_verbatim are null. The folder hint 'Swatantra Party papers' is a weak external signal and is not used to set issuer_id.",
+   "toc": "Not applicable — single-page single-item office record with no table of contents; toc.entries is empty."
+  }
+ },
+ "metadata.b": {
+  "work_type": "telegram",
+  "purpose": null,
+  "title": {
+   "main": {
+    "value": null,
+    "confidence": "low"
+   },
+   "subtitle": {
+    "value": null,
+    "confidence": "low"
+   },
+   "original_script": null,
+   "translit": null
+  },
+  "authors": [
+   {
+    "thinker_id": null,
+    "byline_verbatim": "MASANI",
+    "honorifics": [],
+    "confidence": "medium"
+   }
+  ],
+  "editors": [],
+  "contributors": [],
+  "publication": {
+   "publisher_id": null,
+   "publisher_verbatim": null,
+   "issuer_id": null,
+   "place": "Bombay",
+   "year": {
+    "value": 1964,
+    "confidence": "high"
+   },
+   "edition": null,
+   "series": null,
+   "language": "en"
+  },
+  "physical": {
+   "pages_rendered": 1,
+   "pages_total": 1,
+   "pages_total_source": "pypdfium2",
+   "format": "Single typed sheet; confirmatory copy of an outgoing cable, sender address block and reference number 29687 below a rule, filing number 1002 pencilled at head."
+  },
+  "identifiers": {
+   "isbn": null,
+   "issn": null,
+   "oclc": null
+  },
+  "language": "en",
+  "themes": [],
+  "theme_proposed_new": [],
+  "toc": {
+   "extracted_from_pages": [],
+   "entries": [],
+   "entries_not_yet_rendered": []
+  },
+  "missing_metadata_flags": [
+   "title_not_printed",
+   "publisher_not_named",
+   "issuer_not_named",
+   "author_unresolved"
+  ],
+  "needs_human_review": true,
+  "recommended_authority_additions": [
+   {
+    "kind": "thinker",
+    "verbatim": "M. R. Masani",
+    "language": "en",
+    "context": "Sender of the cable, signing as MASANI, with address 143 Mahatma Gandhi Rd., Bombay 1; not present in the supplied authority subset.",
+    "page": 1
+   },
+   {
+    "kind": "thinker",
+    "verbatim": "PROFESSOR RANGA",
+    "language": "en",
+    "context": "Addressee of the cable, at the Inter Parliamentary Union Conference, Parliament House, Copenhagen; not present in the supplied authority subset.",
+    "page": 1
+   },
+   {
+    "kind": "organisation",
+    "verbatim": "INTER PARLIAMENTARY UNION CONFERENCE",
+    "language": "en",
+    "context": "International parliamentary body whose Copenhagen conference is the addressee's location on the cable; not in the authority subset.",
+    "page": 1
+   }
+  ],
+  "notes": "Office record: confirmatory copy of an outgoing cable, Masani to Prof. Ranga at the IPU Conference, Copenhagen, dated August 26, 1964, on funding a Washington visit (fare difference c. Rs 2,000 via Air India London). Typist mark 'mrm:pz'. Content is administrative, so no controlled theme applied. Note: 'telegram' comes from the archival office-records taxonomy, not the 10-value list in the strict-enum section.",
+  "classification_reasoning": {
+   "work_type": "The sheet is the confirmatory copy of a cable: addressee block (PROFESSOR RANGA / INTER PARLIAMENTARY UNION CONFERENCE / PARLIAMENT HOUSE / COPENHAGEN), body in block capitals with clipped telegraphic wording and the word STOP for punctuation, a one-word signature MASANI, and below a rule the sender's name, address and cable reference 29687, with 'confirmatory copy' typed at foot. That is the telegram form itself, which the taxonomy says is the deciding test, not length. Not 'letter' despite one named recipient, because the form is a cable rather than a letter.",
+   "purpose": "Null: the purpose qualifiers in the taxonomy are defined only for occasional_paper, edited_volume, book and speech, none of which applies to an office cable.",
+   "language": "English throughout, Latin script, typewritten in block capitals for the cable text.",
+   "authors_resolution": "Byline verbatim 'MASANI' (sender line below the rule reads 'Mr. M. R. Masani, 143 Mahatma Gandhi Rd., Bombay 1.'). Searched authority_subset for 'Masani' and 'M. R. Masani' against canonical names and aliases; the nearest entries are 'm-r-pai' (M. R. Pai) and 'ma-venkata-rao', neither of which matches. Not found, so thinker_id null and needs_human_review true. Addressee 'PROFESSOR RANGA' likewise absent from the subset.",
+   "year": "Typed date line 'August 26, 1964.' at the foot of the sheet gives the year directly; high confidence.",
+   "publisher": "No publisher or issuing organisation is printed anywhere on the sheet; the 'Swatantra Party papers' folder hint is a weak external signal, so publisher_id, publisher_verbatim and issuer_id are all null. 'Bombay' is recorded as place only because it is the sender's printed address.",
+   "toc": "No table of contents; the document is a single-page cable, so toc.entries is empty."
+  }
+ }
+}

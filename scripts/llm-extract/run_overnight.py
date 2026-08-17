@@ -32,7 +32,9 @@ from __future__ import annotations
 import argparse
 import hashlib
 import json
+import os
 import re
+import shutil
 import subprocess
 import sys
 import threading
@@ -43,7 +45,11 @@ from pathlib import Path
 ROOT = Path("/Users/siraj/Indian Liberals Website")
 VENV_PY = str(ROOT / ".venv-extract" / "bin" / "python3")
 DRIVER = str(ROOT / "scripts" / "llm-extract" / "driver.py")
-PDFS_ROOT = Path("/Volumes/One Touch/Indian Liberals/PDFs-by-publisher")
+# Same override as driver.PDF_ROOT, so the runner and the driver always agree
+# on which corpus is being processed.
+PDFS_ROOT = Path(os.environ.get(
+    "LLM_EXTRACT_PDF_ROOT",
+    "/Volumes/One Touch/Indian Liberals/PDFs-by-publisher"))
 BAKE_DIR = ROOT / "data" / "bake-off-output"
 PROGRESS_TSV = Path("/tmp/v1.5-overnight-progress.tsv")
 
@@ -422,7 +428,56 @@ def collect_one(pdf_rel: str, request_dir: Path, job: str, sc_run: str | None) -
     return r.returncode == 0
 
 
+def _reap(rdirs: dict) -> int:
+    """Delete a work's rasterised pages. Returns bytes freed.
+
+    Without this the runner accumulates every page it ever rendered: 22,757
+    pages at ~144 DPI is 5-6 GB, against ~10 GB free. Reaping per work keeps
+    peak usage at (concurrency x one work) instead of the whole corpus.
+
+    Failures are reaped too. Prep is cheap and deterministic, so re-preparing a
+    failed work costs seconds; keeping thousands of dead request dirs to debug
+    a handful does not pay for itself.
+    """
+    freed = 0
+    for d in rdirs.values():
+        rd = Path(d)
+        if rd.exists():
+            try:
+                freed += sum(f.stat().st_size for f in rd.rglob("*") if f.is_file())
+                shutil.rmtree(rd, ignore_errors=True)
+            except OSError:
+                pass
+    return freed
+
+
 def process_pdf(pdf_rel: str) -> dict:
+    """Wrapper: run the cycle, then always reclaim the page images."""
+    rdirs: dict = {}
+    try:
+        return _process_pdf(pdf_rel, rdirs)
+    finally:
+        freed = _reap(rdirs)
+        if freed:
+            _REAPED.add(freed)
+
+
+class _ReapCounter:
+    def __init__(self):
+        self.total = 0
+        self._lock = threading.Lock()
+
+    def add(self, n):
+        with self._lock:
+            self.total += n
+            gb = self.total / 1e9
+        return gb
+
+
+_REAPED = _ReapCounter()
+
+
+def _process_pdf(pdf_rel: str, rdirs: dict) -> dict:
     """Full prep → dispatch → collect cycle for one PDF.
 
     Returns {slug, status, note} with status one of: OK | PREP_FAILED | META_FAILED |
@@ -432,7 +487,6 @@ def process_pdf(pdf_rel: str) -> dict:
     t0 = time.time()
 
     # 1. Prep three jobs
-    rdirs = {}
     for job, sc in [("metadata.a", "a"), ("metadata.b", "b"), ("summary", None)]:
         rd = prep_one(pdf_rel, job, sc)
         if not rd:
@@ -476,6 +530,11 @@ def process_pdf(pdf_rel: str) -> dict:
 def main() -> None:
     ap = argparse.ArgumentParser()
     ap.add_argument("--concurrency", type=int, default=12, help="parallel PDFs to process")
+    ap.add_argument("--no-commit", action="store_true",
+                    help="Do NOT start the committer thread. The default behaviour "
+                         "commits emitted .md in batches and pushes to origin/main, "
+                         "which deploys to Cloudflare Pages. Use this when the "
+                         "output must not go live yet — e.g. rights review pending.")
     ap.add_argument("--smoke", type=int, default=0, help="process only first N PDFs (smoke test)")
     ap.add_argument("--shard-file", help="optional /tmp/v1.5-shards/shard-NN.json path; defaults to all unbaked")
     args = ap.parse_args()
@@ -498,10 +557,16 @@ def main() -> None:
     fail_modes: dict[str, int] = {}
 
     stop_event = threading.Event()
-    committer = threading.Thread(target=committer_thread, args=(stop_event,), daemon=True)
-    committer.start()
-    print(f"[main] committer thread started (batch size {COMMIT_BATCH_SIZE}, "
-          f"poll every {COMMIT_POLL_INTERVAL_S}s)", flush=True)
+    committer = None
+    if args.no_commit:
+        print("[committer] DISABLED (--no-commit): output stays local, nothing pushed",
+              flush=True)
+    else:
+        committer = threading.Thread(target=committer_thread, args=(stop_event,), daemon=True)
+    if committer is not None:
+        committer.start()
+        print(f"[main] committer thread started (batch size {COMMIT_BATCH_SIZE}, "
+              f"poll every {COMMIT_POLL_INTERVAL_S}s)", flush=True)
 
     try:
         with ThreadPoolExecutor(max_workers=args.concurrency) as ex:
@@ -517,15 +582,17 @@ def main() -> None:
                     fail += 1
                     fail_modes[r["status"]] = fail_modes.get(r["status"], 0) + 1
     finally:
-        print("[main] signaling committer to flush + exit...", flush=True)
         stop_event.set()
-        committer.join(timeout=120)
+        if committer is not None:
+            print("[main] signaling committer to flush + exit...", flush=True)
+            committer.join(timeout=120)
 
     elapsed = int(time.time() - t0)
     log_progress("__END__", "DONE", f"ok={ok} fail={fail} elapsed_s={elapsed}")
     print(f"\n=== Overnight run complete ===")
     print(f"  Total: {ok + fail}, OK: {ok}, Failed: {fail}")
     print(f"  Failure modes: {fail_modes}")
+    print(f"  Page images reclaimed: {_REAPED.total/1e9:.2f} GB")
     print(f"  Wall-clock: {elapsed//3600}h {(elapsed%3600)//60}m")
 
 

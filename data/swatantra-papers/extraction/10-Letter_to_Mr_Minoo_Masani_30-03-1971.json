@@ -1,0 +1,187 @@
+{
+ "metadata.a": {
+  "work_type": "letter",
+  "purpose": null,
+  "title": {
+   "main": {
+    "value": null,
+    "confidence": "low"
+   },
+   "subtitle": {
+    "value": null,
+    "confidence": "low"
+   },
+   "original_script": null,
+   "translit": null
+  },
+  "authors": [
+   {
+    "thinker_id": null,
+    "byline_verbatim": "(I.C. Thakkar)",
+    "honorifics": [],
+    "confidence": "high"
+   }
+  ],
+  "editors": [],
+  "contributors": [],
+  "publication": {
+   "publisher_id": null,
+   "publisher_verbatim": null,
+   "issuer_id": null,
+   "place": "Bombay",
+   "year": {
+    "value": 1971,
+    "confidence": "high"
+   },
+   "edition": null,
+   "series": null,
+   "language": "en"
+  },
+  "physical": {
+   "pages_rendered": 1,
+   "pages_total": 1,
+   "pages_total_source": "pypdfium2",
+   "format": "Single-leaf typed letter on personal printed letterhead ('Indukumar C. Thakkar', 'Dalal Nivas', 247 Walkeshwar Road, Malabar Hill, Bombay-6), signed in ink; bears a Swatantra Party office 'RECEIVED 31 MAR 1971' stamp and a handwritten file number '(10)'."
+  },
+  "identifiers": {
+   "isbn": null,
+   "issn": null,
+   "oclc": null
+  },
+  "language": "en",
+  "themes": [
+   "party-politics",
+   "electoral-reform"
+  ],
+  "theme_proposed_new": [],
+  "toc": {
+   "extracted_from_pages": [],
+   "entries": [],
+   "entries_not_yet_rendered": []
+  },
+  "missing_metadata_flags": [
+   "title_not_printed",
+   "no_publisher",
+   "unpublished_archival_document"
+  ],
+  "needs_human_review": true,
+  "recommended_authority_additions": [
+   {
+    "kind": "thinker",
+    "verbatim": "Indukumar C. Thakkar",
+    "language": "en",
+    "context": "Bombay-based Swatantra Party 'Life Worker' who campaigned for M. R. Masani in Rajkot District in the 1971 general election; signs the letter as '(I.C. Thakkar)'.",
+    "page": 1
+   },
+   {
+    "kind": "thinker",
+    "verbatim": "Shri M. R. Masani",
+    "language": "en",
+    "context": "Addressee of the letter, named as President of the Swatantra Party; did not appear in the supplied authority subset, which appears truncated alphabetically at 'margaret-thatcher'.",
+    "page": 1
+   }
+  ],
+  "notes": "Private typed letter, 30 March 1971, from I. C. Thakkar (Bombay) to M. R. Masani, President, Swatantra Party, thanking him and reflecting on campaign work in Rajkot District after the 1971 election. No title is printed anywhere on the sheet, so title.main is null per D15. Not a publication: no publisher, series or imprint. Swatantra Party office receipt stamp dated 31 MAR 1971.",
+  "classification_reasoning": {
+   "work_type": "The document is a single typed sheet on an individual's personal letterhead, opening 'Respected Sir,' with one named recipient block (Shri M. R. Masani, President, Swatantra Party, Sassoon Building, Bombay-1) and a signed subscription 'Yours sincerely, (I.C. Thakkar)'. One named recipient rather than a membership or unit means `letter`, not `circular`; it is private correspondence, not a press statement or a publication.",
+   "purpose": "No purpose qualifier is defined for `letter` in the taxonomy, so purpose is null.",
+   "language": "Entire sheet is typed and printed in Latin script in English; no Indic script appears.",
+   "authors_resolution": "Byline extracted verbatim from the signature line: '(I.C. Thakkar)'; the printed letterhead gives the fuller form 'Indukumar C. Thakkar'. Searched the authority subset for 'Thakkar', 'I.C. Thakkar' and 'Indukumar' — no canonical name or alias matches, so thinker_id is null and needs_human_review is true. Addressee 'Shri M. R. Masani' is a recipient, not an author, and also does not appear in the supplied subset.",
+   "year": "The letter is dated '30th. March 1971' at the top right of the sheet, corroborated by the office stamp 'RECEIVED 31 MAR 1971' — high confidence.",
+   "publisher": "No publisher line appears; this is unpublished archival correspondence, so publisher_id, publisher_verbatim and issuer_id are all null. Place 'Bombay' is taken from the letterhead address (247, Walkeshwar Road, Malabar Hill, Bombay-6).",
+   "toc": "Single-author, single-page document with no table of contents; toc.entries is empty."
+  }
+ },
+ "metadata.b": {
+  "work_type": "letter",
+  "purpose": null,
+  "title": {
+   "main": {
+    "value": null,
+    "confidence": "low"
+   },
+   "subtitle": {
+    "value": null,
+    "confidence": "low"
+   },
+   "original_script": null,
+   "translit": null
+  },
+  "authors": [
+   {
+    "thinker_id": null,
+    "byline_verbatim": "Indukumar C. Thakkar",
+    "honorifics": [],
+    "confidence": "high"
+   }
+  ],
+  "editors": [],
+  "contributors": [],
+  "publication": {
+   "publisher_id": null,
+   "publisher_verbatim": null,
+   "issuer_id": null,
+   "place": "Bombay",
+   "year": {
+    "value": 1971,
+    "confidence": "high"
+   },
+   "edition": null,
+   "series": null,
+   "language": "en"
+  },
+  "physical": {
+   "pages_rendered": 1,
+   "pages_total": 1,
+   "pages_total_source": "pypdfium2",
+   "format": "Single-sheet typewritten letter on personal printed letterhead ('Indukumar C. Thakkar', Dalal Nivas, 247 Walkeshwar Road, Malabar Hill, Bombay-6), with ink signature and a 'RECEIVED 31 MAR 1971' office stamp and archival serial '(10)'."
+  },
+  "identifiers": {
+   "isbn": null,
+   "issn": null,
+   "oclc": null
+  },
+  "language": "en",
+  "themes": [
+   "party-politics"
+  ],
+  "theme_proposed_new": [],
+  "toc": {
+   "extracted_from_pages": [],
+   "entries": [],
+   "entries_not_yet_rendered": []
+  },
+  "missing_metadata_flags": [
+   "title_not_printed",
+   "publisher_not_named",
+   "no_toc"
+  ],
+  "needs_human_review": true,
+  "recommended_authority_additions": [
+   {
+    "kind": "thinker",
+    "verbatim": "Indukumar C. Thakkar",
+    "language": "en",
+    "context": "Signatory of the letter; a self-described 'Life Worker' of the Swatantra Party in Bombay who campaigned for M. R. Masani in Rajkot District at the 1971 general election.",
+    "page": 1
+   },
+   {
+    "kind": "thinker",
+    "verbatim": "Shri M. R. Masani",
+    "language": "en",
+    "context": "Addressee of the letter, identified on the page as President of the Swatantra Party, Sassoon Building, 143 Mahatma Gandhi Road, Bombay-1.",
+    "page": 1
+   }
+  ],
+  "notes": "Private letter, 30 March 1971, from I. C. Thakkar to Swatantra Party President M. R. Masani, thanking him for a letter of 22 March and reflecting on campaign work in Rajkot District, which Masani lost. No printed title; none supplied. Office 'RECEIVED 31 MAR 1971' stamp and file number (10) present. Neither correspondent is in the authority subset.",
+  "classification_reasoning": {
+   "work_type": "A one-page typewritten letter on personal letterhead, dated 30th March 1971, opening 'Shri M. R. Masani, President, Swatantra Party' and 'Respected Sir,' and closing 'Yours sincerely, (I.C. Thakkar)'. One named recipient, not a group, so it is `letter` rather than `circular`; it is a single item of party-office correspondence, not a compiled series, so not `correspondence`.",
+   "purpose": "Null: the taxonomy defines no `purpose` qualifiers for `letter`.",
+   "language": "Entirely Latin script, typewritten English throughout; no Indic script on the page.",
+   "authors_resolution": "Byline verbatim 'Indukumar C. Thakkar' (letterhead) with signature block '(I.C. Thakkar)'. Searched authority_subset canonicals and aliases for 'Indukumar C Thakkar' / 'I C Thakkar' / 'Thakkar' — not found, setting thinker_id null and needs_human_review true. The addressee 'Shri M. R. Masani' likewise does not appear in the subset and is a recipient, not an author, so he is recorded only in recommended_authority_additions.",
+   "year": "Printed date line '30th. March 1971' at the top right of the letter, corroborated by the 'RECEIVED 31 MAR 1971' office stamp.",
+   "publisher": "No publisher line: this is unpublished office correspondence, so publisher_verbatim and publisher_id are null. Place 'Bombay' taken from the letterhead address, 247 Walkeshwar Road, Malabar Hill, Bombay-6.",
+   "toc": "No table of contents; a single-page letter has none."
+  }
+ }
+}

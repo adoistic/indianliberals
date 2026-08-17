@@ -1,0 +1,42 @@
+{
+ "done": {
+  "1-Letter_to_Mr_Suresh_Singh_19-04-1971.pdf": {
+   "jobs": [
+    "metadata.a",
+    "metadata.b"
+   ]
+  },
+  "10-Letter_to_Mr_Minoo_Masani_30-03-1971.pdf": {
+   "jobs": [
+    "metadata.a",
+    "metadata.b"
+   ]
+  },
+  "100-Letter_to_Miss_Kusumkumari_Joshi_05-03-1971.pdf": {
+   "jobs": [
+    "metadata.a",
+    "metadata.b"
+   ]
+  },
+  "1000-Letter_to_Mr_Minoo_Masani_27-08-1964.pdf": {
+   "jobs": [
+    "metadata.a",
+    "metadata.b"
+   ]
+  },
+  "1001-Letter_from_Ayesh.pdf": {
+   "jobs": [
+    "metadata.a",
+    "metadata.b"
+   ]
+  },
+  "1002-Inter_Parliamentary_Union_Conference_26-08-1964.pdf": {
+   "jobs": [
+    "metadata.a",
+    "metadata.b"
+   ]
+  }
+ },
+ "failed": {},
+ "pending": {}
+}

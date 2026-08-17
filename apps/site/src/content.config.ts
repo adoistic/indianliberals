@@ -321,6 +321,16 @@ const primaryWorks = defineCollection({
       'reference', // NEW — bibliography / dictionary / catalogue / index
       'interview',
       'lecture', // NEW — formal named lecture (annual/memorial series, addresses); rendered under /lectures/
+      // Archival office-record types, added 2026-08-17 for the Swatantra Party
+      // papers. That corpus is an office archive rather than a publisher's
+      // list: ~949 of 6,355 files are meeting records and party circulars with
+      // no honest home in the publication-oriented values above. See
+      // docs/handoffs/2026-08-17-swatantra-papers-corpus-condition.md §8.3.
+      'telegram',
+      'minutes', // minutes of a meeting / general council / executive committee
+      'circular', // party circular or notice sent to members
+      'resolution', // a resolution as adopted, issued as its own document
+      'press_note', // press note / statement to the press
     ]),
     // Optional sub-type qualifier. See `purposeEnum` definition in schemas/extraction.ts.
     purpose: purposeEnum.optional(),

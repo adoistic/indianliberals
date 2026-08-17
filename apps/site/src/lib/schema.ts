@@ -99,6 +99,12 @@ const WORK_TYPE_TO_SCHEMA: Record<string, string> = {
   letter: "Message",
   correspondence: "CreativeWork",
   interview: "CreativeWork",
+  // archival office records (Swatantra papers, 2026-08-17)
+  telegram: "Message",
+  circular: "Message",
+  minutes: "Report",
+  press_note: "Report",
+  resolution: "CreativeWork",
 };
 
 const clip = (s: string | undefined, n = 600): string | undefined => {

@@ -1,0 +1,196 @@
+{
+ "metadata.a": {
+  "work_type": "letter",
+  "purpose": null,
+  "title": {
+   "main": {
+    "value": null,
+    "confidence": "low"
+   },
+   "subtitle": {
+    "value": null,
+    "confidence": "low"
+   },
+   "original_script": null,
+   "translit": null
+  },
+  "authors": [
+   {
+    "thinker_id": null,
+    "byline_verbatim": "( M. R. MASANI )",
+    "honorifics": [],
+    "confidence": "high"
+   }
+  ],
+  "editors": [],
+  "contributors": [],
+  "publication": {
+   "publisher_id": null,
+   "publisher_verbatim": null,
+   "issuer_id": null,
+   "place": null,
+   "year": {
+    "value": 1971,
+    "confidence": "high"
+   },
+   "edition": null,
+   "series": null,
+   "language": "en"
+  },
+  "physical": {
+   "pages_rendered": 1,
+   "pages_total": 1,
+   "pages_total_source": "pypdfium2",
+   "format": "Single-sheet typewritten carbon/office copy of a signed letter; archival item number '100' handwritten and circled at head of page; typist's initials 'mrm:rka' at foot."
+  },
+  "identifiers": {
+   "isbn": null,
+   "issn": null,
+   "oclc": null
+  },
+  "language": "en",
+  "themes": [
+   "party-politics",
+   "electoral-reform"
+  ],
+  "theme_proposed_new": [
+   "campaign-finance",
+   "constituency-organisation"
+  ],
+  "toc": {
+   "extracted_from_pages": [],
+   "entries": [],
+   "entries_not_yet_rendered": []
+  },
+  "missing_metadata_flags": [
+   "title_not_printed",
+   "no_publisher",
+   "no_publisher_address",
+   "no_place_of_writing",
+   "author_unresolved_in_authority_file"
+  ],
+  "needs_human_review": true,
+  "recommended_authority_additions": [
+   {
+    "kind": "thinker",
+    "verbatim": "M. R. MASANI",
+    "language": "en",
+    "context": "Signatory of the letter; Swatantra Party leader writing to a campaign worker after the 1971 general election campaign. No matching entry in the supplied authority subset.",
+    "page": 1
+   },
+   {
+    "kind": "thinker",
+    "verbatim": "Miss Kusumkumari Joshi",
+    "language": "en",
+    "context": "Addressee, an advocate at Gondal (Rajkot dist.) who worked on the election campaign; addressed familiarly as 'Kusumben'.",
+    "page": 1
+   }
+  ],
+  "notes": "Typewritten letter dated 5th March, 1971, addressed 'My dear Kusumben' and signed '( M. R. MASANI )'. No printed title, letterhead, place, or publisher line; recipient block reads 'Miss Kusumkumari Joshi, Advocate, Gondal (Rajkot dist.)'. Mentions Jairam Patel and Harish Chinoy. Handwritten circled '100' at head is an archival number, not a page number. Faint typescript in places.",
+  "classification_reasoning": {
+   "work_type": "The page is a single typewritten letter with a date line, a personal salutation ('My dear Kusumben'), a valediction ('Yours sincerely') over a signature, and an inside address naming one individual recipient. Per the office-records disambiguation, one named recipient means `letter`, not `circular`; it is office correspondence rather than a publication.",
+   "purpose": "null — the taxonomy defines no `purpose` values for `letter`, so nothing applies.",
+   "language": "Entirely Latin script, English prose throughout; no Indic script appears.",
+   "authors_resolution": "Byline as printed at the signature is '( M. R. MASANI )'. Searched the authority subset for 'M. R. Masani', 'MR Masani', 'Masani' and 'Minoo Masani' across canonical names and aliases; the supplied subset runs alphabetically only to 'Margaret Thatcher' and contains no Masani entry, so per the binary rule thinker_id is null and needs_human_review is true. He is added to recommended_authority_additions.",
+   "year": "The date line at the top right prints '5th March, 1971' — high confidence; full date is 1971-03-05.",
+   "publisher": "No publisher, imprint, letterhead, or address is printed anywhere on the sheet; publisher_id and publisher_verbatim are null. The folder hint 'Swatantra Party papers' is a provenance signal only and was not used to set issuer_id.",
+   "toc": "Single-page single-author document; no table of contents exists or is applicable."
+  }
+ },
+ "metadata.b": {
+  "work_type": "letter",
+  "purpose": null,
+  "title": {
+   "main": {
+    "value": null,
+    "confidence": "low"
+   },
+   "subtitle": {
+    "value": null,
+    "confidence": "low"
+   },
+   "original_script": null,
+   "translit": null
+  },
+  "authors": [
+   {
+    "thinker_id": null,
+    "byline_verbatim": "( M. R. MASANI )",
+    "honorifics": [],
+    "confidence": "high"
+   }
+  ],
+  "editors": [],
+  "contributors": [],
+  "publication": {
+   "publisher_id": null,
+   "publisher_verbatim": null,
+   "issuer_id": null,
+   "place": null,
+   "year": {
+    "value": 1971,
+    "confidence": "high"
+   },
+   "edition": null,
+   "series": null,
+   "language": "en"
+  },
+  "physical": {
+   "pages_rendered": 1,
+   "pages_total": 1,
+   "pages_total_source": "pypdfium2",
+   "format": "Single-sheet typewritten letter, carbon/typescript, with handwritten archival number '100' at top and typist reference 'mrm:rkn' at foot."
+  },
+  "identifiers": {
+   "isbn": null,
+   "issn": null,
+   "oclc": null
+  },
+  "language": "en",
+  "themes": [
+   "party-politics",
+   "electoral-reform"
+  ],
+  "theme_proposed_new": [
+   "election-campaign-organisation"
+  ],
+  "toc": {
+   "extracted_from_pages": [],
+   "entries": [],
+   "entries_not_yet_rendered": []
+  },
+  "missing_metadata_flags": [
+   "title_not_printed",
+   "publisher_not_printed",
+   "place_not_printed",
+   "issuer_not_printed"
+  ],
+  "needs_human_review": true,
+  "recommended_authority_additions": [
+   {
+    "kind": "thinker",
+    "verbatim": "M. R. MASANI",
+    "language": "en",
+    "context": "Signatory and author of this 1971 letter; a Swatantra Party leader, not present in the supplied authority subset.",
+    "page": 1
+   },
+   {
+    "kind": "thinker",
+    "verbatim": "Miss Kusumkumari Joshi",
+    "language": "en",
+    "context": "Advocate at Gondal (Rajkot dist.) and the named recipient of the letter; campaign worker in Gondal.",
+    "page": 1
+   }
+  ],
+  "notes": "Typewritten letter dated 5th March 1971, signed '( M. R. MASANI )', addressed to 'Miss Kusumkumari Joshi, Advocate, Gondal (Rajkot dist.)', opening 'My dear Kusumben'. Thanks her for campaign work in Gondal with Harish Chinoy; explains funding shortfalls after the elections. No printed title, letterhead, publisher or place. Handwritten archival number '100' top-centre.",
+  "classification_reasoning": {
+   "work_type": "Single-sheet typewritten personal communication with a date line, salutation ('My dear Kusumben'), signature block and a single named recipient in the inside address ('Miss Kusumkumari Joshi, Advocate, Gondal'). Per the office-records disambiguation, one named recipient makes this `letter` rather than `circular`; it is not a meeting notice or record, so not `circular`/`minutes`.",
+   "purpose": "The taxonomy defines no `purpose` qualifiers for `letter`, so it is null.",
+   "language": "Entirely Latin script, English prose throughout; no Indic script anywhere on the page.",
+   "authors_resolution": "Byline verbatim is '( M. R. MASANI )' under the signature. Searched authority_subset thinkers for 'M. R. Masani', 'MR Masani', 'M.R. Masani', 'Masani', 'Minoo Masani' — the subset contains 'M. R. Pai', 'MA Sreenivasan', 'MA Venkata Rao' etc. but no Masani entry under any canonical or alias. Binary rule applies: not found, setting thinker_id null, keeping byline verbatim, needs_human_review true.",
+   "year": "The date line at the top right reads '5th March, 1971', giving year 1971 at high confidence; this agrees with the filename but is independently printed on the page.",
+   "publisher": "No letterhead, imprint, colophon or publisher line appears anywhere on the sheet; publisher_verbatim null and no authority match attempted. The folder hint 'Swatantra Party papers' is a weak provenance signal only and is not used to set issuer_id.",
+   "toc": "No table of contents — the document is a one-page letter; toc.entries left empty."
+  }
+ }
+}

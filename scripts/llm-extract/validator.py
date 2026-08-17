@@ -51,6 +51,11 @@ AUTHORITY_FILE = REPO / "data/authority/thinkers.json"
 ALLOWED_WORK_TYPES = {
     "book", "pamphlet", "speech", "essay", "edited_volume",
     "occasional_paper", "letter", "correspondence", "periodical_issue", "reference",
+    # were missing here while present in content.config.ts — a work typed
+    # `lecture` or `interview` was being coerced away by this validator
+    "interview", "lecture",
+    # archival office-record types (Swatantra papers, 2026-08-17)
+    "telegram", "minutes", "circular", "resolution", "press_note",
 }
 
 ALLOWED_PURPOSES = {

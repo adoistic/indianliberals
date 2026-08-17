@@ -26,6 +26,14 @@
       "merged_clusters": 6,
       "final_thinker_count": 349,
       "byline_lookup_size": 565
+    },
+    "alias_sync": {
+      "date": "2026-08-17",
+      "source": "content/authority/thinkers.yaml",
+      "keys_added": 28,
+      "prompt_aliases_added": 26,
+      "script": "scripts/authority/sync_yaml_aliases.py",
+      "note": "Curator-declared name forms only. Found because Swatantra circulars signed '(M. R. Masani)' failed to resolve while the YAML declared that exact alias."
     }
   },
   "thinkers": [
@@ -51,7 +59,9 @@
           "A.D. Shroff",
           "AD Shroff",
           "MR AD Shroff",
-          "ए. डी. श्रॉफ"
+          "ए. डी. श्रॉफ",
+          "Ardeshir Darabshaw Shroff",
+          "Ardeshir Shroff"
         ]
       },
       "birth_year": 1899,
@@ -75,7 +85,9 @@
           "BR Shenoy",
           "Prof BR Shenoy",
           "बी आर शेनॉय",
-          "बी. आर. शेनॉय"
+          "बी. आर. शेनॉय",
+          "Bellikoth Raghunath Shenoy",
+          "Bellikoth R. Shenoy"
         ]
       },
       "birth_year": 1905,
@@ -140,7 +152,8 @@
         "also_known_as": [
           "DR Pendse",
           "D.R. Pendse",
-          "डी. आर. पेंडसे"
+          "डी. आर. पेंडसे",
+          "Dattatraya Ramchandra Pendse"
         ]
       },
       "tradition": "classical_liberal",
@@ -159,7 +172,8 @@
         "also_known_as": [
           "Muthulakshmi Reddi",
           "S. Muthulakshmi Reddy",
-          "मुथुलक्ष्मी रेड्डी"
+          "मुथुलक्ष्मी रेड्डी",
+          "Muthulakshmi Reddy"
         ]
       },
       "confidence": "canonical",
@@ -220,7 +234,8 @@
         "full": "Gopal Krishna Gokhale",
         "sort": "Gokhale, Gopal Krishna",
         "also_known_as": [
-          "Gokhale"
+          "Gokhale",
+          "G. K. Gokhale"
         ]
       },
       "birth_year": 1866,
@@ -275,7 +290,8 @@
         "sort": "Ammal, Janaki",
         "also_known_as": [
           "E.K. Janaki Ammal",
-          "जानकी अम्मल"
+          "जानकी अम्मल",
+          "Edavaleth Kakkat Janaki Ammal"
         ]
       },
       "birth_year": 1897,
@@ -327,7 +343,9 @@
           "MR Pai",
           "M.R. Pai",
           "M.R.PAI",
-          "एम. आर. पई"
+          "एम. आर. पई",
+          "Madhava Rao Pai",
+          "Madhav R. Pai"
         ]
       },
       "birth_year": 1930,
@@ -389,7 +407,10 @@
         "full": "Minocher Rustom Masani",
         "sort": "Masani, Minoo",
         "also_known_as": [
-          "मीनू मसानी"
+          "मीनू मसानी",
+          "Minocher Rustom Masani",
+          "M. R. Masani",
+          "Minocher Masani"
         ]
       },
       "birth_year": 1905,
@@ -416,7 +437,10 @@
         "also_known_as": [
           "Mithan Lam",
           "Mithan Tata",
-          "मीठन टाटा लाम"
+          "मीठन टाटा लाम",
+          "Mithan Jamshed Lam",
+          "Mithan J. Lam",
+          "Mithan Ardeshir Tata"
         ]
       },
       "birth_year": 1898,
@@ -438,7 +462,8 @@
           "N. A. Palkhivala",
           "NA Palkhivala",
           "Nani A. Palkhivala",
-          "नानी पालखीवाला"
+          "नानी पालखीवाला",
+          "Nanabhoy Ardeshir Palkhivala"
         ]
       },
       "birth_year": 1920,
@@ -463,7 +488,10 @@
         "sort": "Ramabai, Pandita",
         "also_known_as": [
           "Ramabai",
-          "पंडिता रमाबाई"
+          "पंडिता रमाबाई",
+          "Ramabai Sarasvati",
+          "Ramabai Dongre Medhavi",
+          "Pandita Ramabai Sarasvati"
         ]
       },
       "birth_year": 1858,
@@ -530,7 +558,9 @@
         "sort": "Roy, Raja Ram Mohan",
         "also_known_as": [
           "Ram Mohan Roy",
-          "Rammohun Roy"
+          "Rammohun Roy",
+          "Rammohan Roy",
+          "Ram Mohun Roy"
         ]
       },
       "birth_year": 1772,
@@ -563,7 +593,8 @@
         "also_known_as": [
           "SV Raju",
           "S.V. Raju",
-          "एस. वी. राजू"
+          "एस. वी. राजू",
+          "Srirangam Venkataraman Raju"
         ]
       },
       "birth_year": 1933,
@@ -616,7 +647,8 @@
         "sort": "Joshi, Sharad",
         "also_known_as": [
           "Sharad Anantrao Joshi",
-          "शरद जोशी"
+          "शरद जोशी",
+          "Sharad A. Joshi"
         ]
       },
       "birth_year": 1935,
@@ -635,7 +667,11 @@
       "name": {
         "canonical": "Sudha R. Shenoy",
         "full": "Sudha Rabindranath Shenoy",
-        "sort": "Shenoy, Sudha R."
+        "sort": "Shenoy, Sudha R.",
+        "also_known_as": [
+          "Sudha Rao Shenoy",
+          "Sudha Shenoy"
+        ]
       },
       "birth_year": 1943,
       "death_year": 2008,
@@ -7401,6 +7437,34 @@
     "azizun nisa": "azizun-nisa",
     "ronald meinardus": "ronald-meinardus",
     "gp manish": "gp-manish",
-    "s divakara": "s-divakara"
+    "s divakara": "s-divakara",
+    "rammohan roy": "raja-ram-mohan-roy",
+    "ram mohun roy": "raja-ram-mohan-roy",
+    "g k gokhale": "gopal-krishna-gokhale",
+    "ramabai sarasvati": "pandita-ramabai",
+    "ramabai dongre medhavi": "pandita-ramabai",
+    "pandita ramabai sarasvati": "pandita-ramabai",
+    "mithan jamshed lam": "mithan-tata-lam",
+    "mithan j lam": "mithan-tata-lam",
+    "mithan ardeshir tata": "mithan-tata-lam",
+    "edavaleth kakkat janaki ammal": "janaki-ammal",
+    "e k janaki ammal": "janaki-ammal",
+    "muthulakshmi reddy": "muthulakshmi-reddi",
+    "sudha rao shenoy": "sudha-r-shenoy",
+    "sudha shenoy": "sudha-r-shenoy",
+    "minocher rustom masani": "minoo-masani",
+    "m r masani": "minoo-masani",
+    "minocher masani": "minoo-masani",
+    "bellikoth raghunath shenoy": "b-r-shenoy",
+    "bellikoth r shenoy": "b-r-shenoy",
+    "nanabhoy ardeshir palkhivala": "nani-palkhivala",
+    "ardeshir darabshaw shroff": "a-d-shroff",
+    "ardeshir shroff": "a-d-shroff",
+    "madhava rao pai": "m-r-pai",
+    "madhav r pai": "m-r-pai",
+    "srirangam venkataraman raju": "s-v-raju",
+    "dattatraya ramchandra pendse": "d-r-pendse",
+    "sharad anantrao joshi": "sharad-joshi",
+    "sharad a joshi": "sharad-joshi"
   }
 }
