@@ -1,64 +1,64 @@
 ---
-id: "rajkumari-amrit-kaur-philanthropy-and-politics"
+id: rajkumari-amrit-kaur-philanthropy-and-politics
 title: "Rajkumari Amrit Kaur: Philanthropy and Politics"
-pubDate: "2023-05-31T15:49:54Z"
-themes:
-  - "civil-society"
-  - "democracy"
-  - "social-reform"
-language: "en"
+pubDate: 2023-05-31T15:49:54Z
+themes: 
+- civil-society
+- democracy
+- social-reform
+language: en
 needs_review: true
 draft: false
-author: "rajkumari-amrit-kaur"
-hero_image: "/musings/stock/society-3.webp"
-thinker_mentions:
-  - thinker: gopal-krishna-gokhale
-    role: mention
-    reasoning: "Gokhale is identified as the freedom fighter who inspired Amrit Kaur's passionate desire for India's freedom, making him her key political mentor."
-    evidence:
-      - quote: introducing her to freedom fighters like Gopal Krishna Gokhale
-        context: "Gokhale identified as the political mentor who inspired Amrit Kaur's nationalism"
-    key_passages: []
-  - thinker: mahatma-gandhi
-    role: mention
-    reasoning: "Gandhi is a central presence in Amrit Kaur's life: she joined his Sewagram Ashram, worked as his secretary for 16 years, and her entire political commitment was shaped by his ideals."
-    evidence:
-      - quote: Deeply inspired by Mahatma Gandhi’s commitment to the nation’s freedom and development, she joined Gandhi’s Sewagram Ashram and worked as his secretary for 16 years.
-        context: "establishes Gandhi as the defining personal and political influence in Amrit Kaur's public life"
-    key_passages: []
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: "Nehru is mentioned as the Prime Minister in whose Cabinet Amrit Kaur served as India's first female Health Minister, and she is noted to have criticised him for not having enough women in the 1936 Congress Working Committee."
-    evidence:
-      - quote: the first woman to hold a Cabinet rank in Nehru’s Cabinet post-Independence
-        context: "situates Amrit Kaur's historic ministerial appointment within Nehru's government"
-    key_passages: []
+subject: rajkumari-amrit-kaur
+hero_image: /musings/stock/society-3.webp
+thinker_mentions: 
+- thinker: gopal-krishna-gokhale
+  role: mention
+  reasoning: Gokhale is identified as the freedom fighter who inspired Amrit Kaur's passionate desire for India's freedom, making him her key political mentor.
+  evidence: 
+  - quote: introducing her to freedom fighters like Gopal Krishna Gokhale
+    context: Gokhale identified as the political mentor who inspired Amrit Kaur's nationalism
+  key_passages: []
+- thinker: mahatma-gandhi
+  role: mention
+  reasoning: "Gandhi is a central presence in Amrit Kaur's life: she joined his Sewagram Ashram, worked as his secretary for 16 years, and her entire political commitment was shaped by his ideals."
+  evidence: 
+  - quote: Deeply inspired by Mahatma Gandhi’s commitment to the nation’s freedom and development, she joined Gandhi’s Sewagram Ashram and worked as his secretary for 16 years.
+    context: establishes Gandhi as the defining personal and political influence in Amrit Kaur's public life
+  key_passages: []
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Nehru is mentioned as the Prime Minister in whose Cabinet Amrit Kaur served as India's first female Health Minister, and she is noted to have criticised him for not having enough women in the 1936 Congress Working Committee.
+  evidence: 
+  - quote: the first woman to hold a Cabinet rank in Nehru’s Cabinet post-Independence
+    context: situates Amrit Kaur's historic ministerial appointment within Nehru's government
+  key_passages: []
 related_thinkers: 
-  - gopal-krishna-gokhale
-  - jawaharlal-nehru
-  - mahatma-gandhi
-proposed_themes:
-  - "biography"
-  - "freedom-movement"
-  - "women-in-politics"
-key_concepts:
-  - "constituent-assembly"
-  - "freedom-movement"
-  - "sewagram-ashram"
-  - "women-representation"
-  - "salt-satyagraha"
+- gopal-krishna-gokhale
+- jawaharlal-nehru
+- mahatma-gandhi
+proposed_themes: 
+- biography
+- freedom-movement
+- women-in-politics
+key_concepts: 
+- constituent-assembly
+- freedom-movement
+- sewagram-ashram
+- women-representation
+- salt-satyagraha
 pull_quote: There was a quiet strength, an earnestness and deep humility about him that went straight to my young heart .
 stance: profiles
-kind: periodical-article
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "punjab"
-    - "united-kingdom"
+  places: 
+  - punjab
+  - united-kingdom
+author_name: Editorial Team
 ---
 
-_Known as “a princess in her nation’s service”, Rajkumari Amrit Kaur of Kapurthala wore many hats  – a freedom fighter, philanthropist, Parliamentarian, and a far-sighted Union Health Minister–the first woman to hold a Cabinet rank in Nehru’s Cabinet post-Independence. She was also one of the 15 founding members of the 299-member Constituent Assembly that came together to debate and draft the Constitution in December 1946._
+_Known as “a princess in her nation’s service”, Rajkumari Amrit Kaur of Kapurthala wore many hats, a freedom fighter, philanthropist, Parliamentarian, and a far-sighted Union Health Minister, the first woman to hold a Cabinet rank in Nehru’s Cabinet post-Independence. She was also one of the 15 founding members of the 299-member Constituent Assembly that came together to debate and draft the Constitution in December 1946._
 
 _Like many women in the Constituent Assembly, she did not believe in reservations for women. “In the matter of representation it was felt that if practical equality were secured for women in the domain of franchise, they would be able to find their way into the legislative and administrative institutions of the country through the open door or ordinary election, and no special expedients such as reservation of seats, nomination, co-option or separate electorates would then be necessary,” she wrote._
 
@@ -84,7 +84,7 @@ Amrit Kaur represented India at World Health Organization (WHO) meetings (years)
 
 She was a realist and looked at the healthcare infrastructure of India through a practical lens. In one of her speeches about health amenities in rural areas, she noted, _“So long as we do not pay our doctors adequately we cannot have both good men and women and good work. You have to pay the doctors a living wage, a wage that will not only attract them, but will make it possible for them to serve. We should not make conditions of service impossible for anyone.”_
 
-She was the President of the Indian Leprosy Association and the Tuberculosis Association. She campaigned to eradicate Tuberculosis and promoted BCG vaccination amidst mass scepticism about its efficacy. Kaur also was Chairperson of the Indian Red Cross Society for 14 years. In 1957, she was awarded the Court Bernadotte Gold Medal by the League of Red Cross Societies of 14 countries–Europe, Asia and Africa for her outstanding contribution and dedicated service.
+She was the President of the Indian Leprosy Association and the Tuberculosis Association. She campaigned to eradicate Tuberculosis and promoted BCG vaccination amidst mass scepticism about its efficacy. Kaur also was Chairperson of the Indian Red Cross Society for 14 years. In 1957, she was awarded the Court Bernadotte Gold Medal by the League of Red Cross Societies of 14 countries, Europe, Asia and Africa for her outstanding contribution and dedicated service.
 
 She was a member of the Lok Sabha from 1952-57 and the Rajya Sabha from 1957-62 and contributed to the legislation and Parliamentary debates on health and other issues like the Prevention of Food Adulteration Bill 1954, Delhi Municipal Corporation Bill 1957, Dowry Prohibition Bill 1959, and Geneva Conventions Bill 1960.
 
