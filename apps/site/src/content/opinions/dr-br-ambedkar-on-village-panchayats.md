@@ -1,44 +1,44 @@
 ---
-id: "dr-br-ambedkar-on-village-panchayats"
-title: "Dr B R Ambedkar on Village Panchayats"
-pubDate: "2023-04-12T10:49:28Z"
-themes:
-  - "democracy"
-  - "governance"
-  - "social-reform"
-language: "en"
+id: dr-br-ambedkar-on-village-panchayats
+title: Dr B R Ambedkar on Village Panchayats
+pubDate: 2023-04-12T10:49:28Z
+themes: 
+- democracy
+- governance
+- social-reform
+language: en
 needs_review: true
 draft: false
-author: "bhimrao-ambedkar"
-hero_image: "/thinkers/photos/bhimrao-ambedkar-wiki.jpg"
-thinker_mentions:
-  - thinker: mahatma-gandhi
-    role: mention
-    reasoning: "Gandhi is cited as the principal opposing voice on Panchayati Raj, establishing the intellectual context within which Ambedkar's dissenting position on village panchayats can be understood."
-    evidence:
-      - quote: "Ambedkar's views on Panchayati Raj in India differed from that of other leaders like Mahatma Gandhi in terms of the practicality of its implementation."
-        context: "Gandhi's advocacy for village panchayats is named as the dominant view that Ambedkar's speech challenges"
-    key_passages: []
+subject: bhimrao-ambedkar
+hero_image: /thinkers/photos/bhimrao-ambedkar-wiki.jpg
+thinker_mentions: 
+- thinker: mahatma-gandhi
+  role: mention
+  reasoning: Gandhi is cited as the principal opposing voice on Panchayati Raj, establishing the intellectual context within which Ambedkar's dissenting position on village panchayats can be understood.
+  evidence: 
+  - quote: Ambedkar's views on Panchayati Raj in India differed from that of other leaders like Mahatma Gandhi in terms of the practicality of its implementation.
+    context: Gandhi's advocacy for village panchayats is named as the dominant view that Ambedkar's speech challenges
+  key_passages: []
 related_thinkers: 
-  - mahatma-gandhi
-source_channel: "so-musings"
-proposed_themes:
-  - "local-government"
-  - "panchayati-raj"
-key_concepts:
-  - "village-panchayats"
-  - "local-particularism"
-  - "adult-suffrage"
-  - "rural-republics"
-  - "national-spirit"
+- mahatma-gandhi
+source_channel: so-musings
+proposed_themes: 
+- local-government
+- panchayati-raj
+key_concepts: 
+- village-panchayats
+- local-particularism
+- adult-suffrage
+- rural-republics
+- national-spirit
 pull_quote: Whatever be the merits of these rural republics, I have not the slightest hesitation in saying that they have been the bane of the public life of India.
 stance: argues-against
-kind: speech-excerpt
 period_window: pre-independence
-geographic_scope:
+geographic_scope: 
   scale: regional
-  places:
-    - "bombay-presidency"
+  places: 
+  - bombay-presidency
+author_name: Editorial Team
 ---
 
 _Published by the Dr Ambedkar Foundation, Ministry of Social Justice & Empowerment, Government of India, the excerpt below has been borrowed from one of Dr B R Ambedkar’s speeches during the Bombay Legislative Council on Village Panchayats Bill debates on 6__th__ October 1932._
@@ -63,7 +63,7 @@ He claimed, “I should like to make it clear to the Honourable Minister that, s
 
 He further added, “Speaking for the depressed classes, therefore, I can never accept the principle of self-government for India unless I am satisfied that every selfgoverning institution has provisions in it which give the depressed classes special representation in order to protect their rights, and until that is done, I am afraid it will not be possible for me to assent to the first part of the Bill.”
 
-Dr Ambedkar also criticised Bill’s provisions on judicial powers to the Village Panchayat. He questioned if the Village Panchayat meets the three requisites to discharge civil and criminal justice – Training in Law, Impartiality in its outlook and Independent position.
+Dr Ambedkar also criticised Bill’s provisions on judicial powers to the Village Panchayat. He questioned if the Village Panchayat meets the three requisites to discharge civil and criminal justice, Training in Law, Impartiality in its outlook and Independent position.
 
 He said, “Now, the first question that I would like to ask the Honourable Minister is this: Does he expect that these five gentlemen who will be elected on the basis of adult suffrage will have sufficient judicial training to discharge the duties of judges? Sir, I would like to submit that judicial decisions demand a developed judgment and a vast amount of legal knowledge. (Laughter.) Let there be no laughter because it is a serious matter. Just consider this. We are all agog when members of the I.C.S. want to have certain places reserved for them in the High Court or the judiciary. What is the reason for our objection? If I have understood the objection correctly, it is that these gentlemen who have passed the I.C.S. examination have no judicial training, and not having judicial training, we cannot entrust them with judicial powers. That is the gravamen of the objection. They want justice and judges who are competent to discharge their duties. Now, I ask the Honourable Minister whether he thinks that an illiterate population, is steeped in ignorance, and swallowed up in superstition, can produce five good men who can be entrusted to discharge the duties of judges.
 
@@ -75,6 +75,6 @@ The next question I would like to ask is, does the Honourable Minister expect th
 
 Though he agreed with the principle of providing cheap and easily accessible justice to the villagers, he suggested an alternate method instead of giving judicial powers to village panchayats.
 
-“We have already in existence what are called honorary bench magistrates in towns. It should be perfectly possible to extend that system whereby we can divide each district into judicial circles extending over an area of two or three miles suited to convenience, and for Government to nominate—I emphasise the word “nominate”—three or more persons to discharge the judicial functions in that circle. These three gentlemen would on one day sit as magistrates to deal with criminal cases and on another day they will sit as civil judges to try civil cases. By this method, you will secure cheap justice, easy justice, at the same time you will secure a judiciary that will be independent of local influence, a judiciary that will be free from the disadvantages of an elective system. I think, Sir, this ought to satisfy the requirements of the case.”
+“We have already in existence what are called honorary bench magistrates in towns. It should be perfectly possible to extend that system whereby we can divide each district into judicial circles extending over an area of two or three miles suited to convenience, and for Government to nominate, I emphasise the word “nominate”, three or more persons to discharge the judicial functions in that circle. These three gentlemen would on one day sit as magistrates to deal with criminal cases and on another day they will sit as civil judges to try civil cases. By this method, you will secure cheap justice, easy justice, at the same time you will secure a judiciary that will be independent of local influence, a judiciary that will be free from the disadvantages of an elective system. I think, Sir, this ought to satisfy the requirements of the case.”
 
 _Previous musing: [Population Causes Prosperity](https://indianliberals.in/content/population-causes-prosperity/)_
