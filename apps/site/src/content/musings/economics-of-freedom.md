@@ -1,76 +1,79 @@
 ---
-id: "economics-of-freedom"
-title: "Economics of Freedom"
-pubDate: "2023-05-17T12:19:08Z"
-hero_image: "/musings/stock/economy-2.webp"
-themes:
-  - "economic-freedom"
-  - "free-enterprise"
-  - "nationalisation"
-  - "socialism"
-language: "en"
+id: economics-of-freedom
+title: Economics of Freedom
+pubDate: 2023-05-17T12:19:08Z
+hero_image: /musings/stock/economy-2.webp
+themes: 
+- economic-freedom
+- free-enterprise
+- nationalisation
+- socialism
+language: en
 needs_review: true
 draft: false
-thinker_mentions:
-  - thinker: minoo-masani
-    role: author
-    reasoning: The entry is a lecture delivered by M.R. Masani; Masani is the author of the reproduced text, though this was not captured in the frontmatter.
-    evidence:
-      - quote: The following is a lecture delivered by M.R. Masani in Mumbai and published as a booklet by the Forum of Free Enterprise in February 1965.
-        context: The editorial preamble identifies Masani as the author of the lecture
-    key_passages: []
-  - thinker: vinoba-bhave
-    role: mention
-    reasoning: "Vinoba Bhave is cited as Gandhi's 'greatest living disciple' who concretised Gandhi's anti-statist warning with a specific critique of State Capitalism and centralisation."
-    evidence:
-      - quote: "His greatest living disciple, Acharya Vinoba Bhave, only recently followed up that warning in more concrete terms when he observed: \"We cannot say people will be happy under State Capitalism…In the name of the Welfare State, nothing should be done to centralise everything.\""
-        context: "Bhave's statement is used to show that the anti-centralisation argument has living support within the Gandhian tradition itself"
-    key_passages: []
-  - thinker: nikita-khrushchev
-    role: mention
-    reasoning: "Khrushchev is cited as the authority whose own speech confirmed that the concentration of power in the Communist state created the conditions for Stalin, substantiating Masani's argument about state power and tyranny."
-    evidence:
-      - quote: Strangely enough, there is confirmation of this point from none other than Khrushchev.
-        context: "Khrushchev's own admissions are invoked as involuntary evidence for the liberal critique of concentrated state power"
-    key_passages: []
-  - thinker: joseph-stalin
-    role: mention
-    reasoning: "Stalin is discussed extensively as the historical proof case for Masani's argument that concentrating economic and political power in the state inevitably produces tyranny."
-    evidence:
-      - quote: "as had developed under Stalin. \"We shall not allow it to happen,\" he kept repeating with great sincerity but with what appeared to me to be a singular lack of realism"
-        context: "Stalin's totalitarian state is the cautionary historical reference point for Masani's warning about statism in India"
-    key_passages: []
+thinker_mentions: 
+- thinker: minoo-masani
+  role: author
+  reasoning: The entry is a lecture delivered by M.R. Masani; Masani is the author of the reproduced text, though this was not captured in the frontmatter.
+  evidence: 
+  - quote: The following is a lecture delivered by M.R. Masani in Mumbai and published as a booklet by the Forum of Free Enterprise in February 1965.
+    context: The editorial preamble identifies Masani as the author of the lecture
+  key_passages: []
+- thinker: vinoba-bhave
+  role: mention
+  reasoning: Vinoba Bhave is cited as Gandhi's 'greatest living disciple' who concretised Gandhi's anti-statist warning with a specific critique of State Capitalism and centralisation.
+  evidence: 
+  - quote: "His greatest living disciple, Acharya Vinoba Bhave, only recently followed up that warning in more concrete terms when he observed: \"We cannot say people will be happy under State Capitalism…In the name of the Welfare State, nothing should be done to centralise everything.\""
+    context: Bhave's statement is used to show that the anti-centralisation argument has living support within the Gandhian tradition itself
+  key_passages: []
+- thinker: nikita-khrushchev
+  role: mention
+  reasoning: Khrushchev is cited as the authority whose own speech confirmed that the concentration of power in the Communist state created the conditions for Stalin, substantiating Masani's argument about state power and tyranny.
+  evidence: 
+  - quote: Strangely enough, there is confirmation of this point from none other than Khrushchev.
+    context: Khrushchev's own admissions are invoked as involuntary evidence for the liberal critique of concentrated state power
+  key_passages: []
+- thinker: joseph-stalin
+  role: mention
+  reasoning: Stalin is discussed extensively as the historical proof case for Masani's argument that concentrating economic and political power in the state inevitably produces tyranny.
+  evidence: 
+  - quote: as had developed under Stalin. "We shall not allow it to happen," he kept repeating with great sincerity but with what appeared to me to be a singular lack of realism
+    context: Stalin's totalitarian state is the cautionary historical reference point for Masani's warning about statism in India
+  key_passages: []
 related_thinkers: 
-  - joseph-stalin
-  - minoo-masani
-  - nikita-khrushchev
-  - vinoba-bhave
-source_channel: "so-musings"
-proposed_themes:
-  - "cooperative-farming"
-  - "totalitarianism"
-key_concepts:
-  - "state-capitalism"
-  - "state-landlordism"
-  - "cooperative-farming"
-  - "monolithic-totalitarianism"
-  - "lord-actons-dictum"
+- joseph-stalin
+- minoo-masani
+- nikita-khrushchev
+- vinoba-bhave
+source_channel: so-musings
+proposed_themes: 
+- cooperative-farming
+- totalitarianism
+key_concepts: 
+- state-capitalism
+- state-landlordism
+- cooperative-farming
+- monolithic-totalitarianism
+- lord-actons-dictum
 pull_quote: I was unable to convince my friend that the destruction of free enterprise and peasant proprietorship must lead in India, as in Russia, to the same kind of monolithic totalitarian dictatorship as had developed under Stalin.
 stance: argues-against
 kind: lecture
 period_window: late-license-raj
-geographic_scope:
+geographic_scope: 
   scale: international-comparison
-  places:
-    - "china"
-    - "soviet-union"
+  places: 
+  - china
+  - soviet-union
+author: minoo-masani
 ---
 
-_The following is a lecture delivered by M.R. Masani in Mumbai and published as a booklet by the Forum of Free Enterprise in February 1965. In this lecture, Masani discusses the socialist wisdom dominant in that age and reflects upon the inevitable road to totalitarianism by citing examples such as China and Russia and deconstructing the very essence of Socialism. _
+_The following is a lecture delivered by M.R. Masani in Mumbai and published as a booklet by the Forum of Free Enterprise in February 1965. In this lecture, Masani discusses the socialist wisdom dominant in that age and reflects upon the inevitable road to totalitarianism by citing examples such as China and Russia and deconstructing the very essence of Socialism._
 
-_You can access the complete, unabridged musing [here.](https://indianliberals.in/wp-content/uploads/2023/05/Economics_of_Freedom.pdf)_The other day, I was talking to an esteemed old friend who holds high office and has a great deal of influence in the ruling party. Speaking of the pattern of economic development in this country, he told me that while he shared my dislike of the system of State Capitalism and State Landlordism as developed in Russia and China and was opposed to its establishment in India, he wanted the country to press forward towards the socialisation of all large‐​scale industrial enterprises and the establishment of cooperative farming. I was unable to convince my friend that the destruction of free enterprise and peasant proprietorship must lead in India, as in Russia, to the same kind of monolithic totalitarian dictatorship as had developed under Stalin. “We shall not allow it to happen,” he kept repeating with great sincerity but with what appeared to me to be a singular lack of realism about the fact that human nature is everywhere the same; and that Lord Acton’s dictum that absolute power corrupts absolutely applies to Indians as well as to other species of the human race.
+_You can access the complete, unabridged musing [here.](https://indianliberals.in/primary-works/economics-of-freedom-m-a-masani-feb12-1965/#read)_
 
-Now, you must all have had experiences similar to mine with friends among socialists, trade unionists and college professors. I suggest it might be worth our while to spend the next few minutes to ascertain the validity of the assumption that a completely nationalised or socialised economy can co-exist with the kind of political liberty that our Constitution guarantees and that we enjoy in practice today. I would like to discuss this with you, not to enlighten you–since you need no such light–but rather to urge and encourage you to join in the enlightenment of the many in our country who need it.
+The other day, I was talking to an esteemed old friend who holds high office and has a great deal of influence in the ruling party. Speaking of the pattern of economic development in this country, he told me that while he shared my dislike of the system of State Capitalism and State Landlordism as developed in Russia and China and was opposed to its establishment in India, he wanted the country to press forward towards the socialisation of all large‐​scale industrial enterprises and the establishment of cooperative farming. I was unable to convince my friend that the destruction of free enterprise and peasant proprietorship must lead in India, as in Russia, to the same kind of monolithic totalitarian dictatorship as had developed under Stalin. “We shall not allow it to happen,” he kept repeating with great sincerity but with what appeared to me to be a singular lack of realism about the fact that human nature is everywhere the same; and that Lord Acton’s dictum that absolute power corrupts absolutely applies to Indians as well as to other species of the human race.
+
+Now, you must all have had experiences similar to mine with friends among socialists, trade unionists and college professors. I suggest it might be worth our while to spend the next few minutes to ascertain the validity of the assumption that a completely nationalised or socialised economy can co-exist with the kind of political liberty that our Constitution guarantees and that we enjoy in practice today. I would like to discuss this with you, not to enlighten you, since you need no such light, but rather to urge and encourage you to join in the enlightenment of the many in our country who need it.
 
 It may be felt by some that this is a somewhat academic exercise; since nobody in India has yet suggested the complete socialisation of industry, trade and agriculture. While that is undoubtedly true, I venture to suggest that recent developments and trends do not justify too great a measure of complacency. The encroachments in recent weeks and months on services such as life insurance and trades, such as the export of iron and manganese ore on the one hand and the distribution of cement on the other, show how constant incursions are being made by the State in unexpected spheres. What is disturbing about these developments is not so much the entry of the State in these spheres but the fact that, in each case, a monopoly is sought to be established. Where will this process stop? From the export of ores to the export of jute and from the distribution of cement to the distribution of cloth are not steps as distant as may be imagined. Even today, we have reached a state of affairs where a manufacturer cannot go in for the production of a new article without the permission of the Government under the Industries (Development and Regulation) Act.
 
@@ -82,19 +85,19 @@ In light of these developments, I, for one, would hesitate to disagree with the 
 
 Having said this, let me make it clear that to my mind, there are hardly any persons in office today or in control of the Congress Party who have any intention of treading the Soviet path. I am not questioning for a moment the democratic _bona fides_ of our planners. I am aware that all they seek to establish is a society fit for prophets to live in, but with a marked aversion to profits. What is open to question is whether, by their support of certain policies, actuated no doubt by the urge for social justice, they are not creating conditions whereby the liberties guaranteed by the Constitution may be imperilled. Yearning to do good, they believe they can preserve political freedom while hacking away merrily at its economic foundations. They may well be reminded of the observation of Lenin, who was an expert in the manipulation of power: “He who says A, says B.”
 
-Some of you may recall in this context the story of the Administrator of Price Controls in the USA during the last war, someone once approached him with the proposition that the wage-price line need not be held quite so firmly and that just a little inflation would not do any harm. To this, the harassed official replied, “Well Joe, you may be right. A little inflation may not do any harm. But the trouble is that having just a little inflation is like having just a little pregnancy–it keeps growing.”
+Some of you may recall in this context the story of the Administrator of Price Controls in the USA during the last war, someone once approached him with the proposition that the wage-price line need not be held quite so firmly and that just a little inflation would not do any harm. To this, the harassed official replied, “Well Joe, you may be right. A little inflation may not do any harm. But the trouble is that having just a little inflation is like having just a little pregnancy, it keeps growing.”
 
 Let us now examine the widespread assumption that we in this country can sustain a democratic Government alongside a State monopoly of economic ownership of industry, trade and agriculture.
 
 First, let us consider the effects of such a situation on the lives of the worker, the peasant, the investor and the consumer and the man in charge of industrial production. Today, the worker has a right to choose and change his job within the limits of his training and capacity. He can withhold or deny his labour, participate in collective bargaining, and, if necessary, strike work together with his comrades. If he should lose his job or the strike should fail, he finds other enterprises ready to employ him. In a society where the State is the only employer and every citizen willy‐​nilly a State employee, to what extent will these precious rights be preserved? Is there any reason to believe that, when there is only one employing authority in the country, it will permit an employee to throw up his job in an economic activity where he is performing a necessary function and allow him to shift at will to some other occupation? Is it likely that a State exercising a monopoly of production and distribution will permit its employees to go on strike and thus upset the National Plan?
 
-Or let us take the peasant. Once he is a member of a collective farm or, for the matter of that, of a co-operative farm–the terminology will not make very much difference–is it to be expected that when he finds that the co-operative farm does not suit him? He wishes to withdraw from it, the original plot of land which he was persuaded to surrender will be restored to him, and he will be allowed to go his own way.
+Or let us take the peasant. Once he is a member of a collective farm or, for the matter of that, of a co-operative farm, the terminology will not make very much difference, is it to be expected that when he finds that the co-operative farm does not suit him? He wishes to withdraw from it, the original plot of land which he was persuaded to surrender will be restored to him, and he will be allowed to go his own way.
 
 As for the small investor who survives, his freedom of choice will be restricted to one of two or more issues of a so-called “voluntary” State Bond to which he will be forced to subscribe. His plight may best be imagined from the report that has just come out from Czechoslovakia about the finding of an unidentified corpse. The police report said: “Aside from two Government Bonds, no other signs of violence were discovered on the body.”
 
 In a free economy, it has rightly been said the consumer is king. The consumer who today is, within the limits of his income, able to exercise a wide freedom of choice about how much he shall spend, on what he shall spend, and how much he shall save will then be faced with one universal seller from whom he must obtain all his wants. The range of goods offered to him will be decided, and the price will be fixed by the State trading monopoly. If the quality or the price does not appeal to him, there will be no other brand of goods to turn to. To meet his basic needs, he must purchase or perish.
 
-Today, thanks to the law of the market–the law of supply and demand–and the discipline of the balance‐​sheet, it is the consumer who decides for the entrepreneur _whether_ to produce and _what_ to produce. When a man buys something on the free market, he is casting his vote as a citizen of the national economy. He exercises a free choice which, by affecting the price, influences a decision as to how the economy shall be directed.
+Today, thanks to the law of the market, the law of supply and demand, and the discipline of the balance‐​sheet, it is the consumer who decides for the entrepreneur _whether_ to produce and _what_ to produce. When a man buys something on the free market, he is casting his vote as a citizen of the national economy. He exercises a free choice which, by affecting the price, influences a decision as to how the economy shall be directed.
 
 The exponent of the socialist pattern of society may concede all this but urge that from then on; it is the people collectively who will decide through parliamentary elections what kind of planned economy they want. Let us examine this claim. Once the yardstick of profit ceases to operate, the question arises as to how those at the helm of the omnipotent State are to determine what goods to produce and what priorities to establish. In the absence of an impersonal economic law such as that of supply and demand, some other yardstick has to be found. What principles will help in the exercise of these wide and arbitrary powers?
 
@@ -114,13 +117,13 @@ Patriotism, too, will be mobilised on the side of the authorities. “Don’t ro
 
 Throughout human history, it has been established that only power restrains power. That restraint is expressed through the existence of an Opposition. The existence of a freely functioning Opposition is the acid test of a democracy. For when Opposition is destroyed, there is no longer any limit to the exercise of power by those in whose hands it rests. The right of public Opposition to the rulers of the day cannot, however, be kept alive merely by wishing for it or even by giving it constitutional guarantees. The existence of countervailing power can only be assured when there exist in society a number of what may be described as relatively autonomous “social forces.” Such autonomous social forces are industrial management, trade, organised labour, the professions, the peasant proprietors and religion. It is only when these forces are not wholly subordinated to any one social force or the State that there can be an assurance of liberty. Only then will there be the mutual checks and balances that are able to curb power. This conclusion of the political scientists has been proved in practice by the history of the Soviet Union, and there is no example yet known in human history to the contrary. Recently, commenting on the indictment of Stalin, Aneurin Bevan, the British left-wing socialist, took exception to the thesis of the “cult of personality” advanced by Khrushchev. “Stalin,” he wrote, “became a tyrant because he was all powerful and not all powerful because he was by nature a tyrant. He grew into tyranny precisely because the character of the Soviet Constitution enabled him to do so.” I would add just two words that Bevan’s adherence to Socialism did not permit him and would say: “Because the character of the Soviet Constitution _and economy_ enabled him to do so.”
 
-For, when we go to the root of the matter, is it not the concentration of economic and political power in the hands of those who ruled the State that created the conditions for a Stalin and would do so again? Strangely enough, there is confirmation of this point from none other than Khrushchev. In his speech to the Congress of the Communist Party of the Soviet Union, Khrushchev pointed out how Lenin and even Stalin, right through the twenties, refrained from total terror during the process of eliminating the privileged classes and establishing Communism. He then went on to say: “When Socialism in our country was fundamentally constructed, when the exploiting classes were generally liquidated, when the social basis for political movements and groups hostile to the party had violently contracted…_then_ the repression directed against them began. It was _precisely_ during this period (1935–1938) that the practice of mass repression through the Government apparatus was born, first against the enemies of Leninism…and subsequently also against many honest Communists.”
+For, when we go to the root of the matter, is it not the concentration of economic and political power in the hands of those who ruled the State that created the conditions for a Stalin and would do so again? Strangely enough, there is confirmation of this point from none other than Khrushchev. In his speech to the Congress of the Communist Party of the Soviet Union, Khrushchev pointed out how Lenin and even Stalin, right through the twenties, refrained from total terror during the process of eliminating the privileged classes and establishing Communism. He then went on to say: “When Socialism in our country was fundamentally constructed, when the exploiting classes were generally liquidated, when the social basis for political movements and groups hostile to the party had violently contracted…_then_ the repression directed against them began. It was _precisely_ during this period (1935, 1938) that the practice of mass repression through the Government apparatus was born, first against the enemies of Leninism…and subsequently also against many honest Communists.”
 
 Precisely. The need for terror, according to Khrushchev, had passed, but so, alas, had also evaporated those autonomous social forces through which alone absolute power could have been restrained.
 
 In case some of you should like to think of India as a kind of second Britain rather than Russia, I invite your attention to some significant admissions recently made by Mr R. H. S. Crossman, British Labour Member of Parliament. Conceding that in the heat of battle, the British Labour movement had accepted sacrifices of personal freedom as an inevitable evil forced upon them by the class war, Mr Crossman frankly states the socialist dilemma. Referring to the socialist belief that “the only way to enlarge freedom and achieve a full democracy is to subject the economy to public control,” he goes on to point out: “Yet, the State bureaucracy itself is one of these concentrations of power which threaten our freedom. If we increase its authority still further, shall we not be endangering the liberties we are trying to defend?” Mr Crossman is candid enough to say: “Actually, the growth of a vast centralised State bureaucracy constitutes a grave potential threat to social democracy. The idea that we have been disloyal to our socialist principles if we attack its success or defend the individual against its incipient despotism is a fallacy.” If already, with a mixed economy and in a country with such a deep tradition of democracy and individual liberty as Britain, a left-wing socialist is impelled to strike this note of alarm, how much more imminent must the danger be in a country like ours where that tradition of freedom is a tender plant which needs to be nurtured with great care and caution?
 
-** **I have come to the end of my thesis, though not altogether, I hope, for your patience! I trust no one will understand this to be a special plea for capitalism or an objection to all kinds of planning. To guard against such misunderstanding, I may mention that, as far back as 1946, I had delivered, in the series of Silver Jubilee Lectures organised by the _Bombay University School of Economics and Sociology_, an address entitled “A Plea for the Mixed Economy.” That plea was made by me before the mixed economy became the accepted policy of the Government. It is sad that I should today have to repeat it a decade later, at a point of time when the balance of the mixed economy is in danger of being destroyed, and it would appear as if it is ceasing to be the policy of Government. I still believe that a Mixed Economy, in which Free Enterprise and State Enterprise each have an equal and autonomous role to play, functioning alongside each other to meet the needs of the people, is the best possible system for this country both from the point of view of increased production and of equitable distribution. That, however, is a matter of opinion.
+I have come to the end of my thesis, though not altogether, I hope, for your patience! I trust no one will understand this to be a special plea for capitalism or an objection to all kinds of planning. To guard against such misunderstanding, I may mention that, as far back as 1946, I had delivered, in the series of Silver Jubilee Lectures organised by the _Bombay University School of Economics and Sociology_, an address entitled “A Plea for the Mixed Economy.” That plea was made by me before the mixed economy became the accepted policy of the Government. It is sad that I should today have to repeat it a decade later, at a point of time when the balance of the mixed economy is in danger of being destroyed, and it would appear as if it is ceasing to be the policy of Government. I still believe that a Mixed Economy, in which Free Enterprise and State Enterprise each have an equal and autonomous role to play, functioning alongside each other to meet the needs of the people, is the best possible system for this country both from the point of view of increased production and of equitable distribution. That, however, is a matter of opinion.
 
 What is not a mere matter of opinion but a grim statement of fact is that if the balance of the mixed economy is further upset and we drift to a state of affairs where Peasant Proprietorship, Free Enterprise and Free Trade Unionism stands or falls along with it are destroyed, then, however noble the intentions of those who pursue these policies and however great their love of justice and freedom, [a] blow will have been struck at the free way of life that not even the Constitution of the Republic will be strong enough to avert.
 
@@ -128,6 +131,4 @@ It is not too late to stop such a drift. “It is seldom,” said David Hume, �
 
 It was part of the greatness of Mahatma Gandhi that he was early to sense this change. “I look upon an increase in the power of the State”, he said, “with the greatest fear because, although apparently doing good by minimising exploitation, it does the greatest harm to mankind by, destroying individuality which lies at the root of all progress.” His greatest living disciple, Acharya Vinoba Bhave, only recently followed up that warning in more concrete terms when he observed: “We cannot say people will be happy under State Capitalism…In the name of the Welfare State, nothing should be done to centralise everything.” India’s leading socialist, Jayaprakash Narayan, who can hardly be charged with pro-capitalist views, has, on his part, declared that “the Welfare State under the name of welfare threatens as much to enslave man to the State as the totalitarian. The people must cry halt to this creeping paralysis.”
 
-I should like to think that there are many who share the concern I have expressed about the dangers that loom ahead and that they are just as anxious to ensure that our country and our people are protected from them. It is time for such men to act, for we live today in a climate where the passion for social justice and equality burns so strongly in many breasts that it blinds even otherwise intelligent and wise men from seeing where they are heading. One is reminded of the story of the mule that the farmer took to market and sold at a very low price–a good, healthy, upright, athletic animal. When the buyer, however, turned to drive away, the mule ran straight into a tree. “Look here”, yelled the buyer, “this mule you sold me is blind.” “No, he ain’t blind,” said the farmer, “he just don’t give a damn!”
-
-_Previous musing: [The Nation by RN Tagore (1917)](https://indianliberals.in/content/the-nation-by-rn-tagore/)_
+I should like to think that there are many who share the concern I have expressed about the dangers that loom ahead and that they are just as anxious to ensure that our country and our people are protected from them. It is time for such men to act, for we live today in a climate where the passion for social justice and equality burns so strongly in many breasts that it blinds even otherwise intelligent and wise men from seeing where they are heading. One is reminded of the story of the mule that the farmer took to market and sold at a very low price, a good, healthy, upright, athletic animal. When the buyer, however, turned to drive away, the mule ran straight into a tree. “Look here”, yelled the buyer, “this mule you sold me is blind.” “No, he ain’t blind,” said the farmer, “he just don’t give a damn!”
