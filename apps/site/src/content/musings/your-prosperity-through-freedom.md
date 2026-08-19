@@ -1,40 +1,40 @@
 ---
-id: "your-prosperity-through-freedom"
-title: "Your Prosperity Through Freedom"
-pubDate: "2023-07-05T09:49:48Z"
-themes:
-  - "economic-freedom"
-  - "free-enterprise"
-  - "free-markets"
-  - "liberalism"
-  - "socialism"
-language: "en"
+id: your-prosperity-through-freedom
+title: Your Prosperity Through Freedom
+pubDate: 2023-07-05T09:49:48Z
+themes: 
+- economic-freedom
+- free-enterprise
+- free-markets
+- liberalism
+- socialism
+language: en
 needs_review: true
 draft: false
-author: "m-r-pai"
-hero_image: "/thinkers/photos/m-r-pai.jpg"
+author: m-r-pai
+hero_image: /thinkers/photos/m-r-pai.jpg
 proposed_themes: []
-key_concepts:
-  - "free-enterprise"
-  - "state-capitalism"
-  - "division-of-labour"
-  - "specialisation"
-  - "peoples-enterprise"
+key_concepts: 
+- free-enterprise
+- state-capitalism
+- division-of-labour
+- specialisation
+- peoples-enterprise
 pull_quote: Free Enterprise is not reflective of an individualistic system but a society where rules and regulations are laid down by the economic representatives elected by the people.
 stance: argues-for
 kind: pamphlet-excerpt
 period_window: late-license-raj
 ---
 
-_“Your Prosperity Through Freedom” was written by M. R. Pai and designed by Eric Francis. A graphic novel, it illustrates the meaning and essence of a Free enterprise–that work is not the only vital component for a prosperous economy; freedom is equally essential. Under state capitalism, the Government directs and owns all means of production, and it makes all the economic decisions without the nation’s consent. This leaves no place for individual liberty. Communist countries are the perfect example of state capitalism, where everything is directed, dictated, and managed by the Government. The author explains that even though socialism is minutely distinct from communism, its economic policies are similar to communist policies. Thus, the only way to have both prosperity and freedom is by having free enterprise. Free Enterprise is not reflective of an individualistic system but a society where rules and regulations are laid down by the economic representatives elected by the people. It is not against planning but asserts planning in favor of free enterprise. In such an atmosphere, the result is more industries, more employment, better opportunities for all, etc. Thus, Free Enterprise is a People’s enterprise and is the key to prosperity and freedom. _
+_“Your Prosperity Through Freedom” was written by M. R. Pai and designed by Eric Francis. A graphic novel, it illustrates the meaning and essence of a Free enterprise, that work is not the only vital component for a prosperous economy; freedom is equally essential. Under state capitalism, the Government directs and owns all means of production, and it makes all the economic decisions without the nation’s consent. This leaves no place for individual liberty. Communist countries are the perfect example of state capitalism, where everything is directed, dictated, and managed by the Government. The author explains that even though socialism is minutely distinct from communism, its economic policies are similar to communist policies. Thus, the only way to have both prosperity and freedom is by having free enterprise. Free Enterprise is not reflective of an individualistic system but a society where rules and regulations are laid down by the economic representatives elected by the people. It is not against planning but asserts planning in favor of free enterprise. In such an atmosphere, the result is more industries, more employment, better opportunities for all, etc. Thus, Free Enterprise is a People’s enterprise and is the key to prosperity and freedom._
 
-_You can read the complete, unabridged version here [Your Prosperity Through Freedom](https://indianliberals.in/wp-content/uploads/2023/07/Your-Prosperity-Through-Freedom.pdf)___
+_You can read the complete, unabridged version here [Your Prosperity Through Freedom](https://indianliberals.in/primary-works/your-prosperty-through-freedom-by-mr-pai/#read)___
 
-Work–yes, everyone has got to work. But few know why. Mostly all will say that we work for a livelihood. But it is not only for a livelihood we work.
+Work, yes, everyone has got to work. But few know why. Mostly all will say that we work for a livelihood. But it is not only for a livelihood we work.
 
- 	- We work because it is a social necessity.
+- We work because it is a social necessity.
 
-Today we are fast moving towards an industrial-based society that is based on **specialization **and **division** of labor.
+Today we are fast moving towards an industrial-based society that is based on **specialization** and **division** of labor.
 
 Example 1-
 
@@ -46,7 +46,7 @@ This arrangement helps to create more goods and services for all. Since everyone
 
 Alone we could never produce everything and so many things. 
 
- 	- We work because it gives us a sense of satisfaction (an essential element in human nature)
+- We work because it gives us a sense of satisfaction (an essential element in human nature)
 
 - Isn’t this article I wrote really great!
 
@@ -54,7 +54,7 @@ Alone we could never produce everything and so many things. 
 
 - O Boy! What a wonderful job I’ve done!
 
- 	- We work in order to buy leisure
+- We work in order to buy leisure
 
 For instance, an employee gets his privilege leave every year, holidays every week, and on festival days or days of national importance. He also gets time for himself once he completes his eight-hour stretch at work. These leisure hours he can put to any use he likes, for instance-resting, photography, music, reading, outdoor life, games, etc. 
 
@@ -64,44 +64,28 @@ A society can be organized in such a way that all means of production, distribut
 
 When the government dominates and owns all means of production, distribution, and exchange, then there is **State Capitalism** as in communist countries.
 
-This means that, in effect, the state is above the individual. The government directs all economic activities without the consent of the people. This leaves no choice for individuals–
-
- 	- in choosing their work
-
- 	- spending their money
-
- 	- in what they buy
-
- 	- in putting their leisure to activities of their choice
-
- 	- neither have the liberties
+This means that, in effect, the state is above the individual. The government directs all economic activities without the consent of the people. This leaves no choice for individuals, 1. in choosing their work
+2. spending their money
+3. in what they buy
+4. in putting their leisure to activities of their choice
+5. neither have the liberties
 
 Leon Trotsky, the communist leader, after seeing communism in action, said:
 
-“Formerly the rule was- he who does not work shall not eat.’ Now the rule is– he who does not obey shall not eat.”
+“Formerly the rule was- he who does not work shall not eat.’ Now the rule is, he who does not obey shall not eat.”
 
 Good examples of this state of affairs, viz. of **State Capitalism,** are communist countries.
-
- 	- No rule of law–the government is the law
-
- 	- No freedom of association
-
- 	- No freedom of expression, no free press
-
- 	- Strikes banned. No choice of jobs.
-
- 	- Buy what is sold at prices dictated by government factories
-
- 	- No private property but collective farms and state factories
-
- 	- No freedom of thought
-
- 	- There are no parties except one and no free elections
+1. No rule of law, the government is the law
+2. No freedom of association
+3. No freedom of expression, no free press
+4. Strikes banned. No choice of jobs.
+5. Buy what is sold at prices dictated by government factories
+6. No private property but collective farms and state factories
+7. No freedom of thought
+8. There are no parties except one and no free elections
 
 Socialist countries, in their end result, are no different from communist ones. Like communism, socialism is a collectivist ideology. Socialism professes faith in individual freedom.
 
 But its method of promoting it by nationalization of private industries and state ownership of all means of production, distribution, and exchange led to state capitalism similar to that of a communist society.
 
 State ownership leads to state capitalism!
-
-_Previous musing: [National Priorities for 1970](https://indianliberals.in/content/national-priorities-for-1970-by-minoo-masani/)_
