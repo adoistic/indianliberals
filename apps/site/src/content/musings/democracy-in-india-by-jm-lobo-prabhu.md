@@ -1,41 +1,41 @@
 ---
-id: "democracy-in-india-by-jm-lobo-prabhu"
-title: "Democracy in India"
-pubDate: "2023-06-21T05:41:44Z"
-themes:
-  - "democracy"
-  - "governance"
-  - "rule-of-law"
-  - "socialism"
-language: "en"
+id: democracy-in-india-by-jm-lobo-prabhu
+title: Democracy in India
+pubDate: 2023-06-21T05:41:44Z
+themes: 
+- democracy
+- governance
+- rule-of-law
+- socialism
+language: en
 needs_review: true
 draft: false
-author: "j-m-lobo-prabhu"
-hero_image: "/musings/stock/democracy-3.webp"
+author: j-m-lobo-prabhu
+hero_image: /musings/stock/democracy-3.webp
 thinker_mentions: []
 related_thinkers: []
-source_channel: "so-musings"
-proposed_themes:
-  - "centralisation"
-  - "constitutionalism"
-key_concepts:
-  - "rule-of-law"
-  - "parliamentary-sovereignty"
-  - "directive-principles"
-  - "centralisation"
-  - "act-of-1935"
+source_channel: so-musings
+proposed_themes: 
+- centralisation
+- constitutionalism
+key_concepts: 
+- rule-of-law
+- parliamentary-sovereignty
+- directive-principles
+- centralisation
+- act-of-1935
 pull_quote: In the name of democracy, the country now lies bound with restrictions which even the British did not dare impose.
 stance: argues-against
 kind: periodical-article
 period_window: nehruvian-era
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
 
-_The musing shared below is a 1959 winning essay in a writing competition organised by the Forum of Free Enterprise. The essay, authored by J M Lobo Prabhu, MP Lok Sabha (Udupi) 67' traces the development of the Indian constitution factoring in the various influences that have played a role in its making. It critically analyses the contradictions inherent in the Constitution and how it has played out in the working of the Indian democracy. The essay also emphasizes the excessive powers the Constitution has vested in the central government. It elucidates the role of Directive Principles in the Constitution and the implications of the socialist elements present in it. The essay argues that basic principles of democracy, such as the rule of law and sovereignty of the Parliament, are contradicted by elements in the Constitution itself. _
+_The musing shared below is a 1959 winning essay in a writing competition organised by the Forum of Free Enterprise. The essay, authored by J M Lobo Prabhu, MP Lok Sabha (Udupi) 67' traces the development of the Indian constitution factoring in the various influences that have played a role in its making. It critically analyses the contradictions inherent in the Constitution and how it has played out in the working of the Indian democracy. The essay also emphasizes the excessive powers the Constitution has vested in the central government. It elucidates the role of Directive Principles in the Constitution and the implications of the socialist elements present in it. The essay argues that basic principles of democracy, such as the rule of law and sovereignty of the Parliament, are contradicted by elements in the Constitution itself._
 
-_You can read the complete, unabridged version here [Democracy In India](https://indianliberals.in/wp-content/uploads/2020/11/Democracy_In_India.pdf)_
+_You can read the complete, unabridged version here [Democracy In India](https://indianliberals.in/primary-works/democracy-in-india-j-m-lobo-prabhu-may8-1960/#read)_
 
 It is difficult to trace democracy in India until the British, to take the odour out of foreign rule, began, about sixty years ago, to vest power progressively in the people according to economic status in urban and rural areas. After independence, with juvenile enthusiasm, the Constituent Assembly raided every country for the latest and the best constitution. In the framework of the Act of 1935 and on the British principles of the Rule of Law and the Sovereignty of the Parliament, the equality of the people has been established in meticulous detail. Like all schemes of men and mice, the results have not followed the expectations. In the name of democracy, the country now lies bound with restrictions which even the British did not dare impose. At least five sets of causes have operated, first, the deficiencies of the Constitution, second, the growth of usages contrary to the Constitution, third, the quality of the legislative and executive parts of the Constitution, fourth, the weakness of the organs of freedom, and lastly, the ignorance and incapacity of the people.
 
@@ -52,5 +52,3 @@ Article 31 destroys the sanctity of private property because while all constitut
 This raises the question of the necessity of free enterprise for the survival of democracy. State enterprise is both economically and politically restrictive. Economically State enterprise replaces the natural and widespread initiative and interest of individuals with the indifference and inexperience of officials. Whatever compulsions may be organized or compensations offered, the human spirit responds less to what it cannot directly own and enjoy. There is ample evidence of this in the existing State services and enterprises. In public offices, the officials think only of themselves and not of the public they should serve because even the best of them cannot connect what each does with what results in the intangible total. In public enterprises, this lack of personal interest is heightened because there is no equivalent to the control exercised in private enterprises by the shareholders who watch their dividends and by the consumers who watch the prices. Consequently, our State enterprises are commercial failures, the return, for instance, on investment of the Centre in 1958 being only 1 per cent. This means, first, that the loans taken by Government pay interest at least three times as much as they earn, second, that these loans are diversions from private enterprise, third, that to the extent State enterprise displaces private enterprise, it disengages private capital and employment, fourth, that taxes required to pay interest on loans and support party programmes like khadi, basic education, prohibition, co-operation cripple production and boost prices, and lastly, the increased national production on which economic democracy as a counterpart of political democracy depends is unnecessarily reduced. It is because no notice is taken of the disastrous results of existing nationalisation that the danger from more of it is not realised. Politically, State enterprise converts free men into employees of the State with no right to agitate against it. Already employment of the State has swallowed up so many men of the best quality that politics get mostly those who are disappointed. In total State ownership, individual freedom of opinion will be eliminated, and leadership being polarised to those who can command the experts in control. In any case, when men have no stake of their own, politics can have only academic interest. One of the causes for such polarisation of power, as has already taken place, is the elimination of political identity of the increasing numbers employed by the State.
 
 In the face of this, Article 31, allowing the citizen to move the Supreme Court for prerogative writs, appears hollow. The Government is also learning to manoeuvre out of the reach of writs by legislation with retrospective effect. Further, the courts are being increasingly influenced by the various Directive Principles, which are being used to justify departure from the strict letter of the law.
-
-_Previous musing: [Socialism or State Capitalism (1970)](https://indianliberals.in/content/socialism-or-state-capitalism/)_
