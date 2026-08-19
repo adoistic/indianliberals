@@ -24,7 +24,7 @@ thinker_mentions:
   - quote: Dadabhai Naoroji to political subjects like dismissal of a Governor, to budgets and musings on life.
     context: Naoroji cited as one of the historical figures Palkhivala reflected on in his collected articles
   key_passages: []
-related_thinkers:
+related_thinkers: 
 - dadabhai-naoroji
 - m-c-chagla
 proposed_themes: 
@@ -69,4 +69,4 @@ The book was a bestseller from the time it hit the markets, and ran into several
 
 Exactly after a decade, he published another book, a sort of companion volume, under the title [We the Nation, the Lost Decades](https://archive.org/details/in.ernet.dli.2015.170056/mode/2up). It was a collection of his articles on various subjects, with comments on great Indians like Dadabhai Naoroji to political subjects like dismissal of a Governor, to budgets and musings on life. It showed the vast range of Palkhivala’s reading, and considered views on men and matters. Published by UBS Publishers’ Distributors Ltd., in 1994, this book was also lapped up by the readers. By this time, Palkhivala commanded a big following of intellectuals as also common people.
 
-The unabridged version of the book chapter can be found [here](https://indianliberals.in/wp-content/uploads/2023/09/M.R.-Pai-The-legend-of-Nani-Palkhivala.pdf#page=56).
+The unabridged version of the book chapter can be found [here](https://indianliberals.in/primary-works/the-legend-of-nani-palkhivala-m-r-pai/#read).
