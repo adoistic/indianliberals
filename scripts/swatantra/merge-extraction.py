@@ -49,6 +49,9 @@ MERGED = "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 
 SCAN_QUALITY = {"strong": "good", "adequate": "fair", "weak": "fair", "faint": "poor"}
 # The six fields driver.py escalates to Opus on disagreement.
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from filename_worktype import apply as fw_apply  # noqa: E402
+
 CONSISTENCY = ("work_type", "year", "title", "publisher", "byline", "thinker_ids")
 
 
@@ -128,7 +131,14 @@ def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):
     if title_supplied:
         title = supplied_title(name)
     subtitle = scalar(dig(meta, "title.subtitle")) or ""
-    work_type = meta.get("work_type") or "letter"
+    # work_type is the field the cheap extraction model gets worst (48% on a
+    # stratified sample; minutes/circulars/press notes all collapse into
+    # `occasional_paper`), and the only field with a model-free signal: the
+    # cataloguer typed the form into the filename. The filename may only
+    # REPLACE a less specific answer, never downgrade one — see
+    # filename_worktype.SPECIFICITY. Measured: lifts the model from 48% to
+    # 65%, and overrides the baked Sonnet records zero times.
+    work_type, wt_source = fw_apply(name, meta.get("work_type") or "letter")
     purpose = meta.get("purpose")
     year = scalar(dig(meta, "publication.year"))
     place = dig(meta, "publication.place")
@@ -167,6 +177,8 @@ def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):
     L.append(f"  main: {y(title)}")
     L.append(f"  subtitle: {y(subtitle)}")
     L.append(f"work_type: {work_type}")
+    if wt_source == "filename":
+        L.append("work_type_source: filename")
     if purpose:
         L.append(f"purpose: {purpose}")
     if authors:
