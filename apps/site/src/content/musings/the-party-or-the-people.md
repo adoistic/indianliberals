@@ -1,36 +1,37 @@
 ---
-id: "the-party-or-the-people"
-title: "The Party or the People?"
-pubDate: "2023-01-17T13:42:26Z"
-hero_image: "/musings/stock/democracy-5.webp"
-themes:
-  - "democracy"
-  - "governance"
-language: "en"
+id: the-party-or-the-people
+title: The Party or the People?
+pubDate: 2023-01-17T13:42:26Z
+hero_image: /musings/stock/democracy-5.webp
+themes: 
+- democracy
+- governance
+language: en
 needs_review: true
 draft: false
-source_channel: "so-musings"
-proposed_themes:
-  - "intra-party-conflict"
-  - "party-politics"
-key_concepts:
-  - "organisational-vs-parliamentary-wing"
-  - "congress-party"
-  - "power-and-patronage"
-  - "sampurnanand-cb-gupta"
+source_channel: so-musings
+proposed_themes: 
+- intra-party-conflict
+- party-politics
+key_concepts: 
+- organisational-vs-parliamentary-wing
+- congress-party
+- power-and-patronage
+- sampurnanand-cb-gupta
 pull_quote: In most cases, the quarrels involve no issues of principle or programme.
 stance: analyzes
 kind: periodical-article
 period_window: nehruvian-era
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "uttar-pradesh"
+  places: 
+  - uttar-pradesh
+author: v-b-karnik
 ---
 
 _Vasant Bhagawant Karnik an eminent trade unionist, author and writer penned his thoughts on “human nature’s difficulty to conform to a less-significant role” in the January 1961 issue of Freedom First magazine. He cites the tension between Dr Sampurnanand (the then-Chief Minister of Uttar Pradesh) and Mr Chandra Bhanu Gupta (the future Chief Minister of Uttar Pradesh) as one of the examples of differences between organisational and parliamentary wings of a political party in India._
 
-_You can read the original, unabridged version on _[_Page 1_](http://www.freedomfirst.in/uploads/issues/pdf/104.pdf)_ here._
+_You can read the original, unabridged version on _[_Page 1_](https://indianliberals.in/primary-works/ff104/#read)_here._
 
 Differences and disputes between the organisational and the parliamentary wings of the Indian National Congress have now become a commonplace affair. Every day newspapers publish reports of a conflict in this or that State or of the efforts to patch it up. Ordinarily, these internal disputes in the party need not have concerned others. But the Congress Party holds such a preeminent position in the country that even internal quarrels amongst its members have a vital bearing upon its interests and, more particularly, upon the growth of democratic institutions and conventions. This gives those quarrels a much broader significance, and how they are tackled becomes a matter of national importance.
 
@@ -42,10 +43,8 @@ The dictation of the organisational wing prevailed through the instrumentality o
 
 To any dispassionate observer, this would appear to be a gross violation of all democratic principles and practices. In a parliamentary democracy, it is the persons selected by the people who should have the final voice regarding the ministry's leadership and composition. They represent the people far better than the members of a party committee. The people elect them as a whole. In contrast, a party committee is elected only by the members of the party, who usually form a small percentage of the population. If a people’s government is aimed at it, the elected representatives of the people should rank higher than the officials of a party. If the latter is allowed to dictate to the former, the ultimate result will be the rule of a party in opposition to the rule of the people.
 
-The choice that the Indian National Congress has to face is the choice between the party and the people. What will its policy aim–to assert and maintain the importance of the party machine or help the people rule themselves through their elected representatives? There was a time when the people as a whole were identified with Congress. That was during the national struggle when the people’s will was expressed through that organisation. The situation underwent a radical change after attaining national independence and establishing a democratic government. A Parliament and State Assemblies are elected based on the adult franchise selected as the organs of the people’s will. The Congress had then taken a back seat as one of the political parties in the country though, no doubt, the most numerous and influential amongst them. The best and most talented Congress leaders entered Parliament and State Assemblies and began to function through them rather than through the party organisation. The parliamentary wing began to gain importance and precedence over the organisational wing. That process has begun; the organisational wing dislikes the development, but it will have to be reconciled to it if the country is to progress towards democracy.
+The choice that the Indian National Congress has to face is the choice between the party and the people. What will its policy aim, to assert and maintain the importance of the party machine or help the people rule themselves through their elected representatives? There was a time when the people as a whole were identified with Congress. That was during the national struggle when the people’s will was expressed through that organisation. The situation underwent a radical change after attaining national independence and establishing a democratic government. A Parliament and State Assemblies are elected based on the adult franchise selected as the organs of the people’s will. The Congress had then taken a back seat as one of the political parties in the country though, no doubt, the most numerous and influential amongst them. The best and most talented Congress leaders entered Parliament and State Assemblies and began to function through them rather than through the party organisation. The parliamentary wing began to gain importance and precedence over the organisational wing. That process has begun; the organisational wing dislikes the development, but it will have to be reconciled to it if the country is to progress towards democracy.
 
 A parliamentary party is primarily responsible to the electorate which elects it. The organisational wing of a party must accept this essential fact and adjust its actions and policies accordingly. It is only in communist countries that the organisational wing gets the primacy, for in those countries, there is no parliament in the real sense of the term, and the highest authority that party members have to serve is the party and not the people.
 
 In our country, we have yet to build up our democracy. The Congress has to shoulder that task as the main and the major party. It has to create healthy conventions. Conflicts between the organisational and the parliamentary wings will arise from time to time. Instead of relying on the exigencies of the situation, a rule of general application will have to evolve for their solution. The rule will have to conform to the principles of democracy. Democracy demands that elected representatives must have in any conflict primacy over the managers of the party machine. As democracy develops, the parliamentary wing will gain predominance over the organisational wing. In UP, the former subordinated to the latter. That connotes the subordination of the people to the party, which is the sure road towards dictatorship and totalitarianism.
-
-_Previous musing: [Prospects of Democracy in India](https://indianliberals.in/content/prospects-of-democracy-in-india/)_

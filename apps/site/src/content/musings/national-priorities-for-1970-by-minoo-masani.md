@@ -1,117 +1,116 @@
 ---
-id: "national-priorities-for-1970-by-minoo-masani"
-title: "National Priorities for 1970"
-pubDate: "2023-06-28T16:00:30Z"
-themes:
-  - "democracy"
-  - "governance"
-  - "political-economy"
-language: "en"
+id: national-priorities-for-1970-by-minoo-masani
+title: National Priorities for 1970
+pubDate: 2023-06-28T16:00:30Z
+themes: 
+- democracy
+- governance
+- political-economy
+language: en
 needs_review: true
 draft: false
-author: "minoo-masani"
-hero_image: "/musings/covers/national-priorities-for-1970-by-minoo-masani.webp"
-thinker_mentions:
-  - thinker: indira-gandhi
-    role: mention
-    reasoning: "Indira Gandhi is the press conference's principal political target — Masani argues she has lost the 1967 mandate after the Congress split, governs through Communist parliamentary support, and is reviving Nehruvian collectivisation of peasant farms under cover of a fresh attack on the fundamental right to property."
-    evidence:
-      - quote: the original mandate that Mrs Gandhi had got from the people in 1967 has expired as a result of the breaking up of the Party and her losing her majority
-        context: "the constitutional case against Indira Gandhi's continuance opens Masani's address"
-      - quote: What can be more dangerous to the stability and security of the country than a minority government, particularly when it depends for its survival on Communist support?
-        context: Masani frames her government as a security risk because of its Communist dependency
-      - quote: The Marxist Congress Party, led by the Prime Minister, wanted to follow that policy at a time when Marxism itself had become out of date.
-        context: Indira Gandhi as the contemporary inheritor of the misguided Marxian deprivation-of-property logic
-    key_passages: []
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: "Masani twice deploys Nehru against the current Indira Gandhi government — citing Nehru's Kathmandu line that 'socialism in a poor country means only the distribution of poverty' to mock Jagjivan Ram's distribution-over-production claim, and recalling that Nehru's Nagpur Resolution of 1959 was the very provocation that birthed the Swatantra Party."
-    evidence:
-      - quote: "It is interesting that Mr Jawaharlal Nehru, while speaking in Kathmandu in the middle fifties, gave the answer to Mr Jagjivan Ram when he said, \"Socialism in a poor country means only the distribution of poverty.\""
-        context: "Nehru's own line is turned against the Bombay session's redistribution rhetoric"
-      - quote: a similar attack was started by Mr Jawaharlal Nehru after the Nagpur Resolution in 1959. That, in fact, was the provocation for the coming into existence of my Party.
-        context: "Masani identifies the Nagpur Resolution as Swatantra's founding antagonist, making Nehru the original target the new attack revives"
-    key_passages: []
-  - thinker: karl-marx
-    role: mention
-    reasoning: "Masani uses Karl Marx as both validator and target — crediting Marx with correctly diagnosing that liberty requires control over one's physical environment, but indicting him for drawing the wrong conclusion that everyone must therefore be deprived of property rather than be guaranteed it."
-    evidence:
-      - quote: "It is only through control over one's physical environment that, to some extent, one is able to operate as a free man, as Karl Marx said."
-        context: Masani concedes a Marxist premise to invert the conclusion
-      - quote: "Instead of saying that everyone must therefore have property so that everyone may be free, he came to the conclusion that everyone must be deprived of property!"
-        context: "Masani's signature inversion of Marx's logic — the property-as-liberty argument"
-      - quote: "Our basic creed is free competition, a free market economy, plus Gandhiji's theory of Trusteeship. We believe in the Gandhian path to social justice, as opposed to that of Karl Marx."
-        context: "Marx framed as Swatantra's ideological antithesis at the close of the address"
-    key_passages: []
-  - thinker: morarji-desai
-    role: mention
-    reasoning: "Morarji Desai's late conversion to the necessity of coalitions is welcomed by Masani as vindication of his own years-long argument that no single opposition party can replace the Indira government — making Desai a key signal that the era of coalitions has begun."
-    evidence:
-      - quote: I am very glad, therefore, that a strong opponent of coalitions like Mr Morarji Desai has now veered around to the view that coalitions are now inevitable.
-        context: "Desai's reversal supplies the political evidence for Masani's coalitions-thesis"
-    key_passages: []
-  - thinker: j-b-kripalani
-    role: mention
-    reasoning: "Acharya Kripalani's Ahmedabad call for the opposition to stop competing with Mrs Gandhi in socialist slogan-mongering is endorsed by Masani as the right strategic posture for building a broad-based democratic front."
-    evidence:
-      - quote: "I, therefore, welcome Acharya Kripalani's very sane advice, given at Ahmedabad, that opposition parties like the Opposition Congress, the Jan Sangh, and the Socialist parties should stop competing with the Prime Minister in her demagogy."
-        context: "Kripalani's intervention supplies Masani's template for opposition unity"
-    key_passages: []
-  - thinker: ludwig-erhard
-    role: mention
-    reasoning: "Ludwig Erhard, 'the maker of the German miracle', is quoted approvingly as the model for Swatantra's liberalisation programme — 'Let the men and the money loose; and they will make the country strong' — anchoring the Indian free-market case in a concrete post-war success."
-    evidence:
-      - quote: "We agree with Dr Ludwig Erhard, the maker of the German miracle, when he said, \"Let the men and the money loose; and they will make the country strong.\""
-        context: "Erhard supplies the operational slogan for Swatantra's liberalisation creed"
-    key_passages: []
-  - thinker: mahatma-gandhi
-    role: mention
-    reasoning: "Gandhi anchors Swatantra's positive doctrine — Masani names 'Gandhiji's theory of Trusteeship' and the 'Gandhian path to social justice' as the party's basic creed, explicitly counter-posing Gandhi to Karl Marx as the ideological alternative."
-    evidence:
-      - quote: "Our basic creed is free competition, a free market economy, plus Gandhiji's theory of Trusteeship."
-        context: "Gandhi's Trusteeship doctrine cemented as Swatantra's third leg alongside free competition and free markets"
-      - quote: We believe in the Gandhian path to social justice, as opposed to that of Karl Marx.
-        context: "the explicit Gandhi-versus-Marx framing at the heart of Swatantra's self-definition"
-    key_passages: []
-  - thinker: atal-bihari-vajpayee
-    role: mention
-    reasoning: "Masani repudiates Atal Behari Vajpayee's call to 'Indianise' Muslims, Communists, and Western-leaning citizens — framing Vajpayee's Jan Sangh posture as the obscurantist counter-position from which Swatantra modernism distinguishes itself."
-    evidence:
-      - quote: "Mr Atal Behari Vajpayee of the Jan Sangh is quoted in the _Indian Express_ this morning as saying that there are three classes of people who need to be brought back to the \"path of rectitude\" and \"Indianised\"."
-        context: "Vajpayee's Jan Sangh formulation supplies Masani's foil to define Swatantra modernism against"
-    key_passages: []
+author: minoo-masani
+hero_image: /musings/covers/national-priorities-for-1970-by-minoo-masani.webp
+thinker_mentions: 
+- thinker: indira-gandhi
+  role: mention
+  reasoning: Indira Gandhi is the press conference's principal political target, Masani argues she has lost the 1967 mandate after the Congress split, governs through Communist parliamentary support, and is reviving Nehruvian collectivisation of peasant farms under cover of a fresh attack on the fundamental right to property.
+  evidence: 
+  - quote: the original mandate that Mrs Gandhi had got from the people in 1967 has expired as a result of the breaking up of the Party and her losing her majority
+    context: the constitutional case against Indira Gandhi's continuance opens Masani's address
+  - quote: What can be more dangerous to the stability and security of the country than a minority government, particularly when it depends for its survival on Communist support?
+    context: Masani frames her government as a security risk because of its Communist dependency
+  - quote: The Marxist Congress Party, led by the Prime Minister, wanted to follow that policy at a time when Marxism itself had become out of date.
+    context: Indira Gandhi as the contemporary inheritor of the misguided Marxian deprivation-of-property logic
+  key_passages: []
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Masani twice deploys Nehru against the current Indira Gandhi government, citing Nehru's Kathmandu line that 'socialism in a poor country means only the distribution of poverty' to mock Jagjivan Ram's distribution-over-production claim, and recalling that Nehru's Nagpur Resolution of 1959 was the very provocation that birthed the Swatantra Party.
+  evidence: 
+  - quote: It is interesting that Mr Jawaharlal Nehru, while speaking in Kathmandu in the middle fifties, gave the answer to Mr Jagjivan Ram when he said, "Socialism in a poor country means only the distribution of poverty."
+    context: Nehru's own line is turned against the Bombay session's redistribution rhetoric
+  - quote: a similar attack was started by Mr Jawaharlal Nehru after the Nagpur Resolution in 1959. That, in fact, was the provocation for the coming into existence of my Party.
+    context: Masani identifies the Nagpur Resolution as Swatantra's founding antagonist, making Nehru the original target the new attack revives
+  key_passages: []
+- thinker: karl-marx
+  role: mention
+  reasoning: Masani uses Karl Marx as both validator and target, crediting Marx with correctly diagnosing that liberty requires control over one's physical environment, but indicting him for drawing the wrong conclusion that everyone must therefore be deprived of property rather than be guaranteed it.
+  evidence: 
+  - quote: It is only through control over one's physical environment that, to some extent, one is able to operate as a free man, as Karl Marx said.
+    context: Masani concedes a Marxist premise to invert the conclusion
+  - quote: Instead of saying that everyone must therefore have property so that everyone may be free, he came to the conclusion that everyone must be deprived of property!
+    context: Masani's signature inversion of Marx's logic, the property-as-liberty argument
+  - quote: Our basic creed is free competition, a free market economy, plus Gandhiji's theory of Trusteeship. We believe in the Gandhian path to social justice, as opposed to that of Karl Marx.
+    context: Marx framed as Swatantra's ideological antithesis at the close of the address
+  key_passages: []
+- thinker: morarji-desai
+  role: mention
+  reasoning: Morarji Desai's late conversion to the necessity of coalitions is welcomed by Masani as vindication of his own years-long argument that no single opposition party can replace the Indira government, making Desai a key signal that the era of coalitions has begun.
+  evidence: 
+  - quote: I am very glad, therefore, that a strong opponent of coalitions like Mr Morarji Desai has now veered around to the view that coalitions are now inevitable.
+    context: Desai's reversal supplies the political evidence for Masani's coalitions-thesis
+  key_passages: []
+- thinker: j-b-kripalani
+  role: mention
+  reasoning: Acharya Kripalani's Ahmedabad call for the opposition to stop competing with Mrs Gandhi in socialist slogan-mongering is endorsed by Masani as the right strategic posture for building a broad-based democratic front.
+  evidence: 
+  - quote: I, therefore, welcome Acharya Kripalani's very sane advice, given at Ahmedabad, that opposition parties like the Opposition Congress, the Jan Sangh, and the Socialist parties should stop competing with the Prime Minister in her demagogy.
+    context: Kripalani's intervention supplies Masani's template for opposition unity
+  key_passages: []
+- thinker: ludwig-erhard
+  role: mention
+  reasoning: Ludwig Erhard, 'the maker of the German miracle', is quoted approvingly as the model for Swatantra's liberalisation programme, 'Let the men and the money loose; and they will make the country strong', anchoring the Indian free-market case in a concrete post-war success.
+  evidence: 
+  - quote: We agree with Dr Ludwig Erhard, the maker of the German miracle, when he said, "Let the men and the money loose; and they will make the country strong."
+    context: Erhard supplies the operational slogan for Swatantra's liberalisation creed
+  key_passages: []
+- thinker: mahatma-gandhi
+  role: mention
+  reasoning: Gandhi anchors Swatantra's positive doctrine, Masani names 'Gandhiji's theory of Trusteeship' and the 'Gandhian path to social justice' as the party's basic creed, explicitly counter-posing Gandhi to Karl Marx as the ideological alternative.
+  evidence: 
+  - quote: Our basic creed is free competition, a free market economy, plus Gandhiji's theory of Trusteeship.
+    context: Gandhi's Trusteeship doctrine cemented as Swatantra's third leg alongside free competition and free markets
+  - quote: We believe in the Gandhian path to social justice, as opposed to that of Karl Marx.
+    context: the explicit Gandhi-versus-Marx framing at the heart of Swatantra's self-definition
+  key_passages: []
+- thinker: atal-bihari-vajpayee
+  role: mention
+  reasoning: Masani repudiates Atal Behari Vajpayee's call to 'Indianise' Muslims, Communists, and Western-leaning citizens, framing Vajpayee's Jan Sangh posture as the obscurantist counter-position from which Swatantra modernism distinguishes itself.
+  evidence: 
+  - quote: Mr Atal Behari Vajpayee of the Jan Sangh is quoted in the _Indian Express_ this morning as saying that there are three classes of people who need to be brought back to the "path of rectitude" and "Indianised".
+    context: Vajpayee's Jan Sangh formulation supplies Masani's foil to define Swatantra modernism against
+  key_passages: []
 related_thinkers: 
-  - atal-bihari-vajpayee
-  - indira-gandhi
-  - j-b-kripalani
-  - jawaharlal-nehru
-  - karl-marx
-  - ludwig-erhard
-  - mahatma-gandhi
-  - morarji-desai
-
-proposed_themes:
-  - "opposition-politics"
-  - "swatantra-party"
-key_concepts:
-  - "permit-license-raj"
-  - "mandate"
-  - "lumpen-proletariat"
-  - "law-and-order"
+- atal-bihari-vajpayee
+- indira-gandhi
+- j-b-kripalani
+- jawaharlal-nehru
+- karl-marx
+- ludwig-erhard
+- mahatma-gandhi
+- morarji-desai
+proposed_themes: 
+- opposition-politics
+- swatantra-party
+key_concepts: 
+- permit-license-raj
+- mandate
+- lumpen-proletariat
+- law-and-order
 pull_quote: My own feeling is that if she goes to the polls, she will be decisively defeated at the present juncture.
 stance: argues-against
 kind: speech-excerpt
 period_window: late-license-raj
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
 
 _Published by the Swatantra Party in 1970, the musing below was originally the transcript of a press conference addressed by Mr M. R. Masani, M.P., President, Swatantra Party, in New Delhi on 31 December 1969. The speech laid emphasis on matters that needed to be given immediate priority. First, a clean, efficient and prompt administration; second, the restoration of law and order; third, increased production and hard work; and lastly, a pragmatic approach to national problems, free from ideological emphasis or pre-conceptions. Masani argued how the Indira Gandhi government failed to address any of the aforementioned matters of priority._
 
-_You can read the complete, unabridged version here [National-Priorities-for-1970](https://indianliberals.in/wp-content/uploads/2023/06/National-Priorities-for-1970.pdf)_
+_You can read the complete, unabridged version here [National-Priorities-for-1970](http://indianliberals.in/primary-works/national-priorities-for-1970-m-r-masani/#read)_
 
-**I: Introductory Remarks **
+**I: Introductory Remarks**
 
 First of all, let me wish you all, what is coming in a few hours time, a happy and satisfactory New Year, and we all hope it will be a good one for our country, also.
 
@@ -119,7 +118,7 @@ I thought I should share a few thoughts with you at this juncture. The first tho
 
 I would, therefore, like to suggest that, if she knows her constitutional duty, she will dissolve Parliament and go to the people and get a mandate. If she does not, then it is obvious that she recognises that she does not enjoy the confidence of the people and is not prepared to face them. I would be inclined to agree with her on that! My own feeling is that if she goes to the polls, she will be decisively defeated at the present juncture.
 
-I think her so-called popularity is grossly exaggerated. I, for one, do not think it extends beyond the bigger cities and urban areas. Even there, my own impression is that her main support comes from two classes in the cities–one is that class of businessmen which wants to make a quick rupee through permit-license-raj, and the other class is what the Marxists would call the lumpen (rag) proletariat, the rootless sections in the cities who have been well-known to support the Fascist parties in Germany, Italy and other parts of the world. I think these are the two classes from whom real support comes to her.
+I think her so-called popularity is grossly exaggerated. I, for one, do not think it extends beyond the bigger cities and urban areas. Even there, my own impression is that her main support comes from two classes in the cities, one is that class of businessmen which wants to make a quick rupee through permit-license-raj, and the other class is what the Marxists would call the lumpen (rag) proletariat, the rootless sections in the cities who have been well-known to support the Fascist parties in Germany, Italy and other parts of the world. I think these are the two classes from whom real support comes to her.
 
 I believe the need for a change of government is more than ever acute because the security and stability of the country require a change. What can be more dangerous to the stability and security of the country requires a change. What can be more dangerous to the stability and security of the country than a minority government, particularly when it depends for its survival on Communist support? I think this poses a threat to the security and stability of the country. Nor is this government, in my view, capable of dealing with any of the major needs of the country.
 
@@ -137,7 +136,7 @@ Here I would like to refer to what Justice Hegde said a few days ago in Bangalor
 
 I think this is a wise statement, coming from the quarter it does.
 
-The motive for this attack on the property as a right can only be the intention to take the farms away from the peasants. Of all forms of property, this is the least vulnerable, and undoubtedly, you cannot take away a man’s four acres or eight acres under the present Constitution because the Courts will not allow it. It appears to me that the new attack on the right to property can only be aimed at the system of peasant proprietorship which exists in India. You will remember that a similar attack was started by Mr Jawaharlal Nehru after the Nagpur Resolution in 1959. That, in fact, was the provocation for the coming into existence of my Party. That attack was beaten back. It seems to me that this attack is going to be revived by another misguided attempt to co-operativise or collectivise the farms. This is the first short of the coming attack on peasant farms, however small they may be. If that is so, we shall certainly lead the fight against any such attempt, as we led the fight against any such attempt, as we led the fight against any such attempt, as we led the fight against the Constitution (Seventeenth Amendment) Bill in 1963. We would like to appeal to the rural population throughout the country to beware of this danger and to rise against it and wage war in defence of the basic way of life in the countryside–of a small farmer cultivating his own land. 
+The motive for this attack on the property as a right can only be the intention to take the farms away from the peasants. Of all forms of property, this is the least vulnerable, and undoubtedly, you cannot take away a man’s four acres or eight acres under the present Constitution because the Courts will not allow it. It appears to me that the new attack on the right to property can only be aimed at the system of peasant proprietorship which exists in India. You will remember that a similar attack was started by Mr Jawaharlal Nehru after the Nagpur Resolution in 1959. That, in fact, was the provocation for the coming into existence of my Party. That attack was beaten back. It seems to me that this attack is going to be revived by another misguided attempt to co-operativise or collectivise the farms. This is the first short of the coming attack on peasant farms, however small they may be. If that is so, we shall certainly lead the fight against any such attempt, as we led the fight against any such attempt, as we led the fight against any such attempt, as we led the fight against the Constitution (Seventeenth Amendment) Bill in 1963. We would like to appeal to the rural population throughout the country to beware of this danger and to rise against it and wage war in defence of the basic way of life in the countryside, of a small farmer cultivating his own land. 
 
 All this inevitably leads to the need for an alternative government. That alternative government is not so far visible. I, for one, do not claim that my Party can single-handedly do this job. It will be wise for all other parties to recognise that in the present political situation, no single party can do the job of replacing the present government. I am very glad, therefore, that a strong opponent of coalitions like Mr Morarji Desai has now veered around to the view that coalitions are now inevitable. As you know, I have been talking about the era of coalitions for the last few years. I am glad that it is now becoming an accepted fact, a reality. There is no democratic country in the world where one party is always in the majority. So, often, a coalition government is a normal democratic way of life. In West Germany, Italy, Israel, Scandinavian countries, and in so many parts of the world, there have been permanent coalitions since the Second World War and yet no instability. Therefore, we need not worry.
 
@@ -151,8 +150,6 @@ Our basic creed is free competition, a free market economy, plus Gandhiji’s th
 
 We stand for modernism. We want to modernise this country so that it can come up to the level of the more advanced countries of the world. Take Japan, for instance. It is emerging as Super Power No 2 in the industrial world, next only to the United States. We do not see why we should not follow that path.
 
-We have nothing in common with obscurantism. For instance, Mr Atal Behari Vajpayee of the Jan Sangh is quoted in the _Indian Express_ this morning as saying that there are three classes of people who need to be brought back to the “path of rectitude” and “Indianised”. One of them is the Muslims, the second is the Communists and the third, I am rather interested to hear, are people who like the Western way of life. By this, I presume he means the modern way of life. If that is so, I am afraid he is up against quite a number of people because, as I understand it, there are lakhs and lakhs of young men and women in this country who want nothing more than to modernise this country. If anyone wants to turn back that tide, wants to turn India back from the march towards modernism, he will find it a very difficult task indeed. We have nothing in common with the state of mind which wants to turn its back on modernism. We are essentially a Party which believes in progress–modern techniques, modern management, modern administration, and thus catching up with the rest of the world.
+We have nothing in common with obscurantism. For instance, Mr Atal Behari Vajpayee of the Jan Sangh is quoted in the _Indian Express_ this morning as saying that there are three classes of people who need to be brought back to the “path of rectitude” and “Indianised”. One of them is the Muslims, the second is the Communists and the third, I am rather interested to hear, are people who like the Western way of life. By this, I presume he means the modern way of life. If that is so, I am afraid he is up against quite a number of people because, as I understand it, there are lakhs and lakhs of young men and women in this country who want nothing more than to modernise this country. If anyone wants to turn back that tide, wants to turn India back from the march towards modernism, he will find it a very difficult task indeed. We have nothing in common with the state of mind which wants to turn its back on modernism. We are essentially a Party which believes in progress, modern techniques, modern management, modern administration, and thus catching up with the rest of the world.
 
 The National Executive and the office-bearers elected in Madras on the 27th and 28th, I find, are a new team with a lot of young blood; particularly the five Joint Secretaries that the party has elevated to help us, each of them is a new man to the national leadership and a young man. I know that they are all dynamic young men. The key-note to the leadership of the Swatantra Party will be dynamism and discipline. We believe that Indian politics are now entering a period of a war of movement, a turbulent period, when a Maginot Line mentality of staying put and defending one’s position will not do. We will have to show a lot of initiative and drive. So, the first keynote will be dynamism. The second will be disciplined. You are aware of the fact that I have been arguing within my Party for having disciplined and ethical methods of work. Since the Party has placed me at the helm of affairs, I assume it has accepted the plea that I had made. If that is so, then I expect the new Executive to provide full support in putting an end to the kind of indiscipline which, unfortunately, we have been witnessing for the last year or two.
-
-_Previous musing: [Democracy in India (1959)](https://indianliberals.in/content/democracy-in-india-by-jm-lobo-prabhu/)_

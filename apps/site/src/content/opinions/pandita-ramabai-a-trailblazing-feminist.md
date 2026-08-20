@@ -1,46 +1,46 @@
 ---
-id: "pandita-ramabai-a-trailblazing-feminist"
+id: pandita-ramabai-a-trailblazing-feminist
 title: "Pandita Ramabai: A Trailblazing Feminist"
-pubDate: "2023-04-26T10:33:35Z"
-themes:
-  - "civil-society"
-  - "social-reform"
-language: "en"
+pubDate: 2023-04-26T10:33:35Z
+themes: 
+- civil-society
+- social-reform
+language: en
 needs_review: true
 draft: false
-author: "pandita-ramabai"
-hero_image: "/thinkers/photos/ramabai-pandita.jpg"
-thinker_mentions:
-  - thinker: anandibai-joshee
-    role: mention
-    reasoning: Anandibai Joshee is invoked as the first Indian woman to become a medical doctor, whose 1886 graduation Ramabai attended in Philadelphia — a pivotal moment in the profile situating Ramabai within the first generation of Indian women pioneers.
-    evidence:
-      - quote: Anandibai Joshee, the first Indian woman to become a medical doctor, who was also her cousin
-        context: "Joshee's graduation is the event that brings Ramabai to America and connects the two pioneering women"
-    key_passages: []
+subject: pandita-ramabai
+hero_image: /thinkers/photos/ramabai-pandita.jpg
+thinker_mentions: 
+- thinker: anandibai-joshee
+  role: mention
+  reasoning: Anandibai Joshee is invoked as the first Indian woman to become a medical doctor, whose 1886 graduation Ramabai attended in Philadelphia, a pivotal moment in the profile situating Ramabai within the first generation of Indian women pioneers.
+  evidence: 
+  - quote: Anandibai Joshee, the first Indian woman to become a medical doctor, who was also her cousin
+    context: Joshee's graduation is the event that brings Ramabai to America and connects the two pioneering women
+  key_passages: []
 related_thinkers: 
-  - anandibai-joshee
-source_channel: "so-musings"
-proposed_themes:
-  - "biography"
-  - "feminism"
-  - "women-rights"
-key_concepts:
-  - "women-education"
-  - "child-marriage"
-  - "brahmo-samaj"
-  - "arya-mahila-samaj"
-  - "hunter-commission"
-pull_quote: "Ramabai's life and work continue to inspire feminists, educators, and social justice activists worldwide."
+- anandibai-joshee
+source_channel: so-musings
+proposed_themes: 
+- biography
+- feminism
+- women-rights
+key_concepts: 
+- women-education
+- child-marriage
+- brahmo-samaj
+- arya-mahila-samaj
+- hunter-commission
+pull_quote: Ramabai's life and work continue to inspire feminists, educators, and social justice activists worldwide.
 stance: profiles
-kind: periodical-article
 period_window: post-reform
-geographic_scope:
+geographic_scope: 
   scale: national
-  places:
-    - "maharashtra"
-    - "united-kingdom"
-    - "west-bengal"
+  places: 
+  - maharashtra
+  - united-kingdom
+  - west-bengal
+author_name: Editorial Team
 ---
 
 _Pandita Ramabai (1858-1922) was an Indian social reformer, women's rights activist, scholar, and educator. She is best known for her pioneering work in promoting women's education and empowerment in India, publishing books on a wide range of topics, including the status of women in India, the Bible, and Sanskrit literature. She travelled extensively in India and abroad, advocating against child marriage, widowhood, and other social injustices against women. Ramabai's life and work continue to inspire feminists, educators, and social justice activists worldwide._
@@ -63,7 +63,7 @@ She was in Europe to pursue a medical degree; however, her deafness caused serio
 
 Having relinquished her dreams of a medical degree, in 1886, she travelled to the USA to attend the graduation from the Women’s Medical College in Philadelphia of Anandibai Joshee, the first Indian woman to become a medical doctor, who was also her cousin. She remained in the USA for two years, translating textbooks and giving lectures throughout the United States and Canada. In 1887 she published her first English book, **_The High-Caste Hindu Woman_**, a relentless indictment of Hindu India’s treatment of its women.
 
-The same year, Ramabai met Frances Willard–an American educator and a woman suffragist– who later invited her to address the convention of women’s organisation. On February 1, 1889, Ramabai returned to India and, within a month, established **Sharada Sadan**, or the Home of Learning, in Bombay with two students.
+The same year, Ramabai met Frances Willard, an American educator and a woman suffragist, who later invited her to address the convention of women’s organisation. On February 1, 1889, Ramabai returned to India and, within a month, established **Sharada Sadan**, or the Home of Learning, in Bombay with two students.
 
 She successfully lobbied for aid to start a secular school for child widows in India and formed **The Ramabai Association**, which pledged ten years of financial support for the cause.
 

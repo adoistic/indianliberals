@@ -27,9 +27,10 @@ period_window: post-reform
 geographic_scope: 
   scale: national
   places: []
+excerpt_of: liberal-budget-reforms-for-poor
 ---
 
-_The following musing is taken from ‘The Liberal Budget’ published by the _**_Indian Liberal Group for the year 2007-08, titled ‘[Taking Reforms to the Poor](https://indianliberals.in/indian-liberal-group/liberal-budget-reforms-for-poor.pdf)_’. The text reproduced below is the introduction of its third chapter on Post Reform Labour and Employment Issues._
+_The following musing is taken from ‘The Liberal Budget’ published by the **Indian Liberal** Group for the year 2007-08, titled ‘[Taking Reforms to the Poor](https://indianliberals.in/indian-liberal-group/liberal-budget-reforms-for-poor.pdf)_’. The text reproduced below is the introduction of its third chapter on Post Reform Labour and Employment Issues._
 
 _In light of the [2024 budget](https://www.financialexpress.com/budget/budget-2024-live-updates-when-will-govt-make-a-formal-announcement-on-the-budget-presentation-date-stay-tuned-3540014/#:~:text=Budget%202024%20Live%20Updates%3A%20FM,%2C%20sources%20told%20FinancialExpress.com.) being presented by the newly formed government this month, which aims to address the [ever increasing problem of unemployment](https://www.cmie.com/kommon/bin/sr.php?kall=warticle&dt=20240502160006&msec=476) in the country, this aspiring liberal budget gives some much needed perspectives on the challenges and opportunities that we are faced with._
 

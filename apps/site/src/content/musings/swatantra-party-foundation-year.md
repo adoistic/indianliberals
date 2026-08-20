@@ -1,71 +1,71 @@
 ---
-id: "swatantra-party-foundation-year"
+id: swatantra-party-foundation-year
 title: "Swatantra Party: 64th Foundation Year"
-pubDate: "2023-06-04T12:45:23Z"
-hero_image: "/musings/stock/democracy-2.webp"
-themes:
-  - "democracy"
-  - "free-enterprise"
-  - "liberalism"
-language: "en"
+pubDate: 2023-06-04T12:45:23Z
+hero_image: /musings/stock/democracy-2.webp
+themes: 
+- democracy
+- free-enterprise
+- liberalism
+language: en
 needs_review: true
 draft: false
-thinker_mentions:
-  - thinker: c-rajagopalachari
-    role: mention
-    reasoning: "Rajagopalachari is one of the four named co-authors of 'Why Swatantra' and contributes the section 'To Save Freedom', articulating the party's foundational philosophy."
-    evidence:
-      - quote: "\"Why Swatantra\" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani"
-        context: "Rajagopalachari identified as co-author of the Swatantra Party's founding manifesto"
-      - quote: The Swatantra Party stands for the protection of the individual citizen against the increasing trespasses of the State.
-        context: "opening line of Rajagopalachari's own section 'To Save Freedom' in the manifesto"
-    key_passages: []
-  - thinker: n-g-ranga
-    role: mention
-    reasoning: "N. G. Ranga is one of the four co-authors of 'Why Swatantra', contributing the section 'To Preserve the Family Economy', representing the agrarian liberal perspective."
-    evidence:
-      - quote: "\"Why Swatantra\" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani"
-        context: Ranga identified as co-author of the founding manifesto
-    key_passages: []
-  - thinker: k-m-munshi
-    role: mention
-    reasoning: "K. M. Munshi is one of the four co-authors of 'Why Swatantra', contributing the section 'To Restore Fundamental Rights'."
-    evidence:
-      - quote: "\"Why Swatantra\" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani"
-        context: Munshi identified as co-author of the founding manifesto
-    key_passages: []
-  - thinker: minoo-masani
-    role: mention
-    reasoning: "Masani is one of the four co-authors of 'Why Swatantra', contributing the section 'To Provide a Democratic Alternative'."
-    evidence:
-      - quote: "\"Why Swatantra\" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani"
-        context: Masani identified as co-author of the founding manifesto
-    key_passages: []
+thinker_mentions: 
+- thinker: c-rajagopalachari
+  role: mention
+  reasoning: Rajagopalachari is one of the four named co-authors of 'Why Swatantra' and contributes the section 'To Save Freedom', articulating the party's foundational philosophy.
+  evidence: 
+  - quote: "\"Why Swatantra\" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani"
+    context: Rajagopalachari identified as co-author of the Swatantra Party's founding manifesto
+  - quote: The Swatantra Party stands for the protection of the individual citizen against the increasing trespasses of the State.
+    context: opening line of Rajagopalachari's own section 'To Save Freedom' in the manifesto
+  key_passages: []
+- thinker: n-g-ranga
+  role: mention
+  reasoning: N. G. Ranga is one of the four co-authors of 'Why Swatantra', contributing the section 'To Preserve the Family Economy', representing the agrarian liberal perspective.
+  evidence: 
+  - quote: "\"Why Swatantra\" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani"
+    context: Ranga identified as co-author of the founding manifesto
+  key_passages: []
+- thinker: k-m-munshi
+  role: mention
+  reasoning: K. M. Munshi is one of the four co-authors of 'Why Swatantra', contributing the section 'To Restore Fundamental Rights'.
+  evidence: 
+  - quote: "\"Why Swatantra\" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani"
+    context: Munshi identified as co-author of the founding manifesto
+  key_passages: []
+- thinker: minoo-masani
+  role: mention
+  reasoning: Masani is one of the four co-authors of 'Why Swatantra', contributing the section 'To Provide a Democratic Alternative'.
+  evidence: 
+  - quote: "\"Why Swatantra\" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani"
+    context: Masani identified as co-author of the founding manifesto
+  key_passages: []
 related_thinkers: 
-  - c-rajagopalachari
-  - k-m-munshi
-  - minoo-masani
-  - n-g-ranga
-proposed_themes:
-  - "swatantra-party"
-key_concepts:
-  - "why-swatantra"
-  - "save-freedom"
-  - "family-economy"
-  - "democratic-alternative"
-  - "fundamental-rights"
+- c-rajagopalachari
+- k-m-munshi
+- minoo-masani
+- n-g-ranga
+proposed_themes: 
+- swatantra-party
+key_concepts: 
+- why-swatantra
+- save-freedom
+- family-economy
+- democratic-alternative
+- fundamental-rights
 pull_quote: The Swatantra Party stands for the protection of the individual citizen against the increasing trespasses of the State.
 stance: argues-for
 kind: pamphlet-excerpt
 period_window: nehruvian-era
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
 
 _To commemorate the 64th Foundation Year of the first and the only Liberal political party in India, we share the following musing published by the Swatantra Party. "Why Swatantra" is a conjoined effort of C Rajagopalachari, N G Ranga, K M Munshi and Minoo Masani as they analyse with incisive logic the need for a new party and explain with great clarity the party’s fundamental philosophy and programmes. Why Swantantra? They answer: To Save Freedom (Rajagopalachari), To Preserve the Family Economy (N G Ranga), To Restore Fundamental Rights (K M Munshi) and To Provide a Democratic Alternative (Masani)._
 
-You can read the complete musing here: [Why Swatantra](https://indianliberals.in/wp-content/uploads/2023/06/Why-Swatantra.pdf)
+You can read the complete musing here: [Why Swatantra](https://indianliberals.in/primary-works/why-swatantra/)
 
 **C Rajagopalachari - To Save Freedom**
 
@@ -85,11 +85,8 @@ Without the inconveniences resulting from proportional representation and, in pa
 
 The new party does not believe that legislative compulsion, any more than the violence that preceded and enthroned Communism in certain countries, can contribute to true or lasting human happiness. We must depend on the moral sense of the people in order to equalise without destroying freedom.
 
-It may be that there are a large number of people in our ancient land who have now lost the capacity to respond to moral appeals and who are impervious to the call of _dharma_. There have been causes that have brought about this state of things. But this large number of bad and successful men of the world should not blind us to the fact that in the large mass, _dharma_ still rules and supports our society. The millions that make up our nation are still moved and guided by their sense of _dharma_ and the voice of their conscience. If the cynics who deny this were right, our society would have broken down long ago and perished. We should have been hearing of starvation deaths in thousands every day. If we take a survey of the numerous charitable foundations and trusts that work as a matter of routine in the country and which were born of a sense of _dharma _without any kind of State compulsion, we can cure our cynicism with irrefutable and abundant facts. The charitable motives and compulsions of the heart prevailed in the days when these trusts and charitable institutions were founded and can prevail today, for we are the same people after all.
+It may be that there are a large number of people in our ancient land who have now lost the capacity to respond to moral appeals and who are impervious to the call of _dharma_. There have been causes that have brought about this state of things. But this large number of bad and successful men of the world should not blind us to the fact that in the large mass, _dharma_ still rules and supports our society. The millions that make up our nation are still moved and guided by their sense of _dharma_ and the voice of their conscience. If the cynics who deny this were right, our society would have broken down long ago and perished. We should have been hearing of starvation deaths in thousands every day. If we take a survey of the numerous charitable foundations and trusts that work as a matter of routine in the country and which were born of a sense of _dharma_ without any kind of State compulsion, we can cure our cynicism with irrefutable and abundant facts. The charitable motives and compulsions of the heart prevailed in the days when these trusts and charitable institutions were founded and can prevail today, for we are the same people after all.
 
 "There is no need for charity when there is an obligation; let the State compel." This is the slogan of the Socialists. But it is forgotten that this will lead irresistibly to total serfdom.
 
 The cynics are not right. Our society is still maintained by the inner law. The outer laws can touch but the fringe of life. They deal with criminals and keep order going. Normal life does not depend on the laws. It depends on the moral consciousness of people. This moral sense has not been effaced whatever changes may have taken place in the rituals and observances of forms. It is by _dharma_ that society is sustained, _Lokah dhriyate._ It is on _dharma_ we must build and not on the sand of material motives and our capacity to satisfy them quickly and get votes to be in power. The good seed is not lost. It is still there. We must not ignore its availability. The soil also is good and God will send us the rains. Let us not fail to look after it.
-
-_Previous musing: [Rajkumari Amrit Kaur: Philanthropy and Politics](https://indianliberals.in/content/rajkumari-amrit-kaur-philanthropy-and-politics/)_
-type=content&#038;p=8107). Needs editorial review._

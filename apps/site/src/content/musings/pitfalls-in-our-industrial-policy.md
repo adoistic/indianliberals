@@ -1,49 +1,50 @@
 ---
-id: "pitfalls-in-our-industrial-policy"
-title: "Pitfalls in Our Industrial Policy"
-pubDate: "2023-05-03T11:23:14Z"
-themes:
-  - "industrial-policy"
-  - "mixed-economy"
-  - "private-enterprise"
-  - "public-sector"
-language: "en"
+id: pitfalls-in-our-industrial-policy
+title: Pitfalls in Our Industrial Policy
+pubDate: 2023-05-03T11:23:14Z
+themes: 
+- industrial-policy
+- mixed-economy
+- private-enterprise
+- public-sector
+language: en
 needs_review: true
 draft: false
-author: "m-a-master"
-hero_image: "/musings/stock/enterprise-3.webp"
-thinker_mentions:
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: "Nehru is quoted at several points as the Prime Minister whose declarations drove the radical shift in India's industrial policy away from mixed economy toward socialist dominance of the public sector."
-    evidence:
-      - quote: Prime Minister announced on the 9th November 1954, before the National Development Council, that “the means of production should be socially owned, and controlled for the benefit of society as a whole.”
-        context: "Nehru's declaration cited as the germ of the economic revolution that displaced private enterprise"
-      - quote: Prime Minister remarked in the Lok Sabha- “We cannot progress except by State initiative and by enlarging the public sector and except also by controlling the private sector.”
-        context: "further quote establishing Nehru's role as architect of the socialist industrial policy the essay critiques"
-    key_passages: []
+author: m-a-master
+hero_image: /musings/stock/enterprise-3.webp
+thinker_mentions: 
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Nehru is quoted at several points as the Prime Minister whose declarations drove the radical shift in India's industrial policy away from mixed economy toward socialist dominance of the public sector.
+  evidence: 
+  - quote: Prime Minister announced on the 9th November 1954, before the National Development Council, that “the means of production should be socially owned, and controlled for the benefit of society as a whole.”
+    context: Nehru's declaration cited as the germ of the economic revolution that displaced private enterprise
+  - quote: Prime Minister remarked in the Lok Sabha- “We cannot progress except by State initiative and by enlarging the public sector and except also by controlling the private sector.”
+    context: further quote establishing Nehru's role as architect of the socialist industrial policy the essay critiques
+  key_passages: []
 related_thinkers: 
-  - jawaharlal-nehru
-source_channel: "so-musings"
-proposed_themes:
-  - "bombay-plan"
-key_concepts:
-  - "bombay-plan"
-  - "discriminating-protection"
-  - "state-monopoly"
-  - "planned-economy"
-pull_quote: "Private enterprise has, therefore, earned the country's gratitude for the faith and courage with which it developed such industries as Textiles, Jute, Steel, Sugar, Shipping, etc., against heavy odds and at considerable sacrifices."
+- jawaharlal-nehru
+source_channel: so-musings
+proposed_themes: 
+- bombay-plan
+key_concepts: 
+- bombay-plan
+- discriminating-protection
+- state-monopoly
+- planned-economy
+pull_quote: Private enterprise has, therefore, earned the country's gratitude for the faith and courage with which it developed such industries as Textiles, Jute, Steel, Sugar, Shipping, etc., against heavy odds and at considerable sacrifices.
 stance: argues-against
 kind: pamphlet-excerpt
 period_window: nehruvian-era
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
+excerpt_of: pitfalls-in-ouri-ndustrial-policy-m-a-master-nov6-1959
 ---
 
 _The following booklet, titled “Pitfalls in Our Industrial Policy,” was published in 1959 and was authored by M A Master. The author highlighted the momentum of private enterprise that made it possible to develop several privatised industries against all the substantial odds. He highlighted the radical shift that transgressed to economic thinking, leading to the state's industrial policy breach against the private sector. M A Master concentrated on the approach the then government adopted and highlighted the creation of economic revolution and the monopoly of the State. Furthermore, the author focused on the democratic stand, corroborating the balance between the public and the private sectors, and laid down the contention of anything contrary to the former approach as the model for the prevalence of dictatorship._
 
-_The author concluded by accentuating the prevention of the concentration of wealth and power in the hands of a few individuals through the governance of the fundamental principles in the directive policy of the State. _
+_The author concluded by accentuating the prevention of the concentration of wealth and power in the hands of a few individuals through the governance of the fundamental principles in the directive policy of the State._
 
 While India was under British Rule, there was no national policy for the industrialisation of the country. It was in the interest of Great Britain that India should continue to be the exporter of raw materials and the importer of finished products. It was only a few years before the fight for Independence gathered strong momentum that the Policy of discriminating protection was announced. It was halting and half-hearted.
 
@@ -55,7 +56,7 @@ On the 6th of April, 1948, the Government of free and independent India announce
 
 The rest of the industrial field will normally be open to private enterprises, individuals, and co-operatives. The economic thought in New Delhi had not visualised at that time the public sector becoming the dominant feature of the industrial landscape purely on ideological considerations.
 
-It is also significant to note that the First Five-Year Plan made the following categorical national policy statement. It laid down that _“**the scope and need for development are so great that it is best for the public sector to develop those industries in which private enterprise is unable or unwilling to put up the resources required and running the risks involved, leaving the rest of the field for private enterprise.**”_
+It is also significant to note that the First Five-Year Plan made the following categorical national policy statement. It laid down that _“the scope and need for development are so great that it is best for the public sector to develop those industries in which private enterprise is unable or unwilling to put up the resources required and running the risks involved, leaving the rest of the field for private enterprise.”_
 
 The first radical shift in this economic thinking of the Government came with the nationalisation of air services on the 1st of August 1953. This was the first breach in the Industrial Policy of the State. With the return of the Prime Minister from China in the latter part of 1954, the government's economic thinking witnessed a further fundamental departure from the announced industrial Policy of India. Although the First Plan had stated that “the ownership and the control of the material resources of the community are so distributed as best to subserve the common good”, the Prime Minister announced on the 9th November 1954, before the National Development Council, that “the means of production should be socially owned, and controlled for the benefit of society as a whole.”
 
@@ -81,6 +82,6 @@ The resolution added that “the adoption of the socialist pattern of society as
 
 The new philosophy was thus creating a new economic revolution. Even the field of trade and commerce was to become the monopoly of the State. The resolution stated that the State “will also undertake state trading on an increasing scale.” The country has already witnessed the unjustifiable inroads of the State Trading Corporation in diverting several trades from their normal channels to the monopolistic field of the State and under State control. People engaged in some of these trades have lost their means of livelihood. This is how the socialist pattern of society is being built up, and this is how democracy functions in actual life. It is difficult to imagine how it will affect the country when the procurement and distribution of foodgrains are brought completely under the control of the State.
 
-Eleven more industries have now been included in the field of industrial development, which will be the exclusive monopoly and responsibility of the State. Even in the field of industries where the private sector is allowed to function, the resolution has made it crystal clear that it will be the Policy of the State to “take the initiative in establishing new undertakings.” Private enterprise is expected now even in that field, namely, the 12 industries included under schedule ‘B’, merely “to supplement the effort of the State.” Private enterprise will not be allowed in future to be the driving and inspiring force of creating a new industrial India. Still, it will only be allowed to play a minor role as an agent for planned national development._You can access the complete, unabridged musing [here](https://indianliberals.in/forum-of-free-enterprise/pitfalls-in-ouri-ndustrial-policy-m-a-master-nov6-1959.pdf)._
+Eleven more industries have now been included in the field of industrial development, which will be the exclusive monopoly and responsibility of the State. Even in the field of industries where the private sector is allowed to function, the resolution has made it crystal clear that it will be the Policy of the State to “take the initiative in establishing new undertakings.” Private enterprise is expected now even in that field, namely, the 12 industries included under schedule ‘B’, merely “to supplement the effort of the State.” Private enterprise will not be allowed in future to be the driving and inspiring force of creating a new industrial India. Still, it will only be allowed to play a minor role as an agent for planned national development._
 
-_Previous musing: [Pandita Ramabai: A Trailblazing Feminist](https://indianliberals.in/content/pandita-ramabai-a-trailblazing-feminist/)_
+You can access the complete, unabridged musing [here](https://indianliberals.in/forum-of-free-enterprise/pitfalls-in-ouri-ndustrial-policy-m-a-master-nov6-1959.pdf)._

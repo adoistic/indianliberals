@@ -1,46 +1,47 @@
 ---
-id: "have-we-lost-our-will-to-be-free"
-title: "Have We Lost Our Will To Be Free?"
-pubDate: "2023-08-16T14:37:01Z"
-hero_image: "/musings/stock/liberty-5.webp"
-themes:
-  - "civil-liberties"
-  - "economic-freedom"
-  - "liberalism"
-  - "socialism"
-language: "en"
+id: have-we-lost-our-will-to-be-free
+title: Have We Lost Our Will To Be Free?
+pubDate: 2023-08-16T14:37:01Z
+hero_image: /musings/stock/liberty-5.webp
+themes: 
+- civil-liberties
+- economic-freedom
+- liberalism
+- socialism
+language: en
 needs_review: true
 draft: false
-thinker_mentions:
-  - thinker: mahatma-gandhi
-    role: mention
-    reasoning: "Rajagopalachari invokes Gandhi's concept of 'slave mentality' to diagnose the post-independence failure to cherish genuine freedom, arguing that Gandhi's fight against it produced only anti-Britishism rather than a true love of liberty."
-    evidence:
-      - quote: Gandhiji used to call it slave mentality. He fought hard to eliminate it. But the reaction was just anti-Britishism, not, as we now regretfully realize, the positive love of freedom
-        context: "Gandhi's slave-mentality diagnosis is turned by Rajagopalachari into a critique of the independence movement's incomplete liberation"
-    key_passages: []
+thinker_mentions: 
+- thinker: mahatma-gandhi
+  role: mention
+  reasoning: Rajagopalachari invokes Gandhi's concept of 'slave mentality' to diagnose the post-independence failure to cherish genuine freedom, arguing that Gandhi's fight against it produced only anti-Britishism rather than a true love of liberty.
+  evidence: 
+  - quote: Gandhiji used to call it slave mentality. He fought hard to eliminate it. But the reaction was just anti-Britishism, not, as we now regretfully realize, the positive love of freedom
+    context: Gandhi's slave-mentality diagnosis is turned by Rajagopalachari into a critique of the independence movement's incomplete liberation
+  key_passages: []
 related_thinkers: 
-  - mahatma-gandhi
-proposed_themes:
-  - "state-socialism"
-key_concepts:
-  - "state-socialist-economy"
-  - "will-to-be-free"
-  - "slave-mentality"
-  - "swatantra-party"
-  - "bureaucratic-management"
+- mahatma-gandhi
+proposed_themes: 
+- state-socialism
+key_concepts: 
+- state-socialist-economy
+- will-to-be-free
+- slave-mentality
+- swatantra-party
+- bureaucratic-management
 pull_quote: Freedom rests not on constitutions but on the will to be free.
 stance: argues-against
 kind: periodical-article
 period_window: late-license-raj
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
+author: c-rajagopalachari
 ---
 
 _C Rajagopalachari’s “Have We Lost Our Will To Be Free,” written in 1965, speaks about the difference between freedom from British rule and freedom in its true sense. He suggests that the people should be free from the excessive control by a State-Socialist Economy and should not succumb to a slave mentality. This essay was published in ‘Souvenir’ at the Swatantra Party’s Sixth National Convention in 1973 after he passed away._
 
-_You can read the complete, unabridged version [here](https://indianliberals.in/swatantra-party/sixth-national-convention-swatantra-souvenirs-1973.pdf) ___
+_You can read the complete, unabridged version [here](https://indianliberals.in/swatantra-party/sixth-national-convention-swatantra-souvenirs-1973.pdf)_
 
 Shortly after the Philadelphia Convention, the story goes that a lady asked Benjamin Franklin about the nature of the Constitution hatched at the convention, to which he replied "We have given you a republic, madam if you can keep it."
 

@@ -1,59 +1,59 @@
 ---
-id: "socialism-or-state-capitalism"
-title: "Socialism or State Capitalism"
-pubDate: "2023-06-14T13:10:31Z"
-themes:
-  - "nationalisation"
-  - "political-economy"
-  - "public-sector"
-  - "socialism"
-language: "en"
+id: socialism-or-state-capitalism
+title: Socialism or State Capitalism
+pubDate: 2023-06-14T13:10:31Z
+themes: 
+- nationalisation
+- political-economy
+- public-sector
+- socialism
+language: en
 needs_review: true
 draft: false
-author: "k-santhanam"
-hero_image: "/musings/covers/socialism-or-state-capitalism.webp"
-thinker_mentions:
-  - thinker: karl-marx
-    role: mention
-    reasoning: Marx is cited as the theorist whose concept of socialism underwent great change after the industrial revolution; the essay critically traces the evolution of Marxist thought from theoretical socialism to Soviet state capitalism.
-    evidence:
-      - quote: the nature of which has undergone a great change since Karl Marx expounded his theory.
-        context: Marx named as the originator of the socialist theory whose practical development the essay analyses
-      - quote: Stalin wanted to make dictatorship absolute and totalitarian and, therefore, made State Capitalism the exclusive form of economic development in the USSR
-        context: "essay traces how Stalin's state capitalism diverged from Marx's original theory"
-    key_passages: []
-  - thinker: joseph-stalin
-    role: mention
-    reasoning: "Stalin is identified as the figure who made state capitalism absolute and totalitarian in the USSR, serving as the key example of socialism's degeneration into state capitalism."
-    evidence:
-      - quote: Stalin wanted to make dictatorship absolute and totalitarian and, therefore, made State Capitalism the exclusive form of economic development in the USSR
-        context: Stalin presented as the decisive agent in transforming Soviet socialism into state capitalism
-    key_passages: []
+author: k-santhanam
+hero_image: /musings/covers/socialism-or-state-capitalism.webp
+thinker_mentions: 
+- thinker: karl-marx
+  role: mention
+  reasoning: Marx is cited as the theorist whose concept of socialism underwent great change after the industrial revolution; the essay critically traces the evolution of Marxist thought from theoretical socialism to Soviet state capitalism.
+  evidence: 
+  - quote: the nature of which has undergone a great change since Karl Marx expounded his theory.
+    context: Marx named as the originator of the socialist theory whose practical development the essay analyses
+  - quote: Stalin wanted to make dictatorship absolute and totalitarian and, therefore, made State Capitalism the exclusive form of economic development in the USSR
+    context: essay traces how Stalin's state capitalism diverged from Marx's original theory
+  key_passages: []
+- thinker: joseph-stalin
+  role: mention
+  reasoning: Stalin is identified as the figure who made state capitalism absolute and totalitarian in the USSR, serving as the key example of socialism's degeneration into state capitalism.
+  evidence: 
+  - quote: Stalin wanted to make dictatorship absolute and totalitarian and, therefore, made State Capitalism the exclusive form of economic development in the USSR
+    context: Stalin presented as the decisive agent in transforming Soviet socialism into state capitalism
+  key_passages: []
 related_thinkers: 
-  - joseph-stalin
-  - karl-marx
+- joseph-stalin
+- karl-marx
 proposed_themes: []
-key_concepts:
-  - "state-capitalism"
-  - "marx-socialism"
-  - "industrial-revolution"
-  - "means-of-production"
+key_concepts: 
+- state-capitalism
+- marx-socialism
+- industrial-revolution
+- means-of-production
 pull_quote: It is bad enough that India should be a hundred years behind advanced nations in industrial development.
 stance: argues-against
 kind: pamphlet-excerpt
 period_window: late-license-raj
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
 ---
 
 _The musing shared below is a 1970 piece published by the Forum of Free Enterprise and authored by K Santhanam. In 1948, Santhanam was the Minister of State for Railways and Transport in the Government of India, followed by a stint as the Lieutenant Governor of Vindhya Pradesh. A prolific writer, Santhanam also served as the first editor of the Indian Express from 1932 until 1940, subsequently becoming the joint editor of the Hindustan Times. In 1962, Santhanam was appointed as the chairman of the Committee on Prevention of Corruption. The recommendations of this Committee, also known as the Santhanam Committee, resulted in the establishment of the Central Vigilance Commission in 1964._
 
-_You can read the unabridged version with contributions from Dr R C Cooper and Prof. C L Gheevala here [Socialism or State Capitalism](https://indianliberals.in/wp-content/uploads/2023/06/Socialism-or-State-Capitalism.pdf)___
+_You can read the unabridged version with contributions from Dr R C Cooper and Prof. C L Gheevala here [Socialism or State Capitalism](https://indianliberals.in/primary-works/socialism-or-state-capitalism/#read)_
 
 It is bad enough that India should be a hundred years behind advanced nations in industrial development. It is a much more serious handicap that intellectuals and politicians should be more out of date in their ideals. This is particularly true of capitalism and socialism, the nature of which has undergone a great change since Karl Marx expounded his theory. Both these concepts arose out of the industrial revolution. In the early stages, the main characteristics of industrialisation were:
 
-1) low wages based upon the ordinary wages of persons engaged in agriculture and cottage industries;
+(1) low wages based upon the ordinary wages of persons engaged in agriculture and cottage industries;
 
 (2) harsh conditions of labour, long hours, unhealthy and unsanitary conditions and no provision for sickness etc.
 
@@ -120,5 +120,3 @@ It is foolish to contend that there is no work for the 20 or 30 million unemploy
 State Capitalism cannot now or in the near future provide work for the unemployed. It is only through a wide decentralisation of economic initiative and active encouragement of all agencies of production and use of social services that the problem of unemployment and housing can be adequately tackled. India has still to make a beginning in social security which requires that our production be efficient and produce a surplus.
 
 I stand whole-heartedly for true socialism in India, which I equate with efficient production, full employment, generous social services and comprehensive social security. Every form of production which is consistent with these objectives should be actively encouraged, and every form which, through inherent inefficiency or psychological inadequacy, is likely to obstruct their achievement should be rejected as inconsistent with true socialism.
-
-_Previous musing: [Limits and Limitations of State Trading (1958)](https://indianliberals.in/content/limits-and-limitations-of-state-trading/)_

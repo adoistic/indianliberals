@@ -1,55 +1,52 @@
 ---
-id: "profit-shy-asians-by-kd-valicha"
-title: "Profit-Shy Asians"
-pubDate: "2023-08-02T13:37:29Z"
-themes:
-  - "free-enterprise"
-  - "free-markets"
-  - "liberalism"
-language: "en"
+id: profit-shy-asians-by-kd-valicha
+title: Profit-Shy Asians
+pubDate: 2023-08-02T13:37:29Z
+themes: 
+- free-enterprise
+- free-markets
+- liberalism
+language: en
 needs_review: true
 draft: false
-author: "kd-valicha"
-hero_image: "/musings/covers/profit-shy-asians-by-kd-valicha.webp"
-proposed_themes:
-  - "profit-motive"
-key_concepts:
-  - "profit-motive"
-  - "liberty"
-  - "free-enterprise"
-  - "state-control"
-  - "monopoly"
+author: kd-valicha
+hero_image: /musings/covers/profit-shy-asians-by-kd-valicha.webp
+proposed_themes: 
+- profit-motive
+key_concepts: 
+- profit-motive
+- liberty
+- free-enterprise
+- state-control
+- monopoly
 pull_quote: Free enterprise is the only guarantee of the broadest possible choice.
 stance: argues-for
 kind: periodical-article
 period_window: nehruvian-era
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
-thinker_mentions:
-  - thinker: adam-smith
-    role: mention
-    reasoning: "Valicha enlists Adam Smith as libertarianism's defining champion in the historical fight against mercantilism, using him to position the present-day defence of free enterprise within a continuous liberal lineage."
-    evidence:
-      - quote: In the anti-mercantilist epoch, its champion was Adam Smith.
-        context: "closing genealogy of libertarian struggle; Smith named as the movement's first-epoch standard-bearer"
-    key_passages: []
-  - thinker: john-stuart-mill
-    role: mention
-    reasoning: "Valicha places John Stuart Mill alongside Adam Smith in libertarianism's lineage, casting Mill as the defender of liberty during the anti-conservative epoch and using the genealogy to argue that the present anti-socialist fight is the same battle in a new key."
-    evidence:
-      - quote: In the anti-conservative epoch, John Stuart Mill stood out as its defender.
-        context: Mill positioned as the second figure in a three-epoch genealogy of libertarian defenders
-    key_passages: []
+thinker_mentions: 
+- thinker: adam-smith
+  role: mention
+  reasoning: Valicha enlists Adam Smith as libertarianism's defining champion in the historical fight against mercantilism, using him to position the present-day defence of free enterprise within a continuous liberal lineage.
+  evidence: 
+  - quote: In the anti-mercantilist epoch, its champion was Adam Smith.
+    context: closing genealogy of libertarian struggle; Smith named as the movement's first-epoch standard-bearer
+  key_passages: []
+- thinker: john-stuart-mill
+  role: mention
+  reasoning: Valicha places John Stuart Mill alongside Adam Smith in libertarianism's lineage, casting Mill as the defender of liberty during the anti-conservative epoch and using the genealogy to argue that the present anti-socialist fight is the same battle in a new key.
+  evidence: 
+  - quote: In the anti-conservative epoch, John Stuart Mill stood out as its defender.
+    context: Mill positioned as the second figure in a three-epoch genealogy of libertarian defenders
+  key_passages: []
 related_thinkers: 
-  - adam-smith
-  - john-stuart-mill
-
+- adam-smith
+- john-stuart-mill
 ---
 
 _K D Valicha’s piece “Profit-Shy Asians,” featured in the August 1957 edition of The Indian Libertarian magazine, discussed "free enterprise." The edition was released on the 10th anniversary of the Indian Independence movement. While the country was still carving its niche on the global map, Valicha’s cogent analysis of the significance of free enterprise and the skewed definition and, therefore, aversion to Profit not only gives a glimpse of the country’s economic outlook but also finds relevance even after six decades of publication._
-
-_You can read the complete, unabridged version here [The India Libertarian Aug 1957](https://indianliberals.in/wp-content/uploads/2023/08/The-India-Libertarian-Aug-1957.pdf)___
 
 Many people in India today believe that free enterprise, unchecked and unrestricted by any State control, will lead to anarchy and disorder. This wrong notion arises from a misconception about the term 'free enterprise.'
 
@@ -73,5 +70,3 @@ Rational economic thinking cannot afford to be dictated by personal whims and id
 Libertarianism, which seeks to retain capitalism while curing it of monopoly, has always been fighting. In the anti-mercantilist epoch, its champion was Adam Smith. In the anti-conservative epoch, John Stuart Mill stood out as its defender.
 
 Today is the anti-socialist era. Libertarianism is fighting, dedicated with all its power and love of liberty. It does not matter whether it wins in the political sphere. What matters is not political parties but ideas.
-
-_Previous musing: [The Evils of Child Marriage (1850)](https://indianliberals.in/content/the-evils-of-child-marriage-by-ishwar-chandra-vidyasagar/)_
