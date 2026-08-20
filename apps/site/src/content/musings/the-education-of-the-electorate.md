@@ -1,44 +1,45 @@
 ---
-id: "the-education-of-the-electorate"
-title: "The Education of the Electorate"
-pubDate: "2023-01-04T07:02:59Z"
-hero_image: "/musings/stock/democracy-3.webp"
-themes:
-  - "democracy"
-language: "en"
+id: the-education-of-the-electorate
+title: The Education of the Electorate
+pubDate: 2023-01-04T07:02:59Z
+hero_image: /musings/stock/democracy-3.webp
+themes: 
+- democracy
+language: en
 needs_review: true
 draft: false
-thinker_mentions:
-  - thinker: jawaharlal-nehru
-    role: mention
-    reasoning: Nehru is mentioned in a passing anecdote about a candidate whose only qualification was personal access to Nehru, illustrating the corruption of the patronage system under the licence-permit raj.
-    evidence:
-      - quote: "His only claim was that he could see Pandit Nehru at any time of the day without a formal engagement for an interview!"
-        context: Nehru used as an index of political patronage — access to Nehru stood in place of merit for candidacy
-    key_passages: []
+thinker_mentions: 
+- thinker: jawaharlal-nehru
+  role: mention
+  reasoning: Nehru is mentioned in a passing anecdote about a candidate whose only qualification was personal access to Nehru, illustrating the corruption of the patronage system under the licence-permit raj.
+  evidence: 
+  - quote: His only claim was that he could see Pandit Nehru at any time of the day without a formal engagement for an interview!
+    context: Nehru used as an index of political patronage, access to Nehru stood in place of merit for candidacy
+  key_passages: []
 related_thinkers: 
-  - jawaharlal-nehru
-source_channel: "so-musings"
-proposed_themes:
-  - "electoral-politics"
-  - "voter-psychology"
-key_concepts:
-  - "voter-cynicism"
-  - "adult-suffrage"
-  - "electoral-strategy"
-  - "urban-constituencies"
+- jawaharlal-nehru
+source_channel: so-musings
+proposed_themes: 
+- electoral-politics
+- voter-psychology
+key_concepts: 
+- voter-cynicism
+- adult-suffrage
+- electoral-strategy
+- urban-constituencies
 pull_quote: The characteristics of the electorate everywhere determine the quality of democracy and its influence on beneficial or otherwise affairs.
 stance: analyzes
 kind: periodical-article
 period_window: nehruvian-era
-geographic_scope:
+geographic_scope: 
   scale: national
   places: []
+author: ma-venkata-rao
 ---
 
 _MA Venkata Rao published this piece in the October 1961 issue of The Indian Libertarian magazine  The edition was published amid the time when India’s frontier policy failed. M. A. Venkata Rao in “The Education Of The Electorate,” highlighted the strategy needed for winning the votes through the purview of the economic standing of the voters in order to maintain a national democratic stand._
 
-_You can read the original, unabridged version _[_here_](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-oct1-1961.pdf)_. __ _
+_You can read the original, unabridged version _[_here_](https://indianliberals.in/the-indian-libertarian/the-indian-libertarian-oct1-1961.pdf)_._
 
 The characteristics of the electorate everywhere determine the quality of democracy and its influence on beneficial or otherwise affairs. In our country today, we have substantial constituencies consisting of voters given political rights on an adult basis irrespective of property, education and sex. For the Lok Sabha, we have constituencies running into lakhs of voters in rural areas, spreading over several townships. To contact them would require ample funds for conveyance and great leisure. Only men of means can contemplate candidature for Lok Sabha or men favoured by parties with significant funds to "invest" in the enterprise of capturing power.
 
@@ -84,7 +85,7 @@ The second snag in the electoral process that any candidate comes up against is 
 
 It has been found that where an appeal is made straight to the national and democratic consciousness of the people, caste barriers have been crossed to a considerable and encouraging extent. The present writer received a few hundred votes even from Muslims, after a straight appeal in a single speech in a predominantly Muslim locality! It is wrong to assume that Hindus will vote Hindus and Muslims will vote Muslims, that Brahmins will vote Brahmins and Non-brahmins, Non-brahmins and so on. It is the sacred duty of the candidate and his supporting party not to appeal to sectarian motives but to have faith in human nature and the higher feelings of nationalism and democracy, even in uneducated, unsophisticated voters. It is a mistake to think that formal education confers any superiority on the graduate. The unlettered person can better understand ethical motives and react to moral appeals than the educated classes. The ignorant persons lack information about the world, but they are wise judges of character and can judge who is a better representative to speak for them in parliament. The feeling of participation in a human and classless way with teh lives, hopes, and fears of the masses counts in the electoral process. This can be conveyed to the uneducated more easily than doctrines regarding democracy.
 
-But the voter also needs some basic information to vote intelligently and to have the right expectations about democratic government. All voters, whether literate or illiterate, should understand the constitution and its fundamental rights. The role of the press, the distinction of the party from government, the responsibility of Ministers, the difference between delegate and democratic member of parliament and the duty of using his best judgement–such information should be imparted to the voters. Non-party Voter’s Clubs best do it, one for each Assembly constituency, which ought to develop into a primary face-to-face association, cutting across wealth, office, birth, education and political power. Such Clubs run on a non-party basis should develop into primary cells of the national democratic organism. They will take the sting out of the party boss system.
+But the voter also needs some basic information to vote intelligently and to have the right expectations about democratic government. All voters, whether literate or illiterate, should understand the constitution and its fundamental rights. The role of the press, the distinction of the party from government, the responsibility of Ministers, the difference between delegate and democratic member of parliament and the duty of using his best judgement, such information should be imparted to the voters. Non-party Voter’s Clubs best do it, one for each Assembly constituency, which ought to develop into a primary face-to-face association, cutting across wealth, office, birth, education and political power. Such Clubs run on a non-party basis should develop into primary cells of the national democratic organism. They will take the sting out of the party boss system.
 
 Patriotism demands that some educated persons come forward to form and develop such Voter’s Clubs all over the country.
 
@@ -101,5 +102,3 @@ Also, the voter should refrain from selling his vote on otherwise misusing it. H
 A candidate from a high family in the last elections stood as an independent for the Lok Sabha and was supported by the communist party. His only claim was that he could see Pandit Nehru at any time of the day without a formal engagement for an interview! A business magnate paid his election expenses in the hope that such a person could obtain permits, quotas, and licenses that could compensate. He was also a comic poet and brought cinema stars, male and female, to gather huge audiences for him. And he succeeded in getting 45,000 votes though he hailed from a different part of the country and did not know the voters' language!
 
 The voter's frustration could be overcome by pointing to the opportunities for rising for them in the local bodies, which they could later use as stepping stones for the Lok Sabha or Assembly. Participation in Voter’s Clubs will restore the human touch and fill the void to a great extent.
-
-_Previous musing: [The Universality of Human Values](https://indianliberals.in/content/the-universality-of-human-values/)_
