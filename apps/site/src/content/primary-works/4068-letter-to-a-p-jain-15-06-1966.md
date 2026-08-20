@@ -11,6 +11,8 @@ related_thinkers: []
 publication:
   language: en
   place: "NEW DELHI"
+  year: 1966
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: poor

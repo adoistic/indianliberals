@@ -14,6 +14,8 @@ publication:
   issuer_id: swatantra-party
   publisher_name: "SWATANTRA PARTY GENERAL COUNCIL"
   place: "Bombay"
+  year: 1971
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

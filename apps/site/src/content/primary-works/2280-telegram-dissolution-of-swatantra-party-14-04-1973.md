@@ -14,6 +14,8 @@ publication:
   issuer_id: swatantra-party
   publisher_name: "PRESIDENT SWATANTRA PARTY\n2 LODI ESTATE ND 3"
   place: "New Delhi"
+  year: 1973
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: good

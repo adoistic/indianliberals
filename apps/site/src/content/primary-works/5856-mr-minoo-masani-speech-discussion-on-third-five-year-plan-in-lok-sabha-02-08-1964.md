@@ -13,6 +13,7 @@ related_thinkers: []
 publication:
   language: en
   year: 1961
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

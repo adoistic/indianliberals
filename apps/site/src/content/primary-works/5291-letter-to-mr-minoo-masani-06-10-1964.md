@@ -12,6 +12,8 @@ publication:
   language: en
   issuer_id: swatantra-party
   place: "PATIALA"
+  year: 1964
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

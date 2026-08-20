@@ -12,6 +12,7 @@ publication:
   language: en
   place: "NEW DELHI-5"
   year: 1970
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

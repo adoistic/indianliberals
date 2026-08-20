@@ -14,6 +14,7 @@ publication:
   publisher_name: "ISSUED BY THE NATIONAL HEADQUARTERS OF THE SWATANTRA PARTY, 143 MAHATMA GANDHI ROAD, BOMBAY, TELEPHONE No. 251434"
   place: "Bombay"
   year: 1969
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

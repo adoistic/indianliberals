@@ -13,6 +13,7 @@ publication:
   language: en
   publisher_name: "SUPPLEMENT TO “CAPITAL”, 30th JANUARY, 1975"
   year: 1975
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

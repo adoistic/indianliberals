@@ -14,6 +14,8 @@ publication:
   issuer_id: swatantra-party
   publisher_name: "SWADANTRA PARTY"
   place: "Madras"
+  year: 1977
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

@@ -12,6 +12,7 @@ publication:
   language: en
   place: "Shillong, Assam"
   year: 1959
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

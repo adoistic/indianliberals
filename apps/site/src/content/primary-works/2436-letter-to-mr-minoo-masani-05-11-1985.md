@@ -12,6 +12,7 @@ publication:
   language: en
   place: "BOMBAY"
   year: 1984
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

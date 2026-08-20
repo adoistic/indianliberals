@@ -13,6 +13,8 @@ publication:
   language: en
   issuer_id: indian-liberal-group
   place: "Mumbai"
+  year: 2003
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

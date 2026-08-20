@@ -14,6 +14,7 @@ publication:
   language: en
   place: "Mumbai"
   year: 2008
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

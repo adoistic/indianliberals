@@ -13,6 +13,7 @@ publication:
   issuer_id: swatantra-party
   place: "Mullakkal Junction, Alleppey, Kerala"
   year: 1974
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: good

@@ -11,6 +11,8 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
+  year: 1966
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

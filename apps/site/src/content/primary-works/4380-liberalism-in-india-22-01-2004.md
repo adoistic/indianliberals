@@ -12,6 +12,8 @@ related_thinkers: []
 publication:
   language: en
   place: "Mangalore"
+  year: 2004
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

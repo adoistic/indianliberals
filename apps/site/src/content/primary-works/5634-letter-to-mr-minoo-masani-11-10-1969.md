@@ -11,6 +11,8 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
+  year: 1969
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: poor

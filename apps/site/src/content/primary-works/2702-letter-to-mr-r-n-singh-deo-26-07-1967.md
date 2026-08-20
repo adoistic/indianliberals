@@ -11,6 +11,8 @@ related_thinkers: []
 publication:
   language: en
   publisher_name: "THE CENTRAL BANK OF INDIA LTD."
+  year: 1967
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

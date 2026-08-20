@@ -14,6 +14,7 @@ publication:
   publisher_name: "swatantra party national headquarters sassoon building, 143 mahatma gandhi road, bombay 1."
   place: "Bombay"
   year: 1971
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

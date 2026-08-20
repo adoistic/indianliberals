@@ -15,6 +15,7 @@ publication:
   publisher_name: "Printed by: JAYANT ART PRINTERY PVT. LTD. TARDEO, BOMB[AY]"
   place: "Bombay"
   year: 1959
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

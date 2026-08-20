@@ -14,6 +14,7 @@ publication:
   publisher_name: "Swatantra Party Parliamentary Office"
   place: "NEW DELHI-1"
   year: 1968
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

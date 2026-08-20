@@ -11,6 +11,8 @@ related_thinkers: []
 publication:
   language: en
   place: "Benares"
+  year: 1959
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: poor

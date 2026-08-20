@@ -12,6 +12,7 @@ publication:
   language: en
   publisher_name: "Gujarat Herald"
   year: 1964
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

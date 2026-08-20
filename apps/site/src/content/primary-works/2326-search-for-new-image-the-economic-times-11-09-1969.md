@@ -11,6 +11,8 @@ related_thinkers: []
 publication:
   language: en
   publisher_name: "THE ECONOMIC TIMES"
+  year: 1969
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

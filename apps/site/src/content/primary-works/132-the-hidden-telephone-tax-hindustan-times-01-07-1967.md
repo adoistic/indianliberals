@@ -13,6 +13,7 @@ publication:
   language: en
   publisher_name: "Hindustan Times"
   year: 1969
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

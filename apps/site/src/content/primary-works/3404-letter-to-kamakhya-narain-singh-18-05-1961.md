@@ -14,6 +14,7 @@ publication:
   publisher_name: "THE NEW INDIA ASSURANCE CO., LTD. BOMBAY."
   place: "Bombay"
   year: 1963
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

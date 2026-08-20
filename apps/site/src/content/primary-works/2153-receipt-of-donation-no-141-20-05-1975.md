@@ -14,6 +14,7 @@ publication:
   publisher_name: "SWATANTRA PARTY\nMaharashtra Region\nSassoon Building, 143, Mahatma Gandhi Road.\nBOMBAY -1."
   place: "BOMBAY -1"
   year: 1966
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

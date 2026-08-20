@@ -15,6 +15,7 @@ publication:
   publisher_name: "SWATANTRA PARTY"
   place: "Bombay"
   year: 1961
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

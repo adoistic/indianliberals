@@ -11,6 +11,8 @@ related_thinkers: []
 publication:
   language: en
   place: "Moscow"
+  year: 1927
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

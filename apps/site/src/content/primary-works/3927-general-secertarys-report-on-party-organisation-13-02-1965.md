@@ -14,6 +14,7 @@ publication:
   language: en
   issuer_id: swatantra-party
   year: 1967
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

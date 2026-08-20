@@ -14,6 +14,7 @@ publication:
   publisher_name: "Swatantra Party (Bombay Office)"
   place: "BOMBAY"
   year: 1958
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

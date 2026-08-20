@@ -12,6 +12,8 @@ publication:
   language: en
   publisher_name: "Hindustan Times"
   place: "Madras"
+  year: 1971
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

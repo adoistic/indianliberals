@@ -14,6 +14,7 @@ publication:
   publisher_name: "Swatantra Party Central Office"
   place: "Bombay 1"
   year: 1969
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

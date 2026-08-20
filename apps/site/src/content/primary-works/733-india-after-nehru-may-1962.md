@@ -11,6 +11,8 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
+  year: 1962
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

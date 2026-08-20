@@ -14,6 +14,7 @@ publication:
   publisher_name: "Swatantra Party\nPARLIAMENTARY OFFICE"
   place: "New Delhi"
   year: 1964
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

@@ -13,6 +13,7 @@ publication:
   publisher_name: "Statesman, Delhi"
   place: "Delhi"
   year: 1963
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

@@ -13,6 +13,8 @@ publication:
   issuer_id: swatantra-party
   publisher_name: "Swatantra Party"
   place: "Bombay 1"
+  year: 1962
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: poor

@@ -13,6 +13,7 @@ publication:
   language: en
   place: "Bombay"
   year: 1975
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

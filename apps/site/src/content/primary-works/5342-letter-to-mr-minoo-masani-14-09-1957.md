@@ -13,6 +13,7 @@ publication:
   issuer_id: swatantra-party
   place: "Saharanpur"
   year: 1959
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

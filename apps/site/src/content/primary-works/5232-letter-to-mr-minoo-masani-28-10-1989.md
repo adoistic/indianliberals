@@ -14,6 +14,7 @@ publication:
   publisher_name: "THE SWATANTRA PARTY\nSOUTH KANARA DISTRICT UNIT\nHAMPANKATTA, MANGALORE-1."
   place: "Mangalore"
   year: 1959
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

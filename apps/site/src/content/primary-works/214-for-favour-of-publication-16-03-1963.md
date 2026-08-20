@@ -13,6 +13,8 @@ related_thinkers: []
 publication:
   language: en
   place: "Bombay"
+  year: 1963
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: poor

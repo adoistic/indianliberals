@@ -14,6 +14,8 @@ publication:
   issuer_id: swatantra-party
   publisher_name: "SWATANTRA PARTY\nOrganising Committee for Greater Bombay"
   place: "Bombay"
+  year: 1959
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

@@ -13,6 +13,8 @@ publication:
   language: en
   issuer_id: swatantra-party
   place: "Hyderabad"
+  year: 1972
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: poor

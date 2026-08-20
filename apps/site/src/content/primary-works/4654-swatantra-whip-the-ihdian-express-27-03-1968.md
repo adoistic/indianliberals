@@ -12,6 +12,8 @@ publication:
   language: en
   publisher_name: "Indian Express"
   place: "Ahmedabad"
+  year: 1968
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: poor

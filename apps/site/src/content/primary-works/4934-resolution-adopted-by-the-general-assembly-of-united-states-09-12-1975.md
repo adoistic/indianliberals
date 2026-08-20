@@ -13,6 +13,7 @@ publication:
   language: en
   place: "London"
   year: 1976
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

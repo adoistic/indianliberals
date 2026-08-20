@@ -12,6 +12,8 @@ publication:
   language: en
   publisher_name: "Indian Express"
   place: "New Delhi"
+  year: 1987
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

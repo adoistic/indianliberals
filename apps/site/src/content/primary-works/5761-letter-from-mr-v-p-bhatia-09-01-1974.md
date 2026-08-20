@@ -15,6 +15,7 @@ publication:
   publisher_name: "SWATANTRA PARTY"
   place: "Lucknow"
   year: 1973
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

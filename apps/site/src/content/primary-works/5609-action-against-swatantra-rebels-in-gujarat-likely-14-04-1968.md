@@ -12,6 +12,8 @@ publication:
   language: en
   publisher_name: "Hindustan Times"
   place: "New Delhi"
+  year: 1968
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

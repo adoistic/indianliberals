@@ -12,6 +12,7 @@ publication:
   language: en
   publisher_name: "OUTLOOK"
   year: 2014
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: good

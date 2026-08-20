@@ -13,6 +13,7 @@ publication:
   publisher_name: "The Times of India News Service"
   place: "PATNA"
   year: 1968
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

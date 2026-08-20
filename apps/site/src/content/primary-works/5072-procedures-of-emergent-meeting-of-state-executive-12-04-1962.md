@@ -15,6 +15,7 @@ publication:
   publisher_name: "SWATANTRA PARTY (ORISSA UNIT)"
   place: "Bhubaneswar"
   year: 1968
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

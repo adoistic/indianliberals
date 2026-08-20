@@ -14,6 +14,7 @@ publication:
   publisher_name: "SWATANTRA PARTY"
   place: "CALCUTTA"
   year: 1959
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

@@ -12,6 +12,7 @@ publication:
   language: en
   place: "Guntur"
   year: 1976
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

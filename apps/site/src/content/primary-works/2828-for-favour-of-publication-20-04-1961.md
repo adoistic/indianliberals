@@ -14,6 +14,8 @@ publication:
   issuer_id: swatantra-party
   publisher_name: "Swatantra Party — CENTRAL OFFICE"
   place: "Bombay 1"
+  year: 1961
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

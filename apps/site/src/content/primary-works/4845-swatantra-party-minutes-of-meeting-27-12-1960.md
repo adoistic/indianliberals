@@ -15,6 +15,7 @@ publication:
   issuer_id: swatantra-party
   place: "Madras"
   year: 1969
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

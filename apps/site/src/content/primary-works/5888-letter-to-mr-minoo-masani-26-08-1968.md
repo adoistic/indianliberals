@@ -12,6 +12,7 @@ publication:
   language: en
   place: "INDORE-2"
   year: 1967
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

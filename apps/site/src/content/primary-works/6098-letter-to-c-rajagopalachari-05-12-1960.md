@@ -13,6 +13,7 @@ publication:
   issuer_id: swatantra-party
   place: "Madras-17"
   year: 1962
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

@@ -12,6 +12,7 @@ publication:
   language: en
   place: "Madras"
   year: 1964
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

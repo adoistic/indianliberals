@@ -13,6 +13,7 @@ publication:
   issuer_id: swatantra-party
   place: "Nagpur (Rajasthan)"
   year: 1968
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

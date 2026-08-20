@@ -14,6 +14,8 @@ publication:
   language: en
   issuer_id: swatantra-party
   publisher_name: "A SWATANTRA PARTY PUBLICATION"
+  year: 1967
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

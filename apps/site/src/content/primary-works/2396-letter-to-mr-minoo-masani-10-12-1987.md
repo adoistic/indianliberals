@@ -13,6 +13,7 @@ publication:
   publisher_name: "Government of India\nDirectorate of Estates"
   place: "New Delhi"
   year: 1957
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

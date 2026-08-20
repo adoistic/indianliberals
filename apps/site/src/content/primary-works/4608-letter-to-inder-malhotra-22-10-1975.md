@@ -15,6 +15,7 @@ publication:
   publisher_name: "Rajkot Swatantra Party"
   place: "Rajkot"
   year: 1968
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

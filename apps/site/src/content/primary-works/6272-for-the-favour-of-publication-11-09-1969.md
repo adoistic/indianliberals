@@ -14,6 +14,8 @@ publication:
   issuer_id: swatantra-party
   publisher_name: "Swatantra Party National Headquarters"
   place: "Bombay"
+  year: 1969
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: poor

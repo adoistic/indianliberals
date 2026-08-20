@@ -13,6 +13,7 @@ publication:
   publisher_name: "THE ASSOCIATED CEMENT COMPANIES, LIMITED"
   place: "Bombay"
   year: 1976
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

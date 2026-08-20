@@ -52,6 +52,7 @@ SCAN_QUALITY = {"strong": "good", "adequate": "fair", "weak": "fair", "faint": "
 # The six fields driver.py escalates to Opus on disagreement.
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from filename_worktype import apply as fw_apply  # noqa: E402
+from filename_year import apply as fy_apply  # noqa: E402
 
 CONSISTENCY = ("work_type", "year", "title", "publisher", "byline", "thinker_ids")
 
@@ -142,6 +143,13 @@ def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):
     work_type, wt_source = fw_apply(name, meta.get("work_type") or "letter")
     purpose = meta.get("purpose")
     year = scalar(dig(meta, "publication.year"))
+    # The cataloguer typed the date into the filename for most of this corpus,
+    # and on the 5,290 works where the model also read one off the page the two
+    # agree 97.6% of the time. That is good enough to FILL a missing year, and
+    # deliberately not good enough to replace one: where they disagree the
+    # model saw the document and the filename may only record when a letter was
+    # received or filed. Conflicts are surfaced, not resolved.
+    year, year_source = fy_apply(name, year if isinstance(year, int) else None)
     # scalar() on every one of these, not just the ones the schema declares as
     # wrapped. Luna occasionally returns {value, confidence} for a field the
     # schema says is a plain string; without the unwrap that dict reaches the
@@ -201,6 +209,8 @@ def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):
         L.append(f"  place: {y(place)}")
     if isinstance(year, int):
         L.append(f"  year: {year}")
+        if year_source in ("filename", "conflict"):
+            L.append(f"  year_source: {year_source}")
     L += ["provenance:", "  source: ccs_archive",
           f"  scan_quality: {SCAN_QUALITY.get(inv_row.get('legibility',''), 'unknown')}",
           f"  notes: {y(MERGED)}",

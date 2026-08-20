@@ -12,6 +12,7 @@ publication:
   language: en
   place: "New Delhi"
   year: 1963
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair

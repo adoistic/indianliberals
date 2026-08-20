@@ -13,6 +13,8 @@ publication:
   issuer_id: swatantra-party
   publisher_name: "swatantra party national headquarters"
   place: "Bombay"
+  year: 1971
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

@@ -15,6 +15,7 @@ publication:
   publisher_name: "Amnesty International\nInternational Secretariat\n53 Theobald's Road\nLondon WC1X 8SP"
   place: "London"
   year: 1976
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: poor

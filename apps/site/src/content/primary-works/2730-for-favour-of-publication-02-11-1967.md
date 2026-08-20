@@ -13,6 +13,8 @@ publication:
   language: en
   issuer_id: swatantra-party
   place: "Bombay"
+  year: 1967
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

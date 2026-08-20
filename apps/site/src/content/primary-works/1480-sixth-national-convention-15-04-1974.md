@@ -13,6 +13,8 @@ publication:
   issuer_id: swatantra-party
   publisher_name: "Swatantra Party"
   place: "Madras"
+  year: 1974
+  year_source: filename
 provenance:
   source: ccs_archive
   scan_quality: fair

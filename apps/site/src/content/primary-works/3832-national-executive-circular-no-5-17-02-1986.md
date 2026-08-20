@@ -16,6 +16,7 @@ publication:
   publisher_name: "Swatantra Party\nCENTRAL OFFICE"
   place: "Bombay"
   year: 1966
+  year_source: conflict
 provenance:
   source: ccs_archive
   scan_quality: fair
