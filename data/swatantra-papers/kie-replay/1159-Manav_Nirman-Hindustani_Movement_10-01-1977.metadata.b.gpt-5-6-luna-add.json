@@ -1,0 +1,33 @@
+{
+ "slug": "1159-Manav_Nirman-Hindustani_Movement_10-01-1977",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 32.2,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40050
+ },
+ "image_bytes": [
+  444297,
+  407212
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 22856,
+  "output_tokens": 1105,
+  "input_tokens": 21751,
+  "output_tokens_details": {
+   "reasoning_tokens": 154
+  }
+ },
+ "credits_consumed": 0.32,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"MANAV NIRMAN\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Manib Mehta,\",\n      \"honorifics\": [],\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1977,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Two-page typed office letter on Hindustani Movement letterhead\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"individual-rights\",\n    \"civil-liberty\",\n    \"religious-freedom\",\n    \"party-politics\",\n    \"governance-reform\",\n    \"anti-corruption\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"publisher\",\n    \"publisher_id\",\n    \"issuer_id\",\n    \"editor_not_named\",\n    \"toc\",\n    \"identifiers\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Manib Mehta\",\n      \"language\": \"en\",\n      \"context\": \"Signer of the letter, identified at the end as National Convenor, Hindustani Movement.\",\n      \"page\": 2\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Hindustani Movement\",\n      \"language\": \"en\",\n      \"context\": \"Organisation named in the letterhead and in the signer's office title.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Indians in Service of India\",\n      \"language\": \"en\",\n      \"context\": \"Organisation named beneath Hindustani Movement in the letterhead.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The document is addressed 'Dear Friend,' dated 10th January 1977, and closes with 'Yours sincerely' before the signer's name and office. The heading 'MANAV NIRMAN' is printed as the document title. The handwritten mark above the letterhead is not treated as editorial or authorial credit.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is a single letter-as-publication rather than a pamphlet: it has a date, salutation ('Dear Friend,'), direct second-person address, complimentary close, and a named signatory. It is not a telegram because the page uses normal prose and includes both salutation and close.\",\n    \"purpose\": \"No controlled purpose qualifier is printed or required for this letter, so purpose is null.\",\n    \"language\": \"The visible text is entirely in Roman-script English; no Indian-language script is present.\",\n    \"authors_resolution\": \"The signatory is printed as 'Manib Mehta,'. That name was searched against the supplied canonical names and aliases; no binary authority match was found, so thinker_id is null and human review is required.\",\n    \"year\": \"The letterhead date on page 1 reads '10th January, 1977'; the year is therefore recorded with high confidence.\",\n    \"publisher\": \"No publisher line is printed. The letterhead names 'HINDUSTANI MOVEMENT' and 'INDIANS IN SERVICE OF INDIA', but neither resolves to a supplied organisation authority ID.\",\n    \"toc\": \"No formal table of contents is present; the two rendered pages are the complete visible document.\"\n  }\n}",
+ "failed": null
+}

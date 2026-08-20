@@ -41,7 +41,6 @@ CUES = [
     ("minutes",         "minutes"),
     ("circular",        "circular"),
     ("resolution",      "resolution"),
-    ("memorandum",      "pamphlet"),
     ("lecture",         "lecture"),
     ("speech",          "speech"),
     ("address_by",      "speech"),
@@ -74,10 +73,16 @@ def _rank(wt):
 
 
 def derive(filename):
-    """Return (work_type, cue) from a filename, or (None, None)."""
-    low = re.sub(r"[^a-z0-9]+", "_", filename.lower())
+    """Return (work_type, cue) from a filename, or (None, None).
+
+    The cue must sit on a token boundary. A bare substring test matches
+    "cable" inside "Resignation_Decision_Irrevocable" and files a newspaper
+    statement as a telegram. The trailing [a-z]* lets plurals and inflections
+    through ("Telegrams", "Minutes", "Cabled") without reopening that hole.
+    """
+    low = "_" + re.sub(r"[^a-z0-9]+", "_", filename.lower()).strip("_") + "_"
     for cue, wt in CUES:
-        if cue in low:
+        if re.search(r"_" + cue + r"[a-z]*_", low):
             return wt, cue
     return None, None
 

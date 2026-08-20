@@ -38,6 +38,7 @@ from pathlib import Path
 
 REPO = Path(__file__).resolve().parents[2]
 BAKE = REPO / "data/bake-off-output"
+CLOUD = REPO / "data/swatantra-papers/cloud-results"
 CONTENT = REPO / "apps/site/src/content/primary-works"
 THINKERS = REPO / "apps/site/src/content/thinkers"
 INVENTORY = REPO / "data/swatantra-papers/inventory.tsv"
@@ -263,7 +264,18 @@ def main():
     merged = skipped = foreign = no_summary = 0
     all_dropped, review_count, disagreements = [], 0, 0
 
-    dirs = sorted(d for d in BAKE.iterdir() if d.is_dir() and d.name in inv)
+    # Two extraction roots: the original Sonnet bake, and the Luna cloud run.
+    # BAKE is listed first so that on any slug present in both, the Sonnet
+    # record wins — it is the more accurate model, and re-extraction should
+    # never silently downgrade a work we already did well.
+    found = {}
+    for root in (BAKE, CLOUD):
+        if not root.exists():
+            continue
+        for d in root.iterdir():
+            if d.is_dir() and d.name in inv and d.name not in found:
+                found[d.name] = d
+    dirs = [found[k] for k in sorted(found)]
     if a.limit:
         dirs = dirs[:a.limit]
 

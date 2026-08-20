@@ -62,6 +62,7 @@ ADDENDUM = REPO / "scripts/llm-extract/prompts/metadata-weak-model-addendum.md"
 VENV = os.environ.get("LLM_EXTRACT_PYTHON", str(REPO / ".venv-extract/bin/python3"))
 DRIVER = REPO / "scripts/llm-extract/driver.py"
 PROGRESS = REPO / "data/swatantra-papers/kie-ingest-progress.tsv"
+UNPARSEABLE = REPO / "data/swatantra-papers/kie-unparseable"
 FETCH_DIR = Path(os.environ.get("SWATANTRA_FETCH_DIR", "/tmp/swatantra-pdfs"))
 ENDPOINT = "https://api.kie.ai/codex/v1/responses"
 MODEL = "gpt-5-6-luna"
@@ -283,7 +284,13 @@ def do_work(pdf_name, key, addendum_text, source="local"):
                     return slug, False, credits
                 parsed = parse_json(text)
                 if parsed is None:
-                    record(slug, job, "UNPARSEABLE")
+                    # Keep the raw response. Without it a retry pass is blind:
+                    # prose, a truncated object and a mis-fenced block all look
+                    # identical here, and they need different fixes.
+                    UNPARSEABLE.mkdir(parents=True, exist_ok=True)
+                    (UNPARSEABLE / f"{slug}.{job}.txt").write_text(
+                        text, encoding="utf-8")
+                    record(slug, job, f"UNPARSEABLE chars={len(text)}")
                     return slug, False, credits
                 out.mkdir(parents=True, exist_ok=True)
                 (out / fname).write_text(

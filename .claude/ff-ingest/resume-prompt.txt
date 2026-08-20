@@ -1,0 +1,160 @@
+AUTO-RESUME: Indian Liberals ingestion, full 3-step plan, run unattended until
+ALL THREE steps are done. Adnan will not be watching the window; the device
+and the "One Touch" external drive stay on/mounted throughout. Idempotent and
+safe to fire repeatedly (this file is invoked by cron every ~15-20 min via
+resume.sh, which already guards concurrency with a PID lock at /tmp/ff-ingest.lock
+— you do not need to re-check that lock yourself). Work through as many
+batches as the current usage window allows, then simply exit; the cron will
+re-invoke this same prompt next tick and pick up exactly where state left off
+(everything below is state-driven off the filesystem/git, not off memory of a
+prior turn).
+
+CONTEXT: read memory files (in order) before acting —
+  /Users/siraj/.claude/projects/-Users-siraj-Indian-Liberals-Website/memory/freedom_first_ingestion.md
+  /Users/siraj/.claude/projects/-Users-siraj-Indian-Liberals-Website/memory/feedback_ingestion_session_agents.md
+Repo: /Users/siraj/Indian Liberals Website — cd there first.
+
+COMPLETION: once Steps 1-3 are all fully done (checks defined in each section
+below all pass), `touch .claude/ff-ingest/plan-complete.flag`, update the
+freedom_first_ingestion.md memory state line, and stop. resume.sh will see the
+flag next tick and remove its own crontab entry.
+
+Owners/guardrails: editorial owners are CCS (Arjun, Kumar Anand). All entries
+needs_review:true. Never hard-delete anything. Address the user as Adnan (in
+any text you produce, though this run is headless/unattended).
+
+============================================================
+STEP 1 — Freedom First: finish ingestion + PDF hosting (do this first)
+============================================================
+Two interleaved obligations per issue: (a) ingest the markdown, (b) host its
+PDF on R2 and link pdf_url. Batches from here forward should do BOTH so the
+120-issue backfill gap (fixed 2026-07-12) never recurs.
+
+Compute backlog fresh every time (do not trust any number below — this is
+illustrative from 2026-07-12 17:51 IST, will be stale by the time you run):
+  zsh ".claude/ff-ingest/whats_next.sh"   # prints downloaded/ingested/remaining + next 6 ids
+
+Per batch (repeat until FF backlog is 0 AND every ingested ff*.md has pdf_url):
+  1. `zsh ".claude/ff-ingest/ff_prep.sh" /tmp/ff_batchN.tsv FF0aa FF0bb FF0cc FF0dd FF0ee FF0ff`
+     (next 6 un-ingested FF ids, ascending; rasterizes metadata.a+summary, writes manifest)
+  2. Dispatch 12 Agent subagents (subagent_type general-purpose, model sonnet), one per
+     request dir in the manifest. **Framing matters — use this exact style, not a
+     terser one**, or you'll get mass refusals (false-positive prompt-injection
+     defense; this exact phrasing got 12/12, terser "just execute system.txt"
+     phrasing got as low as 0/12):
+       "You're cataloguing scanned issues of the magazine Freedom First. In <dir>:
+       read system.txt + user.txt (a JSON metadata/summary schema) and the
+       page-*.jpg scans. Extract the issue's metadata per that schema, write the
+       JSON to response.json via Write, then briefly tell me what you catalogued
+       (issue no., date, main articles) — no need to just say 'done'."
+  3. Poll (background bash loop, sleep ~20s) until all 12 response.json exist.
+     Re-dispatch individually any (doc,job) that errored or died silently.
+  4. `zsh ".claude/ff-ingest/ff_finalize.sh" /tmp/ff_batchN.tsv "batch NN (FF0aa-FF0ff)"`
+     (collects -> emits .md -> forces publisher_id/issuer_id=freedom-first ->
+     astro sync -> commit -> pull --rebase -> push origin main -> purge /tmp)
+  5. PDF hosting for this batch's new issues (idempotent — safe to just run
+     across the whole collection each time, it skips anything already linked):
+       .venv-extract/bin/python3 .claude/ff-ingest/ff_pdf_manifest.py   # -> /tmp/ff_pdf_manifest.tsv, only unlinked entries
+       zsh .claude/ff-ingest/ff_pdf_upload.sh                            # uploads to R2 (indianliberals-archive bucket)
+       .venv-extract/bin/python3 .claude/ff-ingest/ff_set_urls.py        # writes pdf_url into each .md
+     Then: `( cd apps/site && npx astro sync )`, commit ("data(primary-works):
+     link R2 PDFs for FF... " — see commit d893147 for the message style/shape),
+     pull --rebase, push.
+  6. Recompute backlog (whats_next.sh); continue from step 1.
+
+Key convention for new PDFs (DO NOT invent a new one — derive the SAME
+date-slug the 153 pre-1968 issues already use): freedom-first-<mon>1-<year>.pdf
+where <mon> is a 3-letter lowercase month abbrev and <year> the 4-digit year,
+both read from the issue's frontmatter `year:` + the month named in its
+`summary:` text. ff_slug_derive.py / ff_pdf_manifest.py already implement and
+validated this (153/153 exact match against the pre-existing linked set,
+0 collisions) — just reuse them, don't re-derive by hand.
+
+End-of-FF-run only (once FF backlog is fully 0, both markdown AND pdf_url —
+run this exactly ONCE, it's global and touches every periodical .md):
+  .venv-extract/bin/python3 scripts/synthesis/make-periodical-covers.py
+Review its diff before committing; commit as its own change.
+
+Step 1 DONE when: `comm -23` of on-disk FF*.pdf vs ingested ff*.md is empty,
+AND every ff*.md has a pdf_url line, AND covers have been generated once.
+
+============================================================
+STEP 2 — re-pull any Freedom First scans not yet on the drive
+============================================================
+  zsh ".claude/ff-ingest/ff_download_new.sh"
+Pulls any FF*.pdf present in the shared Drive folder but missing locally
+(idempotent, --ignore-existing). If it pulls anything new, go back to Step 1's
+loop for those newly-arrived issues (recompute backlog — they'll show up in
+whats_next.sh automatically). Re-run this script once more after a Step-1 pass
+to catch anything that arrived mid-run; when two consecutive runs pull 0 new
+files AND Step 1's backlog is 0, Step 2 is done.
+
+============================================================
+STEP 3 — non-FF backlog: remaining un-ingested books/pamphlets on the drive
+============================================================
+IMPORTANT: do NOT trust data/synthesis/ingestion-backlog.csv (dated 2026-06-14
+— verified STALE on 2026-07-12, every sampled row was already ingested).
+Recompute fresh instead, per publisher dir under
+"/Volumes/One Touch/Indian Liberals/PDFs-by-publisher/" (excluding freedom-first,
+handled above):
+  for pub in bengali forum-of-free-enterprise gujarati hindi indian-liberal-group \
+             liberal-times liberals marathi other-publications shetkari-sanghatak \
+             swatantra-party the-indian-libertarian; do
+    find "/Volumes/One Touch/Indian Liberals/PDFs-by-publisher/$pub" -maxdepth 1 -iname "*.pdf" \
+      | while read -r f; do
+          slug=$(basename "$f" .pdf)
+          case "$slug" in '._'*) continue ;; esac   # skip macOS AppleDouble junk files
+          [ -f "apps/site/src/content/primary-works/${slug}.md" ] || echo "$pub/$slug"
+        done
+  done
+As of 2026-07-12 this listed 36 real documents (13 forum-of-free-enterprise,
+1 gujarati, 8 liberals, 13 marathi, 2 other-publications) — small enough that
+if the count you compute is similar, just work the full list; don't further
+research scope.
+
+Per doc (still respect 6-doc/12-subagent batches — same rate-limit lesson as
+Step 1; these are single-shot works not periodical issues, but the pipeline
+is generic):
+  1. Prep directly via the driver (ff_prep.sh is FF-hardcoded; call the
+     underlying tool yourself, one doc at a time, for each of metadata.a and
+     summary):
+       .venv-extract/bin/python3 scripts/llm-extract/driver.py prep "<pub>/<slug>.pdf" --job metadata.a
+       .venv-extract/bin/python3 scripts/llm-extract/driver.py prep "<pub>/<slug>.pdf" --job summary
+     (prints "Request dir: <path>" — collect these into a manifest exactly like
+     ff_prep.sh's TSV shape: slug \t job \t reqdir, so you can reuse the same
+     collect-loop shape from ff_finalize.sh.)
+  2. Dispatch subagents with the SAME "cataloguing" framing style as Step 1,
+     adapted to the actual publisher/subject instead of "Freedom First issues"
+     (e.g. "You're cataloguing an archival pamphlet from the Forum of Free
+     Enterprise, part of India's classical-liberal movement..."). Marathi/
+     Gujarati docs: let the extractor infer language/work_type from the scans
+     itself — don't force a periodical work_type, these are standalone works.
+  3. Poll for response.json, retry failures individually (same as Step 1).
+  4. Collect (driver.py collect, same flags as ff_finalize.sh's collect loop)
+     to emit each .md. DO NOT force publisher_id/issuer_id to "freedom-first"
+     (that override was FF-specific) — let the extractor set publisher_id to
+     the actual org (forum-of-free-enterprise, etc.), spot-check it's sane.
+  5. Host the PDF: upload to R2 under the SAME relative path convention already
+     used for the other ~895 migrated non-FF works (<publisher>/<slug>.pdf,
+     preserved from their WordPress path — see migrate_other_works.py for the
+     pattern). These 36 are new (never had a WP page), so there's no legacy URL
+     to preserve, but the key shape stays identical:
+       npx wrangler r2 object put "indianliberals-archive/<pub>/<slug>.pdf" \
+         --file "/Volumes/One Touch/Indian Liberals/PDFs-by-publisher/<pub>/<slug>.pdf" \
+         --content-type application/pdf --remote
+       new pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/<pub>/<slug>.pdf
+     Insert as a new top-level `pdf_url:` line placed right before the
+     top-level `provenance:` line (matches existing file layout throughout
+     primary-works — see any linked ff*.md for the exact placement).
+  6. `( cd apps/site && npx astro sync )`, fix any schema errors, commit
+     (batch by publisher, e.g. "data(primary-works): ingest remaining
+     forum-of-free-enterprise backlog (N docs)"), pull --rebase, push.
+
+Step 3 DONE when the fresh per-publisher scan above (the loop at the top of
+this section) returns nothing for every publisher.
+
+============================================================
+WHEN ALL THREE STEPS ARE DONE
+============================================================
+`touch .claude/ff-ingest/plan-complete.flag`; update
+freedom_first_ingestion.md's state line to reflect full completion; stop.

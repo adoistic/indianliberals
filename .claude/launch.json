@@ -1,0 +1,23 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "site-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "apps/site"],
+      "port": 4321
+    },
+    {
+      "name": "cms-dev",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev", "--prefix", "apps/cms", "--", "--port", "4323"],
+      "port": 4323
+    },
+    {
+      "name": "pages-dev",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd apps/site && npx wrangler pages dev dist --port 8788"],
+      "port": 8788
+    }
+  ]
+}

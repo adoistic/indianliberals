@@ -123,3 +123,5 @@ scripts/heading-offset/measured.json
 # Swatantra ingestion: large regenerable artifacts
 data/swatantra-papers/ocr/*.jsonl
 data/swatantra-papers/uploaded-*.tsv
+data/swatantra-papers/kie-unparseable/
+data/swatantra-papers/cloud-results/

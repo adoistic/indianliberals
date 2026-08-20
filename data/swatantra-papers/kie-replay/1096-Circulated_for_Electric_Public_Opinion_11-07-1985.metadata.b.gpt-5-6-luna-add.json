@@ -1,0 +1,33 @@
+{
+ "slug": "1096-Circulated_for_Electric_Public_Opinion_11-07-1985",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 31.6,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40056
+ },
+ "image_bytes": [
+  505267,
+  355323
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 23368,
+  "output_tokens": 1128,
+  "input_tokens": 22240,
+  "output_tokens_details": {
+   "reasoning_tokens": 160
+  }
+ },
+ "credits_consumed": 0.32,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": \"working_paper\",\n  \"title\": {\n    \"main\": {\n      \"value\": \"L. C. BILL No. XIV OF 1984\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": \"A BILL to provide for civil and criminal immunity to physicians and surgeons withdrawing life sustaining treatment from patients suffering from terminal illness\",\n      \"confidence\": \"high\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": \"MAHARASHTRA LEGISLATURE SECRETARIAT\",\n    \"issuer_id\": null,\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1985,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Legislative bill circulated for eliciting public opinion, with draft declaration and special power of attorney forms\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"health-policy\",\n    \"rule-of-law\",\n    \"individual-rights\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": []\n  },\n  \"missing_metadata_flags\": [\n    \"publisher_authority_match\",\n    \"issuer_authority_match\",\n    \"author_not_named\",\n    \"editor_not_named\",\n    \"isbn\",\n    \"issn\",\n    \"oclc\",\n    \"toc_not_present\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Maharashtra Legislature Secretariat\",\n      \"language\": \"en\",\n      \"context\": \"The legislative secretariat that issued and circulated the bill for eliciting public opinion.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Maharashtra Legislative Council\",\n      \"language\": \"en\",\n      \"context\": \"The legislative body whose council passed the motion mentioned in the circulation notice.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"V. M. SUBRAHMANYAM\",\n      \"language\": \"en\",\n      \"context\": \"Secretary (II), Maharashtra Legislative Council, named in the certification line on the draft form.\",\n      \"page\": 2\n    }\n  ],\n  \"notes\": \"The first page is dated Thursday, July 11, 1985, and states that the bill was circulated for eliciting public opinion. The bill itself is numbered XIV of 1984; the second page is a draft declaration and power of attorney form.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is an institutional legislative bill issued by the Maharashtra Legislature Secretariat and explicitly circulated for eliciting public opinion. It is therefore classified as an occasional_paper rather than a single-author essay or pamphlet; the page is not an archival office circular in the party-paper sense.\",\n    \"purpose\": \"The document presents proposed legislation and associated forms, but no more specific controlled qualifier exactly describes a legislative bill. Working_paper is used as the closest available qualifier.\",\n    \"language\": \"The substantive document is printed in English, with a bilingual Marathi-English masthead; no separate Marathi-language body text is visible.\",\n    \"authors_resolution\": \"No human byline or named author is printed. The Maharashtra Legislature Secretariat is treated as the institutional publisher/issuer candidate, but it does not resolve against the supplied organisation authority subset.\",\n    \"year\": \"The publication date printed in the masthead is Thursday, July 11, 1985; the bill number separately identifies the bill as of 1984.\",\n    \"publisher\": \"The printed institutional line is 'MAHARASHTRA LEGISLATURE SECRETARIAT' on page 1. No matching publisher or organisation authority entry was supplied, so publisher_id is null.\",\n    \"toc\": \"No formal table of contents is present; the two visible pages consist of the circulation notice, bill text, and draft forms.\"\n  }\n}",
+ "failed": null
+}

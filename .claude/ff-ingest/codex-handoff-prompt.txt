@@ -1,0 +1,265 @@
+HANDOFF: Indian Liberals Freedom First ingestion — continue from Claude Code
+=============================================================================
+Adnan's Claude weekly usage limit is running out mid-ingestion. This prompt
+is meant to be pasted into Codex (or any other coding-agent CLI with shell +
+filesystem access) to continue the exact same job unattended.
+
+REPO: /Users/siraj/Indian Liberals Website  (cd there first, git branch: main)
+
+⚠️ HARD REQUIREMENT — READ FIRST ⚠️
+This pipeline extracts metadata/summaries by VISUALLY READING scanned page
+images (page-001.jpg ... page-020.jpg, ~300-450KB JPGs of magazine pages).
+It is NOT OCR text extraction — it requires a model that can actually see
+and read images. If your Codex session is not running a vision-capable
+model, this entire pipeline cannot work and you should stop here and tell
+Adnan, rather than writing fabricated/hallucinated metadata from filenames
+alone. Confirm image support before proceeding (e.g. by reading one
+page-*.jpg from an existing request dir under /tmp/llm-extract-requests/
+and describing what's actually on it).
+
+============================================================
+CONTEXT — what this task is
+============================================================
+Ingesting a ~500-issue run of "Freedom First" (a Bombay/Mumbai classical-
+liberal magazine, 1952-2009+) into this Astro site's content collection at
+apps/site/src/content/primary-works/ff*.md. Full plan (set by Adnan,
+2026-07-12, unattended overnight/multi-day run — device + external "One
+Touch" drive stay on/mounted):
+  1. Finish Freedom First ingestion (markdown + host each PDF on R2 + link
+     pdf_url) — IN PROGRESS, this is what you're picking up.
+  2. Re-pull any FF scans not yet downloaded from the shared Drive folder
+     (already run once, found 0 new — re-run once more after step 1 is done).
+  3. Ingest the remaining ~36 non-FF documents from the drive (separate,
+     smaller backlog — NOT started yet as of this handoff).
+
+Editorial owners: CCS (Arjun and Kumar Anand). Never hard-delete anything.
+Every ingested entry gets needs_review: true (pending their review pass).
+
+============================================================
+CURRENT STATE (as of this handoff, 2026-07-12 ~23:30 IST)
+============================================================
+Run this first — it is the single source of truth, don't trust any number
+in this doc once it's more than a few minutes old:
+  zsh ".claude/ff-ingest/whats_next.sh"
+
+As of writing: 447 issues ingested, 499 scans downloaded, ~52 remaining.
+Skipped-in-sequence gaps noted (likely absent from drive, low priority,
+re-verify during step 2): FF440, FF496, FF502.
+
+A batch is IN FLIGHT under Claude Code right now: batch 75 (FF500, FF501,
+FF503, FF504, FF505, FF506). 12 background subagents were dispatched
+(metadata.a + summary per doc) and may finish before or after Claude's
+session ends. Check for their responses before re-doing this batch:
+  ls /tmp/llm-extract-requests/metadata.a/FF500-*/response.json
+  ls /tmp/llm-extract-requests/summary/FF500-*/response.json
+  (same pattern for FF501, FF503, FF504, FF505, FF506 — dir names have a
+  random hex suffix, use FF5NN-* glob)
+If all 12 response.json files exist, just run ff_finalize.sh on the
+existing manifest (see below) instead of re-prepping/re-dispatching.
+
+⚠️ SPECIAL NOTE ON FF500: this is expected to be a 56-year retrospective
+COLLECTOR'S EDITION with ~40 commissioned pieces from JP Narayan, Minoo
+Masani, Philip Spratt, Nissim Ezekiel, Usha Mehta, Soli Sorabjee, etc. — a
+different structure from a normal monthly issue. It will very likely need
+MORE than the default 20-page chunk0 render to cover properly. If the
+single-chunk extraction looks obviously incomplete/thin for an issue this
+significant, that's expected — flag it in the record (extent_caveat: true)
+rather than forcing false completeness, and note it for a dedicated
+remediation pass later (see "Known gaps" below).
+
+============================================================
+CONCURRENCY — avoid colliding with the Claude cron backstop
+============================================================
+There is a macOS user crontab entry (`ff-ingest-resume`, fires every 15 min)
+that invokes `claude -p` headlessly to keep working this same plan whenever
+a live Claude session isn't running. Once Adnan's weekly limit is hit, those
+invocations will simply fail/no-op (harmless), and will resume working
+automatically once the limit resets. To avoid it colliding with YOU (e.g.
+both grabbing the same next-batch simultaneously and double-rasterizing):
+
+Hold the same lock file the cron already respects, for as long as you are
+actively working:
+  nohup sleep 999999 >/dev/null 2>&1 &
+  echo $! > /tmp/ff-ingest.lock
+When you stop working (session end, or handing back to Adnan/Claude), release it:
+  kill $(cat /tmp/ff-ingest.lock) 2>/dev/null; rm -f /tmp/ff-ingest.lock
+This is the exact same PID-liveness lock resume.sh checks — holding it
+makes the cron skip its tick with "still running — skip this tick" instead
+of firing a colliding duplicate run.
+
+============================================================
+PER-BATCH WORKFLOW (6 docs at a time — hard rate-limit lesson, don't do more)
+============================================================
+1. Compute next batch:
+     zsh ".claude/ff-ingest/whats_next.sh"
+   Prints the next 6 un-ingested FF ids.
+
+2. Prep (rasterizes pages to JPGs + builds the extraction prompt per job):
+     zsh ".claude/ff-ingest/ff_prep.sh" /tmp/ff_batchNN.tsv FF0aa FF0bb FF0cc FF0dd FF0ee FF0ff
+   This produces 12 request dirs (one per doc × 2 jobs: metadata.a, summary)
+   and prints a manifest (also written to /tmp/ff_batchNN.tsv):
+     ff_id \t job \t request_dir
+
+3. For EACH of the 12 request dirs, you (or your own parallel
+   sub-agents/tool-calls, if Codex supports spawning them — otherwise do it
+   yourself sequentially) must:
+     a. Read <request_dir>/system.txt and <request_dir>/user.txt — user.txt
+        contains the exact JSON schema to fill in (a metadata OR summary
+        schema depending on job).
+     b. Read <request_dir>/page-001.jpg through page-0NN.jpg (however many
+        are present, up to 20) — these are the actual scanned magazine
+        pages. Actually look at them.
+     c. Extract per the schema. Follow the schema's own rules exactly
+        (author/authority-resolution rules, work_type enum, etc. — they're
+        spelled out in system.txt/user.txt, don't improvise around them).
+     d. Write the resulting single JSON object to
+        <request_dir>/response.json (that exact filename).
+   This step is naturally parallelizable (12 independent, order doesn't
+   matter) — if your tool can fan out sub-tasks, do all 12 concurrently;
+   if not, a sequential loop is fine, just slower.
+
+4. Once all 12 response.json files exist, finalize the batch:
+     zsh ".claude/ff-ingest/ff_finalize.sh" /tmp/ff_batchNN.tsv "batch NN (FF0aa-FF0ff)"
+   This collects the JSON, emits/writes the Astro markdown files under
+   apps/site/src/content/primary-works/ff*.md, force-normalizes
+   publisher_id/issuer_id to "freedom-first" on every ff*.md (needed for
+   periodical series grouping), runs `astro sync`, commits, does
+   `git pull --rebase origin main && git push origin main`, and purges
+   /tmp/llm-extract-requests/* (only AFTER finalize — never purge mid-batch
+   or you'll delete another batch's in-progress rasterization).
+
+5. Host each new issue's PDF on R2 and link pdf_url (idempotent — safe to
+   run across the whole collection every time, it skips anything already
+   linked):
+     .venv-extract/bin/python3 .claude/ff-ingest/ff_pdf_manifest.py
+       # -> writes /tmp/ff_pdf_manifest.tsv, only for issues missing pdf_url
+       # prints "SKIPPED (no month/year parseable, needs manual slug): N"
+       # for any issue whose month/year couldn't be regex-derived — see
+       # "Known gaps" below for how to fix those by hand.
+     zsh .claude/ff-ingest/ff_pdf_upload.sh
+       # uploads to R2 bucket indianliberals-archive via wrangler
+     .venv-extract/bin/python3 .claude/ff-ingest/ff_set_urls.py
+       # inserts `pdf_url:` into each .md, placed right before the
+       # top-level `provenance:` line — DO NOT invent a different key
+       # naming convention; this is date-slug
+       # freedom-first/freedom-first-<mon>1-<year>.pdf, <mon> = 3-letter
+       # lowercase month abbrev, matching the 153 pre-existing linked
+       # issues exactly (validated 153/153 match — see
+       # .claude/ff-ingest/ff_slug_derive.py if you want to re-verify).
+   Then:
+     ( cd apps/site && rm -f .astro/data-store.json && npx astro sync )
+       # you may see "Duplicate id ffNNN" warnings on the FIRST sync after
+       # a big batch — this is a known-benign stale-cache artifact, not
+       # real duplication. Deleting .astro/data-store.json before sync (as
+       # above) clears it; if it still appears, re-run `npx astro sync`
+       # once more and it will be gone. Don't rabbit-hole on it.
+     git add apps/site/src/content/primary-works/ff<ids>.md
+     git commit -m "data(primary-works): link R2 PDFs for FF<ids> (batch NN)"
+     git pull --rebase origin main
+     git push origin main
+
+6. Recompute backlog (whats_next.sh) and repeat from step 1.
+
+============================================================
+KNOWN GAPS / ONE-OFF FIXUPS (from this session's experience)
+============================================================
+- Recurring one-off (~1 per 50-60 issues): an issue's extracted text has no
+  "(Month Year)" phrasing anywhere, so ff_pdf_manifest.py can't regex out
+  the month → it skips-and-reports rather than crashing. Fix manually: the
+  cataloguing pass's own summary/metadata almost always states the correct
+  month in prose even when the regex can't find it in the expected spot —
+  read the .md's `summary:`/body text, find the true month, then:
+    1. Manually derive the key: freedom-first/freedom-first-<mon>1-<year>.pdf
+    2. Upload: npx wrangler r2 object put "indianliberals-archive/<key>" \
+         --file "/Volumes/One Touch/Indian Liberals/PDFs-by-publisher/freedom-first/FF<NUM>.pdf" \
+         --content-type application/pdf --remote
+    3. Hand-edit the .md: insert `pdf_url: https://pub-f1430c20cc1c400da542453c56d614c8.r2.dev/<key>`
+       as a new top-level line immediately before the top-level `provenance:` line.
+  (See git log for commits touching ff329.md/ff389.md/ff475.md as worked examples.)
+
+- Structural gap flagged for a LATER dedicated pass, not yours to fix now:
+  quarterly-era issues (~FF385-470ish, before the magazine reverted to
+  monthly at FF471) are 48-72 printed pages, but the single chunk0 render
+  only covers ~20 pages — every one of those has extent_caveat: true /
+  covers_full_work: false. This is expected and already documented; don't
+  try to "fix" it mid-batch, it needs a separate multi-chunk remediation
+  pass (driver.py prep --chunk-idx 1, 2, ... to fetch subsequent page
+  ranges) before CCS's final editorial review. Not blocking for now.
+
+- FF440, FF496, FF502 are skipped gaps in the numbering — likely genuinely
+  absent from the drive (never downloaded). Don't invent placeholder
+  entries for them; just skip over them in batch selection (whats_next.sh
+  already does this automatically) and let step 2 (re-pull) confirm.
+
+============================================================
+END-OF-FF-RUN-ONLY STEP (do NOT run until FF backlog is fully 0)
+============================================================
+Once every FF issue is ingested AND has a pdf_url (whats_next.sh backlog
+shows 0), run this exactly once — it's global, touches every periodical .md:
+  .venv-extract/bin/python3 scripts/synthesis/make-periodical-covers.py
+Review its diff before committing; commit as its own separate change.
+
+============================================================
+STEP 2 — re-pull check (after FF backlog hits 0)
+============================================================
+  zsh ".claude/ff-ingest/ff_download_new.sh"
+Pulls any FF*.pdf present in the shared Drive folder but missing locally
+(idempotent, --ignore-existing, excludes the compressed/ subfolder — never
+touch that subfolder, it's explicitly out of scope per Adnan). If it pulls
+anything new, loop back into the per-batch workflow above for those.
+
+============================================================
+STEP 3 — non-FF backlog (~36 docs, after FF + step 2 are fully done)
+============================================================
+Do NOT trust data/synthesis/ingestion-backlog.csv (dated 2026-06-14,
+verified stale — every sampled row was already ingested). Recompute fresh:
+  for pub in bengali forum-of-free-enterprise gujarati hindi indian-liberal-group \
+             liberal-times liberals marathi other-publications shetkari-sanghatak \
+             swatantra-party the-indian-libertarian; do
+    find "/Volumes/One Touch/Indian Liberals/PDFs-by-publisher/$pub" -maxdepth 1 -iname "*.pdf" \
+      | while read -r f; do
+          slug=$(basename "$f" .pdf)
+          case "$slug" in '._'*) continue ;; esac
+          [ -f "apps/site/src/content/primary-works/${slug}.md" ] || echo "$pub/$slug"
+        done
+  done
+As of 2026-07-12 this was 36 docs (13 forum-of-free-enterprise, 1 gujarati,
+8 liberals, 13 marathi, 2 other-publications). Same batch discipline (6
+docs/12 jobs), but:
+  - Prep directly via the driver (ff_prep.sh is FF-hardcoded), one doc at a
+    time, for each of metadata.a and summary:
+      .venv-extract/bin/python3 scripts/llm-extract/driver.py prep "<pub>/<slug>.pdf" --job metadata.a
+      .venv-extract/bin/python3 scripts/llm-extract/driver.py prep "<pub>/<slug>.pdf" --job summary
+    (prints "Request dir: <path>" — build your own manifest: slug \t job \t reqdir)
+  - Do NOT force publisher_id/issuer_id to "freedom-first" — that override
+    is FF-specific. Let the extractor set the real publisher, spot-check
+    it's sane.
+  - Host PDFs at the SAME relative-path convention as the ~895 already-
+    migrated non-FF works: <publisher>/<slug>.pdf (no legacy WP URL to
+    preserve for these 36 — they're new — but the key SHAPE stays
+    identical). Insert pdf_url the same way (before the top-level
+    `provenance:` line).
+  - Commit batched by publisher (e.g. "data(primary-works): ingest
+    remaining forum-of-free-enterprise backlog (N docs)").
+
+============================================================
+WHEN EVERYTHING IS DONE
+============================================================
+Once FF ingestion + PDF hosting + step 2 re-pull + step 3 non-FF backlog
+are ALL fully done (checks: whats_next.sh backlog is 0, and the step-3
+per-publisher scan above returns nothing for every publisher):
+  touch .claude/ff-ingest/plan-complete.flag
+This is what makes resume.sh self-remove its own crontab entry. Also
+update the memory note at
+/Users/siraj/.claude/projects/-Users-siraj-Indian-Liberals-Website/memory/freedom_first_ingestion.md
+to reflect full completion (just a plain file — read/edit it like any
+other file, no special Claude API needed).
+
+============================================================
+HOUSEKEEPING WHEN YOU STOP (even if not fully done)
+============================================================
+Release the concurrency lock so the Claude cron backstop can resume:
+  kill $(cat /tmp/ff-ingest.lock) 2>/dev/null; rm -f /tmp/ff-ingest.lock
+Leave a short note of exactly where you stopped (which batch, which docs
+still mid-flight) so whoever picks this up next — Claude, you again, or
+Adnan by hand — doesn't have to re-derive state from scratch.
