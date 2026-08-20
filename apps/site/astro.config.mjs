@@ -80,6 +80,16 @@ export default defineConfig({
   // adapter: cloudflare(),
   build: {
     inlineStylesheets: 'auto',
+    // Astro renders pages serially by default. With 7,932 pages — 6,355 of
+    // them Swatantra items — that put the Cloudflare Pages build at 36.7
+    // minutes and it was terminated for exceeding the build time limit, while
+    // the build container's other cores sat idle. The previous production
+    // build, at 1,577 works, took 17 minutes, so the ceiling is somewhere
+    // between.
+    //
+    // 4 rather than higher: each worker holds its own render context, and a
+    // build that dies on memory is no better than one that dies on time.
+    concurrency: 4,
   },
   i18n: {
     defaultLocale: 'en',
