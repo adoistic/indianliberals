@@ -56,7 +56,11 @@ R2_BASE = os.environ.get("SWATANTRA_R2_BASE",
 # that tree is what got rsynced back, so a retry has to be pointed at it
 # rather than at the laptop's original bake directory.
 BAKE = Path(os.environ.get("KIE_BAKE_ROOT", REPO / "data/bake-off-output"))
-INVENTORY = REPO / "data/swatantra-papers/inventory.tsv"
+# The work list. Overridable so the same retry machinery can be pointed at a
+# neighbouring corpus (the Forum booklets live under a different R2 prefix
+# and have no row in the Swatantra inventory).
+INVENTORY = Path(os.environ.get(
+    "KIE_INVENTORY", REPO / "data/swatantra-papers/inventory.tsv"))
 PIN_THINKERS = REPO / "data/swatantra-papers/pin-thinkers.json"
 ADDENDUM = REPO / "scripts/llm-extract/prompts/metadata-weak-model-addendum.md"
 # On the laptop this is the extraction venv; on a cloud box there is no venv
