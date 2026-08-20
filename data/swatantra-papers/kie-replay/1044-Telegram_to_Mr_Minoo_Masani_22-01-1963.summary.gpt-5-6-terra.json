@@ -1,0 +1,33 @@
+{
+ "slug": "1044-Telegram_to_Mr_Minoo_Masani_22-01-1963",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 25.9,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 45030
+ },
+ "image_bytes": [
+  186921,
+  160341
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19859,
+  "output_tokens": 1172,
+  "input_tokens": 18687,
+  "output_tokens_details": {
+   "reasoning_tokens": 325
+  }
+ },
+ "credits_consumed": 2.88,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This two-page telegram, dated 22 January 1963 and sent from New Delhi to Minoo Masani in Bombay, reports on the aftermath of a Bombay meeting. The sender thanks Masani for the meeting resolutions and says that an initiative to resolve the situation through discussion has been accepted by all parties.\\n\\nThe message then addresses a Constitution Bill concerning integration, suggesting that it receive silent support without speeches. It notes that Kalahandi also wants to speak in support of preventing disintegration. The telegram closes with the sender's statement that he is disinclined to join a marchpast and asks Masani to wire his reaction. The document records a moment of party-political negotiation focused on constitutional integration, inter-party agreement, and the presentation of public support.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The telegram is dated 22 January 1963 and was sent from New Delhi to Minoo Masani in Bombay.\",\n      \"The sender thanks Masani for resolutions adopted at a Bombay meeting.\",\n      \"An initiative to address the situation through discussion has reportedly been accepted by all parties.\",\n      \"The message recommends silent support, without speeches, for a Constitution Bill concerning integration.\",\n      \"Kalahandi is described as wanting to speak in support of preventing disintegration.\",\n      \"The sender says he is disinclined to join a marchpast and requests Masani's reaction by wire.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\",\n      \"governance-reform\",\n      \"federalism\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"THANKS FOR BOMBAY MEETING RESOLUTIONS STOP\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The sender opens by acknowledging the resolutions produced by the Bombay meeting.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"OUR INITIATIVE SUGGESTING TALKING OUT SITUATION ACCEPTED BY ALL PARTIES STOP\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The telegram reports apparent all-party acceptance of a discussion-based initiative.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"CONSTITUTION BILL REGARDING INTEGRATION SUGGEST OFFERING SILENT SUPPORT WITHOUT SPEECHES STOP\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"counter_intuitive\",\n        \"context\": \"The sender proposes supporting the integration bill without public speeches.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"SELF DISINCLINED JOINING MARCHPAST STOP PLEASE WIRE YOUR REACTION == RANGA\",\n        \"page\": 2,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The closing identifies the sender's reluctance to join a marchpast and asks Masani for a response.\",\n        \"shareable\": false\n      }\n    ],\n    \"cross_thinker_mentions\": [],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        2\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No pages are missing; the telegram's title is not printed and the sender's full identity is not supplied.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"RANGA\",\n      \"language\": \"en\",\n      \"context\": \"Signatory of the telegram, sent from New Delhi to Minoo Masani in Bombay on 22 January 1963; the supplied authority file does not resolve the abbreviated signature.\",\n      \"page\": 2\n    }\n  ]\n}",
+ "failed": null
+}

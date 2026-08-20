@@ -1,0 +1,32 @@
+{
+ "slug": "1053-JP_Defers_to_Visit_Pakistan_01-02-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 23.6,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40079
+ },
+ "image_bytes": [
+  158709
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 5888
+  },
+  "total_tokens": 20255,
+  "output_tokens": 939,
+  "input_tokens": 19316,
+  "output_tokens_details": {
+   "reasoning_tokens": 205
+  }
+ },
+ "credits_consumed": 0.22,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"J.P. defers visit to Pakistan\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": \"Express News Service\",\n    \"issuer_id\": null,\n    \"place\": \"AHMEDABAD\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"medium\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Newspaper clipping mounted or filed on a blank sheet\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_page_not_found\",\n    \"no_author_byline\",\n    \"no_publisher_address\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"Express News Service\",\n      \"language\": \"en\",\n      \"context\": \"News service credited beneath the clipping headline and responsible for the reported item.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"Newspaper clipping headed 'J.P. defers visit to Pakistan'; 'Express News Service' is a news-service credit, not necessarily the publisher. The handwritten filing note reads 'Indian Express 1/2/63'; printed dateline is Ahmedabad, Jan. 31.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is a single newspaper clipping rather than a standalone authored book, speech, letter, or periodical issue. Because the strict taxonomy has no clipping or press-note enum, it is classified as the closest institutional/publication-document category, occasional_paper.\",\n    \"purpose\": \"No listed purpose qualifier cleanly describes a short newspaper report or clipping, so purpose is null.\",\n    \"language\": \"The visible headline and article text are in Roman-script English; no Indian-language script is present.\",\n    \"authors_resolution\": \"No human author byline is printed. 'Express News Service' is a service credit and has therefore not been entered as a human author.\",\n    \"year\": \"The clipping itself prints 'AHMEDABAD, Jan. 31.' without a year; the handwritten note at the top reads 'Indian Express 1/2/63', supporting 1963 with medium confidence.\",\n    \"publisher\": \"The visible credit is 'Express News Service' on page 1. It is not present in the supplied publisher authority list, so publisher_id is null.\",\n    \"toc\": \"No table of contents is present; this is a single newspaper clipping.\"\n  }\n}",
+ "failed": null
+}

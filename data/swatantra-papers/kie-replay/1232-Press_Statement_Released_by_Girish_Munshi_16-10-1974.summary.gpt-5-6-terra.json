@@ -1,0 +1,32 @@
+{
+ "slug": "1232-Press_Statement_Released_by_Girish_Munshi_16-10-1974",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 27.9,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 45256
+ },
+ "image_bytes": [
+  235986
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 2816
+  },
+  "total_tokens": 19411,
+  "output_tokens": 1293,
+  "input_tokens": 18118,
+  "output_tokens_details": {
+   "reasoning_tokens": 381
+  }
+ },
+ "credits_consumed": 2.61,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This untitled press statement, issued by Girish Munshi on 16 October 1974, reports on the Swatantra Party, Maharashtra Executive Meeting held in Bombay on 12 October. It says members welcomed the decision to continue the party's existence and rejected its earlier image as a party of wealthy men and maharajas, presenting it instead as a party intended to represent ordinary people.\\n\\nThe statement also records the members' support for government action against smugglers, while expressing concern that such action should not simply be intended to increase the ruling party's electoral popularity. It concludes by recording full support for Jayaprakash Narayan's movement in Bihar.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The statement reports on the Maharashtra Swatantra Party Executive Meeting held in Bombay on 12 October 1974.\",\n      \"Members welcomed the decision that the Swatantra Party, Maharashtra, would continue to exist.\",\n      \"The party's association with rich men and maharajas is described as no longer applicable.\",\n      \"The statement characterizes the party as intended to be a common people's party.\",\n      \"Members welcomed government measures against smugglers but questioned whether they might be used for electoral advantage.\",\n      \"The Maharashtra branch expressed full support for Jayaprakash Narayan's movement in Bihar.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"the members generally welcomed the idea that the Swatantra Party, Maharashtra, had decided to continue to exist.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The statement presents continued existence as the central outcome welcomed by the Maharashtra party's executive meeting.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"leaving the Party as a common man's party, as it was intended to be by its founding fathers.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The statement argues that the party's earlier association with wealthy elites had ended and that it had returned to its founding purpose.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"The members welcomed measures taken by the Government against smugglers and hoped that these were not meant to boost the popularity of the Ruling Party for elections.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"counter_intuitive\",\n        \"context\": \"The statement combines approval of anti-smuggling measures with suspicion about their possible electoral motivation.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"The members also welcomed the movement launched by Shri. Jayaprakash Narayan in Bihar and extended to it their full support.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The statement links the Maharashtra Swatantra Party's position to support for Jayaprakash Narayan's movement in Bihar.\",\n        \"shareable\": false\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": \"jayaprakash-narayan\",\n        \"context\": \"The members also welcomed the movement launched by Shri. Jayaprakash Narayan in Bihar and extended to it their full support.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"The complete one-page press statement is visible; no title is printed on the document.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Girish Munshi\",\n      \"language\": \"en\",\n      \"context\": \"General Secretary of the Maharashtra branch of the Swatantra Party in 1974 and the issuer of this press statement.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

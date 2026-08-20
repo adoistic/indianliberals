@@ -1,0 +1,34 @@
+{
+ "slug": "1047-Letter_to_Raja_23-01-1963",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 26.5,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40035
+ },
+ "image_bytes": [
+  209793,
+  203814,
+  148789
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 22318,
+  "output_tokens": 1071,
+  "input_tokens": 21247,
+  "output_tokens_details": {
+   "reasoning_tokens": 278
+  }
+ },
+ "credits_consumed": 3.1,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Prof. N.G. Ranga,\",\n      \"honorifics\": [\n        \"Prof.\"\n      ],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 3,\n    \"pages_total\": 3,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Three-page typed office letter on parliamentary letterhead, with handwritten annotations and signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"foreign-policy\",\n    \"constitutionalism\",\n    \"parliamentary-government\"\n  ],\n  \"theme_proposed_new\": [\n    \"parliamentary-government\"\n  ],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_identified\",\n    \"issuer_not_identified\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Prof. N.G. Ranga,\",\n      \"language\": \"en\",\n      \"context\": \"Printed sender name on a letter from 44-Western Court, New Delhi, dated January 23, 1963.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The document is addressed to Shri C. Rajagopalachari (Rajaji) and discusses parliamentary handling of the Colombo proposals, opposition coordination, and the government's position. No title or publisher is printed.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The pages show a dated personal communication with a salutation ('My dear Rajaji,'), a complimentary close ('Yours affectionately'), a named recipient, and a handwritten signature. These page-level features identify it as a letter rather than a circular or other office record.\",\n    \"purpose\": \"No publication purpose or formal subtype is printed; purpose is therefore null.\",\n    \"language\": \"All visible text is in English Roman script, with no non-Latin script observed.\",\n    \"authors_resolution\": \"The sender byline is printed verbatim as 'Prof. N.G. Ranga,'. The normalised form was searched against the supplied authority subset's canonical names and aliases; it was not found, so thinker_id is null and human review is required.\",\n    \"year\": \"The date printed in the letterhead on page 1 is 'January 23, 1963.'\",\n    \"publisher\": \"No publisher or issuing organization line appears on the three rendered pages; publisher_id and issuer_id are null.\",\n    \"toc\": \"No formal table of contents is present or applicable; this is a standalone three-page letter.\"\n  }\n}",
+ "failed": null
+}

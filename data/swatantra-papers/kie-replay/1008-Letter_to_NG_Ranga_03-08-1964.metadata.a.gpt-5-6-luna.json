@@ -1,0 +1,32 @@
+{
+ "slug": "1008-Letter_to_NG_Ranga_03-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 24.9,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40070
+ },
+ "image_bytes": [
+  259222
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20144,
+  "output_tokens": 969,
+  "input_tokens": 19175,
+  "output_tokens_details": {
+   "reasoning_tokens": 156
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"(M. R. Masani)\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter with handwritten signature and recipient address\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher\",\n    \"no_place_of_publication\",\n    \"no_edition_statement\",\n    \"no_series_statement\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Prof. N. G. Ranga\",\n      \"language\": \"en\",\n      \"context\": \"Named recipient of the letter, addressed at an address in Ballygunge, Calcutta.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"No title is printed. The letter is dated August 3, 1964, signed by M. R. Masani, and addressed to Prof. N. G. Ranga. A handwritten circled number '1008' appears near the date and may be an archival file or item number.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a single personal communication beginning 'My dear Ranga,' and ending with 'Yours sincerely' followed by M. R. Masani's signature. It names one recipient and has a clear date, so it is classified as a letter rather than a circular or occasional paper.\",\n    \"purpose\": \"No controlled purpose qualifier fits this individual correspondence.\",\n    \"language\": \"The entire visible document is printed in English Roman script.\",\n    \"authors_resolution\": \"The signed byline is printed as '(M. R. Masani)'. This matches the authority-file alias 'M. R. Masani' for thinker_id 'minoo-masani'; the author therefore resolves to 'minoo-masani'. The recipient 'Prof. N. G. Ranga' is not an author byline and is not used for author resolution.\",\n    \"year\": \"The upper-right date line prints 'August 3, 1964.' — high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the visible page; the folder hint 'Swatantra Party papers' is not treated as printed publication metadata.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

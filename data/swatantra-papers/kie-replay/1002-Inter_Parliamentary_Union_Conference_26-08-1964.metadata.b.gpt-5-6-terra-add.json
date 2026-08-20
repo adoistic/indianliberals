@@ -1,0 +1,32 @@
+{
+ "slug": "1002-Inter_Parliamentary_Union_Conference_26-08-1964",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 31.5,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40051
+ },
+ "image_bytes": [
+  221541
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 21107,
+  "output_tokens": 1335,
+  "input_tokens": 19772,
+  "output_tokens_details": {
+   "reasoning_tokens": 516
+  }
+ },
+ "credits_consumed": 3.11,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"MASANI\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Copenhagen\",\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed telegram or cable, marked \\\"confirmatory copy\\\"; one scanned page.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher\",\n    \"issuer\",\n    \"editor_not_named\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"MASANI\",\n      \"language\": \"en\",\n      \"context\": \"The typed signature identifies the apparent sender of the telegram, but the single surname does not exactly match a canonical name or listed alias in the authority subset.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"PROFESSOR RANGA\",\n      \"language\": \"en\",\n      \"context\": \"The page prominently identifies Professor Ranga in the heading, apparently as the telegram addressee or associated recipient.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"Physical form is a telegram/cable: block capitals, clipped wording, STOP, addressee block, and no salutation or complimentary close. The strict ten-value work_type enum has no telegram option, so letter is used as the nearest permitted archival correspondence class.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is visibly a telegram or cable rather than an ordinary letter: it uses block-capital clipped text, the word STOP, an addressee block, and no salutation or complimentary close. Because the strict work_type enum supplied for output omits telegram, letter is selected as the closest permitted value, with the physical form recorded explicitly.\",\n    \"purpose\": \"No publication purpose or formal subtype is printed; this is an office communication concerning travel arrangements.\",\n    \"language\": \"The document is entirely in Roman-script English; no Indian-language script is visible.\",\n    \"authors_resolution\": \"The apparent sender is printed as \\\"MASANI\\\" beneath the message. Normalisation and authority-file comparison found no exact canonical or alias match for the single surname, so thinker_id is null and human review is required.\",\n    \"year\": \"The date printed at the lower left is \\\"August 26, 1964.\\\"\",\n    \"publisher\": \"No publisher or issuing organization is printed on the page; the folder hint is not used as evidence.\",\n    \"toc\": \"No table of contents is present or applicable; only one rendered page was supplied.\"\n  }\n}",
+ "failed": null
+}

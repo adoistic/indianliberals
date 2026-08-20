@@ -1,0 +1,33 @@
+{
+ "slug": "1033-No_Capitalisation",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 22.5,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40024
+ },
+ "image_bytes": [
+  234052,
+  194843
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 21248,
+  "output_tokens": 971,
+  "input_tokens": 20277,
+  "output_tokens_details": {
+   "reasoning_tokens": 256
+  }
+ },
+ "credits_consumed": 2.92,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"essay\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"CAPITULATION?\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"c-rajagopalachari\",\n      \"byline_verbatim\": \"By C. RAJAGOPALACHARI\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Two-page newspaper or periodical clipping\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\",\n    \"cold-war-positioning\",\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"year\",\n    \"publisher\",\n    \"place\",\n    \"source_periodical\",\n    \"printed_page_numbers\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The handwritten note “No capitulation” appears above the printed heading and is not treated as the title. The clipping discusses the Colombo proposals, Afro-Asian solidarity, China, and India's foreign-policy position.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The pages present a single signed political argument under a printed heading and byline, without book front matter or speech delivery details. It is therefore classified as an essay, although the source periodical and original publication context are not visible.\",\n    \"purpose\": \"No applicable purpose qualifier is printed or otherwise established in the visible pages.\",\n    \"language\": \"The text is entirely in Roman-script English.\",\n    \"authors_resolution\": \"The verbatim byline is “By C. RAJAGOPALACHARI”. After case-folding, whitespace collapsing, and punctuation stripping, it matches the authority canonical name “C. Rajagopalachari”, yielding thinker_id “c-rajagopalachari”.\",\n    \"year\": \"No publication year is printed in the visible clipping; the reference to “Jan. 15” is part of the article's quoted news context, not a securely established publication year.\",\n    \"publisher\": \"No publisher or issuing publication line is visible on either page; publisher_id and publisher_verbatim are therefore null.\",\n    \"toc\": \"No formal table of contents is present. The two rendered pages show the beginning and continuation of the same essay.\"\n  }\n}",
+ "failed": null
+}

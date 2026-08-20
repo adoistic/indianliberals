@@ -1,0 +1,35 @@
+{
+ "slug": "1142-Minutes_of_the_Meeting_of_the_National_Executive_28-04-1977",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 32.9,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40109
+ },
+ "image_bytes": [
+  414192,
+  354620,
+  222976,
+  129919
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 25643,
+  "output_tokens": 1098,
+  "input_tokens": 24545,
+  "output_tokens_details": {
+   "reasoning_tokens": 134
+  }
+ },
+ "credits_consumed": 0.35,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"Minutes of the meeting of the National Executive committee of the Swatantra party held on April 17, 1977 at Woodlands Hotel, Mylapore, Madras-4.\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [\n    {\n      \"thinker_id\": \"s-v-raju\",\n      \"byline_verbatim\": \"V.S. Srikumar\",\n      \"role\": \"other\",\n      \"toc_index\": null\n    }\n  ],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"ALL INDIA SWATANTRA PARTY-NATIONAL HEADQUARTERS\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1977,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 4,\n    \"pages_total\": 4,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typescript office record, comprising minutes and a separate circular with an addressed envelope\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"civil-liberty\",\n    \"individual-rights\",\n    \"liberalism-as-tradition\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"no_formally_named_author\",\n    \"no_edition_statement\",\n    \"no_series_statement\",\n    \"no_identifiers\",\n    \"editor_not_named\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"V.S. Srikumar\",\n      \"language\": \"en\",\n      \"context\": \"The document is signed by V.S. Srikumar, identified as Joint Secretary of the Swatantra Party.\",\n      \"page\": 2\n    }\n  ],\n  \"notes\": \"The first two pages are minutes dated 28 April 1977 concerning a meeting held on 17 April 1977. Pages 3–4 contain a separate circular dated 25 April 1977 and its addressed envelope. Classified as occasional_paper because the strict work_type enum excludes minutes and circulars.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document is explicitly headed “Minutes of the meeting...” and records attendance, discussion, and adopted resolutions. Under the supplied strict ten-value work_type enum, “occasional_paper” is the closest permitted value, although the more precise office-record classification would be minutes.\",\n    \"purpose\": \"No permitted occasional-paper purpose qualifier fits an internal meeting record and accompanying circular, so purpose is null.\",\n    \"language\": \"All visible text is in English Roman script, including the headings, minutes, circular, and address.\",\n    \"authors_resolution\": \"No human author is presented as the author of the minutes or circular; the documents are issued by the Swatantra Party. The signature “V.S. Srikumar” is captured as a contributor and compared against the authority subset; it does not match the listed canonical “S. V. Raju” or any listed alias, so no thinker_id is assigned.\",\n    \"year\": \"The first page prints “28th April 1977”; the separate circular on page 3 prints “25-4-1977.” The work's primary minutes date establishes 1977 with high confidence.\",\n    \"publisher\": \"Page 1 carries the header “ALL INDIA SWATANTRA PARTY-NATIONAL HEADQUARTERS” at “10-A, Flowers Road, Madras-84.” This resolves to the authority organisation and publisher entry swatantra-party.\",\n    \"toc\": \"No formal table of contents is present; the pages consist of the minutes, resolutions, a circular, and an envelope.\"\n  }\n}",
+ "failed": null
+}

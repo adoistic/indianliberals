@@ -1,0 +1,43 @@
+{
+ "slug": "1095-Swatantra_party_Constitution_14-04-1973",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 42.5,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 45863
+ },
+ "image_bytes": [
+  125599,
+  197694,
+  254993,
+  248079,
+  230844,
+  238797,
+  258173,
+  242818,
+  164509,
+  197413,
+  239410,
+  269748
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 32885,
+  "output_tokens": 1715,
+  "input_tokens": 31170,
+  "output_tokens_details": {
+   "reasoning_tokens": 516
+  }
+ },
+ "credits_consumed": 4.64,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"The Swatantra Party Constitution, as amended on 14 April 1973 at the Sixth National Convention in Rajajinagar, Madras, establishes the Party’s name, objective, headquarters, membership rules, subscription arrangements, and internal organisational structure. It defines a layered system of Primary Units, District Committees, State or Regional Councils, a General Council, and a National Executive. Membership is open to persons over 18 who subscribe to the Party’s principles, pay the prescribed fee, and are willing to work for the Party; the text also provides procedures for suspension, expulsion, appeals, subscriptions, accounting, and participation in Party activities.\\n\\nThe later provisions regulate representation, office-bearing, quorum, absence from meetings, elections, election tribunals, co-options, conventions, rule-making, and constitutional amendment. The accompanying Appendix A specifies voting procedures at all levels, including secret ballots, scrutiny, single non-transferable voting for several offices, proportional representation for certain committees and councils, and the handling of invalid ballots and tied results. The document is a detailed governance instrument: it combines hierarchical organisation with electoral procedures, defined rights of participation, and formal routes for resolving internal disputes.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The document identifies the organisation as the Swatantra Party and links its objective to principles adopted at the Party’s 1959 Preparatory Convention.\",\n      \"Membership requires being over 18, subscribing in writing to Party principles, paying the prescribed fee, and expressing readiness to work for the Party.\",\n      \"The Constitution creates organisational units from the Primary Unit through District and State or Regional bodies to the General Council and National Executive.\",\n      \"It allocates subscription receipts among Primary Units, District Units, State or Regional Units, and National Headquarters, with accounts subject to audit.\",\n      \"It establishes procedures for suspension, expulsion, appeals, election tribunals, co-option, absence from meetings, and amendment of the Constitution.\",\n      \"Appendix A sets out secret-ballot procedures, rules for invalid ballots, single non-transferable voting, and proportional representation.\",\n      \"The Constitution was amended on 14 April 1973 by the Sixth National Convention in Rajajinagar, Madras.\"\n    ],\n    \"themes_confirmed\": [\n      \"constitutionalism\",\n      \"party-politics\",\n      \"governance-reform\",\n      \"electoral-reform\",\n      \"rule-of-law\",\n      \"federalism\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"The name of the Party shall be the Swatantra Party.\",\n        \"page\": 2,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The opening provision formally identifies the organisation governed by the Constitution.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"Every person above the age of 18 who subscribes in writing to the principles of the Party, pays the prescribed fee and expresses his readiness to work for the Party will be eligible to be a Member of the Party;\",\n        \"page\": 2,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The membership clause defines eligibility through age, written adherence to principles, payment, and willingness to work.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"Only members whose membership is current on the date of the election shall have the right to vote in Party elections or to serve as Office Bearers or as members of elective committees.\",\n        \"page\": 3,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"counter_intuitive\",\n        \"context\": \"The Constitution makes current subscription status a condition for voting and holding elected Party positions.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"Members of the Party are prohibited from taking election disputes into Courts of Law\",\n        \"page\": 7,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"counter_intuitive\",\n        \"context\": \"The election-tribunal provisions require internal resolution of election disputes and bar recourse to ordinary courts.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"the voting shall be by the system of single non-transferable vote\",\n        \"page\": 11,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Appendix A prescribes the voting method for elections to executive committees.\",\n        \"shareable\": true\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": \"s-v-raju\",\n        \"context\": \"Published by S. V. Raju, Executive Secretary, Swatantra Party, National Headquarters, 143 M. G. Road, Bombay 400 001.\",\n        \"page\": 12,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        12\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No pages are missing; the complete 12-page Constitution and Appendix A were rendered.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"Inland Printers, 55 Gamdevi Rd., Bombay 400 007\",\n      \"language\": \"en\",\n      \"context\": \"The colophon identifies Inland Printers as the printer of the pamphlet.\",\n      \"page\": 12\n    }\n  ]\n}",
+ "failed": null
+}

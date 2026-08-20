@@ -1,0 +1,32 @@
+{
+ "slug": "1046-Letter_to_Mr_Minoo_Masani_23-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 24.6,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40077
+ },
+ "image_bytes": [
+  197168
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 18988,
+  "output_tokens": 874,
+  "input_tokens": 18114,
+  "output_tokens_details": {
+   "reasoning_tokens": 83
+  }
+ },
+ "credits_consumed": 0.26,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Prof. N.G. Ranga, MEMBER OF PARLIAMENT (LOK SABHA)\",\n      \"honorifics\": [\n        \"Prof.\"\n      ],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"New Delhi\",\n    \"year\": {\n      \"value\": 1968,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter on parliamentary letterhead\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"constitutionalism\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher\",\n    \"recipient_authority_unresolved\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"N.G. Ranga\",\n      \"language\": \"en\",\n      \"context\": \"The signatory and sender of the letter, identified on the letterhead as a Member of Parliament (Lok Sabha).\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The letterhead is dated January 23, 1968, despite the supplied filename containing 1963; the visible date is catalogued. No printed title appears. Recipient is Shri M.R. Masani, and the letter refers to Rajaji and the C.O.C.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document is a single typed communication addressed to \\\"My dear Masani\\\" and signed by Prof. N.G. Ranga. It has a dated letterhead, a named recipient and a conventional closing, so it is classified as a letter.\",\n    \"purpose\": \"No taxonomy purpose qualifier applies to an individual letter.\",\n    \"language\": \"The document is printed entirely in Roman-script English; no Indian-language script is visible.\",\n    \"authors_resolution\": \"The verbatim sender identification is \\\"Prof. N.G. Ranga, MEMBER OF PARLIAMENT (LOK SABHA)\\\". The authority subset contains no canonical name or alias matching \\\"N.G. Ranga\\\"; therefore thinker_id is null and human review is required.\",\n    \"year\": \"The letterhead visibly prints \\\"January 23, 1968\\\" on page 1. The visible page date takes precedence over the conflicting year suggested by the supplied filename.\",\n    \"publisher\": \"No publisher or publication imprint is printed; this is an original office letter rather than a published work.\",\n    \"toc\": \"No table of contents is present or applicable to this single-page letter.\"\n  }\n}",
+ "failed": null
+}

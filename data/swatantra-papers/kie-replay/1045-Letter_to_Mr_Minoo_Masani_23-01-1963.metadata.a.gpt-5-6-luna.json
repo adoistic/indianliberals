@@ -1,0 +1,32 @@
+{
+ "slug": "1045-Letter_to_Mr_Minoo_Masani_23-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 25.6,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40077
+ },
+ "image_bytes": [
+  157313
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19363,
+  "output_tokens": 1000,
+  "input_tokens": 18363,
+  "output_tokens_details": {
+   "reasoning_tokens": 189
+  }
+ },
+ "credits_consumed": 0.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"MASANI\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"One-page confirmation copy of a telegram\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"socialism-debate\",\n    \"parliamentary\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"recipient_not_structured\",\n    \"telegram_sender_byline_not_explicit\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"MASANI\",\n      \"language\": \"en\",\n      \"context\": \"The telegram is signed or attributed at the foot to 'MASANI'; the authority file contains Minoo Masani but not the verbatim form 'MASANI'.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The document is visibly a telegram: it is marked 'Express', uses clipped telegraphic wording, and is addressed to C. Rajagopalachari. The strict work_type enum has no telegram value, so it is catalogued as letter as the closest available type. It is a confirmation copy dated 23rd January, 1963.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is explicitly marked 'Express' and contains clipped, stop-separated wording typical of a telegram, with a confirmation-copy notation. Because the mandated work_type enum excludes 'telegram', 'letter' is used as the closest available value rather than inventing an enum value.\",\n    \"purpose\": \"No listed purpose qualifier fits this one-page telegraphic communication.\",\n    \"language\": \"All visible text is in Roman-script English, including the address, telegraphic message, and date.\",\n    \"authors_resolution\": \"The sender attribution at the foot is printed as 'MASANI'. This verbatim form was searched against canonical names and aliases in the authority subset; it does not match 'Minoo Masani' or any listed alias, so thinker_id is null and human review is required.\",\n    \"year\": \"The lower-left portion of page 1 prints '23rd January, 1963', providing a high-confidence year.\",\n    \"publisher\": \"No publisher or issuing-organisation line is printed on page 1; the weak folder hint was not used as evidence.\",\n    \"toc\": \"No table of contents is present or applicable for this one-page archival communication.\"\n  }\n}",
+ "failed": null
+}

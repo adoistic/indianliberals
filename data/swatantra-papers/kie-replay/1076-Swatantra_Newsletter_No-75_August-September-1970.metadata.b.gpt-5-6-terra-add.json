@@ -1,0 +1,47 @@
+{
+ "slug": "1076-Swatantra_Newsletter_No-75_August-September-1970",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 43.2,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40106
+ },
+ "image_bytes": [
+  433560,
+  451405,
+  429811,
+  488145,
+  458950,
+  480421,
+  446820,
+  430794,
+  470095,
+  479568,
+  413230,
+  477271,
+  505817,
+  448125,
+  449866,
+  389439
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 53116,
+  "output_tokens": 1458,
+  "input_tokens": 51658,
+  "output_tokens_details": {
+   "reasoning_tokens": 460
+  }
+ },
+ "credits_consumed": 6.77,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"periodical_issue\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"Swatantra Newsletter\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"Masani\",\n      \"role\": \"author\",\n      \"toc_index\": null\n    },\n    {\n      \"thinker_id\": \"c-rajagopalachari\",\n      \"byline_verbatim\": \"Rajaji\",\n      \"role\": \"author\",\n      \"toc_index\": null\n    }\n  ],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"ISSUED BY THE NATIONAL HEADQUARTERS OF THE SWATANTRA PARTY, 143 MAHATMA GANDHI ROAD, BOMBAY, TELEPHONE NO: 251424\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1970,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": \"No. 75\",\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 16,\n    \"pages_total\": 16,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Printed political party newsletter\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"civil-liberty\",\n    \"constitutionalism\",\n    \"rule-of-law\",\n    \"individual-rights\",\n    \"religious-freedom\",\n    \"secularism\",\n    \"economic-liberty\",\n    \"planning-critique\",\n    \"public-sector-critique\",\n    \"regulatory-state-critique\",\n    \"agricultural-reform\",\n    \"land-reform\",\n    \"property-rights\",\n    \"fiscal-policy\",\n    \"foreign-policy\",\n    \"cold-war-positioning\",\n    \"marxism-debate\",\n    \"socialism-debate\",\n    \"biographical-tribute\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"editor_not_named\",\n    \"toc_not_present\",\n    \"isbn_not_printed\",\n    \"issn_not_printed\",\n    \"oclc_not_printed\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Issue 75 is dated August/September 1970 and contains party statements, speeches, resolutions, meeting proceedings, and annexures. No formal contents page or named editor is visible. The issue masthead identifies the Swatantra Party's National Headquarters as issuer.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The masthead identifies this as No. 75 of Swatantra Newsletter, dated August/September 1970. It contains multiple separately headed articles, speeches, resolutions, reports, and annexures, so the periodical-issue classification takes precedence over pamphlet or edited volume.\",\n    \"purpose\": \"No taxonomy purpose qualifier is defined for periodical issues, so this field is null.\",\n    \"language\": \"All visible text is in Roman-script English; no Indian-language script is present in the rendered pages.\",\n    \"authors_resolution\": \"No overall human author is printed for the issue. The named contributors in article headings are “Masani” and “Rajaji”; “Masani” matches the authority alias “Minoo Masani,” and “Rajaji” matches the authority alias for C. Rajagopalachari. They are recorded as contributors rather than issue-level authors.\",\n    \"year\": \"The masthead on page 1 prints “August/September 1970,” providing an unambiguous publication year.\",\n    \"publisher\": \"Page 1 prints the issuing line “ISSUED BY THE NATIONAL HEADQUARTERS OF THE SWATANTRA PARTY...” The organization matches the authority entry for Swatantra Party; no separate publisher signature or editorial credit is printed.\",\n    \"toc\": \"No formal table of contents is visible in the 16 rendered pages. The article headings are therefore not transcribed as TOC entries.\"\n  }\n}",
+ "failed": null
+}

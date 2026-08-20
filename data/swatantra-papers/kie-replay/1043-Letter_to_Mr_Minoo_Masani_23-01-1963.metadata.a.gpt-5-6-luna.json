@@ -1,0 +1,32 @@
+{
+ "slug": "1043-Letter_to_Mr_Minoo_Masani_23-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 22.9,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40077
+ },
+ "image_bytes": [
+  147378
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19062,
+  "output_tokens": 869,
+  "input_tokens": 18193,
+  "output_tokens_details": {
+   "reasoning_tokens": 159
+  }
+ },
+ "credits_consumed": 0.26,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"One-page typed telegram confirmation copy\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"socialism-debate\",\n    \"electoral-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"author_not_explicitly_credited\",\n    \"publisher_not_printed\",\n    \"issuer_not_printed\",\n    \"recipient_identity_not_fully_printed\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Typed confirmation copy dated 23.1.1963, sent from Masani, 143 Mahatma Gandhi Road, Bombay 1, to Professor Ranga, Western Court, New Delhi. The document has no printed title. Text concerns voting on a Socialist Party amendment and Swatantra Party members.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is formatted as an express telegram, with the heading “EXPRESS,” a named addressee (“PROFESSOR RANGA”), clipped telegraphic wording, a sender block marked “MASANI,” and the label “Confirmation copy.” Under the office-record taxonomy, its telegraph form makes this a telegram rather than a conventional letter; however, the required strict work_type enum contains no telegram value, so “letter” is the closest permitted classification.\",\n    \"purpose\": \"No listed purpose qualifier fits this one-page office communication.\",\n    \"language\": \"The document is entirely printed in Roman-script English; no Indian-language script is visible.\",\n    \"authors_resolution\": \"No explicit author or byline is printed. “MASANI” appears in the sender block, but it is not a byline and therefore has not been promoted into authors[].\",\n    \"year\": \"The lower-left date line prints “23.1.1963,” providing high-confidence evidence for the year 1963.\",\n    \"publisher\": \"No publisher line or publication imprint is printed on the page; publisher_id and publisher_verbatim are therefore null.\",\n    \"toc\": \"No table of contents is present or applicable to this one-page archival communication.\"\n  }\n}",
+ "failed": null
+}

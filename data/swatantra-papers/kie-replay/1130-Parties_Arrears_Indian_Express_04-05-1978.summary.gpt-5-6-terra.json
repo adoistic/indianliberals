@@ -1,0 +1,32 @@
+{
+ "slug": "1130-Parties_Arrears_Indian_Express_04-05-1978",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 49.5,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 45545
+ },
+ "image_bytes": [
+  119575
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 2816
+  },
+  "total_tokens": 20098,
+  "output_tokens": 2525,
+  "input_tokens": 17573,
+  "output_tokens_details": {
+   "reasoning_tokens": 1162
+  }
+ },
+ "credits_consumed": 3.38,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This one-page UNI news brief, published in the Indian Express on 4 May 1978, reports that major political parties occupying government accommodation in New Delhi had accumulated unpaid rent. The information was given by Sikander Bakht, the Minister for Works and Housing, in reply to a question in the Rajya Sabha.\\n\\nThe brief records arrears as of 31 March for several parties, including the Swatantra Party, Jana Sangh, DMK, CPI, CPI(M), and Janata Party. The figures cited include Rs. 5,898 for the Swatantra Party, Rs. 456 for the CPI, Rs. 2,281 for the CPI(M), and Rs. 1,888 for the Janata Party. The clipping is pasted onto an archival sheet bearing handwritten filing annotations.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The clipping reports unpaid rent for political parties occupying government accommodation in New Delhi.\",\n      \"The information came from Works and Housing Minister Sikander Bakht in a Rajya Sabha reply.\",\n      \"The arrears were calculated as of 31 March.\",\n      \"The brief lists dues for several parties, including the Swatantra Party, Jana Sangh, DMK, CPI, CPI(M), and Janata Party.\",\n      \"The reported amounts range from hundreds to tens of thousands of rupees.\",\n      \"The item is a UNI wire-service brief published in the Indian Express on 4 May 1978.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\",\n      \"governance-reform\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"Almost all the major political parties\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The report opens by presenting the rent issue as affecting nearly all major political parties using government accommodation.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"have not yet cleared their rent arrears\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The brief highlights the parties' failure to settle their outstanding government housing payments.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"Minister for Works and Housing Sikander Bakht gave this information in reply to a question in the Rajya Sabha today.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"This sentence identifies the ministerial and parliamentary source for the arrears figures.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"Swatantra Party Rs. 5,898\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"data\",\n        \"context\": \"The clipping gives the Swatantra Party's outstanding rent as one of the itemised figures.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"CPI-M Rs. 2281\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"data\",\n        \"context\": \"The report lists the Communist Party of India (Marxist)'s arrears among the party-by-party amounts.\",\n        \"shareable\": false\n      }\n    ],\n    \"cross_thinker_mentions\": [],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No content is missing; the complete one-page news clipping was rendered.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Sikander Bakht\",\n      \"language\": \"en\",\n      \"context\": \"Minister for Works and Housing who supplied the rent-arrears figures in a reply in the Rajya Sabha.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"Indian Express\",\n      \"language\": \"en\",\n      \"context\": \"Indian English-language daily newspaper in which the clipping was published.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"UNI\",\n      \"language\": \"en\",\n      \"context\": \"United News of India, the wire service credited with the brief.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Jana Sangh\",\n      \"language\": \"en\",\n      \"context\": \"Political party listed in the report as owing rent for government accommodation.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"DMK\",\n      \"language\": \"en\",\n      \"context\": \"Political party listed among those with rent arrears.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"CPI\",\n      \"language\": \"en\",\n      \"context\": \"Communist Party listed among the parties with rent arrears.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"CPI-M\",\n      \"language\": \"en\",\n      \"context\": \"Communist Party of India (Marxist) listed among the parties with rent arrears.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Janata Party\",\n      \"language\": \"en\",\n      \"context\": \"Political party listed in the report as owing rent.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Socialist Party\",\n      \"language\": \"en\",\n      \"context\": \"Political party named in the clipping's list of rent arrears.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Socialist Party (Lohia)\",\n      \"language\": \"en\",\n      \"context\": \"Party identified in the clipping as having outstanding rent.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

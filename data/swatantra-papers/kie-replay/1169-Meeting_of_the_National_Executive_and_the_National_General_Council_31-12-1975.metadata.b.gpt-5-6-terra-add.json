@@ -1,0 +1,33 @@
+{
+ "slug": "1169-Meeting_of_the_National_Executive_and_the_National_General_Council_31-12-1975",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 30.8,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40084
+ },
+ "image_bytes": [
+  366244,
+  414049
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 23139,
+  "output_tokens": 1193,
+  "input_tokens": 21946,
+  "output_tokens_details": {
+   "reasoning_tokens": 345
+  }
+ },
+ "credits_consumed": 3.26,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": \"report\",\n  \"title\": {\n    \"main\": {\n      \"value\": \"MINUTES\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": \"ALL INDIA SWATANTRA PARTY.\",\n    \"issuer_id\": null,\n    \"place\": \"Madras-84\",\n    \"year\": {\n      \"value\": 1975,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Two-page typed office-paper minutes, with visible printed pagination and handwritten annotations.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"civil-liberty\",\n    \"emergency-critique\",\n    \"constitutionalism\",\n    \"electoral-reform\",\n    \"economic-liberty\",\n    \"planning-critique\",\n    \"fiscal-policy\",\n    \"monetary-policy\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"publisher_id\",\n    \"issuer_id\",\n    \"editors\",\n    \"editor_not_named\",\n    \"toc\",\n    \"identifiers\",\n    \"edition\",\n    \"series\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"ALL INDIA SWATANTRA PARTY\",\n      \"language\": \"en\",\n      \"context\": \"Organisation named in the letterhead as the issuing body of the minutes.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The document is explicitly headed MINUTES and records a past meeting, attendance, adjournment, adopted resolutions, and signatures. The strict work_type enum has no minutes value; occasional_paper is used as the closest available category, with low-confidence classification and human review flagged.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"Page 1 identifies a combined meeting of the National Executive and National General Council held on 29 November 1975, lists those present, and records proceedings. Page 2 records that resolutions were unanimously adopted and includes the president's and joint secretary's signatures. This is substantively minutes, but the required enum omits minutes, so occasional_paper is the closest permitted value.\",\n    \"purpose\": \"The document is a formal record of an organisational meeting and its adopted resolutions, making report the closest permitted purpose qualifier.\",\n    \"language\": \"Only Roman-script English is visible; no Devanagari, Gujarati, Marathi, or Bengali text appears.\",\n    \"authors_resolution\": \"No human author byline is printed. G. K. Sundaram appears as chair and president, and other names appear as attendees or signatories, not as authors; therefore authors is correctly empty.\",\n    \"year\": \"The date line at the upper right reads 31-12-1975, providing the publication/document year.\",\n    \"publisher\": \"The letterhead reads ALL INDIA SWATANTRA PARTY. It does not exactly match the authority subset's canonical organisation name or listed alias 'Swatantra Party', so publisher_id and issuer_id are left null.\",\n    \"toc\": \"No formal table of contents is present; the two pages form a continuous minutes document.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "1106-Swatantra_party_to_be_Revived_22-09-1981",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 22.9,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40081
+ },
+ "image_bytes": [
+  167228
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20818,
+  "output_tokens": 984,
+  "input_tokens": 19834,
+  "output_tokens_details": {
+   "reasoning_tokens": 194
+  }
+ },
+ "credits_consumed": 0.29,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"Swatantra party to be revived\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1981,\n      \"confidence\": \"low\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Newspaper clipping mounted on an archival sheet\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"liberalism-as-tradition\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"publisher_not_printed\",\n    \"author_not_printed\",\n    \"publication_year_not_printed\",\n    \"source_publication_not_printed\",\n    \"title_page_not_found\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mr. S. Krishnan\",\n      \"language\": \"en\",\n      \"context\": \"The clipping attributes the press release to Mr. S. Krishnan, but does not present him as a formal author byline.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"Newspaper clipping headed “Swatantra party to be revived.” It reports a meeting in Madras and says the account was in a press release by Mr. S. Krishnan. The handwritten “22/9/81” appears to be an archival date notation, not printed publication data.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a newspaper clipping reporting a party meeting and referring to a press release. Under the available strict enum, occasional_paper is the closest classification; the physical item is not a book, speech, letter, or periodical issue.\",\n    \"purpose\": \"No permitted purpose qualifier can be established from the single clipping. Although the subject concerns party revival, the page does not identify a manifesto or statement of principles.\",\n    \"language\": \"The clipping text is printed in English Roman script.\",\n    \"authors_resolution\": \"No formal author byline is printed. The text attributes the press release to “Mr. S. Krishnan,” but this is treated as an attribution within the report rather than a confirmed author record; no authority resolution was therefore emitted.\",\n    \"year\": \"The printed clipping gives “MADRAS, Sept. 21” but no year. The handwritten notation “22/9/81” is visible on the archival sheet and supports 1981 only as a low-confidence archival inference.\",\n    \"publisher\": \"No publisher or source-publication name is printed on the visible page; the publisher_id is therefore null.\",\n    \"toc\": \"No table of contents is present or applicable to this one-page newspaper clipping.\"\n  }\n}",
+ "failed": null
+}

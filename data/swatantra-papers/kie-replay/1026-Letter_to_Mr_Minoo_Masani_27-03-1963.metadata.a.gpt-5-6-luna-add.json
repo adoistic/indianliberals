@@ -1,0 +1,32 @@
+{
+ "slug": "1026-Letter_to_Mr_Minoo_Masani_27-03-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 27.7,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40077
+ },
+ "image_bytes": [
+  212182
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20247,
+  "output_tokens": 898,
+  "input_tokens": 19349,
+  "output_tokens_details": {
+   "reasoning_tokens": 93
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Prof. N.G. Ranga,\",\n      \"honorifics\": [\n        \"Prof.\"\n      ],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"New Delhi\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typescript office letter on parliamentary letterhead, with manuscript annotations and signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"fiscal-policy\",\n    \"party-politics\",\n    \"press-freedom\",\n    \"parliamentary\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"no_recipient_authority_resolution\",\n    \"no_toc\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Prof. N.G. Ranga\",\n      \"language\": \"en\",\n      \"context\": \"Sender identified on the letterhead as a Member of Parliament (Lok Sabha) and signer of the letter.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"No printed title is present. The letter is dated March 27, 1963, and addressed to Minoo Masani. The handwritten enclosure note refers to a copy of a letter to Rajaji and a Bhavnagar link, but these are not separate catalogued works here.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a single office letter: it has a named recipient, the salutation “My dear Masani,” a dated letterhead, a complimentary close, and a sender signature. It is therefore classified as letter rather than circular or telegram.\",\n    \"purpose\": \"No controlled purpose qualifier fits a single personal political correspondence item.\",\n    \"language\": \"The visible text is entirely in Roman-script English; no Indian-language script is present.\",\n    \"authors_resolution\": \"The sender byline is printed as “Prof. N.G. Ranga,”. Normalised comparison against the supplied authority subset found no canonical name or alias matching this byline, so thinker_id is null and the person is recommended for authority review.\",\n    \"year\": \"The letterhead prints “March 27, 1963” on page 1, yielding a high-confidence year.\",\n    \"publisher\": \"No publisher or publication-imprint line appears on the page; the weak folder hint “Swatantra Party papers” is not treated as printed publication evidence.\",\n    \"toc\": \"No table of contents is applicable to this one-page letter.\"\n  }\n}",
+ "failed": null
+}

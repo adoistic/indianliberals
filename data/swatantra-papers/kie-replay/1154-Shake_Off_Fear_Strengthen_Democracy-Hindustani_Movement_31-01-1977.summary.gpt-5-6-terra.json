@@ -1,0 +1,34 @@
+{
+ "slug": "1154-Shake_Off_Fear_Strengthen_Democracy-Hindustani_Movement_31-01-1977",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 33.4,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 47315
+ },
+ "image_bytes": [
+  365948,
+  261761,
+  278146
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 24501,
+  "output_tokens": 1437,
+  "input_tokens": 23064,
+  "output_tokens_details": {
+   "reasoning_tokens": 167
+  }
+ },
+ "credits_consumed": 3.55,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This three-page English circular, issued by the Hindustani Movement in Bombay in January–February 1977, mobilises citizens for the approaching elections. The movement presents itself as non-political: members may work for and vote for any party or candidate, while the organisation itself does not contest elections. Its central appeal is for Indians to overcome fear, participate actively in democracy, and work with courage, patriotism, dignity, and restraint.\\n\\nThe circular introduces the “Bhay-Hatao-Dal” (“Remove Fear Group”), a volunteer network whose members pledge to work without financial remuneration, devote fixed time to election work, avoid violence, and support candidates or parties on principled grounds. The accompanying pledge asks members to cast off fear, persuade others to vote, report electoral malpractices, follow candidates’ instructions faithfully, and encourage joint meetings among candidates. A brief covering letter asks recipients to sign and circulate the pledge and related appeal.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The Hindustani Movement defines itself as completely non-political and says it will not contest the elections.\",\n      \"Individual members are free to work and vote for any party or candidate.\",\n      \"The proposed Bhay-Hatao-Dal recruits volunteers to work for electoral principles rather than material gain.\",\n      \"Members pledge to contribute time, act without fear, maintain dignity and decorum, and avoid violence.\",\n      \"The appeal urges citizens to participate in elections rather than remain apathetic or cynical.\",\n      \"The pledge requires members to vote and persuade others to vote.\",\n      \"The accompanying suggestions include reporting electoral malpractices and arranging joint meetings of candidates.\"\n    ],\n    \"themes_confirmed\": [\n      \"civil-liberty\",\n      \"electoral-reform\",\n      \"party-politics\",\n      \"governance-reform\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"SHAKE OFF FEAR, STRENGTHEN DEMOCRACY.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The appeal uses this imperative heading to frame election participation as a democratic duty requiring courage.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"An election is not a fun-fare. It is not an occasion to sit in pendals enjoying tasty snacks and meals and making some quick money.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"counter_intuitive\",\n        \"context\": \"The appeal rejects the idea that election work is a casual or financially opportunistic activity.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"He will take a pledge to work for principles and not for material gain.\",\n        \"page\": 2,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The movement defines the volunteer group through uncompensated political work guided by principle rather than payment.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"I shall cast off all fear and will work with decorum and dignity, under all kinds of circumstances and I shall not indulge in any violence.\",\n        \"page\": 3,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"aphorism\",\n        \"context\": \"The membership pledge converts the appeal’s call for fearless participation into a personal commitment to non-violent conduct.\",\n        \"shareable\": false\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"Thoreau\",\n        \"context\": \"The appeal concludes by quoting the philosopher Thoreau: \\\"To renounce liberty, is to renounce being a man.\\\"\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        3\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"All three pages of the circular bundle were rendered; no additional pages or sections are missing.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Madhu Mehta\",\n      \"language\": \"en\",\n      \"context\": \"National Convenor of the Hindustani Movement and signer of the election appeal, electoral guidelines, acknowledgment letter, and pledge form.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Anupam Mehta\",\n      \"language\": \"en\",\n      \"context\": \"Convenor of the Bombay Hindustani Movement and signer of the 1 February 1977 covering letter.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Thoreau\",\n      \"language\": \"en\",\n      \"context\": \"Philosopher quoted in the appeal on the relationship between liberty and human dignity; the text gives no fuller name.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Hindustani Movement — Indians in Service of India\",\n      \"language\": \"en\",\n      \"context\": \"Non-political citizens’ movement issuing the circular and organising the Bhay-Hatao-Dal for the 1977 elections.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"Hindustani Movement, 84/A Nepean Sea Road, Bombay-6\",\n      \"language\": \"en\",\n      \"context\": \"Issuing office printed on the circular’s letterhead; the third page gives the address as Pedder Road.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

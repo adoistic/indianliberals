@@ -1,0 +1,32 @@
+{
+ "slug": "1032-Letter_to_Mr_Minoo_Masani_16-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 22.1,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40077
+ },
+ "image_bytes": [
+  152817
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19129,
+  "output_tokens": 1057,
+  "input_tokens": 18072,
+  "output_tokens_details": {
+   "reasoning_tokens": 264
+  }
+ },
+ "credits_consumed": 0.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"original_script\": null,\n    \"translit\": null\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"N. G. Ranga,\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Nidubrolu\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter on parliamentary letterhead, with handwritten annotations and signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"subtitle_not_printed\",\n    \"publisher_not_printed\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"N. G. Ranga\",\n      \"language\": \"en\",\n      \"context\": \"Author and Member of Parliament identified in the letterhead; the authority-file subset contains no matching canonical name or alias.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"Letterhead identifies the sender as N. G. Ranga, Member of Parliament (Lok Sabha), from Nidubrolu, dated 16-1-1963. It is addressed 'My dear Masani' and refers to Rajajee, Nehrujee and Sirimavo's proposals. A handwritten note marks an enclosure.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document is a single typed communication addressed to 'My dear Masani' and signed 'Yours sincerely'. The letterhead, named recipient, dated correspondence format and personal message establish the work_type as letter.\",\n    \"purpose\": \"No controlled purpose qualifier applies to an individual letter.\",\n    \"language\": \"The visible text is entirely in Roman-script English, including the letterhead and typed body.\",\n    \"authors_resolution\": \"The visible sender identification is 'N. G. Ranga,'. This verbatim byline was searched against the supplied authority subset; neither the canonical names nor aliases contain a matching string, so thinker_id is null and human review is required.\",\n    \"year\": \"The letterhead prints 'Nidubrolu, 16-1-1963.' on page 1, establishing the year with high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed; the page is personal parliamentary correspondence rather than a publication.\",\n    \"toc\": \"No table of contents is present or applicable to this single-page letter.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "1006-Letter_to_Mr_Minoo_Masani_10-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 20.8,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40077
+ },
+ "image_bytes": [
+  281652
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3840
+  },
+  "total_tokens": 20157,
+  "output_tokens": 870,
+  "input_tokens": 19287,
+  "output_tokens_details": {
+   "reasoning_tokens": 73
+  }
+ },
+ "credits_consumed": 0.24,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Prof. N. G. Ranga, M.P.\",\n      \"honorifics\": [\n        \"Prof.\"\n      ],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Nidubrolu\",\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single typed letter on letterhead, with handwritten annotations and signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"cold-war-positioning\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"recipient_authority_resolution_unavailable\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Prof. N. G. Ranga\",\n      \"language\": \"en\",\n      \"context\": \"Sender of a letter dated 10-8-1964; the letterhead identifies him as President of the Swatantra Party and Member of Parliament.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The letterhead identifies the sender as Prof. N. G. Ranga, M.P., President, Swatantra Party. It is addressed 'My dear Masani' and signed by Ranga. The printed date is Nidubrolu, 10-8-1964.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is a single letter: it has a letterhead, a named recipient ('My dear Masani'), a dated place line, and a closing signature. It is not a publication or collected correspondence.\",\n    \"purpose\": \"No controlled purpose qualifier fits a single personal or political letter.\",\n    \"language\": \"The visible text is entirely in Roman script and English; no Indian-language script appears.\",\n    \"authors_resolution\": \"The sender's byline is printed verbatim as 'Prof. N. G. Ranga, M.P.'. This name does not match a canonical name or alias in the supplied authority subset, so thinker_id is null and human review is required.\",\n    \"year\": \"The letterhead date line on page 1 reads 'NIDUBROLU, 10-8-1964.' — high confidence.\",\n    \"publisher\": \"No publisher or publication imprint is printed; the page is personal/political correspondence on the sender's letterhead, so publisher_id is null.\",\n    \"toc\": \"No table of contents is present or applicable to this single-page letter.\"\n  }\n}",
+ "failed": null
+}

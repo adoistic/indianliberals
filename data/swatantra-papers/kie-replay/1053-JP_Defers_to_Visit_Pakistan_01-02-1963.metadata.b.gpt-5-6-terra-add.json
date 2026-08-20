@@ -1,0 +1,32 @@
+{
+ "slug": "1053-JP_Defers_to_Visit_Pakistan_01-02-1963",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 30.9,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40042
+ },
+ "image_bytes": [
+  158709
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20039,
+  "output_tokens": 1311,
+  "input_tokens": 18728,
+  "output_tokens_details": {
+   "reasoning_tokens": 501
+  }
+ },
+ "credits_consumed": 2.98,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"J.P. defers visit to Pakistan\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": \"Express News Service\",\n    \"issuer_id\": null,\n    \"place\": \"Ahmedabad\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"medium\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single newspaper/news-agency clipping mounted or reproduced on a sheet\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"author_not_named\",\n    \"publisher_not_identified\",\n    \"issuer_not_identified\",\n    \"isbn\",\n    \"issn\",\n    \"oclc\",\n    \"toc\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Express News Service\",\n      \"language\": \"en\",\n      \"context\": \"News agency credited on the clipping as the source of the report.\"\n    },\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"Indian Express\",\n      \"language\": \"en\",\n      \"context\": \"Handwritten source notation at the top of the page appears to identify the newspaper as Indian Express.\"\n    }\n  ],\n  \"notes\": \"The page is a press/news clipping rather than a standalone authored publication. The handwritten notation reads “Indian Express 1/2/63”; the printed report is datelined Ahmedabad, Jan. 31. The strict enum lacks press_note, so occasional_paper is used as the closest available category.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page contains a printed news report headed “J.P. defers visit to Pakistan,” credited to Express News Service, and lacks the form of a letter, speech, book, or authored essay. The taxonomy's press_note category best describes the content, but because the strict enum excludes press_note, occasional_paper is selected as the closest permitted value.\",\n    \"purpose\": \"No permitted purpose qualifier is supported by the page.\",\n    \"language\": \"The clipping is entirely in Roman-script English.\",\n    \"authors_resolution\": \"No author or reporter byline is printed. Jayaprakash Narain is the subject of the report, not its author, so authors[] remains empty.\",\n    \"year\": \"The year 1963 is taken from the handwritten source/date notation “Indian Express 1/2/63” at the top of the page; confidence is medium because the notation is handwritten rather than a formal publication statement.\",\n    \"publisher\": \"The printed credit is “Express News Service”; it identifies the news agency source, not necessarily the newspaper publisher, and no matching authority entry was provided.\",\n    \"toc\": \"No formal table of contents is present; the one-page clipping is complete in the rendered chunk.\"\n  }\n}",
+ "failed": null
+}

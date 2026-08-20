@@ -1,0 +1,33 @@
+{
+ "slug": "1164-Minutes_of_the_Meeting_of_the_National_Executive_of_the_Swatantra_Party_29-06-1976",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 38.6,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40089
+ },
+ "image_bytes": [
+  387020,
+  282318
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 23523,
+  "output_tokens": 1784,
+  "input_tokens": 21739,
+  "output_tokens_details": {
+   "reasoning_tokens": 491
+  }
+ },
+ "credits_consumed": 3.63,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": \"report\",\n  \"title\": {\n    \"main\": {\n      \"value\": \"Minutes of the meeting of the National Executive of the Swatantra party held in Bombay on June 29, 1976.\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"high\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"ALL INDIA SWATANTRA PARTY NATIONAL HEADQUARTERS.\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1976,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Two-page typed office record, with handwritten page annotation and signature.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"constitutionalism\",\n    \"emergency-critique\",\n    \"party-politics\",\n    \"electoral-reform\",\n    \"press-freedom\",\n    \"civil-liberty\",\n    \"governance-reform\",\n    \"socialism-debate\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"subtitle\",\n    \"editors\",\n    \"edition\",\n    \"series\",\n    \"isbn\",\n    \"issn\",\n    \"oclc\",\n    \"toc\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mr. G. K. Sundaram\",\n      \"language\": \"en\",\n      \"context\": \"Named as chair of the National Executive meeting.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mr. Jacob Cherian\",\n      \"language\": \"en\",\n      \"context\": \"Listed among those present at the National Executive meeting.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mr. Paramanand Kejriwel\",\n      \"language\": \"en\",\n      \"context\": \"Listed among those present at the National Executive meeting.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mr. Harikrishna Patel\",\n      \"language\": \"en\",\n      \"context\": \"Listed among those present at the National Executive meeting.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mr. C. N. Sudhan\",\n      \"language\": \"en\",\n      \"context\": \"Listed among those present at the National Executive meeting.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mr. A. Duraisamy\",\n      \"language\": \"en\",\n      \"context\": \"Listed among those present at the National Executive meeting.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mr. K. H. Subramaniam\",\n      \"language\": \"en\",\n      \"context\": \"Listed among those present at the National Executive meeting.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mr. Girish Munshi\",\n      \"language\": \"en\",\n      \"context\": \"Listed as present and as General Secretary assigned to prepare a summary.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"V.S.Srikumar\",\n      \"language\": \"en\",\n      \"context\": \"Printed beneath the closing signature as Joint Secretary.\",\n      \"page\": 2\n    }\n  ],\n  \"notes\": \"The document is explicitly headed as minutes of a past meeting held on 29 June 1976. Because the strict work_type enum omits minutes, it is classified as the closest institutional-document type, occasional_paper, with purpose report. The printed date is 4 September 1976.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document records attendance, a chair, matters discussed, adopted resolutions, activities, and the termination of a meeting. This is therefore physically and functionally a minutes record; because the required enum omits minutes, occasional_paper is used as the closest permitted institutional-document category.\",\n    \"purpose\": \"The text is a formal record of proceedings and adopted positions of the party's National Executive, so report is the closest permitted purpose qualifier.\",\n    \"language\": \"Only Roman-script English is visible on both rendered pages.\",\n    \"authors_resolution\": \"No human author byline is printed. The document is issued under the All India Swatantra Party National Headquarters, and the closing Joint Secretary signature is treated as an office sign-off rather than authorship.\",\n    \"year\": \"The document bears the date 4th September 1976 at the upper right; the meeting date printed in the heading is 29 June 1976.\",\n    \"publisher\": \"The header reads \\\"ALL INDIA SWATANTRA PARTY NATIONAL HEADQUARTERS.\\\" It matches the authority entry for Swatantra Party and is recorded as both publisher and issuer.\",\n    \"toc\": \"No formal table of contents is present; the two rendered pages are the complete visible document.\"\n  }\n}",
+ "failed": null
+}

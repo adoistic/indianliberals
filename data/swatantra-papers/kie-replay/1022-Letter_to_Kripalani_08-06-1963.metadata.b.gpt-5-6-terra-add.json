@@ -1,0 +1,37 @@
+{
+ "slug": "1022-Letter_to_Kripalani_08-06-1963",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 38.4,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40049
+ },
+ "image_bytes": [
+  280619,
+  209911,
+  309136,
+  219685,
+  294993,
+  217949
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 29938,
+  "output_tokens": 1485,
+  "input_tokens": 28453,
+  "output_tokens_details": {
+   "reasoning_tokens": 407
+  }
+ },
+ "credits_consumed": 4.18,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"(M.R. Masani)\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 6,\n    \"pages_total\": 6,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Two-page typed office letter on Swatantra Party Central Office letterhead, with duplicate/scanned copies in the PDF\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"socialism-debate\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_identified\",\n    \"editor_not_named\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Acharya J.B. Kripalani\",\n      \"language\": \"en\",\n      \"context\": \"Named recipient of the letter, addressed at 11 Gautam Palli, Lucknow; not present in the supplied authority subset.\"\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Madhu Limaye\",\n      \"language\": \"en\",\n      \"context\": \"Identified in the letter as Secretary of the Socialist Party; not present in the supplied authority subset.\"\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Dr. Raghuvira\",\n      \"language\": \"en\",\n      \"context\": \"Named as a participant in prior inter-party discussions; not present in the supplied authority subset.\"\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Sakuntala\",\n      \"language\": \"en\",\n      \"context\": \"Mentioned in the complimentary closing as a person sending regards; not present in the supplied authority subset.\"\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Socialist Party\",\n      \"language\": \"en\",\n      \"context\": \"Political party named in the letter as participating in joint action; not matched to an organisation in the supplied authority subset.\"\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"P.S.P.\",\n      \"language\": \"en\",\n      \"context\": \"Political party abbreviation appearing in the letter; not resolved against the supplied organisation authority subset.\"\n    }\n  ],\n  \"notes\": \"The document is an individually addressed letter from M.R. Masani to Acharya J.B. Kripalani, dated 8 June 1963, on Swatantra Party Central Office letterhead. No printed title is present.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The pages show a conventional letter form: a named recipient, salutation (“My dear Kripalani ji,”), dated correspondence, complimentary close, and sender signature block. It is therefore classified as a letter rather than a circular or press note.\",\n    \"purpose\": \"No taxonomy purpose qualifier applies to this individually addressed political correspondence.\",\n    \"language\": \"All visible text is in Roman-script English; no Indic-script text is present.\",\n    \"authors_resolution\": \"The sender byline is printed verbatim as “(M.R. Masani)”. Normalised comparison against the supplied authority subset matches the alias “M. R. Masani” for minoo-masani, so thinker_id is set to minoo-masani.\",\n    \"year\": \"The date printed in the letterhead is “8th June 1963.”\",\n    \"publisher\": \"No publisher line is printed. The letterhead identifies “Swatantra Party — CENTRAL OFFICE” at Sassoon Building, 143, Mahatma Gandhi Road, Bombay 1; this is recorded as the issuing organisation, not as a publisher.\",\n    \"toc\": \"No formal table of contents is present or applicable to this two-page letter.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "106-Letter_to_Mr_A_Latif_04-03-1971",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 20.4,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40071
+ },
+ "image_bytes": [
+  159269
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19567,
+  "output_tokens": 785,
+  "input_tokens": 18782,
+  "output_tokens_details": {
+   "reasoning_tokens": 110
+  }
+ },
+ "credits_consumed": 0.26,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"M. R. MASANI\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1971,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter on one sheet\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"issuer_not_printed\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The document is an untitled personal letter dated 4th March, 1971. It thanks Mr. A. Latif for assistance during an election. The signature is printed as “(M. R. MASANI)”; the recipient is not an author.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page contains a dated salutation, direct address to “Mr. A. Latif,” brief correspondence, complimentary close, signature, and recipient address. These are unambiguous signals of a single letter.\",\n    \"purpose\": \"No listed purpose qualifier applies to this personal correspondence.\",\n    \"language\": \"The document is entirely in Roman-script English, including the date, body text, signature, and address.\",\n    \"authors_resolution\": \"The extracted signature/byline is “M. R. MASANI.” Normalised case, whitespace, and punctuation match the authority-file alias “M. R. Masani,” resolving to thinker_id “minoo-masani.”\",\n    \"year\": \"The upper-right date line prints “4th March, 1971,” giving the year with high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the page; the supplied folder hint was not treated as printed evidence.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "1058-Letter_to_Mr_Minoo_Masani_13-02-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 20.1,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40077
+ },
+ "image_bytes": [
+  264232
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19567,
+  "output_tokens": 769,
+  "input_tokens": 18798,
+  "output_tokens_details": {
+   "reasoning_tokens": 105
+  }
+ },
+ "credits_consumed": 0.26,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"c-rajagopalachari\",\n      \"byline_verbatim\": \"C. RAJAGOPALACHARI\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single typed letter sheet with handwritten annotations and date/receipt stamp\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher\",\n    \"no_issuer\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Typed letter dated 13th February 1963, from C. Rajagopalachari to M.R. Masani concerning newspaper publication of a Swatantra Party resolution. The date stamp records receipt on 16 FEB 1963.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is an individually addressed communication beginning 'My dear Masani,' and ending with 'Yours sincerely,' followed by the sender's signature. It is therefore a letter, not a published pamphlet or organizational statement.\",\n    \"purpose\": \"No applicable purpose qualifier is printed for this private correspondence.\",\n    \"language\": \"The document is entirely in Roman-script English.\",\n    \"authors_resolution\": \"The printed sender identification is 'C. RAJAGOPALACHARI'. Case, punctuation, and whitespace normalization match the authority-file canonical name 'C. Rajagopalachari', yielding thinker_id 'c-rajagopalachari'.\",\n    \"year\": \"The letter heading explicitly prints '13th February 1963'; year confidence is high.\",\n    \"publisher\": \"No publisher or publication imprint is printed. The visible address is the sender's letterhead, not a publisher line.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "1020-Letter_to_Kripalani_12-06-2013",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 23.3,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40071
+ },
+ "image_bytes": [
+  203470
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20584,
+  "output_tokens": 793,
+  "input_tokens": 19791,
+  "output_tokens_details": {
+   "reasoning_tokens": 98
+  }
+ },
+ "credits_consumed": 0.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"(M.R. Masani)\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter with handwritten annotations and signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher\",\n    \"no_place\",\n    \"no_recipient_authority_resolution\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Letter dated 11th June, 1963, addressed to Acharya J. B. Kripalani, M.P. The filename date differs from the printed date; the printed date is used. Swatantra Party is mentioned in the body but is not treated as issuer.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document has a salutation ('My dear Kripalani ji'), a complimentary close ('Yours sincerely'), a named recipient, and a signed sender block. These are direct signals of a single letter rather than an office circular or other document type.\",\n    \"purpose\": \"No controlled purpose qualifier applies to a personal political letter.\",\n    \"language\": \"The visible text is entirely in English Roman script, so the language is coded as en.\",\n    \"authors_resolution\": \"The signer is printed as '(M.R. Masani)'. After normalising case, punctuation, and spacing, this matches the authority-file alias 'M. R. Masani' for thinker_id 'minoo-masani'.\",\n    \"year\": \"The upper-right date line prints '11th June, 1963.'; this gives the year with high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the page; the supplied folder hint is not used as bibliographic evidence.\",\n    \"toc\": \"No table of contents is present or applicable for this one-page letter.\"\n  }\n}",
+ "failed": null
+}

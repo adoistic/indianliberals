@@ -1,0 +1,32 @@
+{
+ "slug": "1015-Letter_to_C_Rajagopalachari_16-06-1963",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 35.8,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40042
+ },
+ "image_bytes": [
+  92244
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 4864
+  },
+  "total_tokens": 20184,
+  "output_tokens": 1684,
+  "input_tokens": 18500,
+  "output_tokens_details": {
+   "reasoning_tokens": 901
+  }
+ },
+ "credits_consumed": 2.71,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"MASANI\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"One-page typed office communication with telegram-style block capitals and clipped wording\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_identified\",\n    \"edition_not_identified\",\n    \"author_identity_unresolved\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"MASANI\",\n      \"language\": \"en\",\n      \"context\": \"The visible sender identification is the surname MASANI, but this single-word form does not exactly match a canonical name or listed alias in the supplied authority subset.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The document is addressed to Sri C. Rajagopalachari and dated 16th June 1963. Its block-capital, clipped wording and absence of salutation or complimentary close are telegram-like; the schema's permitted work_type values do not include telegram, so letter is used as the closest permitted value.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page has an addressee, sender identification, date, and a one-page political communication. However, the all-capital clipped text, omission of articles, and lack of salutation or complimentary close strongly indicate a telegram rather than a conventional letter; letter is selected only because telegram is absent from the mandated enum.\",\n    \"purpose\": \"No permitted purpose qualifier applies to this individual office communication.\",\n    \"language\": \"The page is printed entirely in Roman-script English.\",\n    \"authors_resolution\": \"The visible sender identification is \\\"MASANI\\\". Searching the supplied authority subset, this exact normalized form does not match a canonical name or alias; thinker_id is therefore null and human review is required. \\\"Sri C. Rajagopalachari\\\" is the recipient, not treated as the author.\",\n    \"year\": \"The date printed at the bottom of the page is \\\"16th June 1963\\\", yielding year 1963 with high confidence.\",\n    \"publisher\": \"No publisher line is printed on the page; publisher_id and publisher_verbatim are null.\",\n    \"toc\": \"No formal table of contents is present or applicable for this one-page communication.\"\n  }\n}",
+ "failed": null
+}

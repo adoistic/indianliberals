@@ -1,0 +1,32 @@
+{
+ "slug": "1051-Tour_Programme_of_Raja_24-01-1963",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 25.0,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40037
+ },
+ "image_bytes": [
+  115108
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 4864
+  },
+  "total_tokens": 19470,
+  "output_tokens": 1019,
+  "input_tokens": 18451,
+  "output_tokens_details": {
+   "reasoning_tokens": 336
+  }
+ },
+ "credits_consumed": 2.26,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"Tour Programme of Rajaji\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single typed office schedule sheet with handwritten annotation and signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"author_not_named\",\n    \"publisher_not_named\",\n    \"issuer_not_named\",\n    \"place_not_stated\",\n    \"edition_not_stated\",\n    \"series_not_stated\",\n    \"toc_not_present\",\n    \"identifiers_not_present\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The sheet lists Rajaji's movements between Bangalore and Madras from 27–30 January 1963. A handwritten signature/date appears at lower right, but it is not treated as a printed author byline.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is an archival tour-programme office record rather than a conventional publication. Because the strict work_type enum has no tour_programme or schedule value, occasional_paper is used as the closest available classification, with low confidence in the classification.\",\n    \"purpose\": \"No controlled purpose qualifier fits a personal tour schedule, so purpose is null.\",\n    \"language\": \"The visible text is entirely in Roman-script English; no other script is present.\",\n    \"authors_resolution\": \"No printed author or byline appears on the page. 'Rajaji' occurs in the title and is not treated as an author credit; therefore authors[] is empty.\",\n    \"year\": \"The schedule dates are printed as 27-1-63, 28-1-63, 29-1-63, and 30-1-63, with a handwritten date of 24.1.63 at lower right; these provide direct evidence for 1963.\",\n    \"publisher\": \"No publisher or issuing organization is printed on the visible sheet; publisher_id and issuer_id are null.\",\n    \"toc\": \"No formal table of contents is present; this is a one-page standalone office schedule.\"\n  }\n}",
+ "failed": null
+}

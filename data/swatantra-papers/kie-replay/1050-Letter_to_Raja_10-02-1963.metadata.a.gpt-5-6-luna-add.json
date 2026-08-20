@@ -1,0 +1,32 @@
+{
+ "slug": "1050-Letter_to_Raja_10-02-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 18.5,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40066
+ },
+ "image_bytes": [
+  232318
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20845,
+  "output_tokens": 866,
+  "input_tokens": 19979,
+  "output_tokens_details": {
+   "reasoning_tokens": 83
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"piloo-mody\",\n      \"byline_verbatim\": \"PILOO MODY\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"Swatantra Party (Bombay Office)\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"BOMBAY\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed office letter on Swatantra Party letterhead, with handwritten annotations\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_explicit_publisher_line\",\n    \"recipient_not_catalogued_as_author\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"No title is printed. The letter is addressed to C. Rajagopalachari ('My dear Rajaji') and signed by PILOO MODY, Executive Chairman. The printed date line reads 'BOMBAY 1. 22nd January '63'; the handwritten date notation and filename are not used as primary evidence.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a single addressed office letter: it has the salutation 'My dear Rajaji,' a complimentary close, a named recipient address, and a typed sender signature block. It is therefore classified as a letter rather than an occasional paper or circular.\",\n    \"purpose\": \"No controlled purpose qualifier fits a single personal/official correspondence item.\",\n    \"language\": \"The visible text is entirely in Roman-script English, including the letterhead, body, and address.\",\n    \"authors_resolution\": \"The verbatim sender credit is 'PILOO MODY'. Case-normalised comparison against the authority subset matches the canonical entry 'Piloo Mody', yielding thinker_id 'piloo-mody'. The recipient, 'Shri C. Rajagopalachari' / 'Rajaji', is not treated as an author.\",\n    \"year\": \"The letterhead date line on page 1 reads 'BOMBAY 1. 22nd January '63', establishing 1963 with high confidence.\",\n    \"publisher\": \"The page bears the letterhead 'Swatantra Party (Bombay Office)' and the address 'Sassoon Building, 143, Mahatma Gandhi Road, Bombay 1'; this resolves to the Swatantra Party authority entry.\",\n    \"toc\": \"No table of contents is present or applicable for this single-letter document.\"\n  }\n}",
+ "failed": null
+}

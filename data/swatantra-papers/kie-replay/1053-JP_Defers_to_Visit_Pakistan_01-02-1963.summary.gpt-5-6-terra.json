@@ -1,0 +1,32 @@
+{
+ "slug": "1053-JP_Defers_to_Visit_Pakistan_01-02-1963",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 32.2,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 45601
+ },
+ "image_bytes": [
+  158709
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19260,
+  "output_tokens": 1570,
+  "input_tokens": 17690,
+  "output_tokens_details": {
+   "reasoning_tokens": 516
+  }
+ },
+ "credits_consumed": 3.04,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This single-page Indian Express news report, dated Ahmedabad, January 31, reports that Jayaprakash Narayan postponed a planned four-day goodwill visit to Pakistan for the second time. Narayan attributed the delay to Ramadan, which he said would make it inconvenient for Pakistani leaders to meet him, and suggested that the visit might take place in late March or early April.\\n\\nThe report recalls that the first postponement occurred on the eve of the announcement of official India–Pakistan talks. It also notes that Narayan was continuing his tour of Gujarat, with planned stops in North Gujarat and Bhavnagar before travelling to Bombay.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"Jayaprakash Narayan postponed his proposed goodwill visit to Pakistan for a second time.\",\n      \"Narayan cited Ramadan as an inconvenient period for meetings with Pakistani leaders.\",\n      \"The visit was tentatively deferred until late March or early April.\",\n      \"The first postponement had occurred shortly before the announcement of official India–Pakistan talks.\",\n      \"Narayan was continuing a tour of Gujarat, including planned travel to Bhavnagar and Bombay.\"\n    ],\n    \"themes_confirmed\": [\n      \"foreign-policy\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"MR. Jayaprakash Narain who was to have proceeded to Pakistan on Friday from Delhi on a four-day goodwill visit has again postponed his departure.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The report opens by establishing the postponement of Narayan's proposed goodwill visit to Pakistan.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"It may be recalled that this is the second postponement of his visit to Pakistan\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"data\",\n        \"context\": \"The article places the latest delay in the context of an earlier postponement.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"The visit may now come off sometime late in March or early April\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The report gives the provisional timetable for the rescheduled Pakistan visit.\",\n        \"shareable\": true\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": \"jayaprakash-narayan\",\n        \"context\": \"Mr. Jayaprakash Narain, who was to have proceeded to Pakistan on Friday from Delhi on a four-day goodwill visit, has again postponed his departure.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      },\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"Ayub Khan\",\n        \"context\": \"Mr. Narain stated that it would not be convenient for Ayub Khan and other Pakistan leaders to meet him because of the Ramzan.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      },\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"Mr. Brohi\",\n        \"context\": \"He said that information was also received from Mr. Brohi through his (Mr. Narain's) friends in Delhi.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No content is missing; the complete one-page newspaper clipping was rendered.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"Indian Express\",\n      \"language\": \"en\",\n      \"context\": \"English-language daily newspaper identified as the source publication by the handwritten archival annotation.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Express News Service\",\n      \"language\": \"en\",\n      \"context\": \"The newspaper's in-house news service, credited in the article's dateline and text.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Ayub Khan\",\n      \"language\": \"en\",\n      \"context\": \"Pakistani leader whom Narayan said it would be inconvenient to meet during Ramadan.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mr. Brohi\",\n      \"language\": \"en\",\n      \"context\": \"A person said to have conveyed information about the visit through Narayan's friends in Delhi.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

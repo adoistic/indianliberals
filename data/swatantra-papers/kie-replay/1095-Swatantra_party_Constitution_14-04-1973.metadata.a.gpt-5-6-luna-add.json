@@ -1,0 +1,43 @@
+{
+ "slug": "1095-Swatantra_party_Constitution_14-04-1973",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 34.0,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40118
+ },
+ "image_bytes": [
+  125599,
+  197694,
+  254993,
+  248079,
+  230844,
+  238797,
+  258173,
+  242818,
+  164509,
+  197413,
+  239410,
+  269748
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 33879,
+  "output_tokens": 1200,
+  "input_tokens": 32679,
+  "output_tokens_details": {
+   "reasoning_tokens": 206
+  }
+ },
+ "credits_consumed": 0.45,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"CONSTITUTION\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": \"As amended on April 14, 1973, by the Sixth National Convention in Rajajinagar, Madras\",\n      \"confidence\": \"high\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": \"Published by S. V. Raju, Executive Secretary, Swatantra Party, National Headquarters, 143 M. G. Road, Bombay 400 001. Printed at Inland Printers, 55 Gamdevi Rd., Bombay 400 007.\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1973,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 12,\n    \"pages_total\": 12,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Stapled or bound constitutional party document, 12 pages\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"constitutionalism\",\n    \"party-politics\",\n    \"electoral-reform\",\n    \"governance-reform\",\n    \"rule-of-law\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"no_formal_author\",\n    \"no_edition_statement\",\n    \"no_series_statement\",\n    \"no_isbn\",\n    \"no_issn\",\n    \"no_oclc\",\n    \"no_formal_toc\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"S. V. Raju\",\n      \"language\": \"en\",\n      \"context\": \"Named in the publication signature as Executive Secretary of the Swatantra Party and the person who published the document.\",\n      \"page\": 12\n    },\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"Inland Printers\",\n      \"language\": \"en\",\n      \"context\": \"Named in the colophon as the printer at 55 Gamdevi Rd., Bombay 400 007.\",\n      \"page\": 12\n    }\n  ],\n  \"notes\": \"The cover presents SWATANTRA PARTY above CONSTITUTION. The document states that it was amended on April 14, 1973, by the Sixth National Convention in Rajajinagar, Madras. The publisher signature names S. V. Raju as Executive Secretary; this is not editorial credit.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is an institutional constitutional document issued by the Swatantra Party, not a personal work. Its title page and running headings identify it as the Party's CONSTITUTION, and the pages contain numbered clauses governing membership, party bodies, elections, conventions, and amendments.\",\n    \"purpose\": \"No listed purpose qualifier fits this constitutional document precisely. It is catalogued as an occasional_paper because it is an organizational document issued by a political party.\",\n    \"language\": \"All visible text is in the Latin script and English; no Indian-language text is present.\",\n    \"authors_resolution\": \"No human author or byline is printed. The Swatantra Party is the issuing organization, so authors[] is empty and no thinker authority resolution is required.\",\n    \"year\": \"The title page states 'As amended on April 14, 1973, by the Sixth National Convention in Rajajinagar, Madras' — high confidence for the document's amendment year.\",\n    \"publisher\": \"Page 12 prints 'Published by S. V. Raju, Executive Secretary, Swatantra Party, National Headquarters...' The issuing organization resolves to swatantra-party; S. V. Raju is not a publisher authority entry and is therefore retained verbatim without a publisher_id.\",\n    \"toc\": \"No formal table of contents is visible in the 12 rendered pages; the document proceeds directly from the title page into numbered constitutional clauses and appendices.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,35 @@
+{
+ "slug": "1142-Minutes_of_the_Meeting_of_the_National_Executive_28-04-1977",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 39.4,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40072
+ },
+ "image_bytes": [
+  414192,
+  354620,
+  222976,
+  129919
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 25611,
+  "output_tokens": 1654,
+  "input_tokens": 23957,
+  "output_tokens_details": {
+   "reasoning_tokens": 592
+  }
+ },
+ "credits_consumed": 3.79,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": \"report\",\n  \"title\": {\n    \"main\": {\n      \"value\": \"Minutes of the meeting of the National Executive committee of the Swatantra party held on April 17, 1977 at Woodlands Hotel, Mylapore, Madras-4.\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"ALL INDIA SWATANTRA PARTY-NATIONAL HEADQUARTERS\\n10-A, Flowers Road, Madras-84.\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1977,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 4,\n    \"pages_total\": 4,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Four-page typed office-paper scan; pages 1–2 are minutes, with a separate circular and addressed envelope appearing on pages 3–4.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"civil-liberty\",\n    \"individual-rights\",\n    \"press-freedom\",\n    \"liberalism-as-tradition\",\n    \"indian-liberal-history\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"author_not_named\",\n    \"editor_not_named\",\n    \"composite_scan\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"V.S.Srikumar\",\n      \"language\": \"en\",\n      \"context\": \"The attached circular on page 3 is signed by V.S.Srikumar, identified as Joint Secretary.\",\n      \"page\": 3\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"G.K.Sundaram\",\n      \"language\": \"en\",\n      \"context\": \"Named as president of the National Executive Committee meeting.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Sumatril P.Shah\",\n      \"language\": \"en\",\n      \"context\": \"Named as a special invitee and as opposing an immediate merger with the Janata Party.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"Primary document is a two-page record of the Swatantra Party National Executive Committee meeting held on 17 April 1977. Pages 3–4 contain a separate circular dated 25 April 1977 and its envelope addressed to Shri M.R. Masani.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The printed heading identifies the primary document as minutes of a party National Executive Committee meeting, with attendance, proceedings, and numbered resolutions adopted in the past tense. The strict schema has no minutes enum, so it is recorded under the closest institutional-document category, occasional_paper, rather than as a letter or circular.\",\n    \"purpose\": \"The document records proceedings and resolutions of an organizational meeting, making report the closest available purpose qualifier. The attached page-3 circular is not treated as the primary work type.\",\n    \"language\": \"All visible text is in Roman-script English; no Indian-language script is present.\",\n    \"authors_resolution\": \"No human author or byline is printed for the primary minutes. The issuing party is therefore represented institutionally with authors set to an empty array. The separate circular is signed by V.S.Srikumar, but that signatory is not treated as the author of the primary minutes and does not resolve against the supplied authority subset.\",\n    \"year\": \"The primary document is dated 28th April 1977 at the upper right of page 1; the meeting itself is stated to have been held on April 17, 1977.\",\n    \"publisher\": \"The visible issuing line is 'ALL INDIA SWATANTRA PARTY-NATIONAL HEADQUARTERS, 10-A, Flowers Road, Madras-84.' It resolves institutionally to Swatantra Party; no separate commercial publisher is printed.\",\n    \"toc\": \"No formal table of contents is present. Pages 1–2 form the minutes; page 3 is a separately headed circular and page 4 is its addressed envelope.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "1053-JP_Defers_to_Visit_Pakistan_01-02-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 19.1,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40079
+ },
+ "image_bytes": [
+  158709
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3840
+  },
+  "total_tokens": 19025,
+  "output_tokens": 908,
+  "input_tokens": 18117,
+  "output_tokens_details": {
+   "reasoning_tokens": 153
+  }
+ },
+ "credits_consumed": 0.23,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"J.P. defers visit to Pakistan\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": \"Express News Service\",\n    \"issuer_id\": null,\n    \"place\": \"Ahmedabad\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"medium\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single newspaper clipping mounted or filed on an archival sheet\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"no_author_byline\",\n    \"no_publisher_address\",\n    \"no_edition\",\n    \"no_series\",\n    \"no_identifier\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"Express News Service\",\n      \"language\": \"en\",\n      \"context\": \"News agency credited beneath the clipping headline as the source of the report.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The clipping carries a handwritten heading, “Indian Express 1/2/63,” and the printed dateline “AHMEDABAD, Jan. 31.” The year is therefore recorded with medium confidence. No author or formal publication imprint is printed.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is a single newspaper news clipping rather than a standalone authored publication. Because the strict taxonomy has no newspaper-clipping type, occasional_paper is used as the closest available category; the printed credit “Express News Service” identifies the news source, not an author.\",\n    \"purpose\": \"No listed purpose qualifier fits a brief news report.\",\n    \"language\": \"The visible text is entirely in Roman-script English, including the headline, dateline, and body.\",\n    \"authors_resolution\": \"No author byline is printed. The report is attributed only to “Express News Service,” which is a news-service credit rather than a human author.\",\n    \"year\": \"A handwritten note above the clipping reads “Indian Express 1/2/63”; the printed report has the dateline “AHMEDABAD, Jan. 31.” The year 1963 is recorded with medium confidence because it is supplied by the handwritten archival notation rather than a printed publication line.\",\n    \"publisher\": \"The clipping prints “Express News Service” beneath the headline on page 1. This name does not match a publisher in the supplied authority file, so publisher_id is null.\",\n    \"toc\": \"No table of contents is present; this is a one-page newspaper clipping.\"\n  }\n}",
+ "failed": null
+}

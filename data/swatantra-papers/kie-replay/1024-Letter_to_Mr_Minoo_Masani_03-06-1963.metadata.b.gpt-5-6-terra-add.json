@@ -1,0 +1,37 @@
+{
+ "slug": "1024-Letter_to_Mr_Minoo_Masani_03-06-1963",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 35.3,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40055
+ },
+ "image_bytes": [
+  276665,
+  279315,
+  296867,
+  293205,
+  292397,
+  268742
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 30974,
+  "output_tokens": 1434,
+  "input_tokens": 29540,
+  "output_tokens_details": {
+   "reasoning_tokens": 516
+  }
+ },
+ "credits_consumed": 4.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"J.B. Kripalani\",\n      \"honorifics\": [],\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"J.B. Kripalani\",\n      \"role\": \"author\",\n      \"toc_index\": null\n    }\n  ],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Lucknow\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 6,\n    \"pages_total\": 6,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter with an enclosed typescript inaugural address\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"electoral-reform\",\n    \"planning-critique\",\n    \"public-sector-critique\",\n    \"foreign-policy\",\n    \"socialism-debate\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher\",\n    \"isbn\",\n    \"issn\",\n    \"oclc\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"J.B. Kripalani\",\n      \"language\": \"en\",\n      \"context\": \"The letter is signed by J.B. Kripalani, who is also identified as the speaker of the enclosed inaugural address.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The six-page file contains a letter dated June 3, 1963, from Lucknow to Minoo Masani, with a five-page enclosed text headed “INAUGURAL ADDRESS UNITy CONFERENCE, LUCKNOW.” The enclosed address is treated as enclosure material, not as the main work.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The first page is a personal letter: it has a dated address block, the salutation “my dear masani,” direct correspondence, and the complimentary close “Yours sincerely.” The remaining five pages are visibly an enclosed speech, but the packet's primary document is the letter.\",\n    \"purpose\": \"No applicable purpose qualifier is printed for the letter. The enclosed text is explicitly headed “INAUGURAL ADDRESS” and concerns a unity conference, but it is not classified as the primary work here.\",\n    \"language\": \"All visible text is in Roman-script English; no Indian-language script is present.\",\n    \"authors_resolution\": \"The sender/signatory is visibly “J.B. Kripalani,” and the enclosed address is headed “By J.B. Kripalani.” This name was searched against the supplied authority subset; no canonical name or listed alias matched, so thinker_id is null and human review is required.\",\n    \"year\": \"The letterhead block on page 1 reads “Dated June 3, 1963,” providing the year.\",\n    \"publisher\": \"No publisher or issuing organization is printed on the visible pages; publisher_id and publisher_verbatim are therefore null.\",\n    \"toc\": \"No formal table of contents is present. The enclosed address is identified from its printed heading on page 2, and its visible printed pagination runs from -2- through -5-.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,47 @@
+{
+ "slug": "1076-Swatantra_Newsletter_No-75_August-September-1970",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 97.9,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40143
+ },
+ "image_bytes": [
+  433560,
+  451405,
+  429811,
+  488145,
+  458950,
+  480421,
+  446820,
+  430794,
+  470095,
+  479568,
+  413230,
+  477271,
+  505817,
+  448125,
+  449866,
+  389439
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 54356,
+  "output_tokens": 2110,
+  "input_tokens": 52246,
+  "output_tokens_details": {
+   "reasoning_tokens": 137
+  }
+ },
+ "credits_consumed": 0.73,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"periodical_issue\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"Swatantra Newsletter\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"Masani\",\n      \"role\": \"author\",\n      \"toc_index\": 1\n    },\n    {\n      \"thinker_id\": \"c-rajagopalachari\",\n      \"byline_verbatim\": \"Rajaji\",\n      \"role\": \"author\",\n      \"toc_index\": 2\n    },\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"Mr. Masani\",\n      \"role\": \"author\",\n      \"toc_index\": 3\n    },\n    {\n      \"thinker_id\": \"c-rajagopalachari\",\n      \"byline_verbatim\": \"Rajaji\",\n      \"role\": \"author\",\n      \"toc_index\": 4\n    },\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"General Secretary\",\n      \"role\": \"other\",\n      \"toc_index\": 5\n    }\n  ],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"ISSUED BY THE NATIONAL HEADQUARTERS OF THE SWATANTRA PARTY, 143 MAHATMA GANDHI ROAD, BOMBAY, TELEPHONE NO: 251424\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1970,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": \"No. 75\",\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 16,\n    \"pages_total\": 16,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Periodical newsletter issue; illustrated/scanned page images, approximately 16 pages\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"civil-liberty\",\n    \"constitutionalism\",\n    \"rule-of-law\",\n    \"freedom-of-speech\",\n    \"economic-liberty\",\n    \"agricultural-reform\",\n    \"land-reform\",\n    \"property-rights\",\n    \"public-sector-critique\",\n    \"planning-critique\",\n    \"regulatory-state-critique\",\n    \"foreign-policy\",\n    \"cold-war-positioning\",\n    \"anti-corruption\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [\n      {\n        \"toc_index\": 1,\n        \"title\": \"Masani : A Call for Consolidation\",\n        \"byline_verbatim\": \"Masani\",\n        \"thinker_id_proposed\": \"minoo-masani\",\n        \"page_start\": 2,\n        \"page_end\": 6,\n        \"page_system\": \"printed\",\n        \"complete_in_chunk\": true,\n        \"seen_through_page\": 6\n      },\n      {\n        \"toc_index\": 2,\n        \"title\": \"Rajaji : Let us Unite to Save India\",\n        \"byline_verbatim\": \"Rajaji\",\n        \"thinker_id_proposed\": \"c-rajagopalachari\",\n        \"page_start\": 5,\n        \"page_end\": 6,\n        \"page_system\": \"printed\",\n        \"complete_in_chunk\": true,\n        \"seen_through_page\": 6\n      },\n      {\n        \"toc_index\": 3,\n        \"title\": \"Difficult? — Yes! Unsurmountable? — No!\",\n        \"byline_verbatim\": \"Mr. Masani\",\n        \"thinker_id_proposed\": \"minoo-masani\",\n        \"page_start\": 7,\n        \"page_end\": 7,\n        \"page_system\": \"printed\",\n        \"complete_in_chunk\": true,\n        \"seen_through_page\": 7\n      },\n      {\n        \"toc_index\": 4,\n        \"title\": \"The Political Situation\",\n        \"byline_verbatim\": null,\n        \"thinker_id_proposed\": null,\n        \"page_start\": 7,\n        \"page_end\": 8,\n        \"page_system\": \"printed\",\n        \"complete_in_chunk\": true,\n        \"seen_through_page\": 8\n      },\n      {\n        \"toc_index\": 5,\n        \"title\": \"Shed Your Fears\",\n        \"byline_verbatim\": \"Rajaji\",\n        \"thinker_id_proposed\": \"c-rajagopalachari\",\n        \"page_start\": 8,\n        \"page_end\": 8,\n        \"page_system\": \"printed\",\n        \"complete_in_chunk\": true,\n        \"seen_through_page\": 8\n      },\n      {\n        \"toc_index\": 6,\n        \"title\": \"Other Proceedings of Central Meetings\",\n        \"byline_verbatim\": null,\n        \"thinker_id_proposed\": null,\n        \"page_start\": 8,\n        \"page_end\": 11,\n        \"page_system\": \"printed\",\n        \"complete_in_chunk\": true,\n        \"seen_through_page\": 11\n      },\n      {\n        \"toc_index\": 7,\n        \"title\": \"Annexure A\",\n        \"byline_verbatim\": null,\n        \"thinker_id_proposed\": null,\n        \"page_start\": 12,\n        \"page_end\": 14,\n        \"page_system\": \"printed\",\n        \"complete_in_chunk\": true,\n        \"seen_through_page\": 14\n      },\n      {\n        \"toc_index\": 8,\n        \"title\": \"Annexure B\",\n        \"byline_verbatim\": \"General Secretary\",\n        \"thinker_id_proposed\": null,\n        \"page_start\": 14,\n        \"page_end\": 16,\n        \"page_system\": \"printed\",\n        \"complete_in_chunk\": true,\n        \"seen_through_page\": 16\n      },\n      {\n        \"toc_index\": 9,\n        \"title\": \"Fundamental Rights Front\",\n        \"byline_verbatim\": null,\n        \"thinker_id_proposed\": null,\n        \"page_start\": 16,\n        \"page_end\": 16,\n        \"page_system\": \"printed\",\n        \"complete_in_chunk\": true,\n        \"seen_through_page\": 16\n      }\n    ],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"formal_toc_not_present\",\n    \"editor_not_named\",\n    \"no_issn\",\n    \"no_publisher_id_as_distinct_imprint\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Issue No. 75, dated August/September 1970. The masthead identifies the Swatantra Party national headquarters as issuer. Section headings and article starts were used to construct a rendered-order contents list; this is not a formal TOC.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The front page carries the serial title “Swatantra Newsletter,” issue number “No. 75,” and the date “August/September 1970.” The issue contains multiple separately headed political articles, speeches, resolutions, and party proceedings, so it is classified as a periodical_issue rather than a pamphlet or edited volume.\",\n    \"purpose\": \"No taxonomy purpose qualifier is applicable to a serial newsletter issue.\",\n    \"language\": \"All visible headings and body text are printed in Roman-script English; no Indian-language text is visible in the rendered pages.\",\n    \"authors_resolution\": \"No single title-page author is present. The contributor byline “Masani” matches the authority alias “M. R. Masani” after case and punctuation normalisation and resolves to minoo-masani. “Rajaji” matches an alias for C. Rajagopalachari and resolves to c-rajagopalachari. “Mr. Masani” also matches the Masani authority entry under the same normalisation rule. “General Secretary” is a role rather than a resolvable personal byline and remains unresolved.\",\n    \"year\": \"The front-page masthead explicitly prints “August/September 1970,” providing high-confidence year evidence.\",\n    \"publisher\": \"The front page prints “ISSUED BY THE NATIONAL HEADQUARTERS OF THE SWATANTRA PARTY, 143 MAHATMA GANDHI ROAD, BOMBAY, TELEPHONE NO: 251424”; the organisation matches the authority entry Swatantra Party and resolves to swatantra-party.\",\n    \"toc\": \"No formal Table of Contents page is visible. The entries were reconstructed from section headings and rendered starts in printed page order, with low-to-medium confidence as a content map.\"\n  }\n}",
+ "failed": null
+}

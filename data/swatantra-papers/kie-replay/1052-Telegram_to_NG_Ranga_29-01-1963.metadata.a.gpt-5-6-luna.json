@@ -1,0 +1,32 @@
+{
+ "slug": "1052-Telegram_to_NG_Ranga_29-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 21.0,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40072
+ },
+ "image_bytes": [
+  151123
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 18920,
+  "output_tokens": 961,
+  "input_tokens": 17959,
+  "output_tokens_details": {
+   "reasoning_tokens": 159
+  }
+ },
+ "credits_consumed": 0.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"New Delhi\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Telegram form\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"socialism-debate\",\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"author_not_named\",\n    \"publisher_not_stated\",\n    \"recipient_name_unclear\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"RANGA\",\n      \"language\": \"en\",\n      \"context\": \"The telegram message ends with or refers to 'RANGA', apparently the sender or a named political figure, but the role is not explicitly identified.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"SURAJYAM\",\n      \"language\": \"en\",\n      \"context\": \"The address line appears to name the Bombay recipient as 'SURAJYAM'; the reading is uncertain.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"One-page telegram on a Government of India Posts and Telegraphs form. Printed message reads approximately 'DECIDED SUPPORTING SOCIALIST AMENDMENT = RANGA ='. The supplied filename is not used as a title. Strict taxonomy lacks 'telegram'; classified as letter as the closest permitted enum.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is visibly a telegram form, with Government of India Posts and Telegraphs stationery, address fields, and a short telegraphic message. The strict work_type enum does not include 'telegram', so 'letter' is used as the closest permitted value, with the physical format and note preserving the distinction.\",\n    \"purpose\": \"No permitted purpose qualifier fits this single telegram.\",\n    \"language\": \"The form headings are in Hindi and English, but the substantive message and address are in English; therefore the work language is recorded as en.\",\n    \"authors_resolution\": \"No explicit author or byline is printed. 'RANGA' appears in the message, but its role is not established and it is not promoted to authorship. No thinker_id is assigned.\",\n    \"year\": \"The date stamp on the telegram form reads '28 JAN 1963', giving the year with high confidence.\",\n    \"publisher\": \"No publisher or publishing organisation is printed. The Government of India Posts and Telegraphs heading identifies the form's administrative service, not a publisher.\",\n    \"toc\": \"No table of contents is present or applicable to this one-page telegram.\"\n  }\n}",
+ "failed": null
+}

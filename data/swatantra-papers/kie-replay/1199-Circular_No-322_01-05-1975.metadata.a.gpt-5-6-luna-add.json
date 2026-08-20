@@ -1,0 +1,35 @@
+{
+ "slug": "1199-Circular_No-322_01-05-1975",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 3,
+ "wall_clock_s": 722.7,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40076
+ },
+ "image_bytes": [
+  403575,
+  377833,
+  373865,
+  260968
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 27112,
+  "output_tokens": 1055,
+  "input_tokens": 26057,
+  "output_tokens_details": {
+   "reasoning_tokens": 171
+  }
+ },
+ "credits_consumed": 0.36,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Girish Munshi\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1975,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": \"General Secretary's Circular No. 322\",\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 4,\n    \"pages_total\": 4,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Four-page typed office circular, with handwritten annotations and signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"electoral-reform\",\n    \"constitutionalism\",\n    \"civil-liberty\",\n    \"governance-reform\",\n    \"regulatory-state-critique\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_identified\",\n    \"no_title_page\",\n    \"no_toc\",\n    \"editor_not_applicable\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Girish Munshi\",\n      \"language\": \"en\",\n      \"context\": \"The typed signature block identifies Girish Munshi as General Secretary and signatory of the Swatantra Party circular.\",\n      \"page\": 4\n    }\n  ],\n  \"notes\": \"The document is headed “GENERAL SECRETARY'S CIRCULAR No. 322” and dated May 1, 1975; no standalone title is printed. It reports party decisions and organisation-building after the 1974 convention. Circular is mapped to occasional_paper because the strict work_type enum omits office-record subtypes.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is an office circular: the first page explicitly reads “GENERAL SECRETARY'S CIRCULAR No. 322,” addresses “Friends,” and reports party activities, decisions, and regional organisation. Because the mandated enum excludes circular, occasional_paper is the closest permitted classification.\",\n    \"purpose\": \"No listed occasional-paper purpose fits securely: the document is an internal party circular rather than a manifesto, statement of principles, report, or working paper.\",\n    \"language\": \"All visible text is in English Roman script, including the heading, body text, and signature block; therefore the language is en.\",\n    \"authors_resolution\": \"The signatory block prints “Girish Munshi” beneath the handwritten signature, with the role “General Secretary.” The name does not match a canonical name or alias in the supplied authority subset, so thinker_id is null and human review is required.\",\n    \"year\": \"The header on page 1 prints “May 1, 1975.” This gives the year with high confidence.\",\n    \"publisher\": \"No publisher line or publication imprint is visible. The document is issued by the Swatantra Party, identified by the heading and content, but no separate publisher is printed.\",\n    \"toc\": \"No table of contents is present or applicable; this is a four-page office circular rather than a multi-essay work.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,43 @@
+{
+ "slug": "1095-Swatantra_party_Constitution_14-04-1973",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 40.3,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40081
+ },
+ "image_bytes": [
+  125599,
+  197694,
+  254993,
+  248079,
+  230844,
+  238797,
+  258173,
+  242818,
+  164509,
+  197413,
+  239410,
+  269748
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 33342,
+  "output_tokens": 1251,
+  "input_tokens": 32091,
+  "output_tokens_details": {
+   "reasoning_tokens": 419
+  }
+ },
+ "credits_consumed": 4.43,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"SWATANTRA PARTY CONSTITUTION\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"Published by S. V. Raju, Executive Secretary, Swatantra Party, National Headquarters, 143 M. G. Road, Bombay 400 001. Printed at Inland Printers, 55 Gamdevi Rd., Bombay 400 007.\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1973,\n      \"confidence\": \"low\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 12,\n    \"pages_total\": 12,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Printed constitutional booklet, 12 pages including Appendix A\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"constitutionalism\",\n    \"party-politics\",\n    \"electoral-reform\",\n    \"governance-reform\",\n    \"rule-of-law\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"subtitle\",\n    \"edition\",\n    \"series\",\n    \"isbn\",\n    \"issn\",\n    \"oclc\",\n    \"toc\",\n    \"editor_not_named\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The title page states that the Constitution was amended on April 14, 1973, by the Sixth National Convention in Rajajinagar, Madras. This supplies the year only indirectly; the colophon names S. V. Raju as publishing officer, not editor.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is an institutional party constitution, issued under the name of the Swatantra Party and consisting of numbered constitutional provisions and an electoral-procedure appendix. It is therefore classified as an occasional_paper rather than a human-authored book or pamphlet.\",\n    \"purpose\": \"The taxonomy has no constitution-specific purpose qualifier. The document is neither a manifesto nor a statement of principles as labelled on the pages, so purpose is null.\",\n    \"language\": \"All visible text is in Roman-script English; no Indian-language script is present.\",\n    \"authors_resolution\": \"No human author or authorial byline is printed. Following the institutional-issuer rule, authors is empty and the Swatantra Party is recorded as issuer.\",\n    \"year\": \"The title page prints 'As amended on April 14, 1973, by the Sixth National Convention in Rajajinagar, Madras'; no separate publication year is visible, so 1973 is recorded with low confidence rather than inferred from the filename.\",\n    \"publisher\": \"The final page prints 'Published by S. V. Raju, Executive Secretary, Swatantra Party, National Headquarters...' The issuing organization matches the authority entry for Swatantra Party; S. V. Raju is treated as the publishing officer, not as editor.\",\n    \"toc\": \"No formal table of contents is visible in the 12 rendered pages. The numbered constitutional sections are body text, not TOC entries.\"\n  }\n}",
+ "failed": null
+}

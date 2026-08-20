@@ -1,0 +1,32 @@
+{
+ "slug": "1239-The_Salaries_and_Allowances_of_Ministers_Bill-1970",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 16.9,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 44939
+ },
+ "image_bytes": [
+  96236
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19588,
+  "output_tokens": 696,
+  "input_tokens": 18892,
+  "output_tokens_details": {
+   "reasoning_tokens": 0
+  }
+ },
+ "credits_consumed": 2.58,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This single-sheet Lok Sabha corrigenda, dated 7 December 1970, records four corrections to the text of *The Salaries and Allowances of Ministers Bill, 1970*, introduced by N. Dandekar and M. R. Masani, M.P.s. It amends one word on page 6, corrects two numerical expressions on page 7, and directs that the line numbers on page 2 be corrected.\\n\\nThe sheet is a technical legislative errata notice rather than a statement of the Bill's policy or rationale. The underlying Bill is not included in the rendered document.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The document is a Lok Sabha corrigenda to The Salaries and Allowances of Ministers Bill, 1970.\",\n      \"It identifies N. Dandekar and M. R. Masani, M.P.s, as the Bill's introducers.\",\n      \"The correction on page 6 substitutes “perquisites” for “requisites.”\",\n      \"Two corrections on page 7 replace addition signs with multiplication signs in parenthetical numerical expressions.\",\n      \"A fourth instruction calls for correction of the line numbers on page 2.\",\n      \"The notice is dated 7 December 1970, also given as Agrahayana 16, 1892 (Saka).\"\n    ],\n    \"themes_confirmed\": [\n      \"governance-reform\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"for \\\"requisites\\\" read \\\"perquisites\\\"\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The corrigenda specifies the replacement of an incorrect word in the Bill's text.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"for \\\"(130+37)\\\" read \\\"(130x37)\\\"\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"data\",\n        \"context\": \"The notice corrects a page 7 numerical expression by replacing addition with multiplication.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"Correct line numbers on page 2.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The final listed correction concerns the numbering of lines on page 2 of the Bill.\",\n        \"shareable\": false\n      }\n    ],\n    \"cross_thinker_mentions\": [],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"The PDF consists solely of this one-page corrigenda sheet; the text of the underlying Bill is not included.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"Lok Sabha\",\n      \"language\": \"en\",\n      \"context\": \"The issuing parliamentary body named at the head of the corrigenda sheet.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

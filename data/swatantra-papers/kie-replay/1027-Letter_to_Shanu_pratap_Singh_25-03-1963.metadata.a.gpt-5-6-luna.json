@@ -1,0 +1,32 @@
+{
+ "slug": "1027-Letter_to_Shanu_pratap_Singh_25-03-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 26.9,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40080
+ },
+ "image_bytes": [
+  106990
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19025,
+  "output_tokens": 1112,
+  "input_tokens": 17913,
+  "output_tokens_details": {
+   "reasoning_tokens": 208
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Shri.Bhanu Pratap Singh, M.L.A.,(U.P)\",\n      \"honorifics\": [\n        \"Shri.\",\n        \"M.L.A.\",\n        \"(U.P)\"\n      ],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Sohna (Basti District)\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page typed archival document; extract from a letter\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\",\n    \"constitutionalism\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"issuer_not_printed\",\n    \"recipient_authority_unresolved\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Shri.Bhanu Pratap Singh, M.L.A.,(U.P)\",\n      \"language\": \"en\",\n      \"context\": \"Named sender of the letter extract, dated 25-3-'63 at Sohna (Basti District) and addressed to Professor N.G. Ranga.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Professor.N.G. Ranga\",\n      \"language\": \"en\",\n      \"context\": \"Named recipient of the letter extract.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The page is explicitly headed 'Extract from the letter...' and contains no separately printed title. The date appears as 25-3-'63; the sender's printed designation is M.L.A., (U.P.).\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document is explicitly identified as an 'Extract from the letter' and names one recipient, Professor N.G. Ranga. Its body is a direct personal communication requesting decisions about party organisation, so letter is preferable to circular or occasional_paper.\",\n    \"purpose\": \"No controlled purpose qualifier fits this single letter extract.\",\n    \"language\": \"The visible text is entirely in Roman-script English, including the heading, address, date, and typed body.\",\n    \"authors_resolution\": \"The extracted byline is 'Shri.Bhanu Pratap Singh, M.L.A.,(U.P)'. The authority subset contains the canonical name 'Bhanu Pratap Singh', but does not contain the full printed byline or this designation-bearing form as a canonical or alias string. Under the binary resolution rule, thinker_id is therefore null and human review is required.\",\n    \"year\": \"The heading prints that the letter was dated '25-3-'63'; this is an unambiguous 1963 date.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the visible page; the weak folder hint has not been used as publication evidence.\",\n    \"toc\": \"No table of contents is present or applicable to this single-page letter extract.\"\n  }\n}",
+ "failed": null
+}

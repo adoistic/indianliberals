@@ -1,0 +1,32 @@
+{
+ "slug": "1004-Letter_to_Mr_Minoo_Masani_17-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 21.1,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40077
+ },
+ "image_bytes": [
+  260309
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19893,
+  "output_tokens": 908,
+  "input_tokens": 18985,
+  "output_tokens_details": {
+   "reasoning_tokens": 228
+  }
+ },
+ "credits_consumed": 0.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"[illegible signature]\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"N. Delhi\",\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"One handwritten letter sheet\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"constitutionalism\",\n    \"judicial-independence\",\n    \"federalism\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_stated\",\n    \"sender_name_unclear\",\n    \"recipient_not_encoded\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Handwritten letter dated 17-8-64 from N. Delhi to Minoo Masani. The sender's signature is not legible enough for binary authority-file resolution. Text discusses postponing a proposed Action Committee meeting and a Supreme Court matter concerning the 17th Amendment.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document is a single handwritten communication addressed to “My dear Masani” and dated 17-8-64, with a handwritten closing and signature. It therefore fits the letter category rather than a public paper or circular.\",\n    \"purpose\": \"No listed purpose qualifier applies to this private correspondence.\",\n    \"language\": \"The visible text is handwritten in English using the Roman script.\",\n    \"authors_resolution\": \"The closing signature is present but not legible enough to transcribe verbatim as a personal name. It was not silently matched to an authority-file entry; thinker_id is therefore null and human review is required.\",\n    \"year\": \"The upper-right heading visibly prints “N. Delhi” and “17-8-64,” yielding 1964 with high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed; publisher_id and issuer_id are null.\",\n    \"toc\": \"No table of contents is present or applicable to this single handwritten letter.\"\n  }\n}",
+ "failed": null
+}

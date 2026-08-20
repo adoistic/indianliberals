@@ -1,0 +1,35 @@
+{
+ "slug": "1005-Letter_to_Mr_Minoo_Masani_17-08-1964",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 32.7,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40049
+ },
+ "image_bytes": [
+  185197,
+  228855,
+  261766,
+  248184
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 26906,
+  "output_tokens": 1204,
+  "input_tokens": 25702,
+  "output_tokens_details": {
+   "reasoning_tokens": 332
+  }
+ },
+ "credits_consumed": 3.69,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"PROF. RANGA\",\n      \"honorifics\": [\n        \"PROF.\"\n      ],\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"New Delhi\",\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 4,\n    \"pages_total\": 4,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Archival office correspondence: typed express message, handwritten Gujarati notes, and an Indian inland letter\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"agricultural-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"subtitle_not_printed\",\n    \"publisher_not_identified\",\n    \"edition_not_identified\",\n    \"series_not_identified\",\n    \"identifiers_not_present\",\n    \"toc_not_present\",\n    \"mixed_language_material\",\n    \"author_unresolved\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"PROF. RANGA\",\n      \"language\": \"en\",\n      \"context\": \"The sender block on the typed express message identifies the correspondent as Prof. Ranga; this form does not match a canonical or alias string in the supplied authority subset.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The first page is an EXPRESS double-address message dated 17.8.64, addressed to Masani and signed in the sender block as PROF. RANGA. Although its physical form resembles a telegram, the required work_type enum has no telegram value; letter is used as the closest permitted classification. Pages 2–4 include handwritten Gujarati material.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is archival correspondence rather than a publication: the first page is a typed express message addressed to Minoo Masani, with a sender block and clipped wording. Its physical form resembles a telegram or cable, but the strict output enum does not include telegram, so letter is the closest permitted value and the distinction is noted.\",\n    \"purpose\": \"No controlled purpose qualifier applies to this individual office communication.\",\n    \"language\": \"English is used on the typed express message, while pages 2–4 contain handwritten Gujarati; English is selected as the principal language, with the mixed-language character flagged.\",\n    \"authors_resolution\": \"The sender is printed verbatim as \\\"PROF. RANGA\\\". Normalised comparison against the supplied canonical names and aliases did not produce a binary match; thinker_id is therefore null and human review is required.\",\n    \"year\": \"The date \\\"17.8.64\\\" is printed on page 1, supporting the year 1964 with high confidence.\",\n    \"publisher\": \"No publisher line is printed; publisher_id and publisher_verbatim are null.\",\n    \"toc\": \"No formal table of contents is present; this is a four-page archival correspondence file rather than a book or serial publication.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "1016-Letter_to_Bhailal_13-06-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 22.9,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40069
+ },
+ "image_bytes": [
+  243872
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20961,
+  "output_tokens": 840,
+  "input_tokens": 20121,
+  "output_tokens_details": {
+   "reasoning_tokens": 134
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"(M. R. Masani)\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page typed office letter with handwritten signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"electoral-reform\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"place_not_printed\",\n    \"edition_not_printed\",\n    \"series_not_printed\",\n    \"no_toc\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Letter dated June 13, 1963, addressed to Bhailalbhai and signed by M. R. Masani. The circled '1016' appears to be an archival reference or page mark, not a printed title.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page has a salutation ('My Dear Bhailalbhai'), a dated correspondence format, a complimentary close ('Yours sincerely'), and a named recipient. These signals identify it as a letter rather than a telegram or circular.\",\n    \"purpose\": \"No listed purpose qualifier fits a single private letter, so purpose is null.\",\n    \"language\": \"The document is entirely printed in Roman-script English.\",\n    \"authors_resolution\": \"The verbatim signature byline is '(M. R. Masani)'. Normalised case, punctuation, and spacing match the authority-file alias 'M. R. Masani', resolving to thinker_id 'minoo-masani'.\",\n    \"year\": \"The upper-right date line prints 'June 13, 1963.' — high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the visible page; the folder hint is not used as publication evidence.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

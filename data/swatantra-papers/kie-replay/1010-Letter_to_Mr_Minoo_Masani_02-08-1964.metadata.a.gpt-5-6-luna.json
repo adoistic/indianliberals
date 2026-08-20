@@ -1,0 +1,32 @@
+{
+ "slug": "1010-Letter_to_Mr_Minoo_Masani_02-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 20.6,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40077
+ },
+ "image_bytes": [
+  145769
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 18912,
+  "output_tokens": 779,
+  "input_tokens": 18133,
+  "output_tokens_details": {
+   "reasoning_tokens": 70
+  }
+ },
+ "credits_consumed": 0.26,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"c-rajagopalachari\",\n      \"byline_verbatim\": \"C. RAJAGOPALACHARI\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Madras-17\",\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter on headed personal letterhead, with handwritten signature and received stamp\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher\",\n    \"no_recipient_address\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Untitled personal letter dated 2nd August 1964 from C. Rajagopalachari to Mr. M. R. Masani. The page also bears a received stamp dated 3-Aug 1964 and file mark 1010.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is explicitly formatted as a personal letter: it has a date, salutation ('My dear Masani'), closing ('Yours sincerely'), signature, and named recipient ('Mr. M.R. Masani'). It is therefore classified as a letter rather than an essay or occasional paper.\",\n    \"purpose\": \"No listed purpose qualifier applies to this single letter.\",\n    \"language\": \"The document is printed entirely in English using the Roman script.\",\n    \"authors_resolution\": \"The printed letterhead names the author verbatim as 'C. RAJAGOPALACHARI'. Case and punctuation normalization match the authority entry canonical name 'C. Rajagopalachari', producing thinker_id 'c-rajagopalachari'.\",\n    \"year\": \"The date line at the top of the page reads '2nd August 64'; the year is consequently recorded as 1964 with high confidence.\",\n    \"publisher\": \"No publisher or issuing organization is printed on the page; the document is a personal letter on C. Rajagopalachari's letterhead.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "1008-Letter_to_NG_Ranga_03-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 19.9,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40070
+ },
+ "image_bytes": [
+  259222
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 21156,
+  "output_tokens": 782,
+  "input_tokens": 20374,
+  "output_tokens_details": {
+   "reasoning_tokens": 62
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"(M. R. Masani)\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page typed letter with handwritten signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"education\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"place_not_printed\",\n    \"edition_not_printed\",\n    \"series_not_printed\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Letter dated August 3, 1964, from M. R. Masani to Prof. N. G. Ranga concerning appointment of a full-time organiser and participation in a Bombay worker's training camp. No printed title or publisher appears.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page has a named recipient, the salutation “My dear Ranga,” a complimentary close (“Yours sincerely”), and a signed sender line. These are explicit signals of a letter rather than a telegram or circular.\",\n    \"purpose\": \"No listed purpose qualifier applies to this private correspondence.\",\n    \"language\": \"The visible text is entirely in Roman-script English, so the language is classified as en.\",\n    \"authors_resolution\": \"The sender byline is printed verbatim as “(M. R. Masani)”. After normalising case, punctuation, and spacing, it matches the authority-file alias “M. R. Masani”, resolving to thinker_id “minoo-masani”. The recipient “Prof. N. G. Ranga” is addressed but is not an author byline.\",\n    \"year\": \"The upper-right date line prints “August 3, 1964.”, giving the year high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the page; the folder hint is not used as evidence for this field.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,36 @@
+{
+ "slug": "1181-Telegram_to_MR_Mathani_05-10-1975",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 42.5,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40086
+ },
+ "image_bytes": [
+  161473,
+  164748,
+  245846,
+  203711,
+  184757
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 26162,
+  "output_tokens": 1112,
+  "input_tokens": 25050,
+  "output_tokens_details": {
+   "reasoning_tokens": 313
+  }
+ },
+ "credits_consumed": 0.36,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"SWATANTRA PARTY NATIONAL HEAD QUARTERS\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1975,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 5,\n    \"pages_total\": 5,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Telegram and related correspondence; Indian Posts and Telegraphs forms, typed letterhead, and telegram receipt.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"author_not_named\",\n    \"publisher_address_not_fully_verified\",\n    \"document_composite\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The principal document is physically a telegram: an Indian Posts and Telegraphs form with block-capital text, addressed to M.R. Masani and sent from Raju. The PDF also includes a related Swatantra Party letter and telegram receipt; the filename date conflicts with visible dates in the scan.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The principal rendered item is an Indian Posts and Telegraphs telegram form, with block-capital text, telegraphic STOP markers, and sender/addressee fields. The strict work_type enum does not include the archival telegram subtype, so letter is used as the closest permitted value; this should receive human review.\",\n    \"purpose\": \"No listed publication purpose applies. This is an office communication rather than a book, pamphlet, speech, or published paper.\",\n    \"language\": \"The substantive message and related letter are in English; the telegram form includes standard Hindi and English headings, but the work's language is English.\",\n    \"authors_resolution\": \"No formal author byline is printed. The telegram identifies the sender as 'RAJU', but this is a sender field rather than an author byline and does not unambiguously resolve to an authority entry.\",\n    \"year\": \"The related documents visibly print dates in 1975, including 'November 26, 1975' and 'December 1975'; the telegram receipt also shows a 1975 date. Year 1975 is therefore high confidence, although the filename's 05-10-1975 date is not corroborated by the visible pages.\",\n    \"publisher\": \"The Swatantra Party national headquarters letterhead prints 'SWATANTRA PARTY NATIONAL HEAD QUARTERS' and the address 'MADRAS-600 084'; this resolves to the authority organisation swatantra-party.\",\n    \"toc\": \"No table of contents is present. The five rendered pages comprise a telegram, related correspondence, a telegram receipt, and printed form instructions.\"\n  }\n}",
+ "failed": null
+}

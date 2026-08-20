@@ -1,0 +1,32 @@
+{
+ "slug": "1094-Questionnaire_of_Committee_on_Poll_Express",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 19.2,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40083
+ },
+ "image_bytes": [
+  269326
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 21021,
+  "output_tokens": 729,
+  "input_tokens": 20292,
+  "output_tokens_details": {
+   "reasoning_tokens": 66
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": \"position_paper\",\n  \"title\": {\n    \"main\": {\n      \"value\": \"Answers to Questionnaire of Committee on Poll Expenses\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page typed questionnaire response\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"electoral-reform\",\n    \"party-politics\",\n    \"governance-reform\",\n    \"anti-corruption\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"author_not_printed\",\n    \"year_not_printed\",\n    \"publisher_not_printed\",\n    \"place_not_printed\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The page contains numbered answers to a committee questionnaire on election expenses. No author, organisation, date, publisher, place, signature, or formal document type is printed. Classified as occasional_paper because the strict enum has no office-record category for questionnaire responses.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The visible page is a typed set of policy responses headed 'Answers to Questionnaire of Committee on Poll Expenses'. It is not visibly a letter, telegram, minutes, circular, resolution, or press note; under the permitted enum, occasional_paper is the closest classification for this institutional/policy document.\",\n    \"purpose\": \"The responses state positions on subsidies, election materials, party accounts, expenditure ceilings, and compulsory voting. Position_paper is the closest available qualifier, although the page does not print that term.\",\n    \"language\": \"The page is printed entirely in English Roman script.\",\n    \"authors_resolution\": \"No byline or named author appears on the visible page, so authors[] is empty and no authority-file resolution was possible.\",\n    \"year\": \"No year or date is printed on the visible page; filename and folder hints were not used.\",\n    \"publisher\": \"No publisher or issuing organisation line appears on the visible page.\",\n    \"toc\": \"No table of contents is present; this is a single-page document.\"\n  }\n}",
+ "failed": null
+}

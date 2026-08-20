@@ -1,0 +1,33 @@
+{
+ "slug": "1044-Telegram_to_Mr_Minoo_Masani_22-01-1963",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 30.3,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40045
+ },
+ "image_bytes": [
+  186921,
+  160341
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 21185,
+  "output_tokens": 1390,
+  "input_tokens": 19795,
+  "output_tokens_details": {
+   "reasoning_tokens": 453
+  }
+ },
+ "credits_consumed": 3.15,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"RANGA\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"RANGA\",\n      \"role\": \"author\",\n      \"toc_index\": null\n    }\n  ],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": \"INDIAN POSTS AND TELEGRAPHS DEPARTMENT\",\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Indian Posts and Telegraphs Department telegram form with pasted telegraphic text strips\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"constitutionalism\",\n    \"federalism\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"year_not_printed\",\n    \"publisher_authority_unresolved\",\n    \"sender_authority_unresolved\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"RANGA\",\n      \"language\": \"en\",\n      \"context\": \"The telegram text ends with the apparent sender name “RANGA,” which does not match a canonical name or alias in the supplied authority subset.\",\n      \"page\": 2\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"INDIAN POSTS AND TELEGRAPHS DEPARTMENT\",\n      \"language\": \"en\",\n      \"context\": \"This department is identified in the printed telegraph form as the service provider, not necessarily as the document's political issuer.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The artifact is physically and typographically a telegram, but the required work_type enum excludes telegram; letter is used as the closest permitted value. The message concerns Bombay meeting resolutions, party unity, and constitutional integration.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The pages show a printed Indian Posts and Telegraphs Department form, block-capital telegraphic wording, abbreviated syntax, and repeated STOP markers. Under the broader archival taxonomy this would be a telegram; because the required output enum excludes telegram, letter is used as the closest permitted enum value.\",\n    \"purpose\": \"No publication purpose or subtype is printed. This is an office communication rather than a standalone public argument, but no archival telegram qualifier is available in the permitted purpose values.\",\n    \"language\": \"The visible text is in Roman-script English; no Indic script is present.\",\n    \"authors_resolution\": \"The apparent sender is printed as “RANGA” at the end of the message. Normalised comparison against every supplied canonical name and alias found no binary match, so thinker_id is null and human review is required.\",\n    \"year\": \"A date or year is not sufficiently legible or unambiguous on the visible form; refusing to infer it from the filename.\",\n    \"publisher\": \"The printed service line is “INDIAN POSTS AND TELEGRAPHS DEPARTMENT” on page 1. It does not match a supplied publisher or organisation authority entry, so publisher_id and issuer_id are null.\",\n    \"toc\": \"No title page, formal contents page, or table of contents is present; the two rendered pages are the telegram form and its continuation.\"\n  }\n}",
+ "failed": null
+}

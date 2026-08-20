@@ -1,0 +1,32 @@
+{
+ "slug": "1251-How_much_dows_cabinet_cost",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 32.5,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 45237
+ },
+ "image_bytes": [
+  66015
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 18118,
+  "output_tokens": 1549,
+  "input_tokens": 16569,
+  "output_tokens_details": {
+   "reasoning_tokens": 516
+  }
+ },
+ "credits_consumed": 2.9,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This one-page English newspaper clipping reports the estimated cost of India’s Union Ministers and Deputy Ministers. It states that the revised estimate for 1969–70 was Rs 42,66,399, compared with Rs 43,79,907 in 1968–69, and gives Rs 34,60,491 as the expenditure for 1967–68 on salaries, allowances, touring, and the maintenance of government accommodation. The clipping notes that there were 55 Central Ministers and Deputy Ministers.\\n\\nThe figures are attributed partly to PTI and partly to a statement laid before the Rajya Sabha by Deputy Home Minister K. S. Ramaswamy. The lower portion reports additional expenditure relating to 275 other office-holders, but the text is damaged and difficult to read. The clipping has no visible newspaper masthead, byline, or date; its bottom section is also affected by a horizontal tear.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The revised estimate for Union Ministers’ and Deputy Ministers’ expenditure in 1969–70 is given as Rs 42,66,399.\",\n      \"The corresponding expenditure reported for 1968–69 is Rs 43,79,907.\",\n      \"Expenditure for 1967–68 is stated as Rs 34,60,491, covering salaries, allowances, tour expenses, and government accommodation.\",\n      \"The clipping states that there were 55 Central Ministers and Deputy Ministers.\",\n      \"A Rajya Sabha statement by Deputy Home Minister K. S. Ramaswamy is cited as a source.\",\n      \"The lower section contains damaged figures concerning expenditure on 275 additional office-holders.\"\n    ],\n    \"themes_confirmed\": [\n      \"fiscal-policy\",\n      \"public-sector-critique\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"An expenditure of Rs 42,66,399 would be incurred as salary, and other allowances of Union Ministers and Deputy Ministers\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The report opens by identifying the estimated public expenditure on Union Ministers and Deputy Ministers.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"The expenditure was Rs 43,79,907 in 1968-69.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"data\",\n        \"context\": \"The report compares the revised 1969–70 estimate with the previous year’s expenditure.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"There are 55 Central Ministers and Deputy Ministers.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"data\",\n        \"context\": \"The clipping provides the size of the group whose expenses are being reported.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"A statement placed on the table of the Rajya Sabha by Deputy Home Minister K. S. Ramaswamy\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The report identifies a parliamentary statement as the source of the historical expenditure figures.\",\n        \"shareable\": false\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"K. S. Ramaswamy\",\n        \"context\": \"A statement placed on the table of the Rajya Sabha by Deputy Home Minister K. S. Ramaswamy is cited in the report.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"The complete one-page clipping was rendered, but its headline has a torn upper-left corner and its lower section contains text and figure losses.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"K. S. Ramaswamy\",\n      \"language\": \"en\",\n      \"context\": \"Deputy Home Minister identified in the clipping as the person who placed the expenditure statement before the Rajya Sabha.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"PTI\",\n      \"language\": \"en\",\n      \"context\": \"News agency credited in the clipping for reporting the expenditure figures; the abbreviation likely refers to the Press Trust of India.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

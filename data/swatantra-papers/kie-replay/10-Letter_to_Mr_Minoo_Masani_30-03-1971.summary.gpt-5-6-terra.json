@@ -1,0 +1,32 @@
+{
+ "slug": "10-Letter_to_Mr_Minoo_Masani_30-03-1971",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 25.2,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 45081
+ },
+ "image_bytes": [
+  270644
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19423,
+  "output_tokens": 1158,
+  "input_tokens": 18265,
+  "output_tokens_details": {
+   "reasoning_tokens": 290
+  }
+ },
+ "credits_consumed": 2.82,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This single-page letter, dated 30 March 1971, is from Indukumar C. Thakkar to M. R. Masani, President of the Swatantra Party. Thakkar thanks Masani for his appreciation and describes his decision to assist Swatantra Party candidates during the Rajkot election campaign as a duty arising from his role as a “Life Worker of the Party.”\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"Thakkar acknowledges Masani’s letter of 22 March and thanks him for his appreciation.\",\n      \"He says he had decided early in January to help Swatantra Party candidates in the election campaign.\",\n      \"He travelled to Rajkot to assist Masani, describing the work as both a duty and a pleasure.\",\n      \"He regrets that the voters of Rajkot District rejected Masani’s services.\",\n      \"He expresses satisfaction at having fulfilled his duty and promises earlier and greater assistance in any future campaign.\",\n      \"Thakkar’s wife joins him in thanking Masani and regrets that their efforts did not produce the success he deserved.\",\n      \"The letter closes with best wishes for Masani’s future and an assurance of continued cooperation.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"I had decided in early January that as a Life Worker of the Party it was my duty to help the Party Candidates in the Election Campaign.\",\n        \"page\": 1,\n        \"page_system\": \"printed\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Thakkar explains why he chose to participate in the Swatantra Party’s election campaign.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"It was a great pleasure to work under you Sir and I still feel that the voters of Rajkot District stand to lose by rejecting the services of a man like you.\",\n        \"page\": 1,\n        \"page_system\": \"printed\",\n        \"why_notable\": \"counter_intuitive\",\n        \"context\": \"Thakkar interprets Masani’s electoral defeat as a loss for the voters rather than merely for the candidate.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"I have however a great satisfaction that I have done my duty\",\n        \"page\": 1,\n        \"page_system\": \"printed\",\n        \"why_notable\": \"aphorism\",\n        \"context\": \"After acknowledging the failed campaign, Thakkar emphasizes personal fulfilment through service to the party.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"next time I would start much earlier.\",\n        \"page\": 1,\n        \"page_system\": \"printed\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Thakkar promises to improve his support in any future election campaign.\",\n        \"shareable\": true\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": \"minoo-masani\",\n        \"context\": \"The letter is addressed to Shri M. R. Masani, President, Swatantra Party, and Thakkar repeatedly expresses his admiration and support for him.\",\n        \"page\": 1,\n        \"page_system\": \"printed\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Indukumar C. Thakkar\",\n      \"language\": \"en\",\n      \"context\": \"Author of the letter; the letterhead gives the full name and the signature identifies him as I.C. Thakkar. He describes himself as a Life Worker of the Swatantra Party.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

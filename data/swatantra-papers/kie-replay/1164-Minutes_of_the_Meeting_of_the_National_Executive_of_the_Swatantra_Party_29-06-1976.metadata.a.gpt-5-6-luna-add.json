@@ -1,0 +1,33 @@
+{
+ "slug": "1164-Minutes_of_the_Meeting_of_the_National_Executive_of_the_Swatantra_Party_29-06-1976",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 30.7,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40126
+ },
+ "image_bytes": [
+  387020,
+  282318
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 23450,
+  "output_tokens": 1123,
+  "input_tokens": 22327,
+  "output_tokens_details": {
+   "reasoning_tokens": 312
+  }
+ },
+ "credits_consumed": 0.33,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": \"report\",\n  \"title\": {\n    \"main\": {\n      \"value\": \"Minutes of the meeting of the National Executive of the Swatantra party held in Bombay on June 29, 1976.\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": \"ALL INDIA SWATANTRA PARTY NATIONAL HEADQUARTERS.\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1976,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Two-page typed office minutes on organisational letterhead\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"constitutionalism\",\n    \"civil-liberty\",\n    \"emergency-critique\",\n    \"party-politics\",\n    \"electoral-reform\",\n    \"press-freedom\",\n    \"rule-of-law\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"publisher_not_explicitly_named\",\n    \"no_named_human_author\",\n    \"no_formal_toc\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The document records a meeting held in Bombay on 29 June 1976 and is dated 4 September 1976. It is classified as an occasional paper because the strict work-type enum has no minutes category; the physical form is clearly meeting minutes.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The first page explicitly identifies the document as “Minutes of the meeting of the National Executive of the Swatantra party”. It includes a present-members list, discussion records, adopted resolutions, activities, and a concluding vote of thanks, all characteristic of meeting minutes. Under the required ten-value enum, occasional_paper is the closest classification.\",\n    \"purpose\": \"The document is an institutional record of proceedings and decisions, so report is the closest available purpose qualifier.\",\n    \"language\": \"All visible text is in Roman-script English, including the letterhead, heading, resolutions, and signature block.\",\n    \"authors_resolution\": \"No human author byline is printed. The document is issued on All India Swatantra Party National Headquarters letterhead, so authors is correctly left empty rather than assigning the secretary or any attendee as author.\",\n    \"year\": \"The upper-right date line prints “4th September 1976.”, establishing the publication/document year with high confidence; the meeting itself is stated to have been held on June 29, 1976.\",\n    \"publisher\": \"No explicit publisher line is printed. The letterhead reads “ALL INDIA SWATANTRA PARTY NATIONAL HEADQUARTERS.”; this is captured verbatim as the publication line, while the issuing organisation is resolved to Swatantra Party.\",\n    \"toc\": \"No table of contents is present; the document consists of continuous minutes with internal section headings such as “THE NEW PARTY” and “ACTIVITIES”.\"\n  }\n}",
+ "failed": null
+}

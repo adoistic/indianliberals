@@ -1,0 +1,32 @@
+{
+ "slug": "1232-Press_Statement_Released_by_Girish_Munshi_16-10-1974",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 22.1,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40093
+ },
+ "image_bytes": [
+  235986
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20652,
+  "output_tokens": 870,
+  "input_tokens": 19782,
+  "output_tokens_details": {
+   "reasoning_tokens": 102
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"Swatantra Party Maharashtra\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1974,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page typed press statement on Swatantra Party Maharashtra letterhead\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher_address\",\n    \"editor_not_named\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Girish Munshi\",\n      \"language\": \"en\",\n      \"context\": \"General Secretary of the Maharashtra Swatantra Party and signatory of the press statement.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The sheet has no printed title; it states that Girish Munshi released the following statement to the press. Classified as occasional_paper because the strict enum omits press_note, although the physical/document form is a press statement.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is explicitly headed by a statement released 'to the Press' and is issued on Swatantra Party Maharashtra letterhead. The taxonomy's office-record subtype 'press_note' best describes it, but because the strict work_type enum excludes press_note, occasional_paper is used as the closest permitted value.\",\n    \"purpose\": \"No listed occasional-paper purpose qualifier is printed or clearly applicable to this single press statement.\",\n    \"language\": \"The visible document text is in English Roman script; the Devanagari letterhead is organizational branding rather than the language of the statement.\",\n    \"authors_resolution\": \"No human author byline is presented as the author of the statement. Girish Munshi is identified as General Secretary and signs the release, but his name does not match any canonical name or alias in the supplied authority subset; he is therefore not assigned a thinker_id.\",\n    \"year\": \"The date line on page 1 reads 'October 16,1974.' — high confidence.\",\n    \"publisher\": \"The letterhead reads 'Swatantra Party Maharashtra' on page 1. It matches the supplied Swatantra Party organization and publisher authority entry; publisher_id and issuer_id are therefore set to 'swatantra-party'.\",\n    \"toc\": \"No table of contents is present; this is a one-page document.\"\n  }\n}",
+ "failed": null
+}

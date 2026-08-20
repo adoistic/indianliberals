@@ -1,0 +1,33 @@
+{
+ "slug": "1011-Telegram_to_NG_Ranga_31-07-1964",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 27.1,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40038
+ },
+ "image_bytes": [
+  284209,
+  207085
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 22319,
+  "output_tokens": 1157,
+  "input_tokens": 21162,
+  "output_tokens_details": {
+   "reasoning_tokens": 365
+  }
+ },
+ "credits_consumed": 3.15,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"telegram\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"M. R. Masani\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Indian Posts and Telegraphs inland telegram form with receipt and printed reverse conditions\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_identified\",\n    \"place_not_identified\",\n    \"edition_not_identified\",\n    \"series_not_identified\",\n    \"identifiers_not_visible\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"PROF. RANGA\",\n      \"language\": \"en\",\n      \"context\": \"Recipient named in the telegram address block; the form does not provide enough information to resolve this person against the authority subset.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The document is visibly an inland telegram, dated July 31, 1964, sent by M. R. Masani to Prof. Ranga. The filename's Swatantra Party folder hint is not treated as publication metadata.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is an Indian Posts and Telegraphs inland telegram form, with block-capital clipped wording, telegraphic STOP markers, recipient and sender blocks, and no salutation or complimentary close. It is therefore classified by physical form as a telegram.\",\n    \"purpose\": \"No publication or rhetorical purpose qualifier is printed on the form, so purpose is null.\",\n    \"language\": \"The message and form are in English; Hindi appears only as a printed instruction on the reverse.\",\n    \"authors_resolution\": \"The sender block prints “Mr. M. R. Masani.” The authority subset contains the canonical name “Minoo Masani” with the alias “M. R. Masani,” yielding thinker_id “minoo-masani.”\",\n    \"year\": \"The date printed at the bottom of page 1 is “July 31, 1964.”\",\n    \"publisher\": \"No publisher or issuing publication line appears; the printed form is issued by Indian Posts and Telegraphs, which is not represented as a publisher authority entry.\",\n    \"toc\": \"No table of contents is present or applicable.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "1034-Letter_to_Mr_Minoo_Masani_16-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 22.9,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40077
+ },
+ "image_bytes": [
+  129331
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 18732,
+  "output_tokens": 842,
+  "input_tokens": 17890,
+  "output_tokens_details": {
+   "reasoning_tokens": 116
+  }
+ },
+ "credits_consumed": 0.26,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"c-rajagopalachari\",\n      \"byline_verbatim\": \"C. RAJAGOPALACHARI\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"MADRAS\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter on personal letterhead, with handwritten signature and manuscript annotations\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"press-freedom\",\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher\",\n    \"no_issuer\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"No title is printed. The letter is dated 16th January 1963 and addressed to Sri M.R. Masani, General Secretary, Swatantra Party. It refers to an enclosed advance proof of a front-page article for Swarajya.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a direct personal letter, opening with “My dear Masani,” carrying a date and postal recipient address, and closing with “Yours affectionately” and a signature. It is therefore classified as a letter rather than a speech, essay, or publication.\",\n    \"purpose\": \"No controlled purpose qualifier fits this personal correspondence.\",\n    \"language\": \"The document is printed entirely in English Roman script.\",\n    \"authors_resolution\": \"The letterhead and handwritten signature identify the sender as “C. RAJAGOPALACHARI.” This matches the authority-file canonical name “C. Rajagopalachari” after permitted case, whitespace, and punctuation normalization, yielding thinker_id “c-rajagopalachari.”\",\n    \"year\": \"The letterhead visibly prints “16th January 1963”; the year is high confidence.\",\n    \"publisher\": \"No publisher or publication imprint is printed. The letterhead gives the sender's address as “60, RAJULLAH ROAD, TYAGARAJA NAGAR, MADRAS - 17,” but this is not a publisher line.\",\n    \"toc\": \"No table of contents is present or applicable to this single letter.\"\n  }\n}",
+ "failed": null
+}

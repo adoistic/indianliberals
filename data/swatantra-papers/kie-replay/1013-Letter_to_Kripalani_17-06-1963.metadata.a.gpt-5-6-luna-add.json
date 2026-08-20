@@ -1,0 +1,32 @@
+{
+ "slug": "1013-Letter_to_Kripalani_17-06-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 17.8,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40071
+ },
+ "image_bytes": [
+  253848
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20900,
+  "output_tokens": 793,
+  "input_tokens": 20107,
+  "output_tokens_details": {
+   "reasoning_tokens": 63
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"(M. R. Masani)\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single typed office letter, with manuscript/typed reference markings and enclosure notation\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\",\n    \"planning-critique\",\n    \"economic-liberty\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_identified\",\n    \"place_not_identified\",\n    \"recipient_not_catalogued\",\n    \"no_formal_letterhead_visible\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Typed letter dated 17th June, 1963, addressed to Acharya J.B. Kripalani and signed '(M. R. Masani)'. No printed title or publisher/imprint is visible. The page references an enclosure and Swatantra Party policy discussions.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page has the formal features of a letter: a named salutation ('My dear Kripalani'), dated correspondence, a complimentary close ('Yours sincerely'), and a named addressee. It is not a telegram or circular.\",\n    \"purpose\": \"No listed purpose qualifier fits a single item of personal/political correspondence.\",\n    \"language\": \"The entire visible document is printed in Roman-script English; no Indian-language script is present.\",\n    \"authors_resolution\": \"The signature/byline is printed verbatim as '(M. R. Masani)'. After case, punctuation, and whitespace normalization, it matches the authority-file alias 'M. R. Masani' for thinker_id 'minoo-masani'.\",\n    \"year\": \"The upper-right date line prints '17th June, 1963.', providing a high-confidence year.\",\n    \"publisher\": \"No publisher or issuing organization line is visible on the page; publisher_id and issuer_id are therefore null.\",\n    \"toc\": \"This is a single letter and has no table of contents.\"\n  }\n}",
+ "failed": null
+}

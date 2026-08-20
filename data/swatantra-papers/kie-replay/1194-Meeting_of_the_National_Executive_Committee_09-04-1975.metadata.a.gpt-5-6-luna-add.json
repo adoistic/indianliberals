@@ -1,0 +1,35 @@
+{
+ "slug": "1194-Meeting_of_the_National_Executive_Committee_09-04-1975",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 30.2,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40104
+ },
+ "image_bytes": [
+  300656,
+  315034,
+  337021,
+  262354
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 27721,
+  "output_tokens": 985,
+  "input_tokens": 26736,
+  "output_tokens_details": {
+   "reasoning_tokens": 112
+  }
+ },
+ "credits_consumed": 0.37,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": \"report\",\n  \"title\": {\n    \"main\": {\n      \"value\": \"Minutes of the National Executive Committee of the All India Swatantra Party held at 10 a.m. on Wednesday the 9th April 1975 at Local Library Authority Building, Mount Road, Madras—2.\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"All India Swatantra Party\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1975,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 4,\n    \"pages_total\": 4,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typescript office minutes, circulated after the President's approval and instructions; includes appended resolutions.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\",\n    \"electoral-reform\",\n    \"economic-liberty\",\n    \"planning-critique\",\n    \"agricultural-reform\",\n    \"anti-corruption\",\n    \"constitutionalism\",\n    \"federalism\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"no_publisher_imprint\",\n    \"no_edition_statement\",\n    \"no_series_statement\",\n    \"no_named_author\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The heading dates the minutes to 9 April 1975. The appended resolutions on page 3 are separately headed 9-4-1973, apparently a typographical or source-document dating inconsistency. The strict public work-type enum has no minutes value; occasional_paper/report is used as the closest available classification.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document is explicitly headed 'Minutes of the National Executive Committee' and records attendance, discussion, decisions, and adopted resolutions from a past meeting. Under the archival taxonomy it is a minutes record, but because the required work_type enum omits minutes, occasional_paper is the closest permitted value.\",\n    \"purpose\": \"The document is an institutional record of a party executive meeting and includes formal decisions and resolutions, making report the closest permitted purpose qualifier.\",\n    \"language\": \"All visible text is in Roman-script English; no Indian-language script is present.\",\n    \"authors_resolution\": \"There is no human author byline. The document is issued in the name of the All India Swatantra Party, which resolves to the authority organisation Swatantra Party with issuer_id 'swatantra-party'.\",\n    \"year\": \"The first page heading explicitly prints 'April 1975' and states that the meeting was held on Wednesday the 9th; this is high confidence. Page 3 separately prints 9-4-1973 for the appended resolutions, creating a noted internal inconsistency.\",\n    \"publisher\": \"The heading identifies the issuing body as 'the All India Swatantra Party'; this matches the authority organisation 'Swatantra Party', so publisher_id and issuer_id are set to 'swatantra-party'. No separate publisher imprint is visible.\",\n    \"toc\": \"No formal table of contents is present. The pages continue the minutes and then append six numbered resolutions; these are not treated as TOC entries.\"\n  }\n}",
+ "failed": null
+}

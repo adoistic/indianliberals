@@ -1,0 +1,32 @@
+{
+ "slug": "1015-Letter_to_C_Rajagopalachari_16-06-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 21.1,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40079
+ },
+ "image_bytes": [
+  92244
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 18874,
+  "output_tokens": 985,
+  "input_tokens": 17889,
+  "output_tokens_details": {
+   "reasoning_tokens": 194
+  }
+ },
+ "credits_consumed": 0.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"RAJAGOPALACHARI\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter on a single sheet\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"recipient_unclear\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"RAJAGOPALACHARI\",\n      \"language\": \"en\",\n      \"context\": \"Signature on the letter; the page also prints the sender's address as 'Sri C.Rajagopalachari'.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"Typed letter dated 16th June 1963. The visible signature reads 'RAJAGOPALACHARI', while the address line reads 'Sri C.Rajagopalachari'. The addressee is not clearly established from the page; the filename is not used as evidence.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a single typed communication with a date, sender address, salutation/addressee material, and a personal signature. It is therefore classified as a letter rather than a published essay or occasional paper.\",\n    \"purpose\": \"No listed publication or thematic purpose qualifier fits a single private communication.\",\n    \"language\": \"All visible text is in the Roman script and English; no Indian-language script appears.\",\n    \"authors_resolution\": \"The visible signature/byline is 'RAJAGOPALACHARI'. This does not verbatim-match the canonical name 'C. Rajagopalachari' or any listed alias under the binary authority rule, so thinker_id is null and human review is required. The address line 'Sri C.Rajagopalachari' is supporting identity evidence but is not substituted for the verbatim signature.\",\n    \"year\": \"The sender address block prints '16th June 1963' on page 1, giving the year high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the page; publisher_id and publisher_verbatim are null.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

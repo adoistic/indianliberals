@@ -1,0 +1,37 @@
+{
+ "slug": "1024-Letter_to_Mr_Minoo_Masani_03-06-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 34.3,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40092
+ },
+ "image_bytes": [
+  276665,
+  279315,
+  296867,
+  293205,
+  292397,
+  268742
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 31223,
+  "output_tokens": 1095,
+  "input_tokens": 30128,
+  "output_tokens_details": {
+   "reasoning_tokens": 220
+  }
+ },
+ "credits_consumed": 0.41,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"J.B. Kripalani\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Lucknow\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 6,\n    \"pages_total\": 6,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typescript letter with handwritten annotations and signature, accompanied by an enclosed five-page inaugural address\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"electoral-reform\",\n    \"governance-reform\",\n    \"planning-critique\",\n    \"public-sector-critique\",\n    \"foreign-policy\",\n    \"socialism-debate\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"recipient_not_catalogued_as_contributor\",\n    \"author_signature_not_authority_resolved\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"J.B. Kripalani\",\n      \"language\": \"en\",\n      \"context\": \"Signer of a letter dated June 3, 1963, sent from 11 Gautam Palli, Lucknow.\"\n    }\n  ],\n  \"notes\": \"Untitled letter addressed to Minoo Masani. The document encloses an inaugural address headed 'INAUGURAL ADDRESS / UNITY CONFERENCE, LUCKNOW' and signed in print 'By J.B. Kripalani'; this enclosure is treated as accompanying material, not a separate work record here.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The first rendered page is a personal letter: it has a date and address, an informal salutation ('my dear masani'), continuous correspondence prose, and a complimentary close ('Yours sincerely'). The remaining pages are an enclosed speech, but the supplied document is chiefly the letter transmitting it, so the work type is letter.\",\n    \"purpose\": \"No purpose qualifier in the permitted taxonomy specifically fits a single personal letter transmitting an address.\",\n    \"language\": \"All visible text is in Roman-script English; no Indian-language script appears.\",\n    \"authors_resolution\": \"The signature at the foot of page 1 reads 'J.B. Kripalani' with low confidence; this name does not match a canonical name or alias in the supplied authority subset, so thinker_id is null and human review is required.\",\n    \"year\": \"Page 1 explicitly prints 'Dated June 3, 1963' — high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the visible pages; the folder hint is not used as evidence, so publisher_id is null.\",\n    \"toc\": \"No formal table of contents is present. Page 1 identifies the following pages as a copy of the writer's speech, headed 'INAUGURAL ADDRESS / UNITY CONFERENCE, LUCKNOW', but this is an enclosure rather than a TOC.\"\n  }\n}",
+ "failed": null
+}

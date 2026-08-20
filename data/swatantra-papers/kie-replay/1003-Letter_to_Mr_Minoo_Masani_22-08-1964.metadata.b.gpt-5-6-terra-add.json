@@ -1,0 +1,33 @@
+{
+ "slug": "1003-Letter_to_Mr_Minoo_Masani_22-08-1964",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 29.1,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40043
+ },
+ "image_bytes": [
+  260263,
+  180495
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 21987,
+  "output_tokens": 1092,
+  "input_tokens": 20895,
+  "output_tokens_details": {
+   "reasoning_tokens": 356
+  }
+ },
+ "credits_consumed": 3.07,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Ranga\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Handwritten letter on an aerogramme, with envelope/aerogramme reverse shown\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\",\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"author_unresolved\",\n    \"publisher_not_identified\",\n    \"place_not_identified\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Ranga\",\n      \"language\": \"en\",\n      \"context\": \"The letter is signed “Ranga”; this form does not exactly match a canonical name or listed alias in the supplied authority subset.\"\n    }\n  ],\n  \"notes\": \"Letter addressed to Minoo Masani and dated 22-8-64. The writer discusses an I.P.U. conference, an Indian delegation, Pakistan, and travel arrangements. The upper location/date line is handwritten and partly difficult to read.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document has a salutation (“My dear Masani”), continuous personal correspondence, and a handwritten closing/signature. It is therefore a letter rather than a circular or telegram.\",\n    \"purpose\": \"No formal purpose qualifier applies; this is private correspondence concerning an international parliamentary conference and related arrangements.\",\n    \"language\": \"The visible text is in Roman-script English; no Indic script is present.\",\n    \"authors_resolution\": \"The signature reads “Ranga”. Normalisation and binary comparison against the supplied canonical names and aliases found no exact match; thinker_id is therefore null and human review is required.\",\n    \"year\": \"The handwritten date at the top of page 1 reads “22-8-64”, yielding 1964 with high confidence.\",\n    \"publisher\": \"No publisher or issuing organization is printed on the letter or aerogramme; publisher_id and issuer_id are null.\",\n    \"toc\": \"No formal table of contents is present or applicable to this two-page letter.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,34 @@
+{
+ "slug": "1041-Letter_to_Raja_22-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 31.2,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40072
+ },
+ "image_bytes": [
+  204684,
+  144781,
+  193347
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 23012,
+  "output_tokens": 961,
+  "input_tokens": 22051,
+  "output_tokens_details": {
+   "reasoning_tokens": 122
+  }
+ },
+ "credits_consumed": 0.31,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Prof. N.G. Ranga,\",\n      \"honorifics\": [\n        \"Prof.\"\n      ],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"New Delhi\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 3,\n    \"pages_total\": 3,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typescript letter on Member of Parliament (Lok Sabha) letterhead, with an attached sheet containing two telegram drafts.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"constitutionalism\",\n    \"foreign-policy\",\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_identified\",\n    \"author_not_resolved\",\n    \"recipient_not_catalogued\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Prof. N.G. Ranga,\",\n      \"language\": \"en\",\n      \"context\": \"Sender of the letter, identified on the letterhead and in the address block as a Member of Parliament (Lok Sabha).\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"Pages 1–2 are a letter dated January 22, 1963, addressed to Rajaji; page 3 contains two telegram drafts marked 'To be telegraphed' and signed 'RANGA'. No printed title or publisher appears.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The first two rendered pages have the formal features of a letter: sender letterhead, date and address, salutation ('My dear Rajaji'), body, and handwritten closing/signature. Page 3 is an attached sheet of telegram drafts, but the principal document is the letter identified by the supplied archival item.\",\n    \"purpose\": \"No listed purpose qualifier fits a private political correspondence item.\",\n    \"language\": \"All visible text is in Roman script and English; no Indian-language script appears.\",\n    \"authors_resolution\": \"The extracted byline is 'Prof. N.G. Ranga,'. The authority subset contains no canonical name or alias matching 'N.G. Ranga' or 'Prof. N.G. Ranga', so thinker_id is null and human review is required.\",\n    \"year\": \"The letterhead on page 1 prints 'January 22, 1963.'; the year is therefore high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the visible pages. The folder hint 'Swatantra Party papers' is not treated as a printed publisher and no authority ID is assigned.\",\n    \"toc\": \"No table of contents is present or applicable; this is a single archival letter with an attached telegram-draft sheet.\"\n  }\n}",
+ "failed": null
+}

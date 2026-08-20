@@ -1,0 +1,32 @@
+{
+ "slug": "1038-Letter_to_Mr_Minoo_Masani_20-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 21.3,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40077
+ },
+ "image_bytes": [
+  215768
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20261,
+  "output_tokens": 912,
+  "input_tokens": 19349,
+  "output_tokens_details": {
+   "reasoning_tokens": 95
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Prof. N.G. Ranga\",\n      \"honorifics\": [\n        \"Prof.\"\n      ],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"New Delhi\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single typed office letter on parliamentary letterhead, with handwritten annotations and signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\",\n    \"party-politics\",\n    \"cold-war-positioning\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_found\",\n    \"recipient_metadata_partial\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Prof. N.G. Ranga\",\n      \"language\": \"en\",\n      \"context\": \"Sender of a typed letter dated January 20, 1963, identified on the letterhead as a Member of Parliament (Lok Sabha).\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"No printed title appears; the filename is not used as a title. Letterhead identifies the sender as Prof. N.G. Ranga, while the salutation and address identify M. R. Masani as recipient. The letter discusses parliamentary opposition and the Colombo proposals concerning China.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page has the physical and textual features of a letter: a named salutation ('My dear Masani'), a dated place line ('New Delhi. January 20, 1963.'), substantive body text, and a complimentary close ('Yours sincerely'). It is therefore classified as a letter rather than an occasional paper or office circular.\",\n    \"purpose\": \"No listed purpose qualifier fits a single personal political correspondence item, so purpose is null.\",\n    \"language\": \"The document is entirely in Roman-script English, including the letterhead, salutation, body, and closing.\",\n    \"authors_resolution\": \"The verbatim sender byline is 'Prof. N.G. Ranga'. Normalised comparison against the supplied authority subset found no matching canonical name or alias; the similar entry 'A Ranganathan' does not match. The thinker_id is therefore null and human review is required.\",\n    \"year\": \"The letterhead visibly prints 'January 20, 1963.' — high confidence.\",\n    \"publisher\": \"No publisher or publication imprint is printed; this is a personal parliamentary letter on letterhead rather than a published work.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

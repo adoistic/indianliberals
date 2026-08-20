@@ -1,0 +1,35 @@
+{
+ "slug": "1194-Meeting_of_the_National_Executive_Committee_09-04-1975",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 33.5,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40067
+ },
+ "image_bytes": [
+  300656,
+  315034,
+  337021,
+  262354
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 27626,
+  "output_tokens": 1478,
+  "input_tokens": 26148,
+  "output_tokens_details": {
+   "reasoning_tokens": 516
+  }
+ },
+ "credits_consumed": 3.92,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": \"report\",\n  \"title\": {\n    \"main\": {\n      \"value\": \"Minutes of the National Executive committee of the All India Swatantra Party\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"high\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1975,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 4,\n    \"pages_total\": 4,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typescript office record, four numbered pages\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"constitutionalism\",\n    \"governance-reform\",\n    \"electoral-reform\",\n    \"economic-liberty\",\n    \"planning-critique\",\n    \"regulatory-state-critique\",\n    \"agricultural-reform\",\n    \"federalism\",\n    \"emergency-critique\",\n    \"anti-corruption\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"publisher_not_printed\",\n    \"editor_not_named\",\n    \"toc_not_present\",\n    \"work_type_taxonomy_mismatch\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"All India Swatantra Party\",\n      \"language\": \"en\",\n      \"context\": \"Political party identified in the printed title and as the issuing body of the minutes.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"G.K. Sundaram\",\n      \"language\": \"en\",\n      \"context\": \"Chair of the National Executive Committee meeting and identified as party president.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"V.S. Srikumar\",\n      \"language\": \"en\",\n      \"context\": \"Joint Secretary who signed the circulated minutes.\",\n      \"page\": 2\n    }\n  ],\n  \"notes\": \"The document is explicitly headed and structured as minutes of a National Executive Committee meeting held at Local Library Authority Building, Mount Road, Madras, on 9 April 1975. The strict work_type enum lacks minutes; occasional_paper/report is used as the closest permitted value.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The pages identify a meeting record: they state that members were present, record the president, summarize matters discussed, and reproduce adopted resolutions. This is substantively minutes, but because the required enum excludes minutes, occasional_paper is used as the closest permitted value with low confidence.\",\n    \"purpose\": \"The document records proceedings and decisions of an institutional executive committee, so report is the closest permitted purpose qualifier.\",\n    \"language\": \"All visible text is in English Roman script; no non-Latin script is present.\",\n    \"authors_resolution\": \"There is no human author byline. The document is issued in the name of the All India Swatantra Party, while V.S. Srikumar appears as Joint Secretary and signatory rather than author.\",\n    \"year\": \"The heading on page 1 gives the meeting date as 9 April 1975, and page 3 repeats the date as 9-4-1973 in the resolutions heading; the document context and page 1 date support 1975, but the conflicting printed date on page 3 warrants review.\",\n    \"publisher\": \"No publisher or publication line is printed in the four-page record; publisher_id and publisher_verbatim are therefore null.\",\n    \"toc\": \"No formal table of contents is present. The visible pages are a continuous minutes record followed by six resolutions.\"\n  }\n}",
+ "failed": null
+}

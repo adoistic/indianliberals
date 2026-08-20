@@ -1,0 +1,32 @@
+{
+ "slug": "1094-Questionnaire_of_Committee_on_Poll_Express",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 23.3,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40046
+ },
+ "image_bytes": [
+  269326
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20740,
+  "output_tokens": 1036,
+  "input_tokens": 19704,
+  "output_tokens_details": {
+   "reasoning_tokens": 329
+  }
+ },
+ "credits_consumed": 2.9,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"Answers to Questionnaire of Committee on Poll Expenses\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page typed questionnaire response; archival office paper.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"electoral-reform\",\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"author_not_named\",\n    \"publisher_not_printed\",\n    \"issuer_not_printed\",\n    \"year_not_printed\",\n    \"place_not_printed\",\n    \"editor_not_named\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Committee on Poll Expenses\",\n      \"language\": \"en\",\n      \"context\": \"Committee named in the printed heading as the body whose questionnaire is being answered.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The page contains numbered answers to a committee questionnaire, with no visible byline, signature, issuer, date, or publisher. The supplied folder hint is not used as evidence.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is a standalone typed institutional or office response rather than a conventional authored essay, speech, or letter. Because the available taxonomy has no questionnaire-response type, it is classified as an occasional_paper with low-confidence borderline classification.\",\n    \"purpose\": \"No printed indication identifies the document as a manifesto, report, working paper, or other permitted purpose qualifier, so purpose is null.\",\n    \"language\": \"The page is entirely in Roman-script English; no other script is visible.\",\n    \"authors_resolution\": \"No human byline or author name is printed on the page, so authors is empty and no authority-file resolution is attempted.\",\n    \"year\": \"No year or date is printed in the visible page; refusing to infer from the filename or folder hint.\",\n    \"publisher\": \"No publisher or issuing-organization line is visible on the page; publisher_id and issuer_id are therefore null.\",\n    \"toc\": \"No formal table of contents is present; the one-page document consists of numbered questionnaire answers.\"\n  }\n}",
+ "failed": null
+}

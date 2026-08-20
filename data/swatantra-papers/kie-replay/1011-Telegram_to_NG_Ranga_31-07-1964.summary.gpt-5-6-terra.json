@@ -1,0 +1,33 @@
+{
+ "slug": "1011-Telegram_to_NG_Ranga_31-07-1964",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 33.0,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 45913
+ },
+ "image_bytes": [
+  284209,
+  207085
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 21828,
+  "output_tokens": 1514,
+  "input_tokens": 20314,
+  "output_tokens_details": {
+   "reasoning_tokens": 309
+  }
+ },
+ "credits_consumed": 3.29,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This one-page telegram, sent by M. R. Masani on July 31, 1964, asks Prof. Ranga to come to Madras for an urgent meeting of the organisation subcommittee. Masani reports that a report from Munshi on Bihar indicates that twelve members of the party in the Assembly may defect, making an immediate organisational response necessary.\\n\\nMasani says that he has consulted Rajaji and is convening the meeting for 9 a.m. on Saturday, August 8. He asks Ranga to travel by plane on the night of August 7 and wire confirmation of his presence. The second rendered page is the verso of the telegram form, containing standard postal instructions and the legal conditions governing acceptance and delivery; it adds no further political content.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"M. R. Masani sent the telegram from Bombay on July 31, 1964.\",\n      \"The message was addressed to Prof. Ranga in Calcutta.\",\n      \"Masani reported a threat that twelve party members in the Bihar Assembly might defect.\",\n      \"He called for an urgent meeting of the organisation subcommittee in Madras.\",\n      \"Masani said he had consulted Rajaji and scheduled the meeting for 9 a.m. on Saturday, August 8.\",\n      \"Ranga was asked to reach Madras by plane on the night of August 7 and confirm his attendance by wire.\",\n      \"The second page is the standard reverse side of the Indian Posts and Telegraphs inland telegram form.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"THREATENED DEFECTION TWELVE MEMBERS OF OUR PARTY IN ASSEMBLY\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Masani presents the possible defection of twelve Assembly members as the immediate reason for urgent party consultation.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"WE FEEL URGENT MEETING OF ORGANISATION SUB COMMITTEE NECESSARY\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The telegram turns the reported Bihar defections into a call for rapid organisational action.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"KINDLY WIRE IMMEDIATELY CONFIRMING YOUR PRESENCE IN MADRAS\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Masani closes by pressing the addressee to confirm attendance at the proposed meeting.\",\n        \"shareable\": true\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"MUNSHI\",\n        \"context\": \"MUNSHI'S REPORT ON BIHAR JUST RECEIVED STOP IN VIEW THREATENED DEFECTION TWELVE MEMBERS OF OUR PARTY IN ASSEMBLY.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      },\n      {\n        \"thinker_id\": \"c-rajagopalachari\",\n        \"context\": \"HAVE CONSULTED RAJAJI AND AM CONVENING MEETING IN MADRAS AT 9A.M. ON SATURDAY AUGUST 8.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      },\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"PROF. RANGA\",\n        \"context\": \"The telegram is addressed to PROF. RANGA at c/o I. B. RAO, 36B MOTILAL NEHRU RD, CALCUTTA 26.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      },\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"I. B. RAO\",\n        \"context\": \"The address block identifies I. B. RAO as the care-of contact for Prof. Ranga in Calcutta.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        2\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No pages are missing; page 2 contains only the reverse-side instructions and acceptance conditions of the telegram form.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"PROF. RANGA\",\n      \"language\": \"en\",\n      \"context\": \"Addressee of the telegram, identified in the address block as being reachable through I. B. Rao in Calcutta.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"MUNSHI\",\n      \"language\": \"en\",\n      \"context\": \"Person whose report on Bihar is cited as the basis for Masani's warning about possible party defections.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"I. B. RAO\",\n      \"language\": \"en\",\n      \"context\": \"Care-of address holder named in the telegram's address block for Prof. Ranga.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

@@ -1,0 +1,33 @@
+{
+ "slug": "1033-No_Capitalisation",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 39.5,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 44748
+ },
+ "image_bytes": [
+  234052,
+  194843
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20435,
+  "output_tokens": 1353,
+  "input_tokens": 19082,
+  "output_tokens_details": {
+   "reasoning_tokens": 336
+  }
+ },
+ "credits_consumed": 3.05,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"C. Rajagopalachari argues that India should not accept the Colombo proposals concerning China merely in the name of Afro-Asian solidarity. He criticizes the Government's failure to state clearly what the proposals contain, whether India accepts them, and whether China has accepted them, noting that Parliament is expected to consider the matter while the Prime Minister's position remains uncertain.\\n\\nThe essay distinguishes genuine peace from solidarity used to preserve an anti-Western alignment. Rajagopalachari contends that China's aggression against India has already broken the basis for such solidarity and warns that accepting China's terms would reduce India to a satellite. He instead advocates resisting China with support from anti-communist Western powers while seeking peace and neighbourliness through mutual and balanced respect.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The essay questions the Colombo proposals and the lack of public clarity about their terms and acceptance.\",\n      \"Rajagopalachari criticizes the Government's reliance on Nehru's implied rather than explicit position.\",\n      \"It rejects preserving Afro-Asian solidarity at the expense of India's territory, honour, and security.\",\n      \"China's aggression against India is presented as having destroyed the moral and political basis of that solidarity.\",\n      \"The essay warns that negotiating on China's terms could make India a satellite of China.\",\n      \"Rajagopalachari supports Western assistance against communist China while also calling for eventual peace and neighbourliness.\"\n    ],\n    \"themes_confirmed\": [\n      \"foreign-policy\",\n      \"cold-war-positioning\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"It would be a serious mistake to assume that the Colombo proposals are good enough and that the only question is whether the Peking Government has definitely agreed to them.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Rajagopalachari opens by challenging the assumption that the Colombo proposals are acceptable simply because China might agree to them.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"We cannot agree to save Afro-Asian solidarity at the cost of India's territory and her honour and security.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The essay places India's territorial integrity, honour, and security above diplomatic claims about Afro-Asian unity.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"It is nothing more than a cold war of an ancient grudge maintained against those who were once masters.\",\n        \"page\": 2,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"counter_intuitive\",\n        \"context\": \"Rajagopalachari characterizes the rhetoric of Afro-Asian solidarity as an expression of historical resentment rather than a constructive peace policy.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"To be afraid of seeking or accepting Western co-operation now and to accept any terms of peace under the advice of the Colombo nations, when China is flushed with victory, is to surrender our honour, and sacrifice our future and accept communist China's hegemony in Asia.\",\n        \"page\": 2,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The concluding argument rejects both Western cooperation and peace terms dictated by China or its supporters as a surrender of India's future.\",\n        \"shareable\": false\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": \"jawaharlal-nehru\",\n        \"context\": \"Nor do we know what Mr. Nehru, knowing what they are, thinks about them.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        2\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No pages from this two-page clipping were missing; its publication venue and printed date are not visible.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Peking Government\",\n      \"language\": \"en\",\n      \"context\": \"The government of China is discussed in relation to its acceptance of the Colombo proposals.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Chinese Government\",\n      \"language\": \"en\",\n      \"context\": \"The Chinese Government is described as a party whose acceptance of the Colombo proposals remains uncertain.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

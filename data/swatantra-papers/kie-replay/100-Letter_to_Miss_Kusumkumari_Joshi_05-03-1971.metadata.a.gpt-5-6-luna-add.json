@@ -1,0 +1,32 @@
+{
+ "slug": "100-Letter_to_Miss_Kusumkumari_Joshi_05-03-1971",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 24.9,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40083
+ },
+ "image_bytes": [
+  232865
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20834,
+  "output_tokens": 807,
+  "input_tokens": 20027,
+  "output_tokens_details": {
+   "reasoning_tokens": 97
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"( M. R. MASANI )\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1971,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed personal letter with handwritten signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"electoral-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_visible\",\n    \"place_not_visible\",\n    \"edition_not_visible\",\n    \"series_not_visible\",\n    \"recipient_not_authority_resolved\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Letter dated 5th March, 1971, addressed to Miss Kusumkumari Joshi, Advocate, Gondal. The printed signature line identifies the sender as M. R. Masani; handwritten signature is also visible. Filename-derived title not used.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page has a salutation ('My dear Kusumben'), a personal body addressed to one named recipient, a complimentary close ('Yours sincerely'), and a signature. These are direct signals of a letter rather than a circular or telegram.\",\n    \"purpose\": \"No controlled purpose qualifier applies to this single personal letter.\",\n    \"language\": \"The visible text is entirely in Roman-script English.\",\n    \"authors_resolution\": \"The verbatim signature byline is '( M. R. MASANI )'. After normalising case, punctuation, and spacing, it matches the authority-file alias 'M. R. Masani', yielding thinker_id 'minoo-masani'.\",\n    \"year\": \"The upper-right date line prints '5th March, 1971', supporting the year 1971 with high confidence.\",\n    \"publisher\": \"No publisher, issuing organisation, or publication imprint is printed on the visible page; the supplied folder hint was not used as page evidence.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

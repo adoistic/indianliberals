@@ -1,0 +1,33 @@
+{
+ "slug": "1009-Letter_to_NG_Ranga_03-08-1964",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 22.1,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40036
+ },
+ "image_bytes": [
+  319152,
+  210262
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 4864
+  },
+  "total_tokens": 22952,
+  "output_tokens": 898,
+  "input_tokens": 22054,
+  "output_tokens_details": {
+   "reasoning_tokens": 89
+  }
+ },
+ "credits_consumed": 2.58,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"original_script\": null,\n    \"translit\": null\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"(M. R. Masani)\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Two-page typed carbon-copy letter marked “Express Delivery,” with a continuation page.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"subtitle_not_printed\",\n    \"publisher_not_printed\",\n    \"issuer_not_printed\",\n    \"place_not_printed\",\n    \"edition_not_printed\",\n    \"series_not_printed\",\n    \"identifiers_not_printed\",\n    \"toc_not_present\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Prof. N. G. Ranga\",\n      \"language\": \"en\",\n      \"context\": \"Named recipient of M. R. Masani's letter, addressed at Calcutta.\",\n      \"page\": 2\n    }\n  ],\n  \"notes\": \"Untitled letter dated 3 August 1964 from M. R. Masani to Prof. N. G. Ranga. The text concerns party organisation in Bengal, Patodia, Nandi, and a telegram regarding Bihar. No publisher or issuing line is visible.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document has a personal salutation (“My dear Ranga,”), a complimentary close (“Yours sincerely,”), a named recipient, and a signed typed name. It is therefore a letter, notwithstanding the “Express Delivery” marking.\",\n    \"purpose\": \"No purpose qualifier applies to letters under the supplied taxonomy.\",\n    \"language\": \"The document is entirely typescript in English using Latin script.\",\n    \"authors_resolution\": \"The signed byline is “(M. R. Masani)”. Its normalized form matches the alias “M. R. Masani” for canonical Minoo Masani, yielding thinker_id “minoo-masani”.\",\n    \"year\": \"The date line on PDF page 1 reads “August 3, 1964.”\",\n    \"publisher\": \"No publisher or issuer line is printed on either rendered page; the folder hint is not used as publication evidence.\",\n    \"toc\": \"No formal table of contents is present in this two-page letter.\"\n  }\n}",
+ "failed": null
+}

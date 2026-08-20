@@ -1,0 +1,32 @@
+{
+ "slug": "1007-Letter_to_Raja_03-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 17.2,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40066
+ },
+ "image_bytes": [
+  300884
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19957,
+  "output_tokens": 784,
+  "input_tokens": 19173,
+  "output_tokens_details": {
+   "reasoning_tokens": 70
+  }
+ },
+ "credits_consumed": 0.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"(M. R. Masani)\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter, marked EXPRESS DELIVERY and Personal\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"place_not_printed\",\n    \"recipient_authority_unresolved\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Untitled typed letter dated August 3, 1964, from M. R. Masani to Mr. C. Rajagopalachari. The page includes enclosures and discusses organisational work within the Swatantra Party.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document is explicitly formatted as a personal letter, with the salutation “My dear Rajaji,” a single named recipient, a dated letterhead-style page, and the closing “Yours sincerely.” It is therefore classified as a letter rather than a circular or occasional paper.\",\n    \"purpose\": \"No taxonomy purpose qualifier applies to this individual correspondence.\",\n    \"language\": \"The visible document is entirely in English Roman script.\",\n    \"authors_resolution\": \"The signature identifies the sender as “(M. R. Masani).” This matches the authority-file alias “M. R. Masani” for thinker_id “minoo-masani,” so the author resolves to that ID with high confidence. The recipient is printed as “Mr. C. Rajagopalachari” and is not treated as an author.\",\n    \"year\": \"The upper-right date line clearly prints “August 3, 1964.”\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the visible page; the publisher folder hint is not used as bibliographic evidence.\",\n    \"toc\": \"No table of contents is present or applicable for this one-page letter.\"\n  }\n}",
+ "failed": null
+}

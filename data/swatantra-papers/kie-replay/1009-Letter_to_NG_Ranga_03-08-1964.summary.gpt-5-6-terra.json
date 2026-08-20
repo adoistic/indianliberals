@@ -1,0 +1,33 @@
+{
+ "slug": "1009-Letter_to_NG_Ranga_03-08-1964",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 29.6,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 44705
+ },
+ "image_bytes": [
+  319152,
+  210262
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 22216,
+  "output_tokens": 1301,
+  "input_tokens": 20915,
+  "output_tokens_details": {
+   "reasoning_tokens": 206
+  }
+ },
+ "credits_consumed": 3.22,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"Dated August 3, 1964, this two-page private letter from M. R. Masani to Prof. N. G. Ranga addresses organisational difficulties facing the Swatantra Party in Bengal. Masani says he has been authorised by the Organisation Sub-Committee to replace the ineffective interim committee, headed by Patodia, with district-level grassroots activity. He reports having contacted potential Bengali leaders in Calcutta but identifies the absence of indigenous Bengali leadership as the party's principal weakness.\",\n  \"summary_structured\": {\n    \"key_points\": [\n      \"Masani is distressed by the failure of the Bengal organisation to establish an effective party presence over four years.\",\n      \"The Organisation Sub-Committee has authorised him to develop grassroots activity at the district level.\",\n      \"He considers the interim committee with Patodia as Convenor to have failed completely.\",\n      \"Masani argues that the party cannot be built in Bengal while activity centres on Patodia and Nandi.\",\n      \"He asks Ranga to prevent Patodia and Nandi from pursuing plans that might conflict with Masani's organisational mandate.\",\n      \"The letter warns that continued activity along those lines could produce repercussions injurious to the party.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"our main weakness has been the absence of indigenous Bengali leadership.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Masani identifies the shortage of locally rooted leadership as the central organisational problem in Bengal.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"Patodia's main disqualification is the fact of his being a Marwari.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"counter_intuitive\",\n        \"context\": \"Masani explains why he believes Patodia cannot effectively lead the party's Bengal organisation.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"nothing can be built up in Bengal for the Party so long as it centres around Patodia and Nandi, who though well meaning is also ineffective.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Masani argues that the party's Bengal work must not remain centred on Patodia and Nandi.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"any development along these lines is bound to produce much larger repercussions injurious to the Party.\",\n        \"page\": 2,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Masani urges Ranga to close the organisational initiative because he expects broader damage to the party if it continues.\",\n        \"shareable\": true\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"Ranga\",\n        \"context\": \"Masani addresses the recipient as “My dear Ranga” and asks him to intervene in the Bengal organisational dispute.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      },\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"Patodia\",\n        \"context\": \"Masani describes the interim committee with Patodia as Convenor as having proved a complete failure.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      },\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"Nandi\",\n        \"context\": \"Masani says that nothing can be built in Bengal while party activity centres on Patodia and Nandi.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        2\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No pages are missing from the two-page letter.\"\n    }\n  },\n  \"extent_caveat\": false,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Prof. N. G. Ranga\",\n      \"language\": \"en\",\n      \"context\": \"Recipient of Masani's letter, addressed as “My dear Ranga” and identified in the address block as Prof. N. G. Ranga.\",\n      \"page\": 2\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Patodia\",\n      \"language\": \"en\",\n      \"context\": \"A Swatantra Party organiser whom Masani identifies as Convenor of the failed Bengal interim committee.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Nandi\",\n      \"language\": \"en\",\n      \"context\": \"A Bengal party associate whom Masani describes as well meaning but ineffective.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

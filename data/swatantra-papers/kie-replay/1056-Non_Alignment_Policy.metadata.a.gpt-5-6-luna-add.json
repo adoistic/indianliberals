@@ -1,0 +1,33 @@
+{
+ "slug": "1056-Non_Alignment_Policy",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 20.8,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40064
+ },
+ "image_bytes": [
+  159912,
+  37918
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20598,
+  "output_tokens": 861,
+  "input_tokens": 19737,
+  "output_tokens_details": {
+   "reasoning_tokens": 117
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"essay\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"NON-ALIGNMENT POLICY\\nJ.P. NARAYAN OPPOSES RAJAJI'S STAND\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": \"(FROM OUR CORRESPONDENT)\",\n      \"confidence\": \"high\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"AHMEDABAD\",\n    \"year\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Newspaper clipping mounted or scanned as a two-page archival item; second page is a partial fragment.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\",\n    \"cold-war-positioning\",\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"author_not_printed\",\n    \"publisher_not_identified\",\n    \"publication_title_not_identified\",\n    \"year_not_printed\",\n    \"clipping_source_incomplete\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The clipping reports a statement by Mr. Jayaprakash Narayan at a public meeting in Ahmedabad on Jan. 31, but no year or source-publication name is visible. The displayed headline names Rajaji, resolved in authority as C. Rajagopalachari, but neither person is a bylined author.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is a newspaper-style political article or press clipping: it has a headline, the credit '(FROM OUR CORRESPONDENT)', a dateline ('AHMEDABAD, Jan. 31.'), and continuous reported prose. No formal standalone pamphlet, speech transcript, or institutional publication format is visible, so essay is the closest permitted work type.\",\n    \"purpose\": \"No listed purpose qualifier fits a newspaper clipping or reported correspondent article.\",\n    \"language\": \"The visible text is entirely in Roman-script English; no Indian-language script is present.\",\n    \"authors_resolution\": \"No author byline is printed. '(FROM OUR CORRESPONDENT)' identifies an anonymous correspondent rather than a named author, so authors is empty and no authority resolution is possible.\",\n    \"year\": \"The article prints 'AHMEDABAD, Jan. 31.' but no year appears on the visible pages; filename-based inference is rejected.\",\n    \"publisher\": \"No newspaper or publisher name is legible on the visible clipping. The second page shows only a partial fragment with unidentified masthead material, so publisher_id remains null.\",\n    \"toc\": \"No table of contents is present; this is a single newspaper clipping.\"\n  }\n}",
+ "failed": null
+}

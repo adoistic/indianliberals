@@ -1,0 +1,33 @@
+{
+ "slug": "1056-Non_Alignment_Policy",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 37.1,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 44648
+ },
+ "image_bytes": [
+  159912,
+  37918
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19671,
+  "output_tokens": 1778,
+  "input_tokens": 17893,
+  "output_tokens_details": {
+   "reasoning_tokens": 787
+  }
+ },
+ "credits_consumed": 3.2,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This anonymous newspaper dispatch, datelined Ahmedabad, Jan. 31, reports Jayaprakash Narayan's opposition to C. Rajagopalachari's call for India to abandon non-alignment and enter an alliance with the West. Narayan argues that India should not assume that Russia would provide substantial military assistance against China, and warns that shifting into the Western bloc could provoke the Soviet Union to take China's side openly.\\n\\nThe report presents the China-India conflict as more than a territorial dispute: despite a military cease-fire, Narayan identifies an continuing ideological challenge and calls for effective preparation. He also distinguishes ahimsa from political naivety, insisting that non-violence does not mean allowing others to deceive India. The second rendered page shows the reverse of the clipped article, including a partial advertisement; the newspaper masthead, publication date, and year are not visible.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The report attributes opposition to Rajagopalachari's pro-Western alignment position to Jayaprakash Narayan.\",\n      \"Narayan defends India's non-alignment policy and rejects entering an alliance with the West.\",\n      \"He cautions against expecting substantial Soviet military aid in the event of further conflict with China.\",\n      \"He argues that abandoning non-alignment might push the Soviet Union to side openly with China.\",\n      \"The China-India conflict is described as an ideological challenge as well as a border dispute.\",\n      \"Narayan calls for effective preparation despite the existence of a military cease-fire.\",\n      \"The report presents ahimsa as compatible with vigilance and resistance to deception.\"\n    ],\n    \"themes_confirmed\": [\n      \"foreign-policy\",\n      \"cold-war-positioning\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"By abandoning non-alignment and joining the Western bloc, India might force the Soviet Union to commit herself openly on China's side.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"counter_intuitive\",\n        \"context\": \"Narayan warns that moving closer to the West could produce the opposite of its intended strategic effect by driving the Soviet Union toward China.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"He said that the China-India conflict was not merely a border dispute but it was more deep than that.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The report frames Narayan's analysis as treating the conflict as an ideological confrontation rather than only a territorial disagreement.\",\n        \"shareable\": false,\n        \"transcription_anomaly\": {\n          \"observed\": \"more deep\",\n          \"likely_intended\": \"deeper\",\n          \"note\": \"Ungrammatical wording preserved from the newspaper clipping; likely a source or transcription error.\"\n        }\n      },\n      {\n        \"verbatim\": \"Mr Narayan said ahimsa did not mean that anybody could befool us.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"aphorism\",\n        \"context\": \"Narayan distinguishes the principle of non-violence from passivity or susceptibility to deception.\",\n        \"shareable\": true\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": \"jayaprakash-narayan\",\n        \"context\": \"Mr. Jayaprakash Narayan, Sarvodaya leader, said here yesterday that he did not agree with Mr. C. Rajagopalachari that India should abandon non-alignment and enter into an alliance with the West.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      },\n      {\n        \"thinker_id\": \"c-rajagopalachari\",\n        \"context\": \"Mr. Jayaprakash Narayan, Sarvodaya leader, said here yesterday that he did not agree with Mr. C. Rajagopalachari that India should abandon non-alignment and enter into an alliance with the West.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        2\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"The complete preserved item was rendered; page 2 is the reverse of the newspaper clipping and contains only a partial advertisement, while the newspaper masthead and year are not visible.\"\n    }\n  },\n  \"recommended_authority_additions\": []\n}",
+ "failed": null
+}

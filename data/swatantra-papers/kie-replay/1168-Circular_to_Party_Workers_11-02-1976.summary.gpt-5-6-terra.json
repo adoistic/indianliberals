@@ -1,0 +1,34 @@
+{
+ "slug": "1168-Circular_to_Party_Workers_11-02-1976",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 35.1,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 45016
+ },
+ "image_bytes": [
+  362672,
+  277733,
+  180317
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 24000,
+  "output_tokens": 1582,
+  "input_tokens": 22418,
+  "output_tokens_details": {
+   "reasoning_tokens": 516
+  }
+ },
+ "credits_consumed": 3.57,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This 11 February 1976 Swatantra Party circular, signed by its president G.K. Sundaram, asks party workers to continue operating through constitutional, peaceful, and non-violent methods. Against the backdrop of the early dissolution of the Tamil Nadu Legislative Assembly and the imposition of President’s Rule, Sundaram advises workers to avoid prohibited or unlawful activity, limit organising to individual contacts and very small groups, and concentrate on enrolling new members and explaining the party’s principles.\\n\\nThe circular also argues that public opinion will eventually turn toward discussion of the country’s underlying problems, despite what it describes as one-sided propaganda reaching much of the illiterate population. Its accompanying press statement welcomes the Government of India’s appointment of a one-man commission to investigate corruption allegations against former ministers of the DMK Ministry, while criticising the action as at least five years overdue and calling for comparable commissions to investigate allegations involving other former and serving ministers.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The circular presents constitutional and non-violent action as the Swatantra Party’s governing political method.\",\n      \"It attributes this commitment to the party’s late founder and leader, Rajaji.\",\n      \"It advises workers in Tamil Nadu to avoid violating prohibitory orders and other lawful restrictions under President’s Rule.\",\n      \"It recommends individual political contacts and meetings of only three or four people, alongside membership recruitment.\",\n      \"It argues that the party should patiently disseminate its principles and facts despite one-sided media coverage.\",\n      \"The companion press statement supports high-power commissions to investigate corruption allegations against ministers.\",\n      \"It welcomes the commission concerning the former DMK Ministry but calls the government’s action five years late.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\",\n      \"emergency-critique\",\n      \"anti-corruption\",\n      \"governance-reform\",\n      \"civil-liberty\",\n      \"rule-of-law\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"As long as he was alive he was always discouraging people from taking to violent agitations\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Sundaram invokes Rajaji’s opposition to violent agitation to frame the party’s continued commitment to constitutional politics.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"I would suggest that you may concentrate on contacting persons individually or small groups of three and four\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"counter_intuitive\",\n        \"context\": \"The circular translates its constitutional commitment into a cautious organising strategy under restrictions on public political activity.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"We have to wait patiently and carry on propagation of our principles and project facts as we understand them.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"aphorism\",\n        \"context\": \"Sundaram urges party workers to sustain political communication while waiting for a more open public discussion.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"The party is of the view that the setting up of the commission is at least five years too late.\",\n        \"page\": 2,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"data\",\n        \"context\": \"The press statement welcomes the corruption inquiry into the former DMK Ministry but sharply criticises the delay in establishing it.\",\n        \"shareable\": true\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": \"c-rajagopalachari\",\n        \"context\": \"As you know, our Revered Rajaji wanted the Swatantra Party to function as a cent per cent democratic party wedded to constitutional methods.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        3\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"All three PDF pages were rendered; page 3 is the addressed mailing envelope and contains no further argument.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"G.K. Sundaram\",\n      \"language\": \"en\",\n      \"context\": \"President of the All India Swatantra Party and signatory of the circular dated 11 February 1976.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"D.M.K. Ministry\",\n      \"language\": \"en\",\n      \"context\": \"The former Tamil Nadu ministry whose ministers are the subject of the corruption investigation discussed in the press statement.\",\n      \"page\": 2\n    }\n  ]\n}",
+ "failed": null
+}

@@ -1,0 +1,35 @@
+{
+ "slug": "1176-Rajaji-Some_Vignettes-Swarajya_06-12-1975",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 37.7,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40054
+ },
+ "image_bytes": [
+  395330,
+  253134,
+  423729,
+  239304
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 25844,
+  "output_tokens": 1532,
+  "input_tokens": 24312,
+  "output_tokens_details": {
+   "reasoning_tokens": 492
+  }
+ },
+ "credits_consumed": 3.75,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"periodical_issue\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"SWARAJYA\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Sri Masti Venkatesa Iyengar\",\n      \"role\": \"author\",\n      \"toc_index\": null\n    },\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Vinu\",\n      \"role\": \"other\",\n      \"toc_index\": null\n    }\n  ],\n  \"publication\": {\n    \"publisher_id\": \"swarajya\",\n    \"publisher_verbatim\": \"SWARAJYA\",\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1975,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 4,\n    \"pages_total\": 4,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Scanned periodical pages with printed page numbers 4 and 6, an illustrated page, and a full-page portrait illustration\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"indian-liberal-history\",\n    \"biographical-tribute\",\n    \"party-politics\",\n    \"governance-reform\",\n    \"rule-of-law\",\n    \"foreign-policy\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"volume_number\",\n    \"issue_number\",\n    \"publisher_details\",\n    \"place\",\n    \"toc\",\n    \"editor_not_named\",\n    \"unresolved_contributor\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Sri Masti Venkatesa Iyengar\",\n      \"language\": \"en\",\n      \"context\": \"Author of the book Rajaji, from which the article states that its extracts are taken.\",\n      \"page\": 4\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Vinu\",\n      \"language\": \"en\",\n      \"context\": \"Illustrator signature visible on the full-page portrait illustration.\",\n      \"page\": 4\n    }\n  ],\n  \"notes\": \"The visible pages belong to the December 6, 1975 issue of Swarajya. The principal article is “RAJAJI—SOME VIGNETTES,” continued from page 4 to page 6; the issue also contains cartoons and illustrations. No formal TOC, masthead, volume, or issue number is visible.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The running header visibly reads “SWARAJYA, December 6, 1975,” and the pages contain multiple distinct items, including the article “RAJAJI—SOME VIGNETTES,” the cartoon page “JUST THINK OF IT!”, and illustrations. Under the periodical-issue rule, the serial issue classification takes precedence over essay or pamphlet.\",\n    \"purpose\": \"No applicable purpose qualifier is printed or otherwise established in the visible pages, so this field is null.\",\n    \"language\": \"All visible prose, headings, captions, and publication information are in English Roman script; no Indian-language script is observed.\",\n    \"authors_resolution\": \"No issue-level human author or printed byline is visible. “Sri Masti Venkatesa Iyengar” appears as the author of the source book Rajaji, not as a clearly stated issue-level byline, and is not found in the supplied authority subset; it is therefore recorded as an unresolved contributor. “Vinu” is an illustrator signature, not an author byline, and is not found in the authority subset.\",\n    \"year\": \"The running header on the visible periodical pages reads “December 6, 1975,” providing the year with high confidence.\",\n    \"publisher\": \"The only publication identifier visible is the running-header name “SWARAJYA”; it matches the supplied periodical publisher authority entry, but no explicit publisher or issuing-organization line is visible.\",\n    \"toc\": \"No formal table of contents is visible in the four-page chunk. Article headings and continuation information were not treated as a TOC.\"\n  }\n}",
+ "failed": null
+}

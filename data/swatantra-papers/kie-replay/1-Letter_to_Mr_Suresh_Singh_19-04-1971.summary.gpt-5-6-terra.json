@@ -1,0 +1,32 @@
+{
+ "slug": "1-Letter_to_Mr_Suresh_Singh_19-04-1971",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 21.4,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 44125
+ },
+ "image_bytes": [
+  192197
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19252,
+  "output_tokens": 938,
+  "input_tokens": 18314,
+  "output_tokens_details": {
+   "reasoning_tokens": 208
+  }
+ },
+ "credits_consumed": 2.68,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"In this letter dated 19 April 1971, Minoo Masani thanks Mr Suresh Singh for his letter of 7 April and for expressing sympathy and solidarity. Masani says that he has stepped down from the presidency of his party, while emphasizing that substantial work remains ahead. He also expresses an interest in visiting Singh’s hospital during a future visit to Singh’s part of the country and wishes him success in his efforts.\\n\\nMasani asks Singh to provide Svetlana’s new address in the United States so that he can respond to her earlier letter, which has remained unacknowledged. The one-page document is a personal and political correspondence; it does not identify the party by name on the page.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"Masani acknowledges and thanks Suresh Singh for his letter of 7 April 1971.\",\n      \"He appreciates Singh’s expression of sympathy and solidarity.\",\n      \"Masani reports that he has stepped down from the presidency of his party.\",\n      \"He says he would like to visit Singh’s hospital during a future visit to the region.\",\n      \"He requests Svetlana’s new address in the United States to answer her earlier letter.\",\n      \"The letter is dated 19 April 1971 and signed by M. R. Masani.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"I have stepped down from the Presidentship of my Party, but I have a lot of work ahead of me.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Masani describes his departure from party leadership while presenting himself as continuing an active political role.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"I would certainly like to visit your hospital when I am next in your part of the Country.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Masani responds warmly to Singh’s situation and indicates a wish to visit him in person.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"I do not have Svetlana's new address in the States and would very much appreciate your letting me have it\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Masani asks Singh for contact information needed to reply to Svetlana’s earlier letter.\",\n        \"shareable\": false\n      }\n    ],\n    \"cross_thinker_mentions\": [],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No pages are missing; the document consists of one rendered letter page.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Svetlana\",\n      \"language\": \"en\",\n      \"context\": \"Masani asks Suresh Singh for Svetlana’s new address in the United States so that he can reply to her earlier letter.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

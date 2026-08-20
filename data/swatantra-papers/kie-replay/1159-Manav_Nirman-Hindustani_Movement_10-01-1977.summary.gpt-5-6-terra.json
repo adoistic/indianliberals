@@ -1,0 +1,33 @@
+{
+ "slug": "1159-Manav_Nirman-Hindustani_Movement_10-01-1977",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 30.9,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 45669
+ },
+ "image_bytes": [
+  444297,
+  407212
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 22203,
+  "output_tokens": 1373,
+  "input_tokens": 20830,
+  "output_tokens_details": {
+   "reasoning_tokens": 181
+  }
+ },
+ "credits_consumed": 3.26,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This two-page circular, dated 10 January 1977 and issued by Madhu Mehta as National Convenor of the Hindustani Movement, presents “Manav Nirman” (human-making) as a programme of ethical citizenship. It defines a human being through nine “mantras”: sharing happiness, relieving others’ suffering, resisting injustice and exploitation, practising fairness and courtesy, respecting all religions, overcoming prejudice, rejecting hypocrisy and pride, learning from mistakes, and seeking and living by truth. The circular argues that genuine national change cannot be achieved through slogans, propaganda, elections, or a change of government alone; India must overcome “poverty of the soul and spirit” alongside material poverty.\",\n    \"extent_caveat\": false,\n    \"summary_structured\": {\n      \"key_points\": [\n        \"The circular defines Manav Nirman through nine ethical commitments concerning compassion, justice, equality, truth, and self-correction.\",\n        \"It links national progress to the humanisation of public and private conduct rather than to political slogans or institutional change alone.\",\n        \"It calls for practical service on 30 January 1977, including feeding hungry people, spending time with children, helping implement at least one point of the government’s 25-point programme, and serving local communities.\",\n        \"It urges opposition workers and political leaders to stop focusing obsessively on Prime Minister Indira Gandhi and instead provide concrete service to the public.\",\n        \"It appeals for a joint prayer meeting involving Indira Gandhi and Jayaprakash Narayan at Rajghat on Gandhi Nirvan Din.\",\n        \"The document frames political disagreement as compatible with shared national devotion, ethical responsibility, and a common commitment to India’s progress.\"\n      ],\n      \"themes_confirmed\": [\n        \"emergency-critique\",\n        \"party-politics\"\n      ],\n      \"theme_proposed_new\": [\n        \"governance-reform\"\n      ],\n      \"pull_quotes\": [\n        {\n          \"verbatim\": \"the greatest achievement for an individual in today's world is to be able to live on this earth like a human being.\",\n          \"page\": 1,\n          \"page_system\": \"pdf\",\n          \"why_notable\": \"framing\",\n          \"context\": \"The circular introduces Manav Nirman by defining humane conduct as the central achievement of individual life.\",\n          \"shareable\": true\n        },\n        {\n          \"verbatim\": \"We cannot live like dumb cattle. We can only thrive if we learn to live like human beings\",\n          \"page\": 1,\n          \"page_system\": \"pdf\",\n          \"why_notable\": \"aphorism\",\n          \"context\": \"The author argues that India’s survival and prosperity depend on moral and civic humanisation, not merely physical survival.\",\n          \"shareable\": true\n        },\n        {\n          \"verbatim\": \"no genuine change for the better can be brought about either by attractive slogans, or by heavy doses of propaganda or even by lifting the emergency, holding elections and establishing a two-party rule\",\n          \"page\": 1,\n          \"page_system\": \"pdf\",\n          \"why_notable\": \"counter_intuitive\",\n          \"context\": \"The circular insists that political liberalisation and institutional reform are insufficient without a deeper transformation of public character.\",\n          \"shareable\": false\n        },\n        {\n          \"verbatim\": \"Let us not worry about what others do or do not, let us do what we can do today in the service of our dear motherland.\",\n          \"page\": 2,\n          \"page_system\": \"pdf\",\n          \"why_notable\": \"aphorism\",\n          \"context\": \"The closing appeal redirects attention from partisan behaviour to immediate, personally undertaken public service.\",\n          \"shareable\": true\n        }\n      ],\n      \"cross_thinker_mentions\": [\n        {\n          \"thinker_id\": \"mahatma-gandhi\",\n          \"context\": \"The circular identifies 30th January as Gandhi Nirvan Din and calls for a solemn pledge to rebuild the ethical foundation associated with Gandhi.\",\n          \"page\": 1,\n          \"page_system\": \"pdf\"\n        },\n        {\n          \"thinker_id\": \"indira-gandhi\",\n          \"context\": \"The author appeals to Prime Minister Smt. Indira Gandhi to invite opposition leaders to join her, or at least pray together, at Rajghat on 30th January 1977.\",\n          \"page\": 2,\n          \"page_system\": \"pdf\"\n        },\n        {\n          \"thinker_id\": \"jayaprakash-narayan\",\n          \"context\": \"The author expresses confidence that Mr. Jayaprakash Narayan would be happy to join Indira Gandhi in a common prayer meeting.\",\n          \"page\": 2,\n          \"page_system\": \"pdf\"\n        }\n      ],\n      \"summary_completeness\": {\n        \"based_on_pages\": [\n          1,\n          2\n        ],\n        \"covers_full_work\": true,\n        \"missing_content_note\": \"No pages are missing; the circular is complete in the two rendered PDF pages.\"\n      }\n    },\n    \"recommended_authority_additions\": [\n      {\n        \"kind\": \"thinker\",\n        \"verbatim\": \"Madhu Mehta\",\n        \"language\": \"en\",\n        \"context\": \"National Convenor of the Hindustani Movement and signatory of this circular.\",\n        \"page\": 2\n      },\n      {\n        \"kind\": \"organisation\",\n        \"verbatim\": \"Hindustani Movement\",\n        \"language\": \"en\",\n        \"context\": \"The Bombay-based civic movement that issued the circular and promoted Manav Nirman Din.\",\n        \"page\": 1\n      }\n    ]\n  }\n}",
+ "failed": null
+}

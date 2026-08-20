@@ -1,0 +1,33 @@
+{
+ "slug": "1159-Manav_Nirman-Hindustani_Movement_10-01-1977",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 27.8,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40087
+ },
+ "image_bytes": [
+  444297,
+  407212
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 23377,
+  "output_tokens": 1038,
+  "input_tokens": 22339,
+  "output_tokens_details": {
+   "reasoning_tokens": 148
+  }
+ },
+ "credits_consumed": 0.32,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"MANAV NIRMAN\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"M ariu Mehta,\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1977,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Two-page typed office letter on Hindustani Movement letterhead\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"civil-liberty\",\n    \"individual-rights\",\n    \"religious-freedom\",\n    \"anti-corruption\",\n    \"governance-reform\",\n    \"party-politics\",\n    \"biographical-tribute\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"publisher_not_printed\",\n    \"author_name_unclear\",\n    \"no_recipient_name\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"M ariu Mehta,\",\n      \"language\": \"en\",\n      \"context\": \"The typed signature identifies the apparent sender as a national convenor of the Hindustani Movement, but the name is unclear in the scan and does not resolve against the authority file.\",\n      \"page\": 2\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"HINDUSTANI MOVEMENT\",\n      \"language\": \"en\",\n      \"context\": \"The letterhead identifies the issuing political or civic organisation as the Hindustani Movement.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The document is dated 10th January, 1977 and signed by a person whose typed name appears to read 'M ariu Mehta,' but the scan is unclear. Letterhead gives 'HINDUSTANI MOVEMENT, INDIANS IN SERVICE OF INDIA' and a Bombay address.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is a single addressed communication beginning 'Dear Friend,' and ending with 'Yours sincerely' followed by a signature and organisational office. Its physical form and salutation/complimentary close support classification as a letter rather than a pamphlet or occasional paper.\",\n    \"purpose\": \"No controlled purpose qualifier applies to this individual letter.\",\n    \"language\": \"The document is printed entirely in Roman-script English; no Indian-language script is visible.\",\n    \"authors_resolution\": \"The apparent signed name is printed as 'M ariu Mehta,' but the lettering is unclear. It does not verbatim-match any canonical name or alias in the supplied authority subset, so thinker_id is null and human review is required.\",\n    \"year\": \"The letterhead on page 1 prints '10th January, 1977.'\",\n    \"publisher\": \"No publisher line is printed. The letterhead names 'HINDUSTANI MOVEMENT' but does not provide a publication imprint; no authority-file publisher ID is assigned.\",\n    \"toc\": \"No table of contents is present or applicable; this is a two-page individual letter.\"\n  }\n}",
+ "failed": null
+}

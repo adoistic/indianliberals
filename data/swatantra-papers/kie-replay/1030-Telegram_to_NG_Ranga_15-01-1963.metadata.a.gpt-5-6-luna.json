@@ -1,0 +1,32 @@
+{
+ "slug": "1030-Telegram_to_NG_Ranga_15-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 20.3,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40072
+ },
+ "image_bytes": [
+  167762
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19440,
+  "output_tokens": 977,
+  "input_tokens": 18463,
+  "output_tokens_details": {
+   "reasoning_tokens": 151
+  }
+ },
+ "credits_consumed": 0.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"MASANI\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"Swatantra Party Central Office, 143, Mahatma Gandhi Road, Bombay 1.\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page typed telegram confirmation copy\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"constitutionalism\",\n    \"civil-liberty\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_explicit_sender_full_name\",\n    \"no_recipient_full_name\",\n    \"no_publisher_id_as_imprint\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"MASANI\",\n      \"language\": \"en\",\n      \"context\": \"The document is signed 'MASANI'; the sender's full name is not printed on the page.\"\n    }\n  ],\n  \"notes\": \"The page is explicitly marked 'Not to be telegraphed' and is a confirmation copy by express delivery, but the required work_type enum has no telegram value; 'letter' is the closest permitted classification. The body concerns the Colombo proposals, party amendments, negotiations, and detention of party members.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is a one-page office communication addressed to 'PROFESSOR RANGA NIDUD...' and signed 'MASANI'. It is visibly a telegram-related confirmation copy, but because the required enum excludes 'telegram', it is catalogued under the closest permitted type, 'letter'.\",\n    \"purpose\": \"No listed purpose qualifier fits this short office communication.\",\n    \"language\": \"The page uses English-language Roman type throughout.\",\n    \"authors_resolution\": \"The only sender attribution visible is the signature 'MASANI'. That verbatim form does not match a canonical name or alias in the supplied authority subset, so thinker_id is null and human review is required. The possible identity Minoo Masani is not silently inferred.\",\n    \"year\": \"The dated line at the lower left reads '15/1/63.', which unambiguously supplies the year 1963.\",\n    \"publisher\": \"The lower portion prints 'Swatantra Party Central Office, 143, Mahatma Gandhi Road, Bombay 1.' The organisation matches the authority entry for Swatantra Party; this is treated as the issuing/publishing office rather than an editorial credit.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page office communication.\"\n  }\n}",
+ "failed": null
+}

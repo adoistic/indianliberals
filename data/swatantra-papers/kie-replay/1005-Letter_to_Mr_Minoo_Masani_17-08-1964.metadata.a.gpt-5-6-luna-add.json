@@ -1,0 +1,35 @@
+{
+ "slug": "1005-Letter_to_Mr_Minoo_Masani_17-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 35.7,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40086
+ },
+ "image_bytes": [
+  185197,
+  228855,
+  261766,
+  248184
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 27695,
+  "output_tokens": 1405,
+  "input_tokens": 26290,
+  "output_tokens_details": {
+   "reasoning_tokens": 379
+  }
+ },
+ "credits_consumed": 0.39,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"MASANI\",\n      \"honorifics\": [],\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Dahyabhai Prabhubhai Patel\",\n      \"role\": \"author\",\n      \"toc_index\": null\n    },\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"MASANI\",\n      \"role\": \"author\",\n      \"toc_index\": null\n    }\n  ],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"gu\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 4,\n    \"pages_total\": 4,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Archival correspondence packet containing an express telegram, handwritten Gujarati correspondence, and an inland letter form.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"gu\",\n  \"themes\": [\n    \"agricultural-reform\",\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"recipient_not_fully_identified\",\n    \"multiple_documents_in_packet\",\n    \"editor_not_named\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Dahyabhai Prabhubhai Patel\",\n      \"language\": \"gu\",\n      \"context\": \"Handwritten letterhead identifies this person as Secretary of Khedut Sangh, Bardoli, Surat District, Gujarat.\",\n      \"page\": 2\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Khedut Sangh\",\n      \"language\": \"en\",\n      \"context\": \"The handwritten letterhead identifies Khedut Sangh in Bardoli, Surat District, Gujarat.\",\n      \"page\": 2\n    }\n  ],\n  \"notes\": \"The packet contains more than one communication: an English express message dated 17.8.64 and Gujarati handwritten correspondence dated 13.8.64. The printed telegram is addressed to Prof. Ranga and signed or identified as MASANI; the Gujarati sender is identified on letterhead.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The pages show archival correspondence rather than a published work: an item marked “EXPRESS” with clipped block-capital wording, followed by handwritten Gujarati correspondence and an inland-letter form. Because the packet is not visibly presented as a collection or publication, it is classified as a letter.\",\n    \"purpose\": \"No controlled purpose qualifier fits this individual archival correspondence packet.\",\n    \"language\": \"The packet contains both English and Gujarati. Gujarati is selected because the handwritten correspondence occupies substantial pages and is written in Gujarati script; the English telegram is retained as part of the same packet.\",\n    \"authors_resolution\": \"The telegram identifies its sender as “MASANI”. Normalisation to “masani” does not match the authority file's canonical or alias strings exactly, so no thinker_id is assigned to this extracted byline. The handwritten letterhead reads “Dahyabhai Prabhubhai Patel”; this name does not occur in the authority subset, so its thinker_id is null and human review is required.\",\n    \"year\": \"The first page prints “17.8.64” and the second page prints “13-8-64”; both dates clearly establish the year as 1964.\",\n    \"publisher\": \"No publisher or publication imprint is printed. The visible organisations are correspondence letterheads and addressee information, not publisher lines.\",\n    \"toc\": \"No table of contents is present; the pages are individual archival communications rather than a book or multi-essay volume.\"\n  }\n}",
+ "failed": null
+}

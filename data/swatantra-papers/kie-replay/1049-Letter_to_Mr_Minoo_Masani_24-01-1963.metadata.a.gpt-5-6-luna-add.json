@@ -1,0 +1,32 @@
+{
+ "slug": "1049-Letter_to_Mr_Minoo_Masani_24-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 20.8,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40077
+ },
+ "image_bytes": [
+  141816
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19899,
+  "output_tokens": 853,
+  "input_tokens": 19046,
+  "output_tokens_details": {
+   "reasoning_tokens": 117
+  }
+ },
+ "credits_consumed": 0.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"c-rajagopalachari\",\n      \"byline_verbatim\": \"C. RAJAGOPALACHARI\",\n      \"honorifics\": [],\n      \"confidence\": \"medium\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typescript letter on personal letterhead, with handwritten signature and recipient address\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\",\n    \"civil-liberty\",\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher\",\n    \"no_issuer\",\n    \"recipient_not_authority_resolved\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Personal letter dated 24th January 63 from C. Rajagopalachari to Sri M.R. Masani. The letterhead name is partly obscured and appears to read C. RAJAGOPALACHARI; the handwritten signature supports this identification.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is formatted as a personal letter: it has a date and address, the salutation “My dear Masani,” a complimentary close, a handwritten signature, and a single named recipient. It is therefore classified as a letter rather than an office circular or press note.\",\n    \"purpose\": \"No controlled purpose qualifier applies to this individual correspondence.\",\n    \"language\": \"The document is printed in English Roman script.\",\n    \"authors_resolution\": \"The sender's letterhead and handwritten signature identify the author as “C. RAJAGOPALACHARI”; the authority subset contains the canonical name “C. Rajagopalachari,” which matches after case and punctuation normalization, yielding thinker_id “c-rajagopalachari.” The printed letterhead is partly obscured, so confidence is medium.\",\n    \"year\": \"The date line prints “24th January 63,” which clearly indicates 1963; confidence is high.\",\n    \"publisher\": \"No publisher or publication imprint appears on the page; this is an unpublished personal letter rather than a published work.\",\n    \"toc\": \"No table of contents is present or applicable for this one-page letter.\"\n  }\n}",
+ "failed": null
+}

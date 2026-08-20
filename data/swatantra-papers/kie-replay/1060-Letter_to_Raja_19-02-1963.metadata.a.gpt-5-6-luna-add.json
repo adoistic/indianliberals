@@ -1,0 +1,32 @@
+{
+ "slug": "1060-Letter_to_Raja_19-02-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 23.3,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40066
+ },
+ "image_bytes": [
+  276192
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20593,
+  "output_tokens": 804,
+  "input_tokens": 19789,
+  "output_tokens_details": {
+   "reasoning_tokens": 98
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"b-shiva-rao\",\n      \"byline_verbatim\": \"sd. B. Shiva Rao\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"New Delhi\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed office letter; true copy\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"electoral-reform\",\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher\",\n    \"no_recipient_authority_resolution\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Letter addressed to Rajaji, dated 19 February 1963, concerning coordinated opposition candidates in pending Lok Sabha and State Assembly bye-elections. The page identifies the sender as 'sd. B. Shiva Rao' and marks the document '(true copy)'.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a single personal communication with the salutation 'My dear Rajaji,' a complimentary close ('Yours affectionately,') and a named sender signature. These signals establish the work as a letter rather than a circular, speech, or telegram.\",\n    \"purpose\": \"No controlled purpose qualifier applies to an individual letter.\",\n    \"language\": \"The document is printed entirely in Roman-script English; therefore the language is coded as en.\",\n    \"authors_resolution\": \"The sender byline is printed verbatim as 'sd. B. Shiva Rao'. The name component 'B. Shiva Rao' matches the authority-file canonical name 'B. Shiva Rao' under punctuation and abbreviation normalization, yielding thinker_id 'b-shiva-rao'.\",\n    \"year\": \"The letterhead at the upper right prints 'February 19, 1963'; year confidence is high.\",\n    \"publisher\": \"No publisher or issuing organization is printed on the page, so publisher_id and publisher_verbatim are null.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

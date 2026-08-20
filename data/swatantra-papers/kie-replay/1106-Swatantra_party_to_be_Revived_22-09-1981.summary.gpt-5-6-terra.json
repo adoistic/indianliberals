@@ -1,0 +1,32 @@
+{
+ "slug": "1106-Swatantra_party_to_be_Revived_22-09-1981",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 45.3,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 46220
+ },
+ "image_bytes": [
+  167228
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19755,
+  "output_tokens": 1384,
+  "input_tokens": 18371,
+  "output_tokens_details": {
+   "reasoning_tokens": 484
+  }
+ },
+ "credits_consumed": 2.99,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This one-page English news brief reports that former members of the Swatantra Party met in Madras on 21 September 1981 and decided to revive the organisation. The meeting, chaired by Mr. S. Krishnan and attended by workers from across Tamil Nadu, described the revival as necessary because it believed Swatantra policies could bring “salvation to the country.”\\n\\nThe meeting appointed an ad hoc committee representing several districts to organise a convention for the party’s formal revival. The committee was also authorised to contact former Swatantra Party members throughout India. The clipping is credited to a wire service at the dateline and bears a handwritten archival note identifying The Indian Express and the date 22 September 1981.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"Former Swatantra Party members met in Madras on 21 September 1981.\",\n      \"The meeting resolved to revive the party.\",\n      \"Mr. S. Krishnan presided and issued the reported press release.\",\n      \"Participants came from across Tamil Nadu.\",\n      \"An ad hoc district-representative committee was appointed to organise a revival convention.\",\n      \"The committee was authorised to contact former party members across India.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"Swatantra party to be revived\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The headline announces the former party members’ decision to reconstitute the Swatantra Party.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"the revival of the party was \\\"the need of the hour as only the Swatantra policies could bring salvation to the country\\\"\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The brief gives the meeting’s stated justification for reviving the party.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"The committee has been authorised to contact former members of the party all over the country\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"data\",\n        \"context\": \"The closing sentence describes the committee’s nationwide organisational mandate.\",\n        \"shareable\": false\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"Mr. S. Krishnan\",\n        \"context\": \"The meeting, presided over by Mr. S. Krishnan and attended by workers from all over Tamil Nadu, issued the reported statement on reviving the party.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No pages are missing; the item is a single-page newspaper clipping.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mr. S. Krishnan\",\n      \"language\": \"en\",\n      \"context\": \"Person identified as chairing the Madras meeting and issuing the press release announcing the proposed revival of the Swatantra Party.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"UND\",\n      \"language\": \"en\",\n      \"context\": \"Wire-service credit printed in the dateline as “(UND),” possibly a typographical or transcription error for UNI.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"The Indian Express\",\n      \"language\": \"en\",\n      \"context\": \"Newspaper title recorded in a handwritten annotation on the archival sheet; it does not appear in the printed clipping’s visible masthead.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

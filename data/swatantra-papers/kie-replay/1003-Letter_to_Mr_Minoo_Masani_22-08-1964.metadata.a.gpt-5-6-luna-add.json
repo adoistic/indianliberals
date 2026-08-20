@@ -1,0 +1,33 @@
+{
+ "slug": "1003-Letter_to_Mr_Minoo_Masani_22-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 27.9,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40080
+ },
+ "image_bytes": [
+  260263,
+  180495
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 22381,
+  "output_tokens": 898,
+  "input_tokens": 21483,
+  "output_tokens_details": {
+   "reasoning_tokens": 110
+  }
+ },
+ "credits_consumed": 0.3,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Ranga\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Chandrapur\",\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"medium\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Handwritten letter on an aerogramme\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\",\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"author_full_name_not_printed\",\n    \"exact_day_month_year_format_unclear\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Ranga\",\n      \"language\": \"en\",\n      \"context\": \"The handwritten letter is signed 'Ranga'; the full name is not printed on the visible page.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The document is addressed to M. R. Masani and signed 'Ranga'. The heading gives 'Chandrapur' and '22-8-64'. It discusses an I.P.U. conference, India's delegation, and Pakistan-related concerns.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document has a salutation ('My dear Masani'), continuous personal correspondence, and a handwritten complimentary close/signature. It is therefore a letter rather than a telegram, despite being sent as an aerogramme.\",\n    \"purpose\": \"No listed purpose qualifier fits a private letter.\",\n    \"language\": \"The visible text is handwritten in Roman script and is in English; no Indian-language script is present.\",\n    \"authors_resolution\": \"The visible signature reads 'Ranga'. This does not verbatim-match any canonical name or alias in the supplied authority subset, including 'A Ranganathan'. The thinker_id is therefore null and human review is required.\",\n    \"year\": \"The upper part of page 1 prints the date '22-8-64'; the year is read as 1964 with medium confidence because the abbreviated date is handwritten.\",\n    \"publisher\": \"No publisher or publication imprint appears. The second page is an aerogramme envelope bearing the recipient address 'M. R. Masani Esq, M.P., General Secretary, Swatantra Party (Central)'.\",\n    \"toc\": \"No table of contents is present or applicable for this single correspondence item.\"\n  }\n}",
+ "failed": null
+}

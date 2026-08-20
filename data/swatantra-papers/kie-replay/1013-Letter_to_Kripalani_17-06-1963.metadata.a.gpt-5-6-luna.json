@@ -1,0 +1,32 @@
+{
+ "slug": "1013-Letter_to_Kripalani_17-06-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 24.4,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40071
+ },
+ "image_bytes": [
+  253848
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19860,
+  "output_tokens": 952,
+  "input_tokens": 18908,
+  "output_tokens_details": {
+   "reasoning_tokens": 167
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"(M. R. Masani)\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter, one page\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"electoral-reform\",\n    \"economic-liberty\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"place_not_printed\",\n    \"recipient_authority_unresolved\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Acharya J.B. Kripalani\",\n      \"language\": \"en\",\n      \"context\": \"Named recipient of the letter, addressed at 11 Gautam Palli, Lucknow.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"Typed letter dated 17th June, 1963, signed '(M. R. Masani)' and addressed to Acharya J.B. Kripalani. The document has no printed title; circled '1013' appears to be an archival reference or filing number, not a title.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is explicitly formatted as a personal letter: it opens 'My dear Kripalani,' discusses correspondence, and closes with 'Yours sincerely' followed by M. R. Masani's signature. It is therefore classified as a letter rather than an essay or occasional paper.\",\n    \"purpose\": \"No controlled purpose qualifier applies to a single letter.\",\n    \"language\": \"The document is entirely in Roman-script English, including the date, salutation, body, and signature.\",\n    \"authors_resolution\": \"The signed byline is '(M. R. Masani)'. This matches the authority-file alias 'M. R. Masani' for thinker_id 'minoo-masani'; no expansion of the printed initials has been made in the byline field.\",\n    \"year\": \"The upper-right date line prints '17th June, 1963.' — high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the visible page; the folder hint is not used as publication evidence.\",\n    \"toc\": \"No table of contents is present or applicable for this one-page letter.\"\n  }\n}",
+ "failed": null
+}

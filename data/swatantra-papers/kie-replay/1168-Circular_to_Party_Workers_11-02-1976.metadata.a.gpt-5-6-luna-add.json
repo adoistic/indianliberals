@@ -1,0 +1,34 @@
+{
+ "slug": "1168-Circular_to_Party_Workers_11-02-1976",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 25.4,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40083
+ },
+ "image_bytes": [
+  362672,
+  277733,
+  180317
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 25149,
+  "output_tokens": 1074,
+  "input_tokens": 24075,
+  "output_tokens_details": {
+   "reasoning_tokens": 191
+  }
+ },
+ "credits_consumed": 0.34,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"CIRCULAR TO PARTY WORKERS.\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"(G.K.Sundaram)\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"SWANTRA PARTY-NATIONAL HEADQUARTERS.\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1976,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 3,\n    \"pages_total\": 3,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typescript office circular with an enclosed press statement and addressed mailing envelope\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\",\n    \"anti-corruption\",\n    \"constitutionalism\",\n    \"civil-liberty\",\n    \"rule-of-law\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"publisher_address_incomplete\",\n    \"no_edition_statement\",\n    \"no_series_statement\",\n    \"no_identifier\",\n    \"office_record_enum_not_available\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"G.K.Sundaram\",\n      \"language\": \"en\",\n      \"context\": \"The signer is printed beneath the signature as President, All India Swatantra Party.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The document is explicitly headed 'CIRCULAR TO PARTY WORKERS.' and includes a separate enclosed 'PRESS STATEMENT.' dated 11 February 1976. G.K. Sundaram's byline does not resolve against the supplied authority file.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The first page is physically and explicitly a party circular addressed to 'Dear colleague' and marked '(Private circulation)'. Because the required work_type enum omits the archival office-record subtype 'circular', occasional_paper is the closest permitted value; this is not a conventional published pamphlet.\",\n    \"purpose\": \"No permitted occasional-paper purpose precisely describes an internal party circular containing an enclosed press statement, so purpose is null.\",\n    \"language\": \"All visible text is in Roman-script English, including the circular, press statement, and envelope.\",\n    \"authors_resolution\": \"The printed signer is '(G.K.Sundaram)'. The supplied authority subset contains no canonical name or alias matching G.K. Sundaram, so thinker_id is null and human review is required.\",\n    \"year\": \"The letterhead on page 1 prints '11-2-1976'; the enclosed press statement on page 2 prints '11th February 1976'.\",\n    \"publisher\": \"Page 1 identifies the issuing office as 'SWANTRA PARTY-NATIONAL HEADQUARTERS.' at '10-A, Flowers Road, Madras—84'. The organisation resolves to swatantra-party; the printed header contains the apparent typographic form 'SWANTRA'.\",\n    \"toc\": \"No table of contents is present or applicable; this is a short office circular rather than a multi-essay volume.\"\n  }\n}",
+ "failed": null
+}

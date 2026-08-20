@@ -1,0 +1,32 @@
+{
+ "slug": "1043-Letter_to_Mr_Minoo_Masani_23-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 25.7,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40077
+ },
+ "image_bytes": [
+  147378
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20324,
+  "output_tokens": 932,
+  "input_tokens": 19392,
+  "output_tokens_details": {
+   "reasoning_tokens": 137
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"telegram\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"MASANI\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page confirmation copy of an express telegram; typed office record.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"socialism-debate\",\n    \"constitutionalism\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"issuer_not_printed\",\n    \"editor_not_named\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"MASANI\",\n      \"language\": \"en\",\n      \"context\": \"The sender's surname is printed beneath the telegram text and appears to be Minoo Masani, but the single-word printed form does not match an authority-file canonical name or alias under the binary resolution rule.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The page is explicitly marked EXPRESS and uses block-capital telegram wording without salutation or complimentary close; classify as telegram, despite the supplied filename. Recipient is Professor Ranga at Western Court, New Delhi. Date is printed as 23.1.1963.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is marked \\\"EXPRESS\\\" and contains block-capital, clipped telegram text, with a recipient address and no salutation or complimentary close. It is therefore a telegram rather than a letter.\",\n    \"purpose\": \"No listed purpose qualifier fits this standalone political telegram.\",\n    \"language\": \"The visible text is entirely in Roman-script English; no Indian-language script appears.\",\n    \"authors_resolution\": \"The sender name is printed verbatim as \\\"MASANI\\\". Normalised comparison against the authority subset does not match the canonical \\\"Minoo Masani\\\" or any listed alias because the authority rule requires a matching name string, so thinker_id is null and human review is required.\",\n    \"year\": \"The lower portion of page 1 prints the date \\\"23.1.1963\\\"; this supplies the year with high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the page. The Swatantra Party folder hint is not treated as visible publication evidence, so publisher_id remains null.\",\n    \"toc\": \"No table of contents is present or applicable for this one-page office record.\"\n  }\n}",
+ "failed": null
+}

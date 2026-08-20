@@ -1,0 +1,32 @@
+{
+ "slug": "1016-Letter_to_Bhailal_13-06-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 18.8,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40069
+ },
+ "image_bytes": [
+  243872
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19711,
+  "output_tokens": 789,
+  "input_tokens": 18922,
+  "output_tokens_details": {
+   "reasoning_tokens": 84
+  }
+ },
+ "credits_consumed": 0.26,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"(M. R. Masani)\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter, one page\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher\",\n    \"no_place_of_publication\",\n    \"no_edition_statement\",\n    \"no_series_statement\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Typed letter dated June 13, 1963, from M. R. Masani to Bhailal D. Patel concerning the Gujarat Swatantra Party leadership and nomination of a Working President. The handwritten circled number '1016' appears archival, not a printed title.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is formatted as correspondence, with the salutation 'My Dear Bhailalbhai,' a dated letter body, closing, signature, and a single named recipient. It is therefore classified as a letter rather than an occasional paper or circular.\",\n    \"purpose\": \"No listed purpose qualifier fits a single political correspondence item.\",\n    \"language\": \"The entire visible document is printed in English Roman script.\",\n    \"authors_resolution\": \"The signature block prints '(M. R. Masani)'. This matches the authority-file alias 'M. R. Masani' for thinker_id 'minoo-masani', so the author is resolved to that ID.\",\n    \"year\": \"The upper-right date line visibly prints 'June 13, 1963.' — high confidence.\",\n    \"publisher\": \"No publisher or publication-imprint line is printed on the page. The recipient's address identifies the Swatantra Party but does not establish a publisher or issuer.\",\n    \"toc\": \"No table of contents is present or applicable to this single-page letter.\"\n  }\n}",
+ "failed": null
+}

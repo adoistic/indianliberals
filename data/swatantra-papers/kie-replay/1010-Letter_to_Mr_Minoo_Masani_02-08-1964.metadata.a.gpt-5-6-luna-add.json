@@ -1,0 +1,32 @@
+{
+ "slug": "1010-Letter_to_Mr_Minoo_Masani_02-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 20.1,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40077
+ },
+ "image_bytes": [
+  145769
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20183,
+  "output_tokens": 851,
+  "input_tokens": 19332,
+  "output_tokens_details": {
+   "reasoning_tokens": 108
+  }
+ },
+ "credits_consumed": 0.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"c-rajagopalachari\",\n      \"byline_verbatim\": \"C. RAJAGOPALACHARI\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"MADRAS-17\",\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single typed office letter on personal letterhead, with handwritten signature and receipt stamp.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"liberalism-as-tradition\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"recipient_present_but_not_author\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The document has no printed title; the filename is not used as a title. It is addressed to Mr. M. R. Masani and signed by C. Rajagopalachari. The letterhead gives the address as 60, Bazullah Road, Tyagarayanagar, Madras-17.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a personal typed letter with the salutation “My dear Masani,” a complimentary close (“Yours sincerely,”), a dated heading, named recipient, and handwritten signature. These physical and textual features support classification as a letter rather than an essay or office circular.\",\n    \"purpose\": \"No listed purpose qualifier fits a single personal letter.\",\n    \"language\": \"The entire visible document is printed in Roman-script English.\",\n    \"authors_resolution\": \"The sender’s letterhead prints “C. RAJAGOPALACHARI.” Normalised for comparison, this matches the authority-file canonical name “C. Rajagopalachari,” yielding thinker_id “c-rajagopalachari.” Mr. M. R. Masani appears as the recipient, not as an author.\",\n    \"year\": \"The dated heading reads “2nd August 64,” and the receipt stamp reads “3-AUG 1964”; the year is therefore 1964 with high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the page; publisher_id and issuer_id are null.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

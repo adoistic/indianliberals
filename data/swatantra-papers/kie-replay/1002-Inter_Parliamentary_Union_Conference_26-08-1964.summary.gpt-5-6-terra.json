@@ -1,0 +1,32 @@
+{
+ "slug": "1002-Inter_Parliamentary_Union_Conference_26-08-1964",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 21.8,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 44882
+ },
+ "image_bytes": [
+  221541
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19590,
+  "output_tokens": 966,
+  "input_tokens": 18624,
+  "output_tokens_details": {
+   "reasoning_tokens": 229
+  }
+ },
+ "credits_consumed": 2.74,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This single-page English telegram is a confirmatory copy sent by Minoo Masani from Bombay to Professor Ranga at the Inter-Parliamentary Union Conference in Parliament House, Copenhagen. Dated August 26, 1964, it asks the recipient not to abandon a visit to Washington and proposes arranging an airfare difference of approximately two thousand rupees through Air India’s London office.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The document is a one-page confirmatory copy of a telegram.\",\n      \"Minoo Masani is identified as the sender.\",\n      \"The addressee is Professor Ranga at the Inter-Parliamentary Union Conference in Copenhagen.\",\n      \"Masani urges the recipient not to abandon a planned visit to Washington.\",\n      \"The message concerns arranging approximately two thousand rupees for an airfare difference through Air India’s London office.\",\n      \"The telegram is dated August 26, 1964, and gives Masani’s Bombay address and reference number 29687.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"YOURS TWENTY SECOND PLEASE DO NOT ABANDON WASHINGTON\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Masani opens by urging the recipient to continue with the proposed Washington visit.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"VISIT WE SHALL ARRANGE DIFFERENCE IN FARES WHICH IS APPROXIMATELY TWO THOUSAND RUPEES\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"data\",\n        \"context\": \"The telegram offers financial assistance to cover an airfare difference estimated at two thousand rupees.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"KINDLY ARRANGE WITH AIR INDIA LONDON PAYMENT IN RUPEES AND CABLE ME\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Masani gives practical instructions for arranging payment through Air India’s London office and reporting back by cable.\",\n        \"shareable\": false\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"PROFESSOR RANGA\",\n        \"context\": \"The telegram is addressed to Professor Ranga at the Inter Parliamentary Union Conference, Parliament House, Copenhagen.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No pages are missing; the single-page telegram contains no title or table of contents.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"PROFESSOR RANGA\",\n      \"language\": \"en\",\n      \"context\": \"Addressee of Masani’s telegram at the Inter-Parliamentary Union Conference in Copenhagen; the supplied authority file does not resolve the person more precisely.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

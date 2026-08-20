@@ -1,0 +1,34 @@
+{
+ "slug": "1041-Letter_to_Raja_22-01-1963",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 36.0,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40035
+ },
+ "image_bytes": [
+  204684,
+  144781,
+  193347
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 22882,
+  "output_tokens": 1419,
+  "input_tokens": 21463,
+  "output_tokens_details": {
+   "reasoning_tokens": 431
+  }
+ },
+ "credits_consumed": 3.36,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Prof. N.G. Ranga,\",\n      \"honorifics\": [\n        \"Prof.\"\n      ],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"New Delhi\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 3,\n    \"pages_total\": 3,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed parliamentary letter on official letterhead, with a second leaf and an attached sheet containing draft telegrams.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\",\n    \"constitutionalism\",\n    \"party-politics\",\n    \"federalism\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_identified\",\n    \"author_not_resolved\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Prof. N.G. Ranga,\",\n      \"language\": \"en\",\n      \"context\": \"Sender identified on the letterhead and by the signature RANGA; this name is not present in the supplied authority subset.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mrs. Bandarnaike\",\n      \"language\": \"en\",\n      \"context\": \"The letter refers to the Sri Lankan political figure in connection with the Colombo proposals.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Shri Satya Narain Sinha\",\n      \"language\": \"en\",\n      \"context\": \"The letter identifies him as assuring the parties about parliamentary approval.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Shri P.K. Deo\",\n      \"language\": \"en\",\n      \"context\": \"The letter identifies him as a participant in the Constitution Amendment Bill discussion.\",\n      \"page\": 2\n    }\n  ],\n  \"notes\": \"The first two pages are a letter from Prof. N.G. Ranga to Rajaji dated January 22, 1963. Page 3 contains two draft telegrams marked 'To be telegraphed' and 'Not to be telegraphed'; these are treated as attachments to the letter rather than a separate work.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The principal document has a named single recipient ('My dear Rajaji'), a salutation, continuous correspondence prose, and a handwritten complimentary signature. It is therefore classified as a letter; the attached sheet contains draft telegrams but is not itself the principal artifact.\",\n    \"purpose\": \"No formal purpose qualifier is printed or required for this correspondence.\",\n    \"language\": \"All visible text is in Roman-script English; no Indian-language script is present.\",\n    \"authors_resolution\": \"The verbatim sender byline is 'Prof. N.G. Ranga,'. Normalisation and authority-file comparison found no canonical name or listed alias matching N.G. Ranga, so thinker_id is null and human review is required.\",\n    \"year\": \"The date printed at the upper right of page 1 is 'January 22, 1963.'\",\n    \"publisher\": \"No publisher or publication line appears on the three rendered pages; publisher_id and publisher_verbatim are therefore null.\",\n    \"toc\": \"No formal table of contents is present; the document is a three-page archival letter with an attached draft-telegram sheet.\"\n  }\n}",
+ "failed": null
+}

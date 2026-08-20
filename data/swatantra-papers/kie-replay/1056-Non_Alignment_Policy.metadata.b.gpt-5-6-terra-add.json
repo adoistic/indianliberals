@@ -1,0 +1,33 @@
+{
+ "slug": "1056-Non_Alignment_Policy",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 25.3,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40027
+ },
+ "image_bytes": [
+  159912,
+  37918
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20271,
+  "output_tokens": 1122,
+  "input_tokens": 19149,
+  "output_tokens_details": {
+   "reasoning_tokens": 426
+  }
+ },
+ "credits_consumed": 2.9,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"essay\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"NON-ALIGNMENT POLICY\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": \"J.P. NARAYAN OPPOSES RAJAJI'S STAND\",\n      \"confidence\": \"high\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"AHMEDABAD\",\n    \"year\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Newspaper clipping mounted or scanned as a two-page PDF fragment\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\",\n    \"cold-war-positioning\",\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"author_not_named\",\n    \"publisher_not_identified\",\n    \"publication_title_not_identified\",\n    \"year_not_printed\",\n    \"toc_not_present\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"A newspaper report rather than a conventional authored essay; essay is the closest permitted work_type. The visible clipping identifies Ahmedabad and Jan. 31 but does not print a year or newspaper title. The 'from our correspondent' line is not a named byline.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The pages show a newspaper clipping with a printed headline, dateline, and report attributed only to '(FROM OUR CORRESPONDENT)'. Because the strict work_type enum has no newspaper-clipping category, it is classified as essay, the closest permitted category for a standalone article.\",\n    \"purpose\": \"No permitted purpose qualifier is supported by the visible clipping.\",\n    \"language\": \"The visible text is entirely in the Latin script and is English.\",\n    \"authors_resolution\": \"There is no named human byline: the printed attribution is '(FROM OUR CORRESPONDENT)'. No author entry is therefore emitted, and no authority-file resolution is attempted.\",\n    \"year\": \"The dateline reads 'AHMEDABAD, Jan. 31.' but no year is printed in the visible pages; the year is not inferred from the filename or context.\",\n    \"publisher\": \"No newspaper title, publisher line, or issuing organization is visible on the rendered pages, so publisher_id and publisher_verbatim are null.\",\n    \"toc\": \"No formal table of contents is present; the record contains no TOC entries.\"\n  }\n}",
+ "failed": null
+}

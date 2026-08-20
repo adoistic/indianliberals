@@ -1,0 +1,32 @@
+{
+ "slug": "1051-Tour_Programme_of_Raja_24-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 18.6,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40074
+ },
+ "image_bytes": [
+  115108
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19749,
+  "output_tokens": 710,
+  "input_tokens": 19039,
+  "output_tokens_details": {
+   "reasoning_tokens": 80
+  }
+ },
+ "credits_consumed": 0.26,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"Tour Programme of Rajaji\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page typed archival tour programme\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"no_author\",\n    \"no_publisher\",\n    \"no_place\",\n    \"no_issuer\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The sheet lists Rajaji's travel itinerary for 27–30 January 1963, including Bangalore and Madras engagements. A handwritten signature/date appears at lower right but is not treated as editorial authorship.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is a single-page institutional or administrative programme rather than a book, essay, speech, or periodical issue. Because the strict work_type enum has no programme or office-record value, it is classified as the closest category, occasional_paper.\",\n    \"purpose\": \"No controlled purpose qualifier fits a tour itinerary.\",\n    \"language\": \"All visible text is in Roman script and English.\",\n    \"authors_resolution\": \"No author or byline is printed. 'Rajaji' appears in the title as the person whose tour is being scheduled, not as an author; therefore authors[] is empty.\",\n    \"year\": \"The itinerary prints dates from 27-1-63 through 30-1-63, and the handwritten note is dated 24.1.63; the year is therefore 1963 with high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the visible page. The folder hint is not treated as page evidence.\",\n    \"toc\": \"No table of contents is present; this is a one-page itinerary.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "1006-Letter_to_Mr_Minoo_Masani_10-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 28.5,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40077
+ },
+ "image_bytes": [
+  281652
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 21485,
+  "output_tokens": 999,
+  "input_tokens": 20486,
+  "output_tokens_details": {
+   "reasoning_tokens": 194
+  }
+ },
+ "credits_consumed": 0.3,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Prof. N. G. Ranga, M.P.\",\n      \"honorifics\": [\n        \"Prof.\",\n        \"M.P.\"\n      ],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Nidubrolu\",\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page typed office letter on Swatantra Party letterhead\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"foreign-policy\",\n    \"cold-war-positioning\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher_line\",\n    \"recipient_not_authority_resolved\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Prof. N. G. Ranga, M.P.\",\n      \"language\": \"en\",\n      \"context\": \"Sender identified on the letterhead as President of the Swatantra Party and signer of the letter.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"Letter dated 10-8-1964 from Nidubrolu to Minoo Masani. The letterhead identifies the sender as President, Swatantra Party; no title is printed.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a single personal correspondence item with the salutation “My dear Masani,” a dated place line, and a complimentary close, “Yours affectionately.” It is therefore classified as a letter rather than an occasional paper or circular.\",\n    \"purpose\": \"No listed purpose qualifier specifically fits a single personal letter, so purpose is null.\",\n    \"language\": \"The document is printed in English using Roman script throughout.\",\n    \"authors_resolution\": \"The sender byline printed on the letterhead is “Prof. N. G. Ranga, M.P.” A binary search of the supplied authority subset found no canonical name or alias matching N. G. Ranga, so thinker_id is null and human review is required.\",\n    \"year\": \"The upper-right date line prints “NIDUBROLU, 10-8-1964.” This provides high-confidence year evidence.\",\n    \"publisher\": \"No publisher or publication-imprint line appears on the page. The Swatantra Party is identified through the sender’s letterhead and is recorded as issuer, not publisher.\",\n    \"toc\": \"No table of contents is present or applicable; this is a one-page letter.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "1001-Letter_from_Ayesh",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 17.8,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40058
+ },
+ "image_bytes": [
+  175658
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3840
+  },
+  "total_tokens": 19647,
+  "output_tokens": 852,
+  "input_tokens": 18795,
+  "output_tokens_details": {
+   "reasoning_tokens": 100
+  }
+ },
+ "credits_consumed": 0.23,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Ayesh\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter on headed stationery, with handwritten signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"year_not_printed\",\n    \"publisher_not_printed\",\n    \"date_not_visible\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Ayesh\",\n      \"language\": \"en\",\n      \"context\": \"The handwritten closing signature appears to read 'Ayesh'; the signer discusses Party affairs and addresses Shri M. R. Masani.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"No title or date is printed on the visible page. The letter is addressed to Shri M. R. Masani at the Swatantra Party Central Office in Bombay. Signature reading is uncertain: it appears to be 'Ayesh'.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document is a personal communication addressed to one named recipient, “Shri M. R. Masani,” and closes with a personal salutation and handwritten signature. It therefore fits letter rather than circular or another office-record type.\",\n    \"purpose\": \"No purpose qualifier applies to a single personal letter.\",\n    \"language\": \"The visible text is entirely in English, printed in Roman script.\",\n    \"authors_resolution\": \"The closing signature appears to read “Ayesh,” but this is not an unambiguous authority-file match to any canonical name or alias. The thinker_id is therefore null and the name is flagged for human review.\",\n    \"year\": \"No date or year is visible on the supplied page; filename-based inference is rejected.\",\n    \"publisher\": \"No publisher or publication imprint is printed. The letterhead reads “KINGS BEECHES, SUNNINGHILL, ASCOT, BERKS. ASCOT 432,” which is correspondence stationery rather than a publisher line.\",\n    \"toc\": \"No table of contents is present or applicable to this one-page letter.\"\n  }\n}",
+ "failed": null
+}

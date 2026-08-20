@@ -1,0 +1,35 @@
+{
+ "slug": "1176-Rajaji-Some_Vignettes-Swarajya_06-12-1975",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 27.0,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40091
+ },
+ "image_bytes": [
+  395330,
+  253134,
+  423729,
+  239304
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 26030,
+  "output_tokens": 1130,
+  "input_tokens": 24900,
+  "output_tokens_details": {
+   "reasoning_tokens": 309
+  }
+ },
+ "credits_consumed": 0.35,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"periodical_issue\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"SWARAJYA\",\n      \"confidence\": \"medium\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swarajya\",\n    \"publisher_verbatim\": \"SWARAJYA\",\n    \"issuer_id\": null,\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1975,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 4,\n    \"pages_total\": 4,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Scanned periodical pages; newspaper/magazine layout with multi-column articles, cartoons, illustrations, and continuation pages.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"biographical-tribute\",\n    \"indian-liberal-history\",\n    \"party-politics\",\n    \"governance-reform\",\n    \"constitutionalism\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"masthead_not_visible\",\n    \"volume_number_not_visible\",\n    \"issue_number_not_visible\",\n    \"title_page_not_found\",\n    \"no_formal_toc\",\n    \"editor_not_named\",\n    \"issuer_not_named\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Pages are from the December 6, 1975 issue of Swarajya. The principal feature is “RAJAJI—SOME VIGNETTES,” continued from page 4 to page 6; the byline identifies Sri Masti Venkatesa Iyengar as the source-book author, not necessarily the issue contributor.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The running header on the rendered pages reads “SWARAJYA, December 6, 1975,” and the chunk contains multiple periodical elements: the feature “RAJAJI—SOME VIGNETTES,” cartoons under “JUST THINK OF IT!,” and several separately headed tribute sections. This is therefore a periodical issue rather than a standalone essay or pamphlet.\",\n    \"purpose\": \"No applicable purpose qualifier is available for a periodical issue in the supplied taxonomy.\",\n    \"language\": \"All visible text is in Roman script and English; no Indian-language script is present.\",\n    \"authors_resolution\": \"No issue-level author byline is printed in the visible pages. “Sri Masti Venkatesa Iyengar” appears in introductory source attribution as the author of the book Rajaji, not as an unambiguous byline for this periodical issue, so no author record is created.\",\n    \"year\": \"The running header on pages 1 and 3 prints “SWARAJYA, December 6, 1975,” establishing the issue year with high confidence.\",\n    \"publisher\": \"The visible running header prints “SWARAJYA”; the authority publisher list contains the matching publisher record “Swarajya,” with place Madras. No fuller publisher or issuer line is visible in the supplied pages.\",\n    \"toc\": \"No formal table of contents is visible. The pages show article headings and continuation information only, so no TOC entries are transcribed.\"\n  }\n}",
+ "failed": null
+}

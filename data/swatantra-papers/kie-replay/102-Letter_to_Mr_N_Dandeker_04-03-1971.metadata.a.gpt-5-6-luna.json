@@ -1,0 +1,32 @@
+{
+ "slug": "102-Letter_to_Mr_N_Dandeker_04-03-1971",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 21.1,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40074
+ },
+ "image_bytes": [
+  192657
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19664,
+  "output_tokens": 839,
+  "input_tokens": 18825,
+  "output_tokens_details": {
+   "reasoning_tokens": 95
+  }
+ },
+ "credits_consumed": 0.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"minoo-masani\",\n      \"byline_verbatim\": \"M. R. MASANI\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1971,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter reproduced as a scanned archival document\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"electoral-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher\",\n    \"no_publication_place\",\n    \"no_edition\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The document has no printed title. It is dated 4th March, 1971, signed '(M. R. MASANI)', and addressed to 'Mr. N. Dandeker'. The circled '102' appears to be an archival page or item number, not a title.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is formatted as a personal correspondence item: it opens 'My dear Dandeker', carries a date, contains a named recipient and address, and closes with 'Yours sincerely' followed by the signature of M. R. Masani. It is therefore a letter, not a speech or publication.\",\n    \"purpose\": \"No listed purpose qualifier applies to a single personal letter.\",\n    \"language\": \"The document is entirely in English Roman script, including the date, body text, recipient address, and signature block.\",\n    \"authors_resolution\": \"The signature is printed as 'M. R. MASANI'. After normalising case, whitespace, and punctuation, it matches the authority-file alias 'M. R. Masani' for thinker_id 'minoo-masani'. The recipient 'Mr. N. Dandeker' is not treated as an author.\",\n    \"year\": \"The upper-right date line prints '4th March, 1971'; the year is therefore high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the page. The folder hint 'Swatantra Party papers' is not used as a publication imprint.\",\n    \"toc\": \"No table of contents is present or applicable to this single-page letter.\"\n  }\n}",
+ "failed": null
+}

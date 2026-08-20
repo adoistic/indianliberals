@@ -1,0 +1,33 @@
+{
+ "slug": "1011-Telegram_to_NG_Ranga_31-07-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 27.1,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40075
+ },
+ "image_bytes": [
+  284209,
+  207085
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 22868,
+  "output_tokens": 1118,
+  "input_tokens": 21750,
+  "output_tokens_details": {
+   "reasoning_tokens": 328
+  }
+ },
+ "credits_consumed": 0.32,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"telegram\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Mr. M. R. Masani\",\n      \"honorifics\": [\n        \"Mr.\"\n      ],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Inland telegram form with printed Indian Posts and Telegraphs receipt and reverse-side instructions\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher\",\n    \"recipient_name_incomplete\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Mr. M. R. Masani\",\n      \"language\": \"en\",\n      \"context\": \"Printed sender name on a telegram dated July 31, 1964; the authority file contains the related alias 'M. R. Masani' but not this honorific-bearing form.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"Telegram addressed to 'PROF. RANGA' at Calcutta. The message concerns a threatened defection of twelve party members in the Bihar Assembly and convening an organisational meeting in Madras.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document is visibly an Indian Posts and Telegraphs inland telegram form, with block-capital clipped wording, 'STOP' signals, recipient and sender fields, and no salutation or complimentary close. It is therefore classified as a telegram rather than a letter.\",\n    \"purpose\": \"No listed purpose qualifier fits this standalone party communication.\",\n    \"language\": \"The form and message are printed in Roman-script English; no Indian-language text is used for the substantive communication.\",\n    \"authors_resolution\": \"The sender block prints 'Mr. M. R. Masani'. Normalised comparison against the authority subset does not produce a binary match because the authority alias is 'M. R. Masani' without the printed honorific. The thinker_id is therefore null and human review is required.\",\n    \"year\": \"Page 1 prints 'July 31, 1964.' at the bottom of the telegram form; high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the two visible pages; the folder hint is not used as evidence.\",\n    \"toc\": \"No table of contents is present or applicable for this two-page telegram.\"\n  }\n}",
+ "failed": null
+}

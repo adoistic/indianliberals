@@ -1,0 +1,32 @@
+{
+ "slug": "1051-Tour_Programme_of_Raja_24-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 17.1,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40074
+ },
+ "image_bytes": [
+  115108
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 18610,
+  "output_tokens": 770,
+  "input_tokens": 17840,
+  "output_tokens_details": {
+   "reasoning_tokens": 92
+  }
+ },
+ "credits_consumed": 0.25,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"Tour Programme of Rajaji\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page typed archival office document\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"author_not_named\",\n    \"publisher_not_printed\",\n    \"issuer_not_printed\",\n    \"place_not_printed\",\n    \"no_toc\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"The sheet is headed 'Tour Programme of Rajaji' and lists travel and meeting arrangements for 27–30 January 1963. A handwritten signature and date '24.1.63' appear at lower right; the signer is not identified clearly enough to catalog as an author.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is a single-page administrative itinerary rather than a conventional authored publication. Because the strict work_type enum does not include circular or other office-record types, it is catalogued as the closest available category, occasional_paper.\",\n    \"purpose\": \"No listed occasional-paper purpose qualifier clearly fits a private or internal tour programme, so purpose is null.\",\n    \"language\": \"The visible text is entirely in Roman-script English, including the heading, dates, locations, and itinerary details.\",\n    \"authors_resolution\": \"No author byline is printed. 'Rajaji' occurs in the title as the person whose tour is being scheduled, not as an author credit; therefore no authority-file resolution is attempted.\",\n    \"year\": \"The itinerary dates are printed as 27-1-63 through 30-1-63, and the handwritten notation at lower right reads '24.1.63'; these establish 1963 with high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the visible page. The folder hint is not used as publication evidence.\",\n    \"toc\": \"No table of contents is present or applicable for this one-page administrative document.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,33 @@
+{
+ "slug": "1033-No_Capitalisation",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 21.2,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40061
+ },
+ "image_bytes": [
+  234052,
+  194843
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 21665,
+  "output_tokens": 800,
+  "input_tokens": 20865,
+  "output_tokens_details": {
+   "reasoning_tokens": 107
+  }
+ },
+ "credits_consumed": 0.29,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"essay\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"CAPITULATION?\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"c-rajagopalachari\",\n      \"byline_verbatim\": \"C. RAJAGOPALACHARI\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Two-page newspaper or periodical clipping\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\",\n    \"cold-war-positioning\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"year_not_printed\",\n    \"publisher_not_printed\",\n    \"source_publication_not_identified\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Printed heading reads 'CAPITULATION?' and is marked through; a handwritten note above reads 'No capitulation'. The text refers to Colombo proposals and Sino-Indian relations and includes 'today (Jan. 15)', but no year is printed.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is a single-author, mid-length argumentative article or clipping, headed 'CAPITULATION?' and bylined 'By C. RAJAGOPALACHARI'. No book, pamphlet, speech, or periodical masthead evidence is visible, so essay is the closest classification.\",\n    \"purpose\": \"No listed purpose qualifier is directly supported by the visible pages.\",\n    \"language\": \"The visible text is entirely in Roman-script English.\",\n    \"authors_resolution\": \"The byline is printed verbatim as 'C. RAJAGOPALACHARI'. Case and punctuation-normalised comparison matches the authority canonical name 'C. Rajagopalachari', yielding thinker_id 'c-rajagopalachari'.\",\n    \"year\": \"The article mentions 'today (Jan. 15)' but does not print a year; filename-based inference is rejected.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the two visible pages.\",\n    \"toc\": \"No table of contents is present; the visible pages show one continuous article.\"\n  }\n}",
+ "failed": null
+}

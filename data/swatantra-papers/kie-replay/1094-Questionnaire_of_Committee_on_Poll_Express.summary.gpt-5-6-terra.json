@@ -1,0 +1,32 @@
+{
+ "slug": "1094-Questionnaire_of_Committee_on_Poll_Express",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 32.3,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 44478
+ },
+ "image_bytes": [
+  269326
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19792,
+  "output_tokens": 1399,
+  "input_tokens": 18393,
+  "output_tokens_details": {
+   "reasoning_tokens": 378
+  }
+ },
+ "credits_consumed": 3.0,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This single-page, unattributed typewritten submission provides 14 numbered answers to a committee questionnaire on election expenses. The respondent rejects or declines to endorse some proposed arrangements, including subsidies, while suggesting that the State could print and distribute specified quantities of campaign materials—posters, leaflets, manifestoes, and voters’ slips—to candidates under conditions ensuring their proper use.\\n\\nThe response argues that political parties should be legally required to maintain accounts open to public scrutiny and hold regular internal elections. It rejects statutory ceilings on campaign expenditure, claiming that such limits encourage dishonest returns and that those intent on cheating will evade the law. It also addresses compulsory voting and publicly provided transport, warning that restricting candidate-provided transport could create incentives to offer transport in exchange for votes. The page contains no printed author, date, publisher, or organisational attribution; the handwritten number “1094” at the top appears to be an archival reference.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The document answers 14 questions on election or poll expenses in a concise, point-by-point format.\",\n      \"The respondent is unable to agree to subsidies and therefore treats related questions about sureties and certain forms of assistance as inapplicable.\",\n      \"The State is urged to print and distribute specified quantities of campaign literature and voters’ slips, with safeguards for their intended use.\",\n      \"Political parties should be required to maintain publicly scrutinizable accounts and hold regular internal elections.\",\n      \"The submission opposes ceilings on election expenses, arguing that they produce dishonest returns rather than honest accounting.\",\n      \"It questions the effectiveness of laws against electoral cheating, asserting that those who intend to cheat will remain ahead of legal restrictions.\",\n      \"It opposes compulsory voting and warns that restricting free transport by candidates could encourage transport to be offered as an inducement to vote.\"\n    ],\n    \"themes_confirmed\": [\n      \"electoral-reform\",\n      \"party-politics\",\n      \"governance-reform\",\n      \"anti-corruption\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"It might be a good idea for the State to print specified quantities of posters, leaflets and manifestoes and voters slips and supply them to candidates making sure that they are utilised for the purpose intended.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The respondent proposes public provision of standardized campaign materials as an alternative to some forms of electoral subsidy.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"Political parties must by law be compelled to maintain accounts for public scrutiny, also hold regular elections with the party and strengthen democracy as a matter of course and not because some subsidy is involved.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The submission links party accountability and internal democracy to legal obligations rather than to the receipt of public subsidies.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"There should be no ceilings at all as ceilings only mean dishonest returns.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"counter_intuitive\",\n        \"context\": \"The respondent rejects expenditure limits on the ground that they encourage false reporting.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"He who wants to cheat will always be one step ahead of the law.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"aphorism\",\n        \"context\": \"The submission uses this maxim to question whether legal restrictions can effectively prevent deliberate electoral cheating.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"While we are opposed to compulsion, even if this has been thought of as a means to discourage candidates from providing free transport by making it compulsory for the voter to vote, a candidate seeking the voter's favour, might provide transport as an inducement to vote for him.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"counter_intuitive\",\n        \"context\": \"The respondent argues that compulsory voting could unintentionally encourage candidates to provide transport in exchange for electoral support.\",\n        \"shareable\": false\n      }\n    ],\n    \"cross_thinker_mentions\": [],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"The complete one-page document is visible; no author, date, publisher, place, or organisational attribution is printed on the page.\"\n    }\n  },\n  \"recommended_authority_additions\": []\n}",
+ "failed": null
+}

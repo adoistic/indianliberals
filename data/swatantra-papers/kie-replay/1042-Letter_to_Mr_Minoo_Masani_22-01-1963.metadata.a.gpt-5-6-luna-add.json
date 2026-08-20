@@ -1,0 +1,33 @@
+{
+ "slug": "1042-Letter_to_Mr_Minoo_Masani_22-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 29.2,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40080
+ },
+ "image_bytes": [
+  174509,
+  143493
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 22317,
+  "output_tokens": 1227,
+  "input_tokens": 21090,
+  "output_tokens_details": {
+   "reasoning_tokens": 225
+  }
+ },
+ "credits_consumed": 0.32,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"MASANI\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"Swatantra Party, Central Office, 143, Mahatma Gandhi Road, Bombay 1.\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Two-page typed telegram and confirmatory copy; marked 'EXPRESS' and 'Not to be telegraphed'.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"constitutionalism\",\n    \"party-politics\",\n    \"governance-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_explicitly_identified_as_publisher\",\n    \"recipient_authority_unresolved\",\n    \"telegram_enum_conflict\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"RANGA\",\n      \"language\": \"en\",\n      \"context\": \"The telegram is addressed to 'MR RANGA MP' at Western Court, New Delhi; the exact identity is not established from the visible pages.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"MASANI\",\n      \"language\": \"en\",\n      \"context\": \"The sender's typed signature/byline is printed as 'MASANI' and appears with the Swatantra Party central-office address.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The document is physically a telegram: it is marked 'EXPRESS', uses clipped block-capital wording, and lacks a salutation and complimentary close. The strict work_type enum excludes telegram, so 'letter' is used as the nearest permitted value. A second confirmatory copy is dated Bombay 22.1.63.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The pages visibly identify the form as 'EXPRESS' and use telegraphic clipped wording, including 'stop'; the document is addressed to 'MR RANGA MP' and signed 'MASANI'. It is therefore physically a telegram, but the required strict enum does not include 'telegram', so 'letter' is the closest permitted enum value.\",\n    \"purpose\": \"No listed publication purpose applies; this is an office communication rather than a book, pamphlet, speech, or issued policy paper.\",\n    \"language\": \"The document is entirely in Roman-script English; no Indian-language script is visible.\",\n    \"authors_resolution\": \"The sender signature/byline is printed as 'MASANI'. Normalised comparison against the authority subset does not produce a verbatim match to 'Minoo Masani' or its listed aliases, so thinker_id is null and human review is required. The addendum's visible signature evidence supports reading the typed signature as MASANI rather than treating it as illegible.\",\n    \"year\": \"Page 1 prints 'January 22, 1963'; page 2 independently prints 'Bombay 22.1.63', giving high confidence.\",\n    \"publisher\": \"No formal publisher line is printed. The document carries 'Swatantra Party, Central Office, 143, Mahatma Gandhi Road, Bombay 1.' as the sender's office address; this resolves to the Swatantra Party authority entry, but its publisher status is inferred with low confidence.\",\n    \"toc\": \"No table of contents is present or applicable; this is a two-page office communication.\"\n  }\n}",
+ "failed": null
+}

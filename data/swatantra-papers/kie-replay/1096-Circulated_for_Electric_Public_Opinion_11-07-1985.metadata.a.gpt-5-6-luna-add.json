@@ -1,0 +1,33 @@
+{
+ "slug": "1096-Circulated_for_Electric_Public_Opinion_11-07-1985",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 27.6,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40093
+ },
+ "image_bytes": [
+  505267,
+  355323
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 23874,
+  "output_tokens": 1046,
+  "input_tokens": 22828,
+  "output_tokens_details": {
+   "reasoning_tokens": 146
+  }
+ },
+ "credits_consumed": 0.33,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": \"working_paper\",\n  \"title\": {\n    \"main\": {\n      \"value\": \"L. C. BILL No. XIV OF 1984.\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": \"A BILL to provide for civil and criminal immunity to physicians and surgeons withdrawing life sustaining treatment from patients suffering from terminal illness.\",\n      \"confidence\": \"high\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": \"MAHARASHTRA LEGISLATURE SECRETARIAT\",\n    \"issuer_id\": null,\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1985,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 2,\n    \"pages_total\": 2,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Two-page legislative bill circulated for eliciting public opinion, with a printed draft declaration and special power of attorney.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"health-policy\",\n    \"individual-rights\",\n    \"rule-of-law\",\n    \"civil-liberty\"\n  ],\n  \"theme_proposed_new\": [\n    \"right-to-die\",\n    \"medical-ethics\"\n  ],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"no_named_author\",\n    \"publisher_not_resolved\",\n    \"issuer_not_resolved\",\n    \"no_editor\",\n    \"no_edition_statement\",\n    \"no_series_statement\",\n    \"no_toc\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"MAHARASHTRA LEGISLATURE SECRETARIAT\",\n      \"language\": \"en\",\n      \"context\": \"The issuing legislative secretariat named in the masthead and publication imprint of the bill.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The masthead is bilingual, but the bill text, headings, and forms are in English. Page 1 states that the bill was circulated for eliciting public opinion; page 2 is dated Bombay, 19th July 1984, while the issue masthead is dated Thursday, July 11, 1985.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"This is an institutional legislative document rather than a single-author work: the first page identifies it as a bill circulated for eliciting public opinion and presents statutory clauses. It is therefore classified as an occasional_paper.\",\n    \"purpose\": \"The document is a draft legislative measure circulated for comment, making working_paper the closest available purpose qualifier.\",\n    \"language\": \"The masthead appears in Marathi and English, but the bill and accompanying forms are printed in English; the language is therefore recorded as en.\",\n    \"authors_resolution\": \"No human author or byline is printed. The Maharashtra Legislature Secretariat is treated as the issuing body, not as a human author.\",\n    \"year\": \"The masthead on page 1 prints 'Thursday, July 11, 1985', establishing the publication year as 1985. The bill itself is identified as No. XIV of 1984 and page 2 separately states 'Bombay, dated the 19th July 1984'.\",\n    \"publisher\": \"Page 1 carries the masthead 'MAHARASHTRA LEGISLATURE SECRETARIAT'; this organisation is not present in the supplied authority file, so publisher_id is null.\",\n    \"toc\": \"No table of contents is present; the two-page document consists of the bill text followed by draft declaration and power-of-attorney forms.\"\n  }\n}",
+ "failed": null
+}

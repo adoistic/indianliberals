@@ -1,0 +1,32 @@
+{
+ "slug": "1015-Letter_to_C_Rajagopalachari_16-06-1963",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 28.5,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 44882
+ },
+ "image_bytes": [
+  92244
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 18736,
+  "output_tokens": 1377,
+  "input_tokens": 17359,
+  "output_tokens_details": {
+   "reasoning_tokens": 415
+  }
+ },
+ "credits_consumed": 2.87,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This untitled, one-page English telegram from C. Rajagopalachari to Minoo Masani is dated 16 June 1963 and addressed to Masani care of Surajyam in Bombay. Rajagopalachari refers to Masani's and Ranga's opinions and urges immediate political coordination with Kripalani, who is in Lucknow.\",\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The document is a terse telegram from C. Rajagopalachari to Minoo Masani.\",\n      \"It is dated 16 June 1963 and gives Rajagopalachari's address in Madras.\",\n      \"Rajagopalachari refers to the opinions of Masani and an individual identified in the text as Ranga.\",\n      \"He advises Masani to contact Kripalani immediately in Lucknow.\",\n      \"Kripalani is described as pressing his minimum programme and seeking immediate action.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\",\n      \"governance-reform\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"IN VIEW YOUR AND RANGAS OPINION I ADVISE YOU\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Rajagopalachari opens by linking his advice to Masani's and Ranga's opinions.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"IMMEDIATELY CONTACT KRIPALANI NOW AT LUCKNOW\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The telegram's central instruction is for Masani to contact Kripalani without delay.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"HE IS PRESSING WITH HIS MINIMUM PROGRAMME\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Rajagopalachari characterizes Kripalani's immediate political activity.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"AND DESIRES ACTION IMMEDIATELY\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"aphorism\",\n        \"context\": \"The closing instruction emphasizes the urgency of the proposed political action.\",\n        \"shareable\": true\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": \"minoo-masani\",\n        \"context\": \"The telegram is addressed to Masani, care of Surajyam, Bombay.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      },\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"RANGAS\",\n        \"context\": \"Rajagopalachari refers to 'YOUR AND RANGAS OPINION' before advising Masani to contact Kripalani.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      },\n      {\n        \"thinker_id\": null,\n        \"thinker_unresolved\": \"KRIPALANI\",\n        \"context\": \"Rajagopalachari advises Masani to contact Kripalani, who is described as being at Lucknow and pressing his minimum programme.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No pages are missing; the document has no printed title or additional sections.\"\n    }\n  },\n  \"extent_caveat\": false,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Kripalani\",\n      \"language\": \"en\",\n      \"context\": \"Mentioned as being in Lucknow, pressing his minimum programme and seeking immediate action.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"RANGAS\",\n      \"language\": \"en\",\n      \"context\": \"Named in the telegram as the source of an opinion referenced by Rajagopalachari; the identity and intended spelling are uncertain.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

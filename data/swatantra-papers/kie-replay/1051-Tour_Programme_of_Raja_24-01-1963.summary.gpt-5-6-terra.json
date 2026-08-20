@@ -1,0 +1,32 @@
+{
+ "slug": "1051-Tour_Programme_of_Raja_24-01-1963",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 23.0,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 45187
+ },
+ "image_bytes": [
+  115108
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 18484,
+  "output_tokens": 1089,
+  "input_tokens": 17395,
+  "output_tokens_details": {
+   "reasoning_tokens": 280
+  }
+ },
+ "credits_consumed": 2.68,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This single-page English circular records Rajaji's official tour itinerary for 27–30 January 1963. It schedules his departure by mail train for Bangalore on Sunday evening, his stay at the Madras Woodlands Hotel on Sampangi Tank Road, a public meeting in Bangalore at 6:15 p.m. on 29 January, and his return journey to Madras that evening, arriving at Madras Central on 30 January.\\n\\nThe sheet is an internal Swatantra Party office record rather than a political argument or speech. It bears the handwritten archival number “1051” and a handwritten signature, tentatively read as “Krishnamurthi Rao,” dated 24 January 1963. No printed author or recipient is identified.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The document is titled “Tour Programme of Rajaji.”\",\n      \"Rajaji was scheduled to depart for Bangalore by mail train at 8:45 p.m. on 27 January 1963.\",\n      \"His Bangalore accommodation was the Madras Woodlands Hotel on Sampangi Tank Road.\",\n      \"A public meeting was scheduled in Bangalore for 6:15 p.m. on 29 January.\",\n      \"Rajaji was scheduled to leave Bangalore for Madras by mail train at 8:40 p.m. on 29 January.\",\n      \"The itinerary records arrival at Madras Central on 30 January 1963.\",\n      \"The sheet is signed and dated 24.1.63, with the signature reading tentatively as “Krishnamurthi Rao.”\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"Tour Programme of Rajaji\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The heading identifies the document as an official itinerary for Rajaji's political tour.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"6.15 P.M. Public Meeting\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The schedule highlights a public political engagement in Bangalore on 29 January 1963.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"8.40 P.M. Depart for Madras by Mail\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"data\",\n        \"context\": \"The itinerary specifies Rajaji's evening departure from Bangalore for the return journey to Madras.\",\n        \"shareable\": true\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": \"c-rajagopalachari\",\n        \"context\": \"The title identifies Rajaji as the person whose Bangalore and Madras tour is being scheduled.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No pages are missing; this is a complete one-page tour-programme circular.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Krishnamurthi Rao\",\n      \"language\": \"en\",\n      \"context\": \"Tentative reading of the partly illegible handwritten signature of the issuing Swatantra Party office bearer, dated 24.1.63.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

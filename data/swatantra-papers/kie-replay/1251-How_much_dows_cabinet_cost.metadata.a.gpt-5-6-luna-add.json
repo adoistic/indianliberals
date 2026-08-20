@@ -1,0 +1,32 @@
+{
+ "slug": "1251-How_much_dows_cabinet_cost",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 21.8,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40067
+ },
+ "image_bytes": [
+  66015
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 5888
+  },
+  "total_tokens": 19073,
+  "output_tokens": 823,
+  "input_tokens": 18250,
+  "output_tokens_details": {
+   "reasoning_tokens": 142
+  }
+ },
+ "credits_consumed": 0.2,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"essay\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"How much does Cabinet cost?\",\n      \"confidence\": \"medium\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": null,\n    \"year\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single newspaper clipping\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"fiscal-policy\",\n    \"governance-reform\",\n    \"public-sector-critique\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"author_not_printed\",\n    \"year_not_printed\",\n    \"publisher_not_printed\",\n    \"source_publication_not_printed\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Newspaper clipping headed “How much does Cabinet cost?” Text attributes figures to PTI and discusses Union Ministers, Deputy Ministers and Government expenditure. No byline, source-publication name, date or imprint is visible.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a standalone newspaper article or clipping with a printed headline and continuous prose, not a pamphlet, speech, office record or periodical issue. Because the visible item is a single mid-length argument/informational article and the taxonomy has no clipping type, it is classified as an essay.\",\n    \"purpose\": \"No listed purpose qualifier is evidenced by the page. The item is an article about the cost of the Union Cabinet rather than a report or institutional publication clearly identified as such.\",\n    \"language\": \"The visible text is entirely in Roman-script English.\",\n    \"authors_resolution\": \"No author byline or named signer is printed on the visible clipping, so no author record can be resolved against the authority file.\",\n    \"year\": \"The clipping mentions estimates for 1969-70 and expenditure in 1968-69, but no publication year or date is printed visibly; the year is therefore left null.\",\n    \"publisher\": \"No publisher or source-publication line is visible. “PTI” appears in the body as an attribution for reported figures, not as a publisher imprint, and it does not resolve the publication metadata.\",\n    \"toc\": \"This is a single newspaper clipping with no table of contents.\"\n  }\n}",
+ "failed": null
+}

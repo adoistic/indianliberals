@@ -1,0 +1,32 @@
+{
+ "slug": "1034-Letter_to_Mr_Minoo_Masani_16-01-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 20.9,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40077
+ },
+ "image_bytes": [
+  129331
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20000,
+  "output_tokens": 911,
+  "input_tokens": 19089,
+  "output_tokens_details": {
+   "reasoning_tokens": 179
+  }
+ },
+ "credits_consumed": 0.28,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"c-rajagopalachari\",\n      \"byline_verbatim\": \"C. RAJAGOPALACHARI\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page typed personal letter on printed letterhead, with handwritten signature\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"press-freedom\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"no_formal_byline\",\n    \"recipient_present\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"No title is printed. Sender is identified from the letterhead and signature; the typed recipient line reads “Sri M.R. Masani”. The letter encloses an advance proof of a front-page article for Swarajya.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a personal letter: it has a date, salutation (“My dear Masani,”), complimentary close (“Yours affectionately,”), sender letterhead, and a named recipient. It is not a published essay or office circular.\",\n    \"purpose\": \"No listed purpose qualifier fits a single personal letter.\",\n    \"language\": \"The document is entirely in Roman-script English; no Indian-language script appears.\",\n    \"authors_resolution\": \"The sender is identified on the letterhead as “C. RAJAGOPALACHARI” and by the handwritten signature. This normalises to the authority entry canonical “C. Rajagopalachari”, yielding thinker_id “c-rajagopalachari”; confidence is low because the name is inferred as the letter author rather than presented as a formal byline.\",\n    \"year\": \"The letterhead date reads “16th January 1963”; the year is therefore high confidence.\",\n    \"publisher\": \"No publisher or publication imprint is printed. “Swarajya” is mentioned as the periodical receiving the enclosed article, not as the publisher of this letter.\",\n    \"toc\": \"No table of contents is present; this is a one-page correspondence document.\"\n  }\n}",
+ "failed": null
+}

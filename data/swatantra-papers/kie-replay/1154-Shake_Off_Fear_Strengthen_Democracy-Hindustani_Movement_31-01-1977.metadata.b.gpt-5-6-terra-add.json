@@ -1,0 +1,34 @@
+{
+ "slug": "1154-Shake_Off_Fear_Strengthen_Democracy-Hindustani_Movement_31-01-1977",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 41.4,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40076
+ },
+ "image_bytes": [
+  365948,
+  261761,
+  278146
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 25590,
+  "output_tokens": 2033,
+  "input_tokens": 23557,
+  "output_tokens_details": {
+   "reasoning_tokens": 752
+  }
+ },
+ "credits_consumed": 4.0,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"SHAKE OFF FEAR, STRENGTHEN DEMOCRACY.\",\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"S/d- Anupem Mehta, Convenor, Bombay Hindustani Movement.\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    },\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"S/d- Madhu Mehta, National Convenor, Hindustani Movement.\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"S/d- Anupem Mehta, Convenor, Bombay Hindustani Movement.\",\n      \"role\": \"author\",\n      \"toc_index\": null\n    },\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"S/d- Madhu Mehta, National Convenor, Hindustani Movement.\",\n      \"role\": \"author\",\n      \"toc_index\": null\n    }\n  ],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": \"HINDUSTANI MOVEMENT / INDIANS IN SERVICE OF INDIA / 84/A Nepean Sea Road, Bombay-6.\",\n    \"issuer_id\": null,\n    \"place\": \"Bombay-6\",\n    \"year\": {\n      \"value\": 1977,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 3,\n    \"pages_total\": 3,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Three-page typescript office-paper packet containing letters, election guidelines, a pledge form, and suggestions.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"civil-liberty\",\n    \"electoral-reform\",\n    \"governance-reform\",\n    \"anti-corruption\",\n    \"individual-rights\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"publisher_not_authority_resolved\",\n    \"issuer_not_authority_resolved\",\n    \"title_is_component_heading_not_packet_title\",\n    \"no_formal_toc\",\n    \"no_edition\",\n    \"no_series\",\n    \"no_identifiers\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"organisation\",\n      \"verbatim\": \"Hindustani Movement\",\n      \"language\": \"en\",\n      \"context\": \"Issuing organisation named in the letterhead and in the signatures as the Hindustani Movement.\"\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Anupem Mehta\",\n      \"language\": \"en\",\n      \"context\": \"Signer identified as Convenor, Bombay Hindustani Movement, on the forwarding letter dated 1st February 1977.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Madhu Mehta\",\n      \"language\": \"en\",\n      \"context\": \"Signer identified as National Convenor of the Hindustani Movement on the election guidelines and accompanying letter.\",\n      \"page\": 2\n    }\n  ],\n  \"notes\": \"The PDF is a packet of related Hindustani Movement office communications dated 29 January–1 February 1977, not a single conventionally titled publication. The heading on page 1 is used provisionally as the main title. Circular would best describe the forwarding communication, but the permitted work_type enum requires the closest available value.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The pages show saluted communications addressed to “Dear Friends,” complimentary closes, signatures, organisational letterhead, and an attached pledge form. This is closest to a letter in the permitted enum, although the forwarding communication functions institutionally as a circular to a group and the PDF contains several related documents.\",\n    \"purpose\": \"No permitted purpose qualifier clearly applies. The packet concerns election participation, recruitment, and pledges rather than a standalone manifesto or formal report.\",\n    \"language\": \"All visible text is in Roman-script English; no Indian-language script is present.\",\n    \"authors_resolution\": \"The verbatim signatories are “S/d- Anupem Mehta, Convenor, Bombay Hindustani Movement.” and “S/d- Madhu Mehta, National Convenor, Hindustani Movement.” Neither name matches a canonical name or listed alias in the supplied authority subset, so both thinker_id values are null and require human review.\",\n    \"year\": \"The dates printed on the pages are 29th January 1977, 31st January 1977, and 1st February 1977; the year is therefore 1977 with high confidence.\",\n    \"publisher\": \"The letterhead reads “HINDUSTANI MOVEMENT / INDIANS IN SERVICE OF INDIA / 84/A Nepean Sea Road, Bombay-6.” Hindustani Movement is not present in the supplied organisation or publisher authority lists, so publisher_id and issuer_id remain null.\",\n    \"toc\": \"No formal table of contents is present. The packet structure is based only on the rendered page contents, with no essay or chapter sequence to transcribe.\"\n  }\n}",
+ "failed": null
+}

@@ -1,0 +1,33 @@
+{
+ "slug": "1042-Letter_to_Mr_Minoo_Masani_22-01-1963",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 28.0,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 44618
+ },
+ "image_bytes": [
+  174509,
+  143493
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20560,
+  "output_tokens": 1237,
+  "input_tokens": 19323,
+  "output_tokens_details": {
+   "reasoning_tokens": 401
+  }
+ },
+ "credits_consumed": 3.0,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This two-page English telegram record, sent by Minoo Masani from the Swatantra Party's central office on 22 January 1963, communicates the party's position on the Colombo proposals and the Constitution Bill. Masani tells N. G. Ranga that he agrees with C. Rajagopalachari's letter and considers it essential for the Swatantra Party to move an amendment, jointly or separately, reaffirming the final paragraph of the party's 14 November resolution and categorically rejecting the Colombo proposals.\\n\\nThe second telegram states that the party's Parliamentary Board has decided that members of Parliament should abstain from participating in debate and voting on the Constitution Bill. Together, the messages advocate a firm parliamentary posture: an amendment should be pressed rather than abandoned, while the Board's decision on abstention should be respected. The document has no printed title and consists of two telegram sheets, including a confirmatory copy.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"Masani agrees with Rajaji's letter to N. G. Ranga concerning the Colombo proposals.\",\n      \"He urges the Swatantra Party to move an amendment, jointly or separately.\",\n      \"The amendment should reaffirm the last paragraph of the party's 14 November resolution.\",\n      \"The telegram calls for categorical rejection of the Colombo proposals.\",\n      \"Masani warns that failing to press the amendment could allow the Government to claim unanimous parliamentary permission to negotiate.\",\n      \"A separate telegram records the Parliamentary Board's decision that MPs should abstain from debate and voting on the Constitution Bill.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\",\n      \"foreign-policy\",\n      \"constitutionalism\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"Entirely agree with Rajaji's letter to you twenty first\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Masani opens by aligning himself with Rajaji's position on the Colombo proposals.\",\n        \"shareable\": false\n      },\n      {\n        \"verbatim\": \"categorically rejecting Colombo proposals\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"Masani specifies the substantive position that the proposed amendment should express.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"Walk out without pressing amendment meaningless\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"aphorism\",\n        \"context\": \"Masani argues that parliamentary withdrawal has no purpose unless the party first presses its amendment.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"MEMBERS OF PARLIAMENT SHOULD ABSTAIN FROM PARTICIPATION IN DEBATE AND VOTING ON THIS SUBJECT\",\n        \"page\": 2,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The second telegram communicates the Swatantra Party Parliamentary Board's decision regarding the Constitution Bill.\",\n        \"shareable\": true\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": \"c-rajagopalachari\",\n        \"context\": \"Masani says he entirely agrees with Rajaji's letter to N. G. Ranga concerning the Colombo proposals.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        2\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"Both pages of the two-page telegram record were rendered; no additional content is indicated by the metadata.\"\n    }\n  },\n  \"recommended_authority_additions\": []\n}",
+ "failed": null
+}

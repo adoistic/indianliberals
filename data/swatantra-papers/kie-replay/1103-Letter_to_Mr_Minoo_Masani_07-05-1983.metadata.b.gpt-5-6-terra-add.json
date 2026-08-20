@@ -1,0 +1,32 @@
+{
+ "slug": "1103-Letter_to_Mr_Minoo_Masani_07-05-1983",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 39.1,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40040
+ },
+ "image_bytes": [
+  164782
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 20503,
+  "output_tokens": 1896,
+  "input_tokens": 18607,
+  "output_tokens_details": {
+   "reasoning_tokens": 827
+  }
+ },
+ "credits_consumed": 3.36,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"original_script\": null,\n    \"translit\": null\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"SWATANTRA PARTY\\nAd-hoc Committee\\n44, V.S. Mudaly Street,\\nMADRAS-600 015.\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"MADRAS\",\n    \"year\": {\n      \"value\": 1983,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single-page typed office meeting notice on Swatantra Party Ad-hoc Committee letterhead.\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"subtitle_not_printed\",\n    \"isbn_not_printed\",\n    \"issn_not_printed\",\n    \"oclc_not_printed\",\n    \"toc_not_present\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"R.Krishnamurthi\",\n      \"language\": \"en\",\n      \"context\": \"Named as President of the Reception Committee.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"T. Raghavan\",\n      \"language\": \"en\",\n      \"context\": \"Named as General Secretary of the Reception Committee.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"J. Ramabhadran\",\n      \"language\": \"en\",\n      \"context\": \"Named as a Convener of the Ad-hoc Committee.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"S.Krishnan\",\n      \"language\": \"en\",\n      \"context\": \"Named as a Convener of the Ad-hoc Committee.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"P.C. Sarogopan\",\n      \"language\": \"en\",\n      \"context\": \"Named as a Convener of the Ad-hoc Committee.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Sri. A.G. SRINIVASAN\",\n      \"language\": \"en\",\n      \"context\": \"Named as Convener and contact for the Tanjore District Swatantra Party.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"No printed title is present. Although the document functions as a meeting notice to party members, the strict work-type enum excludes circular; it is classified as letter because it has a salutation and closing.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The sheet is a typed Swatantra Party Ad-hoc Committee notice dated 7-5-83, opening \\\"Dear Sir,\\\" and closing \\\"Yours,\\\" inviting attendance at a future meeting. It substantively resembles a circular meeting notice, but circular is excluded from the mandated work-type enum, so letter is the closest permitted value.\",\n    \"purpose\": \"No permitted purpose qualifier applies to this office notice.\",\n    \"language\": \"The document is entirely in English written in Latin script.\",\n    \"authors_resolution\": \"No human author byline is printed. The named committee officers are listed with organizational roles rather than as authors, so authors[] is empty; the institutional issuer resolves to swatantra-party.\",\n    \"year\": \"The typed date at upper right is \\\"7-5-83,\\\" establishing 1983.\",\n    \"publisher\": \"The letterhead reads \\\"SWATANTRA PARTY / Ad-hoc Committee / 44, V.S. Mudaly Street, / MADRAS-600 015.\\\" on page 1; Swatantra Party matches publisher and organisation ID swatantra-party.\",\n    \"toc\": \"No table of contents is present on the single rendered page.\"\n  }\n}",
+ "failed": null
+}

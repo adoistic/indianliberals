@@ -1,0 +1,32 @@
+{
+ "slug": "1103-Letter_to_Mr_Minoo_Masani_07-05-1983",
+ "job": "summary",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 31.0,
+ "prompt_bytes": {
+  "system": 13052,
+  "user": 47505
+ },
+ "image_bytes": [
+  164782
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19656,
+  "output_tokens": 1435,
+  "input_tokens": 18221,
+  "output_tokens_details": {
+   "reasoning_tokens": 166
+  }
+ },
+ "credits_consumed": 3.01,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"summary\": \"This single-page English circular, issued by the Swatantra Party Ad-hoc Committee in Madras on 7 May 1983, announces an effort by former active workers to revive the party. It invites recipients to a meeting at Moorthi Kalai Arangam (Municipal Hall), Kumbakonam, on Sunday, 15 May 1983, at 9 a.m., where a committee is to be elected.\\n\\nThe notice presents the revival as an attempt to restore the party founded by C. Rajagopalachari (Rajaji) and Minoo Masani. It lists the Reception Committee and Ad-hoc Committee conveners, and provides A. G. Srinivasan's Kumbakonam address as the local contact. The handwritten envelope address identifies M. R. Masani as the recipient of this copy.\",\n  \"extent_caveat\": false,\n  \"summary_structured\": {\n    \"key_points\": [\n      \"The Swatantra Party Ad-hoc Committee issued the circular from its office at 4, V.S. Mudaly Street, Madras.\",\n      \"The circular is dated 7 May 1983.\",\n      \"Active former party workers had decided to attempt a revival of the Swatantra Party.\",\n      \"A revival meeting was scheduled for 15 May 1983 at Moorthi Kalai Arangam, the Municipal Hall in Kumbakonam.\",\n      \"The meeting was intended to elect a committee and organise the party's revival.\",\n      \"The notice identifies Rajaji and M. R. Masani as the party's founders.\",\n      \"R. Krishnamurthi, P. T. Raghavan, J. Ramabhadran, S. Krishnan, and P. C. Satagopan are listed in committee roles.\"\n    ],\n    \"themes_confirmed\": [\n      \"party-politics\",\n      \"indian-liberal-history\"\n    ],\n    \"theme_proposed_new\": [],\n    \"pull_quotes\": [\n      {\n        \"verbatim\": \"many of the active workers of the SWATANTRA PARTY, have decided to revive the party.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The circular frames the proposed meeting as an organised attempt by former active workers to restore the Swatantra Party.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"to revive the great Party founded by Rajaji and Mr. M.R. Masani.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The notice invokes the party's origins and identifies Rajaji and M. R. Masani as its founders.\",\n        \"shareable\": true\n      },\n      {\n        \"verbatim\": \"You are earnestly requested to attend the meeting.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\",\n        \"why_notable\": \"framing\",\n        \"context\": \"The organisers make a direct appeal for attendance at the Kumbakonam revival meeting.\",\n        \"shareable\": true\n      }\n    ],\n    \"cross_thinker_mentions\": [\n      {\n        \"thinker_id\": \"c-rajagopalachari\",\n        \"context\": \"The circular refers to the great Party founded by Rajaji and Mr. M.R. Masani.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      },\n      {\n        \"thinker_id\": \"minoo-masani\",\n        \"context\": \"The circular refers to the great Party founded by Rajaji and Mr. M.R. Masani.\",\n        \"page\": 1,\n        \"page_system\": \"pdf\"\n      }\n    ],\n    \"summary_completeness\": {\n      \"based_on_pages\": [\n        1,\n        1\n      ],\n      \"covers_full_work\": true,\n      \"missing_content_note\": \"No pages are missing; the PDF consists of a single circular.\"\n    }\n  },\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"R.Krishnamurthi\",\n      \"language\": \"en\",\n      \"context\": \"Listed as President of the Reception Committee for the 1983 Swatantra Party revival meeting at Kumbakonam.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"P.T. Raghavan\",\n      \"language\": \"en\",\n      \"context\": \"Listed as General Secretary of the Reception Committee for the 1983 Swatantra Party revival meeting at Kumbakonam.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"J. Ramabhadran\",\n      \"language\": \"en\",\n      \"context\": \"Listed as a convener of the Swatantra Party Ad-hoc Committee organising the revival meeting.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"S.Krishnan\",\n      \"language\": \"en\",\n      \"context\": \"Listed as a convener of the Swatantra Party Ad-hoc Committee organising the revival meeting.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"P.C. Satagopan\",\n      \"language\": \"en\",\n      \"context\": \"Listed as a convener of the Swatantra Party Ad-hoc Committee organising the revival meeting.\",\n      \"page\": 1\n    },\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"A.G. SRINIVASAN\",\n      \"language\": \"en\",\n      \"context\": \"Identified as the Tanjore District convener and local contact for the Swatantra Party revival effort.\",\n      \"page\": 1\n    }\n  ]\n}",
+ "failed": null
+}

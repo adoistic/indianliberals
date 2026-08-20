@@ -1,0 +1,32 @@
+{
+ "slug": "1002-Inter_Parliamentary_Union_Conference_26-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 24.0,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40088
+ },
+ "image_bytes": [
+  221541
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 21262,
+  "output_tokens": 902,
+  "input_tokens": 20360,
+  "output_tokens_details": {
+   "reasoning_tokens": 140
+  }
+ },
+ "credits_consumed": 0.29,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"PROFESSOR RANGA\",\n      \"honorifics\": [\n        \"PROFESSOR\"\n      ],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"COPENHAGEN\",\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"One-page typed telegram / confirmatory copy\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"foreign-policy\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"recipient_authority_unresolved\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"PROFESSOR RANGA\",\n      \"language\": \"en\",\n      \"context\": \"Named sender of a telegram sent from the Inter Parliamentary Union Conference, Parliament House, Copenhagen.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"The document is physically a telegram: block capitals, clipped wording, STOP markers, and no salutation or complimentary close. Because the strict work_type enum omits telegram, it is recorded as letter as the nearest permitted value. Recipient line names Mr. M. R. Masani.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a typed telegram, signalled by block-capital text, clipped syntax, STOP markers, a sender heading, and a recipient address. The required strict enum omits 'telegram', so 'letter' is used as the nearest permitted value, with the physical form documented in notes.\",\n    \"purpose\": \"No listed purpose qualifier fits this one-page office communication.\",\n    \"language\": \"The page uses Roman-script English throughout, including the telegram text, addresses, and date.\",\n    \"authors_resolution\": \"The sender heading is printed verbatim as 'PROFESSOR RANGA'. Normalised comparison against the supplied authority canonical names and aliases found no binary match; thinker_id is therefore null and human review is required.\",\n    \"year\": \"The date line at the lower left of page 1 reads 'August 26, 1964.' — high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the page; publisher_id and issuer_id remain null.\",\n    \"toc\": \"This is a single-page telegram with no table of contents.\"\n  }\n}",
+ "failed": null
+}

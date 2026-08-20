@@ -1,0 +1,32 @@
+{
+ "slug": "1014-Letter_to_Kripalani_16-06-1963",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 20.7,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40071
+ },
+ "image_bytes": [
+  163608
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 3840
+  },
+  "total_tokens": 18868,
+  "output_tokens": 802,
+  "input_tokens": 18066,
+  "output_tokens_details": {
+   "reasoning_tokens": 83
+  }
+ },
+ "credits_consumed": 0.22,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": \"c-rajagopalachari\",\n      \"byline_verbatim\": \"C. RAJAGOPALACHARI\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Madras\",\n    \"year\": {\n      \"value\": 1963,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed letter on personal letterhead\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"no_publisher\",\n    \"no_issuer\",\n    \"recipient_not_resolved\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Untitled letter dated 16th June 1963, from C. Rajagopalachari to Sri J.B. Kripalani. The letter discusses private coordination with Masani and Ranga before further public canvassing.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a direct personal communication addressed to one named recipient, “Sri J.B. Kripalani,” and signed by C. Rajagopalachari. Its letterhead, salutation, dated body, complimentary close, and signature establish the letter classification.\",\n    \"purpose\": \"No permitted purpose qualifier applies to a single personal letter.\",\n    \"language\": \"The page is printed entirely in Roman-script English, including the letterhead, body, address, and signature captions.\",\n    \"authors_resolution\": \"The sender's letterhead reads “C. RAJAGOPALACHARI,” which matches the authority-file alias “C. Rajagopalachari” after the permitted case, whitespace, and punctuation normalization. The resulting thinker_id is “c-rajagopalachari.” The named recipient is not treated as an author.\",\n    \"year\": \"The letterhead visibly prints “16th June 1963,” yielding the year 1963 with high confidence.\",\n    \"publisher\": \"No publisher or publication-imprint line appears on the page; the visible letterhead identifies the sender's address, not a publisher.\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

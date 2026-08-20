@@ -1,0 +1,32 @@
+{
+ "slug": "1004-Letter_to_Mr_Minoo_Masani_17-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 24.6,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40077
+ },
+ "image_bytes": [
+  260309
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 21142,
+  "output_tokens": 958,
+  "input_tokens": 20184,
+  "output_tokens_details": {
+   "reasoning_tokens": 187
+  }
+ },
+ "credits_consumed": 0.29,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"Ranga\",\n      \"honorifics\": [],\n      \"confidence\": \"low\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"N. Delhi\",\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single handwritten letter sheet\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"constitutionalism\",\n    \"judicial-independence\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"recipient_not_structured\",\n    \"letterhead_not_printed\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"Ranga\",\n      \"language\": \"en\",\n      \"context\": \"The handwritten closing signature appears to read 'Ranga'; it does not binary-match a canonical name or alias in the supplied authority subset.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"Handwritten letter from N. Delhi dated 17-8-64, addressed 'My dear Masani'. The text discusses postponing a proposed Action Committee meeting and the Supreme Court's 17th Amendment decision. Signature appears to read 'Ranga'.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document is a personal letter: it has the salutation 'My dear Masani', prose addressed to a named recipient, and a handwritten complimentary closing/signature. It is not a telegram or circular.\",\n    \"purpose\": \"No purpose qualifier applies because the document is a single letter rather than a publication with a listed subtype.\",\n    \"language\": \"The visible text is handwritten in Roman script and is in English; no Hindi, Gujarati, Marathi, or Bengali script appears.\",\n    \"authors_resolution\": \"The sender's handwritten signature is transcribed as 'Ranga'. It was compared against the supplied authority canonical names and aliases; 'Ranga' does not match any entry under the binary rule, so thinker_id is null and human review is required.\",\n    \"year\": \"The upper-right date line visibly reads '17 - 8 - 64', supporting the year 1964 with high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed on the page; the publisher_id and publisher_verbatim fields are therefore null.\",\n    \"toc\": \"No table of contents is present or applicable for this one-page letter.\"\n  }\n}",
+ "failed": null
+}

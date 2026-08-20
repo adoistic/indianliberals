@@ -1,0 +1,41 @@
+{
+ "slug": "1077-Swatantra_Newsletter_No-03_January-1960",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 57.5,
+ "prompt_bytes": {
+  "system": 25552,
+  "user": 40110
+ },
+ "image_bytes": [
+  425228,
+  328736,
+  419566,
+  452609,
+  428595,
+  428401,
+  397865,
+  390852,
+  373848,
+  281936
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 42836,
+  "output_tokens": 948,
+  "input_tokens": 41888,
+  "output_tokens_details": {
+   "reasoning_tokens": 137
+  }
+ },
+ "credits_consumed": 0.53,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"periodical_issue\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"Swatantra Newsletter\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": \"swatantra-party\",\n    \"publisher_verbatim\": \"ISSUED BY THE CENTRAL OFFICE OF THE SWATANTRA PARTY, 143 MAHATMA GANDHI ROAD, BOMBAY 1 : TELEPHONE NO: 252076\",\n    \"issuer_id\": \"swatantra-party\",\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1960,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": \"No.3\",\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 10,\n    \"pages_total\": 10,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Mimeographed or typescript newsletter issue; private circulation\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"governance-reform\",\n    \"land-reform\",\n    \"economic-liberty\",\n    \"foreign-policy\",\n    \"cold-war-positioning\",\n    \"capitalism-defence\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"formal_toc_not_present\",\n    \"editor_not_named\",\n    \"no_issn\"\n  ],\n  \"needs_human_review\": false,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Issue 3 is dated January 1960 and marked 'FOR PRIVATE CIRCULATION ONLY'. It contains organisational news, regional reports, requests, and Annexure 'A', a national-defence resolution. No formal contents page or editor credit is printed.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The masthead reads 'Swatantra Newsletter', identifies the issue as 'No.3', and dates it January 1960. The multi-section serial format, recurring running header, and page numbering establish this as a periodical issue rather than a pamphlet or occasional paper.\",\n    \"purpose\": \"No listed purpose qualifier applies to a newsletter issue.\",\n    \"language\": \"All visible text is in Roman script and English; no Indian-language text is used for the publication's main content.\",\n    \"authors_resolution\": \"There is no publication byline or named individual author. The names of M. R. Masani, Rajaji, and others occur within news reports as subjects or speakers, not as authors of the issue; therefore no author authority resolution is required.\",\n    \"year\": \"The masthead on page 1 prints 'January 1960', establishing the issue year with high confidence.\",\n    \"publisher\": \"Page 1 prints 'ISSUED BY THE CENTRAL OFFICE OF THE SWATANTRA PARTY, 143 MAHATMA GANDHI ROAD, BOMBAY 1 : TELEPHONE NO: 252076'. 'Swatantra Party' matches the authority organisation and publisher entry, so publisher_id and issuer_id are swatantra-party.\",\n    \"toc\": \"No formal table of contents is visible. The issue has section headings, but these are not transcribed as TOC entries because no printed contents list is present.\"\n  }\n}",
+ "failed": null
+}

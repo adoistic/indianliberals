@@ -1,0 +1,32 @@
+{
+ "slug": "1000-Letter_to_Mr_Minoo_Masani_27-08-1964",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 25.1,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40077
+ },
+ "image_bytes": [
+  229448
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19613,
+  "output_tokens": 761,
+  "input_tokens": 18852,
+  "output_tokens_details": {
+   "reasoning_tokens": 72
+  }
+ },
+ "credits_consumed": 0.26,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Ascot, Berks.\",\n    \"year\": {\n      \"value\": 1964,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Typed correspondence letter on personal letterhead\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": [],\n    \"entries_not_yet_rendered\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"author_not_visible\",\n    \"recipient_not_authority_resolved\",\n    \"no_publisher\",\n    \"no_signature_visible\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [],\n  \"notes\": \"Letterhead reads “KINGS BEECHES, SUNNINGHILL, ASCOT, BERKS.” and is dated 27th August, 1964. The handwritten salutation is “My dear Minoo”; the sender's signature or authorial byline is not visible on the supplied page.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The document is a single piece of personal correspondence, dated 27th August, 1964, addressed to one named recipient, “Minoo.” It discusses travel, parliamentary attendance, and Swatantra Party activities, so it is classified as a letter rather than an institutional paper.\",\n    \"purpose\": \"No controlled purpose qualifier fits a single personal letter, so purpose is null.\",\n    \"language\": \"The visible text is entirely in English, printed in Roman script.\",\n    \"authors_resolution\": \"No author byline or signature is visible on the supplied page. The sender cannot therefore be resolved against the authority file, and no author entry has been created. The recipient is addressed as “Minoo,” but recipient identity is not used as authorship.\",\n    \"year\": \"The letterhead visibly prints “27th August, 1964.”, establishing the year with high confidence.\",\n    \"publisher\": \"No publisher or issuing organisation is printed; the visible letterhead gives only a private address: “KINGS BEECHES, SUNNINGHILL, ASCOT, BERKS.”\",\n    \"toc\": \"No table of contents is present or applicable for this single-page letter.\"\n  }\n}",
+ "failed": null
+}

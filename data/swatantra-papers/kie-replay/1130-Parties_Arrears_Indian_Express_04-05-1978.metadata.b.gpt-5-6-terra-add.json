@@ -1,0 +1,32 @@
+{
+ "slug": "1130-Parties_Arrears_Indian_Express_04-05-1978",
+ "job": "metadata.b",
+ "requested_model": "gpt-5-6-terra",
+ "attempts": 1,
+ "wall_clock_s": 26.4,
+ "prompt_bytes": {
+  "system": 23059,
+  "user": 40045
+ },
+ "image_bytes": [
+  119575
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-terra",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19734,
+  "output_tokens": 1147,
+  "input_tokens": 18587,
+  "output_tokens_details": {
+   "reasoning_tokens": 451
+  }
+ },
+ "credits_consumed": 2.85,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"occasional_paper\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": \"Parties’ arrears\",\n      \"confidence\": \"high\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": \"INDIAN EXPRESS.\",\n    \"issuer_id\": null,\n    \"place\": \"New Delhi\",\n    \"year\": {\n      \"value\": 1978,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Newspaper clipping mounted on an archival sheet\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": []\n  },\n  \"missing_metadata_flags\": [\n    \"author_not_named\",\n    \"publisher_authority_unresolved\",\n    \"issuer_not_identified\",\n    \"edition_not_printed\",\n    \"series_not_printed\",\n    \"identifiers_not_printed\",\n    \"toc_not_present\",\n    \"work_type_uncertain\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"publisher\",\n      \"verbatim\": \"INDIAN EXPRESS.\",\n      \"language\": \"en\",\n      \"context\": \"Newspaper identified by the masthead as the source of the clipped report.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"A dated Indian Express news clipping headed “Parties’ arrears,” reporting political parties’ rent arrears in New Delhi. Occasional_paper is a provisional closest taxonomy match because the schema has no newspaper-article or clipping type.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a newspaper clipping rather than a standalone authored publication: it carries the Indian Express masthead, a news headline, and a New Delhi dateline. Because the taxonomy has no newspaper-article or clipping category, occasional_paper is used provisionally, with low confidence.\",\n    \"purpose\": \"No listed purpose qualifier accurately describes a brief newspaper report, so purpose is null.\",\n    \"language\": \"The clipping is entirely in Roman-script English.\",\n    \"authors_resolution\": \"No human byline or named author is printed in the visible clipping; authors is therefore empty.\",\n    \"year\": \"The masthead line visibly gives the date as 4 MAY 1978.\",\n    \"publisher\": \"The visible masthead reads “INDIAN EXPRESS.”; no matching publisher authority entry was supplied, so publisher_id is null.\",\n    \"toc\": \"No formal table of contents is present; this is a single newspaper clipping.\"\n  }\n}",
+ "failed": null
+}

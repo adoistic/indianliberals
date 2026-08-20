@@ -1,0 +1,32 @@
+{
+ "slug": "10-Letter_to_Mr_Minoo_Masani_30-03-1971",
+ "job": "metadata.a",
+ "requested_model": "gpt-5-6-luna",
+ "attempts": 1,
+ "wall_clock_s": 19.6,
+ "prompt_bytes": {
+  "system": 20655,
+  "user": 40075
+ },
+ "image_bytes": [
+  270644
+ ],
+ "route": "codex",
+ "served_model": "gpt-5.6-luna",
+ "usage": {
+  "input_tokens_details": {
+   "cache_write_tokens": 0,
+   "cached_tokens": 0
+  },
+  "total_tokens": 19564,
+  "output_tokens": 850,
+  "input_tokens": 18714,
+  "output_tokens_details": {
+   "reasoning_tokens": 77
+  }
+ },
+ "credits_consumed": 0.27,
+ "stop_reason": "completed",
+ "raw_text": "{\n  \"work_type\": \"letter\",\n  \"purpose\": null,\n  \"title\": {\n    \"main\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    },\n    \"subtitle\": {\n      \"value\": null,\n      \"confidence\": \"low\"\n    }\n  },\n  \"authors\": [\n    {\n      \"thinker_id\": null,\n      \"byline_verbatim\": \"(P.C. Thakkar)\",\n      \"honorifics\": [],\n      \"confidence\": \"high\"\n    }\n  ],\n  \"editors\": [],\n  \"contributors\": [],\n  \"publication\": {\n    \"publisher_id\": null,\n    \"publisher_verbatim\": null,\n    \"issuer_id\": null,\n    \"place\": \"Bombay\",\n    \"year\": {\n      \"value\": 1971,\n      \"confidence\": \"high\"\n    },\n    \"edition\": null,\n    \"series\": null,\n    \"language\": \"en\"\n  },\n  \"physical\": {\n    \"pages_rendered\": 1,\n    \"pages_total\": 1,\n    \"pages_total_source\": \"pypdfium2\",\n    \"format\": \"Single typed letter sheet\"\n  },\n  \"identifiers\": {\n    \"isbn\": null,\n    \"issn\": null,\n    \"oclc\": null\n  },\n  \"language\": \"en\",\n  \"themes\": [\n    \"party-politics\",\n    \"electoral-reform\"\n  ],\n  \"theme_proposed_new\": [],\n  \"toc\": {\n    \"extracted_from_pages\": [],\n    \"entries\": []\n  },\n  \"missing_metadata_flags\": [\n    \"title_not_printed\",\n    \"publisher_not_printed\",\n    \"no_issuer_identified\"\n  ],\n  \"needs_human_review\": true,\n  \"recommended_authority_additions\": [\n    {\n      \"kind\": \"thinker\",\n      \"verbatim\": \"P.C. Thakkar\",\n      \"language\": \"en\",\n      \"context\": \"Letter writer whose signature appears as '(P.C. Thakkar)' and whose letterhead identifies him as Indubhikumar C. Thakkar.\",\n      \"page\": 1\n    }\n  ],\n  \"notes\": \"Typed letter dated 30th March 1971 from 'Indubhikumar C. Thakkar' at Dalal Nivas, Bombay-6, to Shri M. R. Masani, President, Swatantra Party. The filename-supplied title is not printed on the document.\",\n  \"classification_reasoning\": {\n    \"work_type\": \"The page is a single addressed communication beginning 'Respected Sir,' and ending with a personal signature, with one named recipient and a date. It is therefore a letter, not a circular or institutional paper.\",\n    \"purpose\": \"No listed purpose qualifier fits a private political correspondence letter.\",\n    \"language\": \"The document is entirely in English Roman script, including the typed address, body, and signature block.\",\n    \"authors_resolution\": \"The sender is printed in the signature block as '(P.C. Thakkar)' and identified in the letterhead as 'Indubhikumar C. Thakkar'. Neither verbatim form matches a canonical name or alias in the supplied authority subset, so thinker_id is null and human review is required.\",\n    \"year\": \"The letter date at the upper right reads '30th. March 1971'; year is high confidence.\",\n    \"publisher\": \"No publisher or publication imprint is printed. The letterhead gives the sender's residential address, not a publisher, so publisher_id is null.\",\n    \"toc\": \"No table of contents is present or applicable to this single-page letter.\"\n  }\n}",
+ "failed": null
+}
