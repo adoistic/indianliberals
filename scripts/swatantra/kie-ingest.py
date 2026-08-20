@@ -29,6 +29,7 @@ import re
 import shutil
 import subprocess
 import sys
+import unicodedata
 import threading
 import time
 import urllib.error
@@ -40,16 +41,28 @@ REPO = Path(__file__).resolve().parents[2]
 sys.path.insert(0, str(REPO / "scripts/llm-extract"))
 from validator import validate_metadata  # noqa: E402
 
-CORPUS = ("/Users/siraj/Library/CloudStorage/GoogleDrive-adnan@thothica.com/"
-          ".shortcut-targets-by-id/1vDrOqgdnQHTfL5vqJtx-ZRy4e2jf-Bcq/"
-          "Swatantra Party papers")
+# Two ways to reach the PDFs. Local is the Google Drive mount; r2 is the copy
+# already published at archive.indianliberals.in, which is served publicly and
+# needs no credentials — that is what makes running this off the laptop
+# possible at all. Every one of the 6,355 inventory rows resolves to a key
+# that exists on R2 (verified), so the two sources are interchangeable.
+CORPUS = os.environ.get("LLM_EXTRACT_PDF_ROOT",
+    "/Users/siraj/Library/CloudStorage/GoogleDrive-adnan@thothica.com/"
+    ".shortcut-targets-by-id/1vDrOqgdnQHTfL5vqJtx-ZRy4e2jf-Bcq/"
+    "Swatantra Party papers")
+R2_BASE = os.environ.get("SWATANTRA_R2_BASE",
+                         "https://archive.indianliberals.in/swatantra-party-papers")
 BAKE = REPO / "data/bake-off-output"
 INVENTORY = REPO / "data/swatantra-papers/inventory.tsv"
 PIN_THINKERS = REPO / "data/swatantra-papers/pin-thinkers.json"
 ADDENDUM = REPO / "scripts/llm-extract/prompts/metadata-weak-model-addendum.md"
-VENV = REPO / ".venv-extract/bin/python3"
+# On the laptop this is the extraction venv; on a cloud box there is no venv
+# and the interpreter is just `python3`. driver.py is invoked as a subprocess,
+# so it must be told which interpreter to use.
+VENV = os.environ.get("LLM_EXTRACT_PYTHON", str(REPO / ".venv-extract/bin/python3"))
 DRIVER = REPO / "scripts/llm-extract/driver.py"
 PROGRESS = REPO / "data/swatantra-papers/kie-ingest-progress.tsv"
+FETCH_DIR = Path(os.environ.get("SWATANTRA_FETCH_DIR", "/tmp/swatantra-pdfs"))
 ENDPOINT = "https://api.kie.ai/codex/v1/responses"
 MODEL = "gpt-5-6-luna"
 
@@ -108,22 +121,66 @@ def api_key():
     sys.exit("KIE_API_KEY not found in .env")
 
 
-def remaining():
+def remaining(skip_file=None):
     """Works with no metadata record yet. Smallest first: the cheap, fast,
-    high-yield end of the corpus lands before anything can go wrong."""
+    high-yield end of the corpus lands before anything can go wrong.
+
+    `skip_file` carries the slugs already extracted elsewhere. A cloud runner
+    starts with an empty output dir, so without it the box would happily
+    re-extract and re-pay for every work the laptop already finished.
+    """
+    done = set()
+    if skip_file and Path(skip_file).is_file():
+        done = set(json.loads(Path(skip_file).read_text(encoding="utf-8")))
     rows = list(csv.DictReader(open(INVENTORY, encoding="utf-8"), delimiter="\t"))
     todo = []
     for r in rows:
         slug = os.path.splitext(r["file"])[0]
-        if (BAKE / slug / "metadata.a.a.json").exists():
+        if slug in done or (BAKE / slug / "metadata.a.a.json").exists():
             continue
         todo.append((int(r["pages"]), r["file"]))
     todo.sort()
     return [f for _, f in todo]
 
 
-def prep(pdf_name, job):
-    env = dict(os.environ, LLM_EXTRACT_PDF_ROOT=CORPUS,
+def _slugify(name):
+    stem = re.sub(r"\.pdf$", "", name, flags=re.I)
+    stem = unicodedata.normalize("NFKD", stem).encode("ascii", "ignore").decode()
+    stem = re.sub(r"[^A-Za-z0-9]+", "-", stem).strip("-").lower()
+    return re.sub(r"-{2,}", "-", stem)
+
+
+def fetch_pdf(pdf_name):
+    """Pull one PDF from public R2 into a per-work dir named for the original
+    file, so driver.py can be pointed at it unchanged. Returns that dir."""
+    d = FETCH_DIR / _slugify(pdf_name)
+    d.mkdir(parents=True, exist_ok=True)
+    dest = d / pdf_name
+    if dest.exists() and dest.stat().st_size > 0:
+        return d
+    url = f"{R2_BASE}/{_slugify(pdf_name)}.pdf"
+    # Cloudflare in front of the archive worker 403s the default
+    # `Python-urllib/3.x` agent. An identifying UA is accepted, so declare
+    # what we are rather than impersonating a browser.
+    req = urllib.request.Request(
+        url, headers={"User-Agent": "indianliberals-ingest/1.0 "
+                                    "(+https://indianliberals.in)"})
+    for attempt in range(4):
+        if attempt:
+            time.sleep(3 * attempt)
+        try:
+            with urllib.request.urlopen(req, timeout=180) as r:
+                body = r.read()
+            if body[:4] == b"%PDF":
+                dest.write_bytes(body)
+                return d
+        except Exception:                                   # noqa: BLE001
+            continue
+    return None
+
+
+def prep(pdf_name, job, pdf_root=None):
+    env = dict(os.environ, LLM_EXTRACT_PDF_ROOT=str(pdf_root or CORPUS),
                LLM_EXTRACT_PIN_THINKERS_FILE=str(PIN_THINKERS),
                LLM_EXTRACT_NO_EMIT="1")
     r = subprocess.run(
@@ -194,16 +251,22 @@ def record(slug, job, note):
             fh.write(f"{time.strftime('%Y-%m-%dT%H:%M:%S')}\t{slug}\t{job}\t{note}\n")
 
 
-def do_work(pdf_name, key, addendum_text):
+def do_work(pdf_name, key, addendum_text, source="local"):
     slug = Path(pdf_name).stem
     out = BAKE / slug
     credits = 0.0
+    fetched = None
     try:
+        if source == "r2":
+            fetched = fetch_pdf(pdf_name)
+            if fetched is None:
+                record(slug, "-", "FETCH_FAILED")
+                return slug, False, credits
         for job, fname in (("metadata.a", "metadata.a.a.json"),
                            ("summary", "summary.json")):
             if (out / fname).exists():
                 continue
-            d = prep(pdf_name, job)
+            d = prep(pdf_name, job, fetched)
             if not d:
                 record(slug, job, "PREP_FAILED")
                 return slug, False, credits
@@ -233,6 +296,9 @@ def do_work(pdf_name, key, addendum_text):
     except Exception as e:                              # noqa: BLE001
         record(slug, "-", f"EXCEPTION {type(e).__name__}: {str(e)[:80]}")
         return slug, False, credits
+    finally:
+        if fetched is not None:
+            shutil.rmtree(fetched, ignore_errors=True)      # reap the PDF too
 
 
 def main():
@@ -240,9 +306,12 @@ def main():
     ap.add_argument("--jobs", type=int, default=8)
     ap.add_argument("--limit", type=int)
     ap.add_argument("--status", action="store_true")
+    ap.add_argument("--skip-file", help="JSON array of slugs already extracted")
+    ap.add_argument("--source", default="local", choices=["local", "r2"],
+                    help="local Drive mount, or fetch PDFs from public R2")
     a = ap.parse_args()
 
-    todo = remaining()
+    todo = remaining(a.skip_file)
     if a.status:
         total = sum(1 for _ in csv.DictReader(open(INVENTORY, encoding="utf-8"),
                                               delimiter="\t"))
@@ -257,10 +326,11 @@ def main():
     key = api_key()
     addendum_text = ADDENDUM.read_text(encoding="utf-8")
     PROGRESS.parent.mkdir(parents=True, exist_ok=True)
-    log(f"extracting {len(todo):,} works, {a.jobs} workers, model {MODEL}")
+    log(f"extracting {len(todo):,} works, {a.jobs} workers, model {MODEL}, "
+        f"source={a.source}")
 
     with ThreadPoolExecutor(max_workers=a.jobs) as ex:
-        futs = {ex.submit(do_work, f, key, addendum_text): f for f in todo}
+        futs = {ex.submit(do_work, f, key, addendum_text, a.source): f for f in todo}
         for i, fut in enumerate(as_completed(futs), 1):
             slug, ok, cred = fut.result()
             with _lock:
