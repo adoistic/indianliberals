@@ -680,6 +680,12 @@ const series = defineCollection({
     // Nesting: the A. D. Shroff Memorial Lecture booklets are themselves part of
     // the wider Forum of Free Enterprise run.
     parent_series: z.string().optional(),
+    // Nesting across surfaces: a print run that belongs to a magazine rather
+    // than to another print run. The Selections from 'The Indian Libertarian'
+    // are an anthology OF that fortnightly, so they belong on the magazine's
+    // page rather than competing with it as a separate run on the index.
+    // Value is a periodical series id from SERIES_META in lib/periodicals.ts.
+    parent_periodical: z.string().optional(),
     // True when items carry their own printed number (so we can render "No. 12"
     // and flag gaps). False for date-ordered runs like the FFE booklets, whose
     // colophon carries a date rather than a serial number.

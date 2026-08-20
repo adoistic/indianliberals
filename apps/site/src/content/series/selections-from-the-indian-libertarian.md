@@ -8,6 +8,7 @@ blurb: >-
   itself had stopped — read alongside the full issue run under Periodicals.
 kind: multi_part_work
 publisher_id: libertarian-publishers
+parent_periodical: indian-libertarian
 numbered: true
 needs_review: true
 draft: false

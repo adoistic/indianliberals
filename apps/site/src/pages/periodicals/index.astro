@@ -16,7 +16,7 @@ import BaseLayout from "~/layouts/BaseLayout.astro";
 import { collectionPageNode, breadcrumbNode } from "~/lib/schema";
 import { ogSection } from "~/lib/og";
 import { getPeriodicalSeries } from "~/lib/periodicals";
-import { getSeries, KIND_LABEL, countAll } from "~/lib/series";
+import { getSeries, getPeriodicalAttachments, KIND_LABEL, countAll } from "~/lib/series";
 import { siteCopy, t, fmt } from "~/lib/site-copy";
 
 const copy = await siteCopy("section-periodicals");
@@ -24,10 +24,16 @@ const copy = await siteCopy("section-periodicals");
 const periodicalGroups = await getPeriodicalSeries();
 const seriesGroups = await getSeries();
 
+// Runs that hang off a magazine are not listed here, but they are still in the
+// archive and still runs. Counting only what this page lists would make moving
+// a run under its magazine look like works had gone missing.
+const attachedGroups = await getPeriodicalAttachments();
+
 const issueCount = periodicalGroups.reduce((n, g) => n + g.items.length, 0);
 const seriesWorkCount = seriesGroups.reduce((n, g) => n + countAll(g), 0);
-const runCount = periodicalGroups.length + seriesGroups.length;
-const totalWorks = issueCount + seriesWorkCount;
+const attachedWorkCount = attachedGroups.reduce((n, g) => n + countAll(g), 0);
+const runCount = periodicalGroups.length + seriesGroups.length + attachedGroups.length;
+const totalWorks = issueCount + seriesWorkCount + attachedWorkCount;
 ---
 
 <BaseLayout

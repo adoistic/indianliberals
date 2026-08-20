@@ -145,11 +145,15 @@ export function countAll(g: SeriesGroup): number {
   return g.items.length + g.children.reduce((n, c) => n + countAll(c), 0);
 }
 
+const bySize = (a: SeriesGroup, b: SeriesGroup) =>
+  b.items.length - a.items.length || a.entry.data.name.localeCompare(b.entry.data.name);
+
 /**
- * All series, nested one level (a memorial lecture sits under the booklet run
- * that printed it) and ordered by kind then size.
+ * Every series, keyed by id, with `children` already populated from
+ * `parent_series`. Groups attached to a periodical are in here too — they have
+ * their own page, they are only kept off the top-level index.
  */
-export async function getSeries(): Promise<SeriesGroup[]> {
+async function buildAll(): Promise<Map<string, SeriesGroup>> {
   const [entries, works] = await Promise.all([
     getCollection("series", (s) => !s.data.draft),
     getCollection("primary-works", isListed),
@@ -166,16 +170,30 @@ export async function getSeries(): Promise<SeriesGroup[]> {
   const groups = new Map<string, SeriesGroup>();
   for (const e of entries) groups.set(e.id, await buildGroup(e, byseries));
 
-  const roots: SeriesGroup[] = [];
   for (const g of groups.values()) {
     const parent = g.entry.data.parent_series;
     if (parent && groups.has(parent)) groups.get(parent)!.children.push(g);
-    else roots.push(g);
   }
-
-  const bySize = (a: SeriesGroup, b: SeriesGroup) =>
-    b.items.length - a.items.length || a.entry.data.name.localeCompare(b.entry.data.name);
   for (const g of groups.values()) g.children.sort(bySize);
+  return groups;
+}
+
+/**
+ * The top-level print runs, nested one level (a memorial lecture sits under the
+ * booklet run that printed it) and ordered by kind then size.
+ *
+ * A run with `parent_periodical` is NOT here. An anthology of a magazine is not
+ * a peer of that magazine, and listing both side by side on the index invites a
+ * reader to treat them as two unrelated runs. It is reached through the
+ * magazine's own page instead — see getPeriodicalAttachments.
+ */
+export async function getSeries(): Promise<SeriesGroup[]> {
+  const groups = await buildAll();
+  const roots = [...groups.values()].filter((g) => {
+    const parent = g.entry.data.parent_series;
+    if (parent && groups.has(parent)) return false;
+    return !g.entry.data.parent_periodical;
+  });
   roots.sort(
     (a, b) =>
       KIND_ORDER.indexOf(a.entry.data.kind) - KIND_ORDER.indexOf(b.entry.data.kind) || bySize(a, b),
@@ -183,16 +201,26 @@ export async function getSeries(): Promise<SeriesGroup[]> {
   return roots;
 }
 
-/** Flattened list (roots + children), for getStaticPaths. */
+/**
+ * Print runs that belong to a periodical run, for rendering on that magazine's
+ * page. Pass no id to get every attached run (the index needs them for its
+ * totals, so that moving a run under a magazine does not silently shrink the
+ * archive's advertised size).
+ */
+export async function getPeriodicalAttachments(periodicalId?: string): Promise<SeriesGroup[]> {
+  const groups = await buildAll();
+  return [...groups.values()]
+    .filter((g) => {
+      const pp = g.entry.data.parent_periodical;
+      return pp != null && (periodicalId === undefined || pp === periodicalId);
+    })
+    .sort(bySize);
+}
+
+/** Flattened list (roots + children + periodical attachments), for getStaticPaths. */
 export async function getAllSeriesGroups(): Promise<SeriesGroup[]> {
-  const roots = await getSeries();
-  const out: SeriesGroup[] = [];
-  const walk = (g: SeriesGroup) => {
-    out.push(g);
-    g.children.forEach(walk);
-  };
-  roots.forEach(walk);
-  return out;
+  const groups = await buildAll();
+  return [...groups.values()];
 }
 
 /** The series a single work belongs to — used on the work detail page. */
