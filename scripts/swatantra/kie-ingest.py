@@ -52,7 +52,10 @@ CORPUS = os.environ.get("LLM_EXTRACT_PDF_ROOT",
     "Swatantra Party papers")
 R2_BASE = os.environ.get("SWATANTRA_R2_BASE",
                          "https://archive.indianliberals.in/swatantra-party-papers")
-BAKE = REPO / "data/bake-off-output"
+# Where extraction records land. The cloud run wrote into its own tree and
+# that tree is what got rsynced back, so a retry has to be pointed at it
+# rather than at the laptop's original bake directory.
+BAKE = Path(os.environ.get("KIE_BAKE_ROOT", REPO / "data/bake-off-output"))
 INVENTORY = REPO / "data/swatantra-papers/inventory.tsv"
 PIN_THINKERS = REPO / "data/swatantra-papers/pin-thinkers.json"
 ADDENDUM = REPO / "scripts/llm-extract/prompts/metadata-weak-model-addendum.md"
@@ -144,6 +147,25 @@ def remaining(skip_file=None):
     return [f for _, f in todo]
 
 
+def missing_summaries():
+    """Works whose metadata landed but whose summary did not.
+
+    These are not failed works — the record exists and is usable. Only the
+    summary job returned something unparseable, so a retry re-runs that one
+    job (do_work skips whatever is already on disk) at about a third of the
+    cost of a full re-extraction.
+    """
+    rows = list(csv.DictReader(open(INVENTORY, encoding="utf-8"), delimiter="\t"))
+    todo = []
+    for r in rows:
+        slug = os.path.splitext(r["file"])[0]
+        d = BAKE / slug
+        if (d / "metadata.a.a.json").exists() and not (d / "summary.json").exists():
+            todo.append((int(r["pages"]), r["file"]))
+    todo.sort()
+    return [f for _, f in todo]
+
+
 def _slugify(name):
     stem = re.sub(r"\.pdf$", "", name, flags=re.I)
     stem = unicodedata.normalize("NFKD", stem).encode("ascii", "ignore").decode()
@@ -229,20 +251,50 @@ def post(system_text, user_text, images, key, attempts=4):
     return None, 0.0, last
 
 
+# gpt-5-6-luna has one systematic JSON failure, and it accounts for 58 of the
+# 59 unparseable responses captured from the first full run. Asked for a
+# multi-paragraph summary, it opens the second paragraph as a fresh object
+# ENTRY rather than continuing the string:
+#
+#     {
+#       "summary": "First paragraph ...",
+#       "The letter also asks Raju to ...",     <- bare string, no key
+#       "extent_caveat": false,
+#
+# That is a string literal sitting where a key/value pair belongs, so the
+# whole object is invalid. The content is intact; only the punctuation between
+# paragraphs is wrong. Splice such a string onto the preceding value instead of
+# discarding the response — re-asking costs a call and loses the paragraph
+# anyway, since the model makes the same mistake on the retry about 10% of the
+# time. The lookahead is what keeps this safe: a real key is followed by ':',
+# so only strings followed by ',' or '}' are treated as runaway paragraphs.
+_BARE_STRING = re.compile(r'"\s*,\s*\n\s*"((?:[^"\\]|\\.)*)"(?=\s*[,}])')
+
+
+def _splice_bare_strings(t):
+    prev = None
+    while prev != t:
+        prev = t
+        t = _BARE_STRING.sub(lambda m: " " + m.group(1) + '"', t, count=1)
+    return t
+
+
 def parse_json(t):
     t = (t or "").strip()
     if t.startswith("```"):
         t = re.sub(r"^```(?:json)?\s*", "", t)
         t = re.sub(r"\s*```$", "", t)
-    try:
-        return json.loads(t)
-    except json.JSONDecodeError:
-        i, j = t.find("{"), t.rfind("}")
+    for candidate in (t, _splice_bare_strings(t)):
+        try:
+            return json.loads(candidate)
+        except json.JSONDecodeError:
+            pass
+        i, j = candidate.find("{"), candidate.rfind("}")
         if i >= 0 and j > i:
             try:
-                return json.loads(t[i:j + 1])
+                return json.loads(candidate[i:j + 1])
             except json.JSONDecodeError:
-                return None
+                pass
     return None
 
 
@@ -316,13 +368,18 @@ def main():
     ap.add_argument("--skip-file", help="JSON array of slugs already extracted")
     ap.add_argument("--source", default="local", choices=["local", "r2"],
                     help="local Drive mount, or fetch PDFs from public R2")
+    ap.add_argument("--retry-summaries", action="store_true",
+                    help="re-run only the summary job for works that have "
+                         "metadata but no summary")
     a = ap.parse_args()
 
-    todo = remaining(a.skip_file)
+    todo = missing_summaries() if a.retry_summaries else remaining(a.skip_file)
     if a.status:
         total = sum(1 for _ in csv.DictReader(open(INVENTORY, encoding="utf-8"),
                                               delimiter="\t"))
-        print(f"corpus {total:,} | done {total-len(todo):,} | remaining {len(todo):,}")
+        print(f"corpus {total:,} | done {total-len(remaining(a.skip_file)):,} | "
+              f"remaining {len(remaining(a.skip_file)):,} | "
+              f"missing summaries {len(missing_summaries()):,}")
         return 0
     if a.limit:
         todo = todo[:a.limit]
