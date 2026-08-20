@@ -1,7 +1,7 @@
 ---
 id: 5335-letter-to-sant-kumar-chopra-14-09-1959
 title:
-  main: "Letter to Sant Kumar Chopra"
+  main: "[Letter to Sant Kumar Chopra]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "place_not_stated"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Sant Kumar Chopra
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office letter, dated 14 September 1959, is addressed to Mr. Sant Kumar Chopra in New Delhi. Miss B.S. Mirza writes in her capacity as secretary to M. R. Masani, acknowledging Chopra's postcard of 7 September concerning Masani's departure for the United Kingdom.
 ---
 
-Archive item 5335; dated 1959-09-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 14 September 1959.
+- It is addressed to Mr. Sant Kumar Chopra at 44/6/IV, Lajpat Nagar, New Delhi.
+- It acknowledges Chopra's postcard No. 7559 of 7 September.
+- The postcard was addressed to M. R. Masani as he was leaving India for the United Kingdom.
+- Masani expresses thanks for Chopra's kind offer and says he will keep Chopra's interest in mind.
+- The letter is signed by Miss B.S. Mirza, identified as Secretary to Mr. M. R. Masani.

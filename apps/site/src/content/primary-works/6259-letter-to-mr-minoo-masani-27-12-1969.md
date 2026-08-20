@@ -1,23 +1,21 @@
 ---
 id: 6259-letter-to-mr-minoo-masani-27-12-1969
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BHUBANESWAR"
   year: 1969
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "no_issuer_id"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, written on the Chief Minister of Orissa State’s letterhead in Bhubaneswar and dated 27 December 1969, is addressed to M. R. Masani, M.P. R. N. Singh Deo thanks Masani for sending a message of condolence following a bereavement.
+  
+  The letter emphasizes the consoling value of remembrance and sympathy and closes with a formal expression of thanks. No printed title, publication information, or wider correspondence context appears on the page.
 ---
 
-Archive item 6259; dated 1969-12-27; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a single-page official/personal letter dated 27 December 1969.
+- It is sent from Bhubaneswar on the letterhead of R. N. Singh Deo, identified as Chief Minister.
+- The recipient is Sri M. R. Masani, M.P., at an address on Mahatma Gandhi Road, Bombay-1.
+- The letter thanks Masani for a message of condolence.
+- The sender says that Masani’s remembrance and sympathy provided consolation during the bereavement.
+- The page includes handwritten annotations and a handwritten signature.

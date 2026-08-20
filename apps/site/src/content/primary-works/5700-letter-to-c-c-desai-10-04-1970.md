@@ -1,22 +1,22 @@
 ---
 id: 5700-letter-to-c-c-desai-10-04-1970
 title:
-  main: "Letter to C C Desai"
+  main: "Express Letter"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_publisher"
+  - "no_publication_issuer"
+  - "no_identifiers"
+  - "no_venue"
+  - "no_delivery_date_distinct_from_letter_date"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: C C Desai
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page express letter from C. Rajagopalachari, dated 10 April 1970, responds to a letter from C. C. Desai dated 7 April. Rajagopalachari advises Desai to resign from the Party, presenting resignation as the best course for both the Party and Desai himself.
 ---
 
-Archive item 5700; dated 1970-04-10; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a personal political letter dated 10 April 1970.
+- Rajagopalachari acknowledges receiving Desai's letter dated 7 April 1970.
+- He advises C. C. Desai to resign from the Party.
+- A handwritten addition describes resignation as best for both the Party and Desai.
+- The letter is signed by C. Rajagopalachari and addressed to C. C. Desai, M.P.

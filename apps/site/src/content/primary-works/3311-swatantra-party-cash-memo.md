@@ -1,9 +1,9 @@
 ---
 id: 3311-swatantra-party-cash-memo
 title:
-  main: "Swatantra Party Cash Memo"
+  main: "[Swatantra Party Cash Memo]"
   subtitle: ""
-work_type: circular
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -11,11 +11,10 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -25,15 +24,34 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "author_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page handwritten memo on Swatantra Party Central Office letterhead records a financial calculation involving a principal payment of Rs. 120,000, apparently due by “Rajaghat” or a similarly written name. It adds interest of Rs. 20,131 for the period from July 1961 to October 1963, producing a subtotal of Rs. 140,131.
+  
+  The memo then records interest due from “S. Party (Central)” amounting to Rs. 13,753 and gives a final total of Rs. 153,884. The page does not identify an author, recipient, complete date, or the precise institutional relationship between the parties.
 ---
 
-Archive item 3311; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a handwritten financial memo on Swatantra Party Central Office letterhead.
+- It records a principal payment of Rs. 120,000.
+- Interest of Rs. 20,131 is calculated for July 1961 to October 1963.
+- The principal and first interest amount produce a subtotal of Rs. 140,131.
+- A further interest amount of Rs. 13,753 is attributed to “S. Party (Central).”
+- The final amount recorded is Rs. 153,884.
+- The author, recipient, complete date, and exact reference behind “Rajaghat” are not identified.

@@ -1,7 +1,7 @@
 ---
 id: 6201-letter-from-v-p-bhatia-20-02-1970
 title:
-  main: "Letter from V P Bhatia"
+  main: "[Letter from V P Bhatia]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "recipient_role_unclear"
+  - "sender_name_only_partially_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: V P Bhatia
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English office letter, dated February 20, 1970, is a brief administrative communication from Mr. V. P. Bhatia of the Swatantra Party in Bombay. It is addressed to Narayan, care of Minoo Masani, at 2 Tughlaq Road, New Delhi 11.
 ---
 
-Archive item 6201; dated 1970-02-20; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a typed office letter and confirmatory copy.
+- It is dated February 20, 1970.
+- The letter is addressed to Narayan, care of Masani.
+- Bhatia asks the recipient to collect an airfreight consignment.
+- The consignment note number is handwritten as “AH 149324” or a very similar reading.
+- The sender block identifies Mr. V. P. Bhatia at 143, M.G. Road, Swatantra Party, Bombay-1.

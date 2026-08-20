@@ -1,9 +1,9 @@
 ---
 id: 1535-swatantra-newsletter-no-46-august-september-1964
 title:
-  main: "Swatantra Newsletter No-46 August-September-1964"
+  main: "Swatantra Newsletter"
   subtitle: ""
-work_type: letter
+work_type: periodical_issue
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "ISSUED BY THE CENTRAL OFFICE OF THE SWATANTRA PARTY, 143 MAHATMA GANDHI ROAD, FORT, BOMBAY. TELEPHONE NO : 29687"
+  place: "Bombay"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 8
   pages_total_source: pypdfium2
@@ -26,15 +27,32 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - monetary-policy
+  - fiscal-policy
+proposed_themes:
+  - "party-politics"
+  - "economic-liberty"
+  - "planning-critique"
+  - "agricultural-reform"
+  - "regulatory-state-critique"
+  - "governance-reform"
+  - "socialism-debate"
+missing_metadata_flags:
+  - "no_formal_toc"
+  - "editor_not_named"
+  - "no_isbn"
+  - "no_issn"
+  - "no_oclc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 1535; dated 1964-09; 8 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+Archive item 1535. Scanned document from the Swatantra Party papers.

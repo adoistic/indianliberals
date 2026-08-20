@@ -1,22 +1,23 @@
 ---
 id: 4403-what-deters-indias-liberals-the-economic-times-mumbai-18-05-1999
 title:
-  main: "What Deters Indias Liberals-The Economic Times Mumbai"
+  main: "What deters India’s liberals?"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: periodical_issue
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "THE ECONOMIC TIMES MUMBAI"
+  place: "Mumbai"
   year: 1999
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -27,14 +28,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "liberalism-as-tradition"
+  - "indian-liberal-history"
+  - "party-politics"
+  - "electoral-reform"
+  - "constitutionalism"
+  - "socialism-debate"
+missing_metadata_flags:
+  - "formal_toc_not_present"
+  - "publisher_authority_unresolved"
+  - "sharad_joshi_authority_unresolved"
+  - "parth_j_shah_authority_unresolved"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 4403; dated 1999-05-18; 3 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+Archive item 4403. Scanned document from the Swatantra Party papers.

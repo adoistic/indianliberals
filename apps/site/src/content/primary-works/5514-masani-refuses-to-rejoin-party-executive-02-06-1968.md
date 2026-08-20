@@ -1,22 +1,22 @@
 ---
 id: 5514-masani-refuses-to-rejoin-party-executive-02-06-1968
 title:
-  main: "Masani refuses to rejoin party Executive"
+  main: "Masani Refuses to Rejoin Party Executive"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Mail, Madras"
+  place: "Madras"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "author_unresolved"
+  - "publisher_not_resolved"
+  - "no_publication_date_beyond_year"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This 2 June 1968 report from Mail, Madras describes M. R. Masani's refusal to rejoin the Swatantra Party's National Executive. Masani had resigned after what the report calls indiscipline among Gujarat legislators contributed to the defeat of the party's official candidate in biennial Rajya Sabha elections. Although he declined re-election to the executive, he told the General Council that he would continue working for the party in Parliament and outside it.
+  
+  The report also records two disputed resolutions before the General Council: one urging the National Executive to create conditions that would allow Masani to return, and another proposing an inquiry into allegations against party members in Gujarat and alleged disciplinary inaction against C. C. Desai. Both resolutions were put to a vote and declared lost. The meeting was held at Srinivasa Sastri Hall, Mylapore, under Professor M. Ruthnaswami, with sixty out of 170 members attending; C. Rajagopalachari was also present.
 ---
 
-Archive item 5514; dated 1968-06-02; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- M. R. Masani declined re-election to the Swatantra Party National Executive.
+- He nevertheless pledged to continue working for the party in Parliament and outside it.
+- Masani's resignation followed reported indiscipline among Gujarat legislators.
+- The dispute was connected to the defeat of the party's official candidate in biennial Rajya Sabha elections.
+- A proposal by N. Dandekar to re-elect Masani to the National Executive was accepted by Masani, according to the report.
+- Two resolutions concerning Masani's return and alleged party indiscipline were defeated.
+- The General Council meeting took place in Mylapore with 60 of 170 members present, and C. Rajagopalachari attended.

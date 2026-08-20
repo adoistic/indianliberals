@@ -1,22 +1,22 @@
 ---
 id: 2448-letter-to-regional-transport-officer-regarding-jeep-no-mrg2347-06-05-1985
 title:
-  main: "Letter to Regional Transport Officer Regarding Jeep No-MRG2347"
+  main: "[Letter to Regional Transport Officer Regarding Jeep No-MRG2347]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY"
   year: 1985
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "property-rights"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "issuer_not_identified"
+  - "no_publication_imprint"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Regional Transport Officer Regarding Jeep No-MRG2347
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page letter dated 6 May 1985, M. R. Masani writes to the Regional Transport Officer in Bombay about a demand notice concerning Jeep MRG-2347. He states that he neither owns nor possesses the vehicle and is therefore returning the notice. Masani explains that the Jeep belonged to the Swatantra Party and had been disposed of in 1967, with due notice of the sale given to the authorities.
 ---
 
-Archive item 2448; dated 1985-05-06; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani responds to a demand notice concerning vehicle MRG-2347.
+- He denies owning or possessing the vehicle.
+- He says the Jeep was formerly owned by the Swatantra Party.
+- He states that the vehicle was sold or otherwise disposed of in 1967.
+- He asks the transport authorities not to harass him regarding nine vehicles sold by the Swatantra Party.
+- The letter lists the vehicle registrations covered by his request.

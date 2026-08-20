@@ -1,23 +1,21 @@
 ---
 id: 6128-letter-to-s-v-raju-30-04-1970
 title:
-  main: "Letter to S V Raju"
+  main: "[Letter to S V Raju]"
   subtitle: ""
 work_type: letter
-authors:
-  - s-v-raju
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "recipient_role_uncertain"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office letter, dated 30 April 1970 and marked “confirmation copy,” is addressed to Raju, care of Surajya, in Bombay. The signer, identified only as “MASANI,” asks the recipient to arrange a news-agency report based on the newsletter, for publication in its second or third May issue. No title, publisher, or fuller description of the newsletter is printed on the page.
 ---
 
-Archive item 6128; dated 1970-04-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a single-page typed office letter.
+- It is dated 30 April 1970.
+- The letter is marked “confirmation copy.”
+- The addressee is Raju, care of Surajya, Bombay.
+- The signer is identified only as “MASANI.”
+- The request concerns arranging a news-agency report.
+- The report is intended for publication in the newsletter’s second or third May issue.

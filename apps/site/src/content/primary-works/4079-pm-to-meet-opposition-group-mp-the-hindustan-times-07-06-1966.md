@@ -1,22 +1,20 @@
 ---
 id: 4079-pm-to-meet-opposition-group-mp-the-hindustan-times-07-06-1966
 title:
-  main: "PM to meet Opposition group MP-The Hindustan Times"
+  main: "PM to meet Opposition group MPs"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1966
+  place: "New Delhi"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +24,32 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - monetary-policy
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "author_not_named"
+  - "publisher_not_printed"
+  - "year_not_printed"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This newspaper report, datelined New Delhi, June 6, states that Prime Minister Indira Gandhi had sent telegrams to opposition-group members of both Houses of Parliament, inviting them to meet her individually or in groups over the next few days. The meetings were intended to discuss informally the background and implications of the decision to devalue the rupee.
 ---
 
-Archive item 4079; dated 1966-06-07; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Prime Minister Indira Gandhi proposed meeting opposition-group MPs.
+- The meetings were to take place individually or in small groups.
+- The stated purpose was an informal discussion of the rupee devaluation.
+- The report says Gandhi regarded the devaluation as a national issue requiring discussion with important party leaders.
+- Telegram recipients included members associated with the Communist Party, Swatantra, PSP, SSP, DMK, Jan Sangh, and Republican Party, among others.

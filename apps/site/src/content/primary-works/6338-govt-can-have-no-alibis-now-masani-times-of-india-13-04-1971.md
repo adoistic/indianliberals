@@ -1,22 +1,22 @@
 ---
 id: 6338-govt-can-have-no-alibis-now-masani-times-of-india-13-04-1971
 title:
-  main: "Govt Can Have No Alibis Now-Masani-Times Of India"
+  main: "Govt. can have no alibis now: Masani"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: essay
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "TIMES OF INDIA."
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "governance-reform"
+  - "party-politics"
+  - "individual-rights"
+missing_metadata_flags:
+  - "no_explicit_author_byline"
+  - "no_publisher_address"
+  - "no_place"
+  - "no_edition"
+  - "no_identifiers"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page Times of India report, dated 13 April 1971, records remarks by M. R. Masani at a meeting of the Bombay Jain Youth Sangh. Masani warned that the political crisis in Ceylon could be repeated in India, arguing that Mrs. Sirimavo Bandaranaike had made election promises and used slogans similar to those associated with Mrs. Gandhi, but was now facing civil war because she had been unable to fulfil them.
+  
+  Masani argued that India's new government, given its position and strength, could no longer offer excuses for poor performance. It would, he said, be directly accountable to the people. He also explained his desire to become party president as an attempt to bring new people into leadership, while the report notes that Chimanlal C. Shah welcomed him and presided over the meeting. The clipping is a reported article credited to “A Staff Reporter,” rather than a conventional essay authored by Masani.
 ---
 
-Archive item 6338; dated 1971-04-13; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- Masani warned that events in Ceylon could be repeated in India.
+- He compared Bandaranaike's election promises and slogans with those of Mrs. Gandhi.
+- He attributed Ceylon's civil war to the government's inability to fulfil its promises.
+- He argued that India's new government could no longer use past failures as alibis.
+- He said the government would be directly accountable to the people.
+- He presented his candidacy for party president as an effort to bring new people into leadership.

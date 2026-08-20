@@ -1,9 +1,10 @@
 ---
 id: 396-swatantra-party-minutes-of-meeting-02-03-1970
 title:
-  main: "Swatantra Party Minutes of Meeting"
+  main: "TIP"
   subtitle: ""
 work_type: minutes
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARLIAMENTARY PARTY"
+  place: "New Delhi"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +29,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "parliamentary"
+missing_metadata_flags:
+  - "subtitle_not_printed"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Parliamentary Party circular, dated March 2, 1970, instructs party members on parliamentary voting during debate on amendments to the motion of thanks on the President's Address. It states that the Leader and Deputy Leader will determine the party line and asks all members to remain in the House until voting is concluded.
+  
+  Issued from New Delhi and signed by D. N. Deb, identified as TIP, the document is an internal party communication focused on coordinated legislative participation and attendance.
 ---
 
-Archive item 396; dated 1970-03-02; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a Swatantra Parliamentary Party communication dated March 2, 1970.
+- The Leader and Deputy Leader are to indicate the party's voting line.
+- The instruction concerns amendments to the motion of thanks on the President's Address.
+- Party members are asked to be present in the House during the proceedings.
+- Attendance is requested until final voting on the motion of thanks is completed.
+- The circular is signed by D. N. Deb and marked TIP.

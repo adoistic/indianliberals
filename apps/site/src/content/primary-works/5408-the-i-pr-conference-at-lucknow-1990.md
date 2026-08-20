@@ -1,22 +1,20 @@
 ---
 id: 5408-the-i-pr-conference-at-lucknow-1990
 title:
-  main: "The I PR Conference at Lucknow-1990"
+  main: "The I.P.R. Conference at Lucknow"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1990
+  year: 1952
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -27,14 +25,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+  - "cold-war-positioning"
+missing_metadata_flags:
+  - "author_not_explicitly_byline"
+  - "no_publisher_line"
+  - "no_place_of_publication"
+  - "no_edition_statement"
+  - "no_series_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This four-page English extract, identified at the top as a speech taken from the Tata Monthly Bulletin of November 1952, describes the Institute of Pacific Relations (I.P.R.) conference held at Lucknow. The unnamed speaker explains that the I.P.R. was a non-governmental, non-partisan association devoted to studying international affairs in the Pacific and Far East. The Lucknow meeting, themed “Nationalism in Asia and its international consequences,” brought together delegates and guests from Asia, Europe, North America, and the Pacific region.
+  
+  The account presents the conference as an educational forum rather than a body intended to reach binding decisions. Delegates worked in successive “Round Tables” on regional, political, economic, social, and financial questions, with the principal gains said to be greater knowledge, mutual understanding, and personal contacts. The extract then considers criticism of the conference, especially accusations that American delegates and the I.P.R. had treated Asian concerns through an anti-communist or pro-American lens. It concludes by questioning whether India was becoming intellectually isolated from both the West and its Asian neighbours, while presenting Southeast and East Asian delegates’ calls for economic, technical, and strategic assistance as a challenge to Indian non-alignment or isolationism.
 ---
 
-Archive item 5408; dated 1990; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The I.P.R. is described as an international, non-governmental, non-partisan association studying Pacific and Far Eastern affairs.
+- The Lucknow conference used regional and thematic “Round Tables” to exchange views rather than produce binding resolutions.
+- Delegates came from a wide range of Asian, Western, and Pacific countries, and the speaker stresses the value of cross-national contacts.
+- The conference produced no concrete agreements but was said to increase awareness of political attitudes and trends in other countries.
+- Indian and Pakistani criticism portrayed American policy as imperialistic and economically or strategically exploitative in Asia.
+- The speaker argues that these criticisms offered an incomplete account because much of the conference discussion was moderate and practical.
+- The extract highlights a divide between Indian positions and the security concerns of Southeast and East Asian countries facing communist expansion.
+- The conclusion asks whether India should reconsider an isolated approach to international affairs and attend more carefully to neighbouring countries’ perspectives.

@@ -1,23 +1,20 @@
 ---
 id: 5330-letter-to-d-v-gundappa-15-09-1959
 title:
-  main: "Letter to D V Gundappa"
+  main: "[Letter to D V Gundappa]"
   subtitle: ""
 work_type: letter
-authors:
-  - d-v-gundappa
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +25,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "author_name_uncertain"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated 15 September 1959, is addressed to D. V. Gundappa, honorary secretary of the Gokhale Institute of Public Affairs in Bangalore. Miss B.S. Hirza, identified as secretary to M. R. Masani, acknowledges Gundappa’s letter of 20 July and conveys Masani’s thanks for sending him the Institute’s journal.
 ---
 
-Archive item 5330; dated 1959-09-15; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 15 September 1959.
+- It is addressed to D. V. Gundappa.
+- Gundappa is identified as honorary secretary of the Gokhale Institute of Public Affairs.
+- The letter acknowledges receipt of Gundappa’s letter No. 5352 dated 20 July.
+- M. R. Masani had departed for the United Kingdom before the letter was sent.
+- Masani asked Miss B.S. Hirza to convey his thanks for the Institute’s journal.
+- The document is a brief administrative acknowledgment rather than a substantive argument.

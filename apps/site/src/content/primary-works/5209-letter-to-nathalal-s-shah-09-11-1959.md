@@ -1,22 +1,21 @@
 ---
 id: 5209-letter-to-nathalal-s-shah-09-11-1959
 title:
-  main: "Letter to Nathalal S Shah"
+  main: "[Letter to Nathalal S Shah]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Nathalal S Shah
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page typed letter, dated 9 November 1959, is from M. R. Masani in his capacity as Secretary to Mr. Nathalal S. Shah of the UIC Mills P.O. in Nishatganj, Lucknow. Masani acknowledges Shah’s letter of 3 October concerning Masani’s movements.
 ---
 
-Archive item 5209; dated 1959-11-09; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 9 November 1959.
+- It is addressed to Mr. Nathalal S. Shah in Lucknow.
+- Masani refers to Shah’s letter of 3 October.
+- The subject is identified as Mr. M. R. Masani’s movements.
+- Masani was expected to reach Delhi on 16 November.
+- The purpose of the visit was to attend Parliament’s winter session.
+- The letter is signed in Masani’s capacity as Secretary.

@@ -1,7 +1,7 @@
 ---
 id: 2308-letter-to-mr-v-p-bhatia-26-12-1974
 title:
-  main: "Letter to Mr V P Bhatia"
+  main: "[Letter to Mr V P Bhatia]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY\nSASSOON BUILDING, 143. MAHATMA GANDHI RD.\nBOMBAY-1."
+  place: "Bombay-1"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +28,27 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: V P Bhatia
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office letter, dated December 26, 1974, is written on Swatantra Party letterhead from Bombay-1 and addressed to Mr. V. P. Bhatia. P. Narayan forwards three bills for September, October, and November 1974, covering the recipient’s share of rent and electricity charges.
 ---
 
-Archive item 2308; dated 1974-12-26; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated Dec. 26, 1974, and is issued on Swatantra Party letterhead.
+- It is addressed to Mr. V. P. Bhatia, whose address is given as BLD, Bombay.
+- Three bills are enclosed for September, October, and November 1974.
+- The listed amounts are Rs. 270.12, Rs. 348.08, and Rs. 207.24.
+- The letter requests remittance of Rs. 825.44 for the recipient’s share of rent and electricity charges.
+- Handwritten annotations on the page record dates, calculations, and a total.

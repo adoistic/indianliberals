@@ -1,21 +1,20 @@
 ---
 id: 184-co-relation-between-economic-development-and-political-stability
 title:
-  main: "Co-relation Between Economic Development and Political Stability"
+  main: "The Co-Relation Between Economic Development and Political Stability"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: essay
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 6
   pages_total_source: pypdfium2
@@ -25,15 +24,47 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - economic-development
+proposed_themes:
+  - "economic-liberty"
+  - "political-stability"
+  - "planning-critique"
+  - "civil-liberty"
+  - "capitalism-defence"
+  - "socialism-debate"
+  - "property-rights"
+  - "individual-rights"
+  - "liberalism-as-tradition"
+missing_metadata_flags:
+  - "no_year_visible"
+  - "no_publisher_visible"
+  - "no_place_visible"
+  - "no_edition_visible"
+  - "no_series_visible"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this six-page essay, M. R. Masani distinguishes political stability from the mere continuity of a government and economic development from growth pursued at the expense of human welfare. Stability is valuable when it rests on freedom and democracy, but not when it is produced by tyranny, slavery, or political serfdom. Likewise, development is morally ambiguous: growth without tears is beneficial, while growth achieved through exploitation and impoverishment is not prosperity. Masani therefore separates economic welfare from prosperity, treating the latter as dependent on how development is used.
+  
+  The essay argues that prosperity generally supports stability, but rejects any simple causal equation between poverty and revolution or between prosperity and political order. Historical, racial, personal, emotional, linguistic, and other non-economic factors—including conflicts over Kashmir, language, and ethnic identity—can be more politically decisive than economic conditions. Masani’s principal conclusion is that political stability is a prerequisite for economic progress, while the two objectives should also be pursued as goods in themselves. He closes by advocating a free competitive economy, consumer choice, peasant proprietorship, and a politically impartial state, and presents liberalism as an Indian tradition drawing both on Gandhi and on Western liberal thinkers.
 ---
 
-Archive item 184; 6 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Political stability means more than an absence of governmental change; its value depends on whether it is grounded in freedom and democracy.
+- Economic development can mean either beneficial progress or exploitative growth that impoverishes people.
+- Prosperity tends to support political stability, but poverty is not sufficient to explain revolutionary or communist politics.
+- Non-economic factors such as history, ethnicity, personality, emotion, language, and national identity complicate the relationship between development and stability.
+- Political stability is presented as necessary for production, distribution, and economic progress.
+- Economic development and free political institutions are desirable ends in themselves, not merely instruments for one another.
+- Masani advocates competitive free enterprise, consumer sovereignty, peasant proprietorship, and a state acting as an impartial referee.
+- The essay links Indian liberalism to Gandhi as well as to John Stuart Mill, Cobden, Bright, and Bentham.

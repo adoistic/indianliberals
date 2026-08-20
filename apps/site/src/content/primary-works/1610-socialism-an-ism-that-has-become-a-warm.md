@@ -1,9 +1,9 @@
 ---
 id: 1610-socialism-an-ism-that-has-become-a-warm
 title:
-  main: "Socialism An Ism That Has Become A Warm"
-  subtitle: ""
-work_type: letter
+  main: "SOCIALISM"
+  subtitle: "AN ISM THAT HAS BECOME A WASM"
+work_type: pamphlet
 authors: []
 editors: []
 contributors: []
@@ -11,11 +11,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Printed by S. R. KRISHNAN at Inland Printers, 55 Gandhi Road, Bombay 7 and published by S. V. RAJU for the Central Office of the Swatantra Party, 143, Mahatma Gandhi Road, Bombay 1."
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 6
   pages_total_source: pypdfium2
@@ -26,14 +27,41 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "socialism-debate"
+  - "planning-critique"
+  - "public-sector-critique"
+  - "economic-liberty"
+  - "capitalism-defence"
+  - "party-politics"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "author_not_named"
+  - "no_table_of_contents"
+  - "no_isbn"
+  - "no_issn"
+  - "no_oclc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This Swatantra Public Education Series pamphlet argues that socialism has become an outdated remedy whose reliance on state ownership, nationalisation, and economic controls produces bureaucratic inefficiency rather than prosperity. It opens with a satirical Burmese anecdote about a universal medicine, “Diamond Dagger,” using it as an analogy for socialist economic policy and warning that additional government undertakings can worsen the problems they claim to cure.
+  
+  The pamphlet supports its case with examples from Great Britain, West Germany, Yugoslavia, and Burma. It points to British electoral and Labour Party debates over nationalisation, West Germany’s prosperity under Ludwig Erhard’s free-market policies, Yugoslavia’s retreat from doctrinaire socialism toward competition, and Burma’s proposed withdrawal of the State from economic activity. Its concluding alternative is a regulated but non-regimented economy: the State should act as a catalyst, protect fair distribution, and leave room for individual initiative and enterprise. The pamphlet ends by urging support for the Swatantra Party under the slogan “For Farm, Family, Freedom.”
 ---
 
-Archive item 1610; 6 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Socialism is presented as an outdated economic doctrine, compared to a failed universal medicine.
+- The pamphlet criticises nationalisation, State ownership, excessive controls, and bureaucratic economic management.
+- British Labour’s retreat from nationalisation is used as evidence that socialist policies have become politically damaging.
+- West Germany’s prosperity is attributed to the free-market economic policies associated with Ludwig Erhard.
+- Yugoslavia and Burma are presented as examples of socialist governments moving toward competition or reduced State intervention.
+- The pamphlet distinguishes regulation aimed at fairness from regimentation of economic activity.
+- Its proposed programme combines individual enterprise, competition, taxation, and equitable distribution under Swatantra Party leadership.

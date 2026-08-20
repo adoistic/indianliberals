@@ -1,22 +1,21 @@
 ---
 id: 2364-letter-to-mr-p-k-deo-09-11-1979
 title:
-  main: "Letter to Mr P K Deo"
+  main: "[Letter to Mr P K Deo]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1979
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_issuer_identified"
+  - "no_edition"
+  - "no_series"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: P K Deo
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  Dated November 9, 1979, this letter from S. V. Raju to P. K. Deo addresses a vehicle-registration matter involving Jeep MRA 4093. Raju explains that the jeep, formerly belonging to the Swatantra Party, was sold to Deo shortly after the party's 1967 general-election campaign.
 ---
 
-Archive item 2364; dated 1979-11-09; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated November 9, 1979.
+- S. V. Raju writes to P. K. Deo, identified in the address as the former Maharaja of Kalahandi.
+- The Regional Transport Office in Bombay has inquired about the sale of Jeep MRA 4093.
+- The jeep belonged to the Swatantra Party and was sold to Deo after the 1967 general elections.
+- Raju asks Deo to send the Regional Transport Office a letter certifying that he purchased the vehicle from the Swatantra Party in 1967.

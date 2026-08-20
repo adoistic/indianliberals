@@ -1,22 +1,22 @@
 ---
 id: 6103-letter-to-k-venkatraman-26-06-1970
 title:
-  main: "Letter to K Venkatraman"
+  main: "[Letter to K Venkatraman]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "economic-liberty"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: K Venkatraman
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English letter, dated June 26, 1970, is addressed by S. V. Raju to K. Venkatraman, Secretary/Treasurer of the Southern Railway Mazdoor Union in Madras. Raju acknowledges Venkatraman’s earlier letter and forwards a message from M. R. Masani for the union’s seventh annual convention, expressing hope that it will arrive in time.
+  
+  The attached message presents the Swatantra Party’s position that trade unions should be independent of political-party control and organised and conducted by workers themselves. Masani reiterates the party’s 1959 policy pledge that it will oppose the domination of trade unions by political parties, while remaining willing to assist unions in other ways. He closes by wishing the conference success and calling for an “enlightened and constructive approach” to India’s complicated problems.
 ---
 
-Archive item 6103; dated 1970-06-26; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- S. V. Raju’s letter is dated June 26, 1970, and addressed to K. Venkatraman in Madras.
+- The letter forwards an attached message from M. R. Masani to the Southern Railway Mazdoor Union’s seventh annual convention.
+- Masani identifies political-party control of trade unions as a problem.
+- The Swatantra Party’s stated position is that unions should be organised and conducted by workers themselves.
+- Masani quotes the party’s 1959 policy pledge against dominating trade unions while offering assistance to them.
+- The message ends with good wishes for the conference and an appeal for an enlightened, constructive approach to India’s problems.

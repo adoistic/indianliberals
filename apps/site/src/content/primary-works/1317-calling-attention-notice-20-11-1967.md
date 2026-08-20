@@ -1,22 +1,22 @@
 ---
 id: 1317-calling-attention-notice-20-11-1967
 title:
-  main: "Calling Attention Notice"
+  main: "CALLING ATTENTION NOTICE"
   subtitle: ""
-work_type: circular
-authors: []
+work_type: occasional_paper
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,15 +26,35 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - monetary-policy
+  - fiscal-policy
+proposed_themes:
+  - "economic-liberty"
+missing_metadata_flags:
+  - "no_publisher"
+  - "no_issuer"
+  - "no_edition_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page parliamentary office document is a Calling Attention Notice submitted by M. R. Masani, M.P., in New Delhi on November 20, 1967. Addressed to the Secretary of the Lok Sabha, it invokes rule 197 of the Rules of Procedure and Conduct of Business and gives notice of an intention to call the Minister of Finance's attention to a matter of urgent public importance.
+  
+  The matter identified is the devaluation of the British pound and its implications for the Indian economy. The rendered second page appears to be a poor-quality duplicate or continuation, but its text is not sufficiently legible to establish additional substantive content.
 ---
 
-Archive item 1317; dated 1967-11-20; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a parliamentary Calling Attention Notice.
+- It was issued in New Delhi on November 20, 1967.
+- M. R. Masani, M.P., addressed the notice to the Secretary of the Lok Sabha.
+- The notice is made under rule 197 of the Rules of Procedure and Conduct of Business.
+- Masani sought to call the Minister of Finance's attention to a matter of urgent public importance.
+- The stated subject is the devaluation of the British pound and its implications for India's economy.

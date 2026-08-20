@@ -1,23 +1,22 @@
 ---
 id: 6092-letter-to-piloo-mody-12-12-1962
 title:
-  main: "Letter to Piloo Mody"
+  main: "[Letter to Piloo Mody]"
   subtitle: ""
 work_type: letter
 authors:
-  - piloo-mody
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1962
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +27,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "edition_not_identified"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English document is a personal letter from C. Rajagopalachari to Piloo Mody, dated December 12, 1962. Writing from his Madras address, Rajagopalachari acknowledges Mody's letter of December 10 and the change in the date of a planned dinner.
 ---
 
-Archive item 6092; dated 1962-12-12; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated December 12, 1962.
+- C. Rajagopalachari writes to Piloo Mody.
+- Rajagopalachari acknowledges Mody's letter of December 10.
+- The dinner has been fixed for Sunday to improve attendance.
+- Rajagopalachari expects to attend despite leaving for Madras the following morning.
+- The second rendered page is an addressed inland-letter envelope rather than additional letter text.

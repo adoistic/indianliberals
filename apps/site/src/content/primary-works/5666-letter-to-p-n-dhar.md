@@ -1,7 +1,7 @@
 ---
 id: 5666-letter-to-p-n-dhar
 title:
-  main: "Letter to P N Dhar"
+  main: "[Letter to P N Dhar]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,12 +10,10 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -26,15 +24,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "press-freedom"
+  - "individual-rights"
+  - "free-speech"
+  - "emergency-critique"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "date_not_visible"
+  - "publisher_not_visible"
+  - "recipient_address_only"
+  - "no_authority_match"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: P N Dhar
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In the rendered pages, R.H. Goenka recounts a dispute over editorial control within the Express Group of newspapers. He says that editorial-policy guidelines were agreed in November 1975, circulated to editors, and subsequently followed by the group’s papers. Goenka distinguishes between constructive criticism of the Government and what he regards as unconditional support, arguing that a newspaper loses credibility if it abandons independent judgment.
+  
+  In the rendered pages, Goenka describes a later demand that the Chairman, Shri Shukla, receive exclusive administrative control over the editorial department, including the power to dismiss, appoint, transfer, and issue day-to-day instructions to editors. He rejects the proposal on legal and professional grounds, warns that submitting to it would damage editorial morale, credibility, and possibly the newspaper’s finances, and reports threats involving his family and detention under MISA. The letter is addressed to Shri P. N. Dhar and is signed by R.H. Goenka; no title or unambiguous date is visible on the supplied pages.
 ---
 
-Archive item 5666; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Goenka describes the formulation and circulation of editorial-policy guidelines for the Express Group.
+- He argues that the Indian Express must retain credibility by exercising independent editorial judgment.
+- He opposes a proposal to place complete administrative control of the editorial department in the Chairman.
+- He says the proposal would allow the Chairman to dismiss, appoint, transfer, and direct editors.
+- He presents the proposal as legally and professionally impermissible and potentially destructive of editorial morale and credibility.
+- He reports that pressure on him included threats concerning his son and daughter-in-law being detained under MISA.

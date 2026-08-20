@@ -1,7 +1,7 @@
 ---
 id: 3071-letter-to-n-g-ranga-13-08-1968
 title:
-  main: "Letter to N G Ranga"
+  main: "[Letter to N G Ranga]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "issuer_not_identified"
+  - "telegram_enum_unavailable"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: N G Ranga
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English archival communication, dated August 13, 1968, is a telegram-like message addressed to N. G. Ranga at his New Delhi residence. The clipped typed text conveys regret that the sender cannot come on Wednesday and states that the sender will return on the morning of the 19th. The document identifies the sender as Masani and gives an address associated with the Swatantra Party in Bombay.
+  
+  Page 2 preserves a handwritten confirmation copy of the same message, signed “Masani.” The document contains no discussion of policy, institutions, or political argument; it records a brief logistical exchange between Minoo Masani and N. G. Ranga.
 ---
 
-Archive item 3071; dated 1968-08-13; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a two-page English telegram-like archival communication dated August 13, 1968.
+- It is addressed to N. G. Ranga at 4 Sunder Nagar Road, New Delhi.
+- The sender regrets being unable to come on Wednesday.
+- The sender says they will return on the morning of the 19th.
+- The typed confirmation copy identifies Masani and gives an address at Swatantra Party, 143 M. Gandhi Road, Bombay 1.
+- The second page reproduces the message in handwriting and is signed “Masani.”

@@ -1,7 +1,7 @@
 ---
 id: 6123-letter-from-mr-minoo-masani-06-05-1970
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "recipient_not_authority_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated May 6, 1970, M. R. Masani responds to Jayaprakash Narayan's request for cooperation and support for a national appeal to raise a Gramdan Fund of one crore rupees. The money was intended to be presented to Acharya Vinoba Bhave on September 11.
+  
+  Masani explains that, as Party President, he sought the National Executive's concurrence before replying. He reports that the Executive advised him to decline signing the appeal because it included Gramdan, and he conveys that decision courteously to Narayan.
 ---
 
-Archive item 6123; dated 1970-05-06; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated May 6, 1970, and is addressed to Jayaprakash Narayan as “J.P.”
+- Masani is responding to a request dated April 3 for cooperation with a national appeal.
+- The appeal sought to raise a Gramdan Fund of one crore rupees.
+- The fund was to be presented to Acharya Vinoba Bhave on September 11.
+- Masani states that he sought the National Executive's guidance before replying.
+- He declined to sign the appeal because the proposed text included Gramdan.

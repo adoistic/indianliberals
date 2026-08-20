@@ -1,21 +1,19 @@
 ---
 id: 2090-tax-reduction
 title:
-  main: "Tax Reduction"
+  main: "TAX REDUCTION"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -25,15 +23,39 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "economic-liberty"
+  - "regulatory-state-critique"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "author_not_found"
+  - "publisher_not_found"
+  - "year_not_found"
+  - "place_not_found"
+  - "no_toc"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  The page presents tax reduction as a measure intended to stimulate production. It proposes two actions: a drastic reduction in taxation on individuals and corporations, linked to investment or the ploughing back of profits, and an increase in the income-tax exemption limit from Rs. 6,000 to at least Rs. 15,000. It cites the reduction of individual income tax from 48% to 77% in the 1974–75 Union Budget as a step in the right direction, although the printed figures appear internally inconsistent and may reflect a transcription or source error.
+  
+  The argument for raising the exemption limit rests on four considerations: depreciation of the rupee, the desirability of directing money held by fixed-income groups toward their children's welfare, reducing the administrative burden of processing large numbers of small assessments, and lowering the cost of tax collection. The following numbered section, “And finally, minimum controls,” argues that controls should remain in place but that regulations should be pared back. Only this interior page was available, so the broader argument, authorship, publication context, and preceding sections cannot be established.
 ---
 
-Archive item 2090; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Tax reduction is presented as a way to stimulate production.
+- The page calls for a drastic reduction in taxation on individuals and corporations.
+- Tax relief should be connected to investment or the reinvestment of profits.
+- The income-tax exemption limit should rise from Rs. 6,000 to at least Rs. 15,000.
+- The stated economic grounds include rupee depreciation, family welfare, administrative efficiency, and lower collection costs.
+- The next section advocates minimum controls and fewer regulations.

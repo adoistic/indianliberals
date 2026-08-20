@@ -1,22 +1,22 @@
 ---
 id: 5491-masani-keeps-key-post-national-herald-17-06-1969
 title:
-  main: "Masani Keeps Key Post-National Herald"
+  main: "Masani Keeps Key Post"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1969
+  publisher_name: "INTERNATIONAL CLIPPING SERVICE Bombay"
+  place: "Bombay"
+  year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_not_resolved"
+  - "no_publisher_address"
+  - "no_edition_statement"
+  - "no_identifier"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English news report from the National Herald, Lucknow, dated 17 June 1968, reports that M. R. Masani retained important organisational positions in the Swatantra Party despite resigning from the party's executive offices, including the working committee and parliamentary board. He remained deputy leader of the party's parliamentary group and continued as chairman of the Public Accounts Committee.
+  
+  The report attributes Masani's resignation to disagreement over the party line on the Gujarat affairs. It says that the line he advocated had not received sufficient support, and that the Swatantra candidate was defeated in Rajya Sabha elections after party legislators failed to vote for him. The article also describes disciplinary action against Gujarat party members and reports that Masani's plea against imposing exemplary punishments on all legislators who had supported the rebel candidate was rejected.
 ---
 
-Archive item 5491; dated 1969-06-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- M. R. Masani retained the post of deputy leader of the Swatantra Party's parliamentary group.
+- He resigned from the party's executive offices, including its working committee and parliamentary board.
+- Masani continued as chairman of the Public Accounts Committee.
+- The report links his resignation to disagreement over the party's position on the Gujarat affairs.
+- The Swatantra candidate was defeated in Rajya Sabha elections after party legislators did not vote for him.
+- The article reports disciplinary measures against Gujarat party members and rejection of Masani's plea for leniency.

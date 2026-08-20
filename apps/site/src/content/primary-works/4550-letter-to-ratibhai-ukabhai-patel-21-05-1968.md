@@ -1,7 +1,7 @@
 ---
 id: 4550-letter-to-ratibhai-ukabhai-patel-21-05-1968
 title:
-  main: "Letter to Ratibhai Ukabhai Patel"
+  main: "[Letter to Ratibhai Ukabhai Patel]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Rajkot"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "publisher_not_identified"
+  - "issuer_not_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Ratibhai Ukabhai Patel
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page express office communication, dated 21 May 1968, reports that a press release issued by Mr Masani had not appeared in Jaihind or other Rajkot newspapers. The Secretary to Mr Masani notes that copies were posted to Ratibhai Ukabhai Patel and Narottam Shah on 13 May and asks Patel to investigate the non-publication.
+  
+  The document is administrative rather than argumentative, but it records a specific concern about the circulation or publication of political press material in Rajkot. It is headed from Ratibhai Ukabhai Patel's Rajkot address and directed to the issue of press visibility in local newspapers.
 ---
 
-Archive item 4550; dated 1968-05-21; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is marked “EXPRESS” and uses clipped telegram-style language.
+- It is dated 21 May 1968.
+- The message concerns the non-appearance of Mr Masani's press release in Jaihind and other Rajkot newspapers.
+- Copies had reportedly been posted to Ratibhai Ukabhai Patel and Narottam Shah on 13 May.
+- The Secretary to Mr Masani asks Patel to investigate the matter.
+- The document's sender is identified only by office role, not by a personal name.

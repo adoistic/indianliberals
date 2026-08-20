@@ -1,23 +1,22 @@
 ---
 id: 4178-letter-to-mr-minoo-masani-05-08-1950
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1950
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "education"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_metadata"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page typed true copy of a letter dated 5 August 1950 is addressed to “Masani” from C. Rajagopalachari in New Delhi. Rajagopalachari comments wryly on the recipient’s “beautiful book” and urges him to consider becoming a schoolmaster rather than spending his talent among people who chatter “in inaudible and unintelligible words about nothing at all.”
+  
+  The letter also praises the recipient’s language while making a pointed argument for English-language education: Rajagopalachari says he could wish Masani were a teacher, but only if children spoke English as their “mother tongue.” He closes by calling the recipient’s language so good that it is “a pity” for it to be someone else’s language. The page does not print a title or identify the recipient by full name.
 ---
 
-Archive item 4178; dated 1950-08-05; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Rajagopalachari writes from 1 York Place, New Delhi, on 5 August 1950.
+- The letter is addressed to “Masani” and responds to the recipient’s “beautiful book.”
+- Rajagopalachari jokingly recommends that Masani become a schoolmaster.
+- The letter criticizes public discussion as consisting of “inaudible and unintelligible words about nothing at all.”
+- Rajagopalachari praises the recipient’s language and comments on the value of English as a mother tongue.
+- The document is a typed true copy signed “SD/- C. Rajagopalachari.”

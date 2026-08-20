@@ -1,23 +1,21 @@
 ---
 id: 3437-letter-to-c-rajagopalachari-29-05-1970
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
-  - c-rajagopalachari
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this confidential letter dated May 29, 1970, Minoo Masani reports to C. Rajagopalachari (“Rajaji”) on discussions among Morarji Desai, Ram Subhag Singh, Atal Bihari Vajpayee, and Madhok concerning a joint opposition response. Masani describes a proposed draft statement for the forthcoming AICC meeting and hopes that agreement between the Jan Sangh and other opposition forces might lead to a united parliamentary group with one leader, two deputy leaders, and a common discipline.
 ---
 
-Archive item 3437; dated 1970-05-29; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani reports on a Delhi meeting involving Morarji Desai, Ram Subhag Singh, Atal Bihari Vajpayee, and Madhok.
+- He has been entrusted with preparing a draft statement that might issue from the AICC meeting at the end of June.
+- The proposed project seeks a coordinated response between the Jan Sangh and other opposition parties.
+- Masani imagines a united parliamentary group with one leader, two deputy leaders, and common discipline.
+- He identifies opposition from Gujarat members as the principal obstacle to success.
+- He asks Rajagopalachari to consider the draft before a forthcoming meeting in Madras.
+- He also requests that Dr. Cooper report on Rajagopalachari's discussion with Morarjibhai.

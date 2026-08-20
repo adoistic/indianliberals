@@ -1,22 +1,20 @@
 ---
 id: 4457-masani-explains-manifesto-march-of-the-nation-06-02-1971
 title:
-  main: "Masani Explains Manifesto-March of the Nation"
+  main: "Masani Explains Manifesto"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "planning-critique"
+  - "economic-liberty"
+  - "property-rights"
+  - "public-sector-critique"
+  - "agricultural-reform"
+missing_metadata_flags:
+  - "no_explicit_byline"
+  - "no_publisher_line"
+  - "no_publication_title"
+  - "no_place_of_publication"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This February 6, 1971 newspaper clipping presents Minoo Masani’s defence of the Swatantra Party manifesto against socialist criticism. Masani argues that the manifesto is neither a return to laissez-faire nor a programme for preserving privilege, but a case for individual freedom, democratic government, private property, and limits on state power. The article describes his rejection of slogan-driven attacks on the party and reports his claim that the Swatantra approach is rooted in a clear distinction between the functions of government and those of private citizens.
 ---
 
-Archive item 4457; dated 1971-02-06; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Minoo Masani responds to socialist criticism of the Swatantra Party manifesto.
+- The manifesto is presented as a defence of democracy, individual liberty, and private property.
+- Masani argues that government should be limited to essential functions rather than controlling all economic activity.
+- The clipping criticises excessive planning, state ownership, and the expansion of the public sector.
+- Its economic proposals include employment-oriented growth, agricultural reform, and peasant proprietorship.
+- The article frames Swatantra’s programme as an alternative to socialist centralisation while retaining a role for government in law, order, and essential public responsibilities.

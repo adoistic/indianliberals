@@ -1,22 +1,22 @@
 ---
 id: 4476-choice-is-with-people-by-masani-indian-express-17-02-1971
 title:
-  main: "Choice is With People by Masani-Indian Express"
+  main: "Choice is with people: Masani"
   subtitle: ""
-work_type: press_note
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "INDIAN EXPRESS"
+  place: "Surat"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "individual-rights"
+  - "constitutionalism"
+  - "electoral-reform"
+  - "party-politics"
+  - "socialism-debate"
+  - "marxism-debate"
+missing_metadata_flags:
+  - "author_byline_not_printed"
+  - "no_publisher_address"
+  - "no_publication_issue_details"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This Indian Express report from Surat, dated 17 February 1971, records remarks by Minoo Masani, a Swatantra Party leader, at an election meeting. Masani said that pro-democracy forces were united on a common platform, but that voters had to choose between the Gandhian method and Karl Marx's approach.
+  
+  The report presents Masani as warning that democracy might not survive the next few years and arguing that leaders such as Morarji Desai should therefore be returned to the Lok Sabha. It also records Masani's assessment that Desai had “much improved” and that Masani's respect for him had consequently increased. The clipping does not print an authorial byline; the article is attributed to PTI.
 ---
 
-Archive item 4476; dated 1971-02-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Minoo Masani is reported speaking at an election meeting in Surat.
+- Masani described pro-democracy forces as united on a common platform.
+- He framed the political choice as one between the Gandhian method and Karl Marx's approach.
+- He expressed doubt that democracy would survive the next few years.
+- He urged voters to return leaders such as Morarji Desai to the Lok Sabha.
+- He said that Desai had “much improved” and that his respect for Desai had increased.

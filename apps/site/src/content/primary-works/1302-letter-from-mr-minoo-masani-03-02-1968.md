@@ -1,7 +1,7 @@
 ---
 id: 1302-letter-from-mr-minoo-masani-03-02-1968
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -28,14 +27,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "regulatory-state-critique"
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
+  - "no_edition"
+  - "no_series"
+  - "no_identifiers"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This item is a letter from M. R. Masani to Commerce Minister Dinesh Singh, dated February 3, 1968. Masani objects to the composition of the recently reconstituted Board of Trade and Advisory Council on Trade, arguing that parliamentary seats on both bodies have been filled entirely by Congress members. He urges that at least one member of the Swatantra Group, described as the largest opposition group and as possessing relevant experience, should have been nominated.
+  
+  The remaining pages are attachments: a February 1, 1968 covering letter from N. K. Somani forwarding a draft communication concerning the same matter, and newspaper clippings describing the new trade advisory council, its expanded remit, membership, and functions. The clippings also include unrelated economic and market reporting. The summary therefore treats Masani's first-page letter as the principal document and the later pages as contextual attachments.
 ---
 
-Archive item 1302; dated 1968-02-03; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani writes to Commerce Minister Dinesh Singh about appointments to two trade advisory bodies.
+- He objects that parliamentary seats have been filled entirely by Congress members.
+- He recommends representation for the Swatantra Group, which he calls the biggest opposition group.
+- He presents the omission as unfair and as a failure to consider relevant background and experience.
+- An attached letter from N. K. Somani forwards a draft communication and asks that the issue be raised with the Commerce Minister.
+- Newspaper clippings describe the reconstituted trade council's membership, two-year tenure, and responsibilities concerning internal and foreign commerce.

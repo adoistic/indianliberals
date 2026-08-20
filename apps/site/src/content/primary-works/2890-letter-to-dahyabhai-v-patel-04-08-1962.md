@@ -1,22 +1,21 @@
 ---
 id: 2890-letter-to-dahyabhai-v-patel-04-08-1962
 title:
-  main: "Letter to Dahyabhai V Patel"
+  main: "[Letter to Dahyabhai V Patel]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1962
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "free-trade"
+  - "economic-liberty"
+  - "planning-critique"
+  - "socialism-debate"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_place_of_publication"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Dahyabhai V Patel
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated August 4, 1962, Minoo Masani writes to Dahyabhai V. Patel about Prime Minister Morarji Desai's forthcoming Lok Sabha statement on the European Common Market (E.C.M.). Masani presents the E.C.M. as a major advance in human progress and warns that Communist opposition seeks to preserve a divided world. He also cautions against allowing the Congress Government to blame the E.C.M. for its own failures or to use it as a scapegoat.
+  
+  Masani urges Patel to frame the issue through the Swatantra Party's commitment to free competition and the international division of labour. India, he argues, can export only by producing efficiently and competing in world markets; reliance on tariff preferences would ultimately be counterproductive. The surviving page records only this exchange and does not include the response or any subsequent discussion.
 ---
 
-Archive item 2890; dated 1962-08-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter concerns Morarji Desai's proposed Lok Sabha statement on the European Common Market.
+- Masani describes the E.C.M. as a significant step toward a developing world order.
+- He characterizes Communist opposition, led by Khrushchev, as an attempt to preserve a divided world.
+- He warns that the Congress Government may try to make the E.C.M. a scapegoat for its failures.
+- He links the Swatantra Party's position to free competition and the international division of labour.
+- He argues that India must produce efficiently and compete in world markets if it is to export successfully.
+- He rejects dependence on tariff preferences as a sustainable basis for India's trade.

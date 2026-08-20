@@ -1,9 +1,11 @@
 ---
 id: 2480-swatantra-party-minutes-of-meeting-19-11-1974
 title:
-  main: "Swatantra Party Minutes of Meeting"
+  main: "Minutes of the Executive Meeting"
   subtitle: ""
 work_type: minutes
+work_type_source: filename
+purpose: report
 authors: []
 editors: []
 contributors: []
@@ -11,12 +13,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +29,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "publisher_line_not_printed"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English record documents the Swatantra Party’s Executive Committee meeting held in Bombay on 19 November 1974. It lists six attendees, records leave granted to six absent members, and confirms the minutes of the previous meeting held on 28 October 1974.
 ---
 
-Archive item 2480; dated 1974-11-19; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Executive Committee met at the Swatantra Party office in Sassoon Building, Kalaghoda, Bombay, at 5:30 p.m.
+- Girish Munshi chaired the meeting; five other members or invitees were recorded as present.
+- Six members were granted leave because of illness or personal reasons.
+- The committee noted that seven members had been co-opted to fill vacancies caused by members ceasing to attend meetings.
+- The General Secretary was authorised to inform Mr. Yazdani and Mr. Pimenta that they had ceased to be Executive Committee members after missing three consecutive meetings.
+- The committee discussed holding a General Council meeting at Madras shortly.
+- Girish Munshi, D. R. Pendse, and B. B. Gupta were authorised to represent the party to the Milk Commissioner about unsatisfactory milk distribution and price variation.

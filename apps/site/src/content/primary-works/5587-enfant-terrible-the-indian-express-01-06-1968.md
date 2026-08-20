@@ -1,22 +1,19 @@
 ---
 id: 5587-enfant-terrible-the-indian-express-01-06-1968
 title:
-  main: "Enfant terrible-The Indian Express"
+  main: "Enfant terrible"
   subtitle: ""
-work_type: press_note
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +24,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "publication_source_uncertain"
+  - "work_type_uncertain"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  The single-page item titled “Enfant terrible” is a political cartoon about the Congress party’s electoral success in Rajasthan. It depicts a central figure labelled “SUKHERDIA” pulling away a bound group labelled “SWARANTRA,” while two observers stand at the right. The caption identifies the event being satirised: Congress has won both Rajasthan by-elections.
 ---
 
-Archive item 5587; dated 1968-06-01; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The item is a single political cartoon rather than a prose essay.
+- Its heading is “Enfant terrible.”
+- The central figure is labelled “SUKHERDIA.”
+- The group being pulled is labelled “SWARANTRA,” evidently referring to the Swatantra Party.
+- The caption states that Congress won both by-elections from Rajasthan.
+- The cartoon frames the result as a defeat or subjugation of the Swatantra Party.

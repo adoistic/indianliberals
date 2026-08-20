@@ -1,22 +1,21 @@
 ---
 id: 3304-letter-to-homi-mody-26-01-1964
 title:
-  main: "Letter to Homi Mody"
+  main: "[Letter to Homi Mody]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "recipient_not_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Homi Mody
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter from M. R. Masani, dated January 28, 1964, is addressed to Homi Mody. Masani says he is sending an attached note to Rajaji, Ranga, and Mody in anticipation that Ramgarh might seek to reopen a matter in Bangalore. The letter itself does not explain the underlying matter; it functions as a brief covering letter for the enclosure.
 ---
 
-Archive item 3304; dated 1964-01-26; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated January 28, 1964.
+- M. R. Masani addresses the letter to Homi Mody.
+- Masani is sending an attached note to Rajaji, Ranga, and Mody.
+- The stated purpose is to prepare for the possibility that Ramgarh may seek to reopen a matter in Bangalore.
+- The underlying matter and the contents of the enclosure are not visible on this page.
+- The letter closes with Masani's signature and an enclosure notation.

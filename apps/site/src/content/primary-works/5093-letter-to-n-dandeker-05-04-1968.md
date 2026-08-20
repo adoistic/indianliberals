@@ -1,7 +1,7 @@
 ---
 id: 5093-letter-to-n-dandeker-05-04-1968
 title:
-  main: "Letter to N Dandeker"
+  main: "[Letter to N Dandeker]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,12 +11,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1968
+  place: "Bombay"
+  year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "signature_not_clearly_legible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: N Dandeker
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated 5 April 1966, is from Pravat Kr. Raut to N. Dandeker, General Secretary of the Swatantra Party. Raut requests an emergency meeting of the party’s General Council to discuss Minoo Masani’s resignation from the National Executive and Central Parliamentary Board.
+  
+  The letter frames the proposed meeting as a means of enabling the party to close ranks and resume united work under the leadership of its respected leaders. The document provides no further detail about the reasons for Masani’s resignation or the party’s subsequent decisions.
 ---
 
-Archive item 5093; dated 1968-04-05; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 5 April 1966 and is addressed to N. Dandeker, M.P., General Secretary of the Swatantra Party.
+- The sender requests an emergency meeting of the party’s General Council.
+- The proposed agenda is the discussion of Minoo Masani’s resignation.
+- Masani is said to have resigned from the National Executive and the Central Parliamentary Board.
+- The requested meeting is intended to help the party close ranks and work unitedly again.
+- The letter invokes the leadership of the party’s respected leaders but does not name them.

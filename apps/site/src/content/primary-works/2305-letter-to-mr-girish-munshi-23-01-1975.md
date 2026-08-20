@@ -1,22 +1,22 @@
 ---
 id: 2305-letter-to-mr-girish-munshi-23-01-1975
 title:
-  main: "Letter to Mr Girish Munshi"
+  main: "[Letter to Mr Girish Munshi]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - piloo-mody
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,27 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Girish Munshi
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter, dated January 23, 1975, was written by Piloo Mody from his New Delhi parliamentary address to Shri Girish Munshi in Bombay. Mody acknowledges Munshi’s letter of January 15 and says he will ask Bhatia to investigate whether there is any problem and instruct him accordingly.
 ---
 
-Archive item 2305; dated 1975-01-23; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Piloo Mody writes to Girish Munshi on January 23, 1975.
+- Mody acknowledges receipt of Munshi’s January 15 letter.
+- He intends to ask Bhatia to determine whether there is any problem and act accordingly.
+- Mody reports receiving a formal letter from Srikumar asking him to hand everything over to Munshi.
+- He asks Munshi to tell Srikumar not to engage in time-consuming games with him.

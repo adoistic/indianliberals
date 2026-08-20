@@ -1,8 +1,8 @@
 ---
 id: 4645-resolution-on-mr-minoo-masani-resignation-from-all-party-offices
 title:
-  main: "Resolution on Mr Minoo Masani Resignation from all party Offices"
-  subtitle: ""
+  main: "RESOLUTION ON M.R. MASANI'S RESIGNATION FROM ALL PARTY OFFICES"
+  subtitle: "ADOPTED BY THE STATE CONVENTION HELD AT PALI ON 30TH MARCH."
 work_type: resolution
 authors: []
 editors: []
@@ -10,12 +10,10 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +24,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
+  - "place_not_printed"
+  - "no_author_byline"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page resolution records a state convention's concern over M. R. Masani's resignation from all official posts in the party. Adopted at Pali on 30 March, the resolution asks the National Executive to create circumstances that would allow Masani to continue leading the party.
 ---
 
-Archive item 4645; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a formal resolution adopted by a state convention at Pali.
+- The convention expresses great concern about M. R. Masani's resignation.
+- Masani is described as having resigned from all official posts in the party.
+- The resolution addresses the National Executive.
+- It requests action to enable Masani's continued leadership of the party.
+- The document does not identify the party, the issuing organisation, or the year of adoption.

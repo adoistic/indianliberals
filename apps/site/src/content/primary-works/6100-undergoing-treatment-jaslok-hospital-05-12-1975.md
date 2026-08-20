@@ -1,22 +1,23 @@
 ---
 id: 6100-undergoing-treatment-jaslok-hospital-05-12-1975
 title:
-  main: "Undergoing Treatment Jaslok Hospital"
+  main: "[Undergoing Treatment Jaslok Hospital]"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: occasional_paper
+purpose: position_paper
+authors:
+  - jayaprakash-narayan
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 5
   pages_total_source: pypdfium2
@@ -27,14 +28,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "emergency-critique"
+  - "civil-liberty"
+  - "individual-rights"
+  - "constitutionalism"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "title_page_not_found"
+  - "no_publisher"
+  - "no_explicit_byline"
+  - "no_recipient"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This undated-title statement, signed by J. P. Narayan and dated 5 December 1975, records his position shortly after emerging from four and a half months of solitary detention. Writing from Jaslok Hospital in Bombay, where he was undergoing treatment for severely damaged kidneys, Narayan addresses friends in India and abroad and the Indian public generally.
+  
+  Narayan states that his views on the situation in India remain exactly what they were on 25 June 1975 and in a letter he wrote to the Prime Minister in July 1975. He says that subsequent events have confirmed his apprehensions, warns against attempts to misrepresent his position after his possible removal from public life, and closes with the hope that the people of India will soon liberate themselves non-violently from what he calls the present tyranny. The document is notarised in Maharashtra and contains no printed title, formal byline, or named recipient.
 ---
 
-Archive item 6100; dated 1975-12-05; 5 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The statement is dated 5 December 1975 and signed by J. P. Narayan.
+- Narayan reports undergoing treatment at Jaslok Hospital in Bombay for kidney damage caused during four and a half months of solitary detention.
+- He reiterates that his views on the situation in India remain unchanged from 25 June 1975 and from a July 1975 letter to the Prime Minister.
+- He argues that events since June have confirmed his earlier apprehensions.
+- He seeks to prevent any later misrepresentation of his position, especially if he is no longer available to correct it.
+- He expresses hope that Indians will liberate themselves non-violently from the present tyranny.
+- The surviving document is a notarised typescript on stamped paper, without a printed title or named recipient.

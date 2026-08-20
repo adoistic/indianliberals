@@ -1,22 +1,24 @@
 ---
 id: 3386-general-secertarys-note-on-rebihar-finances-13-05-1961
 title:
-  main: "General Secertarys note on ReBihar Finances"
+  main: "GENERAL SECRETARY'S NOTE RE: BIHAR FINANCES"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: occasional_paper
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party\nCENTRAL OFFICE"
+  place: "Bombay"
   year: 1961
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -26,15 +28,37 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_edition_statement"
+  - "no_publisher_address"
+  - "no_identifier"
+  - "office_record_classification_uses_occasional_paper"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This confidential three-page memorandum records the Swatantra Party Central Office's financial dealings with its Bihar unit in 1961. M. R. Masani describes discussions with the Bihar State Working Committee concerning candidate selection, limits on the number of constituencies to be contested, and the need for Bihar to receive special treatment because of the work already undertaken there and the funds invested by the State unit itself. The proposed assistance included advances of Rs. 25,000 for May and June and authority for the Bihar Party to raise a loan of up to Rs. 5 lakhs to acquire jeeps for election work.
+  
+  The note then traces the subsequent correspondence and negotiations over repayment, monthly contributions, bank credit, and the ownership of 27 jeeps. It documents a dispute after Bihar complained of the “abrupt stoppage” of monthly payments, and Masani's response that the complaint was unfounded and overlooked the Centre's efforts to assist the unit. The memorandum concludes by describing an August 30 meeting at which the Bihar Treasurer repeated allegations of breach of faith, followed by an acknowledgment that the complaint had been made without access to the relevant correspondence and an appreciation of the favourable treatment extended to Bihar.
 ---
 
-Archive item 3386; dated 1961-05-13; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani's May 1961 discussions with the Bihar State Working Committee covered election strategy, candidate selection, and financial support.
+- The Centre agreed in principle to advance Bihar Rs. 25,000 for May and June, apart from later payments tied to endorsed constituencies.
+- The Bihar Party was authorised to raise a loan of up to Rs. 5 lakhs to purchase jeeps on a hire-purchase basis.
+- Correspondence in June and July established that the extra Rs. 25,000 monthly payments would not continue beyond May and June, while the normal contribution from July was Rs. 2,475.
+- A later credit arrangement divided ownership of 27 jeeps between Bihar and the Centre and required repayment in monthly instalments of Rs. 20,000.
+- The memorandum responds to Bihar's accusation that the Centre had abruptly stopped its monthly contribution and had breached faith.
+- At an August 30 Working Committee meeting, Bihar representatives acknowledged that their complaint had been made without seeing the relevant correspondence.

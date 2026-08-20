@@ -1,22 +1,22 @@
 ---
 id: 4442-indian-committee-for-cultural-freedom-05-02-1969
 title:
-  main: "Indian Committee for Cultural Freedom"
+  main: "[Indian Committee for Cultural Freedom]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Indian Committee for Cultural Freedom"
+  place: "Bombay"
   year: 1969
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 30
   pages_total_source: pypdfium2
@@ -27,14 +27,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_human_author"
+  - "publisher_not_resolved"
+  - "document_type_not_represented_in_strict_taxonomy"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  The rendered pages comprise untitled English-language office financial records of the Indian Committee for Cultural Freedom in Bombay, dated 1969. The records document recurring payments to Tata Sons Private Limited for office space in the third-floor middle portion of the Army & Navy Building at 148 Mahatma Gandhi Road, Bombay 1. Rent was consistently recorded at Rs. 216.85 per month, with receipts and corresponding debit vouchers visible for January through September 1969, and a voucher referring to July 1969.
 ---
 
-Archive item 4442; dated 1969-02-05; 30 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The records are issued on the letterhead of the Indian Committee for Cultural Freedom.
+- The committee's premises are identified as the third-floor middle portion of the Army & Navy Building, Bombay.
+- Tata Sons Private Limited is named as the landlord, with Bombay House, Bruce Street, Fort, Bombay 1, given as its address.
+- Monthly rent is repeatedly recorded as Rs. 216.85.
+- Rent receipts and debit vouchers cover January through September 1969 in the rendered pages.
+- An electricity bill records Rs. 97.20 for 324 units consumed from January to March 1969.
+- The records include serial numbers, voucher numbers, cheque numbers, dates, revenue stamps, and the signature of executive secretary V. K. Sinha.

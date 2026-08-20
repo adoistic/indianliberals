@@ -1,23 +1,22 @@
 ---
 id: 4272-letter-to-jawaharlal-nehru-08-05-1964
 title:
-  main: "Letter to Jawaharlal Nehru"
+  main: "[Letter to Jawaharlal Nehru]"
   subtitle: ""
 work_type: letter
 authors:
-  - jawaharlal-nehru
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "MADRAS-17"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "land-reform"
+  - "agricultural-reform"
+  - "property-rights"
+  - "constitutionalism"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution_needed"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 8 May 1964, C. Rajagopalachari appeals to Jawaharlal Nehru to reconsider the Seventeenth Amendment. Rajagopalachari argues that, although the amendment was intended to protect cultivating tenants, its legal complexity and breadth constitute a serious defect. He proposes instead a comprehensive law securing and protecting cultivating tenants on large ryotwari holdings throughout India.
+  
+  Rajagopalachari points to a 1952 Madras Act that he says successfully provided such protection in the Tanjore Ryotwari area. He urges Nehru to ask his party whether this model should replace the Seventeenth Amendment, and suggests that the alternative could be introduced through the Nineteenth Amendment or considered at a special session of Parliament. The letter also refers to Lal Bahadur Shastri's stated understanding of the amendment's purpose.
 ---
 
-Archive item 4272; dated 1964-05-08; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Rajagopalachari writes to Jawaharlal Nehru on 8 May 1964 about the Seventeenth Amendment.
+- He accepts that the amendment sought to protect cultivating tenants but criticizes its legal complexity.
+- He proposes comprehensive legislation protecting cultivating tenants on large ryotwari landholdings.
+- He cites a 1952 Madras Act covering the Tanjore Ryotwari area as a workable precedent.
+- He recommends extending similar protection throughout India rather than defining all land as zamindari estates.
+- He suggests that the alternative legislation could be introduced through the Nineteenth Amendment or at a special session of Parliament.

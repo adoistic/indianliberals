@@ -1,7 +1,7 @@
 ---
 id: 6161-letter-from-mr-minoo-masani-25-03-1970
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_publication_place"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this typed letter dated March 25, 1970, M. R. Masani writes to Prem Prashad of Bird & Co. in Calcutta to announce that he expects to be in Calcutta on the evening of Tuesday, April 7. He says he will be travelling overnight to Bombay from Bhavnagar and asks whether Prashad could spare time that evening for a conversation.
+  
+  Masani adds that he has asked their friend Chatterton Irani to get in touch with Prashad and arrange an appointment, since Masani will probably be staying with Irani. A handwritten annotation beside the letter repeats the request to meet that evening. The letter is copied to C. R. Irani, Calcutta.
 ---
 
-Archive item 6161; dated 1970-03-25; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated March 25, 1970.
+- Masani expects to be in Calcutta on the evening of Tuesday, April 7.
+- He plans to travel overnight to Bombay from Bhavnagar.
+- He asks Prem Prashad to arrange time for a conversation.
+- Masani has asked Chatterton Irani to contact Prashad and coordinate an appointment.
+- The letter is copied to C. R. Irani in Calcutta.

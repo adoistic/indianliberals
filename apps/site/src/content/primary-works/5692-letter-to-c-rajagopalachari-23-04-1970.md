@@ -1,23 +1,21 @@
 ---
 id: 5692-letter-to-c-rajagopalachari-23-04-1970
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
-  - c-rajagopalachari
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "constitutionalism"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this two-page letter dated April 25, 1970, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about recent political developments in Gujarat and Tamil Nadu. He reports that the Gujarat State Council has reconsidered the expulsion of a party member and adopted a compromise, which he interprets as a way for Gujarat leaders to avoid an open clash while postponing a formal decision. He also describes concerns about the Tamil Nadu Parliamentary Board’s decision to nominate a candidate for a by-election in Colachel after the death of a sitting Opposition Congress member, arguing that the decision violates a principle the party has advocated.
 ---
 
-Archive item 5692; dated 1970-04-23; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani reports on the Gujarat State Council’s reconsideration of a proposed expulsion.
+- He characterizes the Gujarat compromise as a face-saving device intended to avert an immediate confrontation.
+- The letter discusses a Tamil Nadu by-election in Colachel and the Parliamentary Board’s candidate-selection decision.
+- Masani argues that the Colachel nomination cuts across the party’s stated principle concerning vacancies caused by the death or resignation of sitting Opposition Congress members.
+- He notes that another recent by-election, in Maharashtra’s Bhiwandi, followed a different approach to candidate selection.
+- Masani asks Rajagopalachari for his views and expresses hope that the party will win the Colachel by-election.

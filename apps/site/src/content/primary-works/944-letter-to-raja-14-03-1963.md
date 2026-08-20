@@ -1,7 +1,7 @@
 ---
 id: 944-letter-to-raja-14-03-1963
 title:
-  main: "Letter to Raja"
+  main: "[Letter to Raja]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_full_name_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Raja
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This typed carbon-copy letter, dated 14 March 1963 from Bombay, is addressed to “Rajaji” (C. Rajagopalachari). Bhaishalbhai D. Patel reports that the Kaira seat is likely to be vacated following a High Court decision and proposes that Shri Mesani stand for election if Rajaji wishes it. The writer offers to arrange Mesani’s candidacy and election.
 ---
 
-Archive item 944; dated 1963-03-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The letter is dated Bombay, 14 March 1963.
+- It is addressed to Rajaji, identified in the authority file as C. Rajagopalachari.
+- The Kaira seat is expected to be vacated because of a High Court decision.
+- The writer suggests that Shri Mesani should stand for election.
+- The writer offers to put Mesani forward and secure his election.

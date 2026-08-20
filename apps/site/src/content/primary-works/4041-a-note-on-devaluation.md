@@ -1,21 +1,24 @@
 ---
 id: 4041-a-note-on-devaluation
 title:
-  main: "A Note on Devaluation"
+  main: "A NOTE ON DEVALUATION AND THE MEASURES BY WHICH IT SHOULD BE FOLLOWED"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: occasional_paper
+purpose: position_paper
+authors:
+  - n-g-ranga
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "NEW DELHI"
+  year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -25,15 +28,40 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - monetary-policy
+  - fiscal-policy
+proposed_themes:
+  - "economic-liberty"
+  - "planning-critique"
+  - "free-trade"
+  - "regulatory-state-critique"
+  - "public-sector-critique"
+missing_metadata_flags:
+  - "no_publisher"
+  - "no_issuer_line"
+  - "no_series_information"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  Dated New Delhi, June 22, 1966, this two-page policy note argues that India’s economic collapse and currency devaluation resulted from mistaken economic policies and Union Government planning over the preceding decade and a half. Signed by N. G. Ranga and M. R. Masani, it calls for a clear post-devaluation policy centered on fiscal restraint, reduced inflation, and allowing the Indian Government to live within its means, while acknowledging that corrective measures may impose sacrifices.
+  
+  The proposed long-term measures include reducing civil non-developmental expenditure, ending deficit finance and overdrafts, restricting government-to-government foreign loans to infrastructure and essential maintenance imports, recasting the Fourth Plan by dropping most new State-sector capital projects, sharply reducing direct and indirect taxes, dismantling permits, licences, import licensing, exchange control and Gold Control, and negotiating lower debt-servicing charges. Immediate relief measures include assistance for stranded industrial projects, imported raw materials for exporters, withdrawal of new export duties, and abolition of duties and surcharges on key industrial inputs.
 ---
 
-Archive item 4041; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The note presents devaluation as one aspect of a wider economic collapse caused by mistaken policies and government planning.
+- It urges the government to abandon inflationary policies and operate within its means.
+- It calls for reductions in civil non-developmental expenditure, deficit finance, overdrafts, and further civil-service recruitment.
+- It recommends restricting foreign borrowing, postponing or recasting most new State-sector capital projects, and negotiating reduced foreign-debt servicing charges.
+- It advocates substantial tax reductions to increase national savings, expand production, and lower domestic prices.
+- It proposes dismantling permits, licences, import licensing, exchange control, and Gold Control in favor of competitive enterprise.
+- It recommends short-term support for stranded industrial projects and exporters, along with withdrawal of export duties and abolition of duties on essential industrial inputs.

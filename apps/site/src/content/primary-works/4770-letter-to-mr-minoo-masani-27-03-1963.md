@@ -1,23 +1,21 @@
 ---
 id: 4770-letter-to-mr-minoo-masani-27-03-1963
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "subtitle_not_printed"
+  - "publisher_not_printed"
+  - "place_not_stated_as_publication_place"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 27 March 1963, is from C. Rajagopalachari to M. R. Masani, then General Secretary of the Swatantra Party. Rajagopalachari responds to Masani's letter and an accompanying newspaper clipping in a deeply disappointed and emotionally direct tone.
 ---
 
-Archive item 4770; dated 1963-03-27; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 27 March 1963 and is addressed to M. R. Masani.
+- Rajagopalachari refers to Masani's letter and a clipping that he has read.
+- He describes the clipping and letter as depressing.
+- He invokes the image of a warrior's blood that cannot be cooled for their sake.
+- He says that Masani has effectively destroyed his hope and that he feels shipwrecked.
+- The letter is signed by C. Rajagopalachari and addressed to Masani as General Secretary of the Swatantra Party.

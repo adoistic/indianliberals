@@ -1,22 +1,21 @@
 ---
 id: 653-financier-times-of-india-19-03-1961
 title:
-  main: "Financier-Times of India"
+  main: "FINANCIER"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Times of India"
   year: 1961
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+  - "economic-liberty"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "no_publisher_address"
+  - "no_place"
+  - "no_edition"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page newspaper profile introduces Richard S. Perkins, Chairman of the Executive Committee of the First National City Bank of New York, during a visit to India. Perkins says he is satisfied with his banking career and describes his bank's emphasis on lending to individuals, citing its long record and low average losses.
+  
+  The profile focuses on the obstacles facing American investment in India. Perkins attributes American industry's reluctance partly to India's tax structure, which he considers unusually burdensome compared with the countries in which his bank operates. He also argues that American industry needs to adjust its outlook toward India and become more constructive in its approach. The clipping contains no printed byline; its source and date, “Times of India 19.3.1961,” appear in a handwritten annotation.
 ---
 
-Archive item 653; dated 1961-03-19; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The article profiles Richard S. Perkins, a senior executive of the First National City Bank of New York.
+- Perkins says he is satisfied with his banking career and hopes to remain in it.
+- He describes the bank's lending to individuals and reports an average loss of less than one-fourth of one per cent.
+- The profile identifies taxation as a major obstacle to American investment in India.
+- Perkins says the bank operates in 30 countries and regards India's tax rate as the highest.
+- He characterizes American industry as overly hesitant about investing in India and calls for a more constructive attitude.

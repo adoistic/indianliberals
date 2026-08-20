@@ -1,22 +1,21 @@
 ---
 id: 841-letter-to-r-kalamegham-14-08-1974
 title:
-  main: "Letter to R kalamegham"
+  main: "[Letter to R kalamegham]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: R kalamegham
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This typed letter from M. R. Masani, dated August 14, 1974, responds to Dr. R. Kalamegham's inquiry about the use of a party's name and election symbol. Masani states that the party name is not protected by trademark or copyright, but explains that the election symbol cannot be used without the cooperation of the Election Commission.
+  
+  Masani adds that the Tamilnadu Unit intends to continue operating and advises Kalamegham to remain in contact with it. The page records a brief exchange concerning party identity, electoral procedure, and organisational coordination; no broader political argument is developed in the letter.
 ---
 
-Archive item 841; dated 1974-08-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- Masani acknowledges receiving Kalamegham's letter of August 9, 1974.
+- He states that nobody can prevent others from using the party's name because it has no trademark or copyright protection.
+- He distinguishes the party name from the election symbol, whose use requires the Election Commission's cooperation.
+- He says the Tamilnadu Unit intends to continue operating.
+- He recommends that Kalamegham keep in touch with the Tamilnadu Unit.
+- The letter is signed by M. R. Masani and addressed to Dr. R. Kalamegham in Trichinopoly.

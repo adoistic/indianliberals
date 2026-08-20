@@ -1,7 +1,7 @@
 ---
 id: 5094-letter-to-n-dandeker-15-04-1968
 title:
-  main: "Letter to N Dandeker"
+  main: "[Letter to N Dandeker]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -12,11 +12,12 @@ publication:
   language: en
   issuer_id: swatantra-party
   publisher_name: "Swatantra Party"
+  place: "Asiwan, Unnao"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +28,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "sender_name_unclear"
+  - "publisher_address_incomplete"
+  - "no_printed_publication_year"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: N Dandeker
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter, sent from the Swatantra Party's District Unnao office to General Secretary N. Dandeker, requests an emergency meeting of the party's General Council. The stated purpose is to discuss Minoo Masani's resignation from the National Executive and Central Parliamentary Board and to decide how the party can restore unity.
 ---
 
-Archive item 5094; dated 1968-04-15; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The sender is identified by office designation as President, Swatantra Party, District Unnao, although the handwritten personal name is unclear.
+- The letter is addressed to Mr. N. Dandeker, M.P., General Secretary of the Swatantra Party.
+- It requests an emergency meeting of the party's General Council.
+- The proposed agenda concerns Minoo Masani's resignation from the National Executive and Central Parliamentary Board.
+- The sender calls for a decision intended to close party ranks and restore united working.
+- The letter invokes collective leadership by the party's respected leaders.

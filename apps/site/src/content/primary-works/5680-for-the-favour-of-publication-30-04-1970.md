@@ -1,9 +1,9 @@
 ---
 id: 5680-for-the-favour-of-publication-30-04-1970
 title:
-  main: "For the Favour of Publication"
+  main: "FOR FAVOUR OF PUBLICATION"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY PARLIAMENTARY OFFICE"
+  place: "New Delhi"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +28,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "constitutionalism"
+missing_metadata_flags:
+  - "no_author_byline"
+  - "no_publisher_address"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Party Parliamentary Office statement, dated April 30, 1970, addresses an internal party dispute involving the National Executive’s decision to remove C. C. Desai. It reports that Professor N. G. Ranga rejected Mr. Ramachandra Amin’s request for a meeting of the Parliamentary Group to reconsider the decision, arguing that the National Executive’s decision could not be annulled by the Parliamentary Group.
 ---
 
-Archive item 5680; dated 1970-04-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a public statement issued from the Swatantra Party Parliamentary Office in New Delhi.
+- It concerns the National Executive’s decision to remove Mr. C. C. Desai from the party.
+- Mr. Ramachandra Amin proposed that the Parliamentary Group consider the decision.
+- Professor N. G. Ranga argued that the Parliamentary Group could not annul a National Executive decision.
+- The statement also rejects a proposal for the Parliamentary Group to censure the party president.
+- It says that motions of no confidence in party office-bearers must be considered by the National Executive or General Council, not the Parliamentary Group.

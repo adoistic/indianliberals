@@ -1,9 +1,9 @@
 ---
 id: 1683-swatantra-newsletter-no-1-15-10-1959
 title:
-  main: "Swatantra Newsletter No-1"
+  main: "SWATANTRA NEWSLETTER NO.1."
   subtitle: ""
-work_type: letter
+work_type: periodical_issue
 authors: []
 editors: []
 contributors: []
@@ -12,11 +12,12 @@ publication:
   language: en
   issuer_id: swatantra-party
   publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 10
   pages_total_source: pypdfium2
@@ -27,14 +28,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "economic-liberty"
+  - "planning-critique"
+  - "agricultural-reform"
+  - "land-reform"
+  - "property-rights"
+  - "regulatory-state-critique"
+  - "individual-rights"
+  - "liberalism-as-tradition"
+missing_metadata_flags:
+  - "subtitle_not_printed"
+  - "publisher_line_not_printed"
+  - "editor_not_named"
+  - "no_formal_toc"
+  - "issn_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 1683; dated 1959-10-15; 10 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+Archive item 1683. Scanned document from the Swatantra Party papers.

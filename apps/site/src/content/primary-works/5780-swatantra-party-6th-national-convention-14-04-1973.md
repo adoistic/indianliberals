@@ -1,9 +1,10 @@
 ---
 id: 5780-swatantra-party-6th-national-convention-14-04-1973
 title:
-  main: "Swatantra Party 6th National Convention"
+  main: "[Swatantra Party 6th National Convention]"
   subtitle: ""
-work_type: edited_volume
+work_type: occasional_paper
+purpose: report
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,10 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1973
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "biographical-tribute"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "title_page_not_found"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Party convention document records the deaths of party members and associated public figures from different regional units of India. The list identifies their roles, including trade-union leadership, membership of the General Council, parliamentary service, party offices, ministerial work, and former presidencies of regional units. Representatives from Bihar, Kerala, Tamil Nadu, Gujarat, Bombay, Mysore, Orissa, Andhra, and West Bengal are among those named.
+  
+  The document closes with the National Convention's expression of sympathy to the families of the deceased. It presents their deaths as a loss not only to the Swatantra Party but also to public life, stating that the resulting absence will be difficult to fill.
 ---
 
-Archive item 5780; dated 1973-04-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The page is an institutional memorial resolution or convention record issued in the name of the Swatantra Party's National Convention.
+- It lists deceased party personalities and associates, numbered 8 through 37 on the visible page.
+- The people named held regional party offices, national party offices, legislative seats, ministerial positions, and other public roles.
+- The list demonstrates the geographic spread of the party across several Indian states and regional units.
+- The convention conveys sympathy to the families of the deceased members.
+- The concluding statement describes the deaths as a loss to both the Swatantra Party and public life.

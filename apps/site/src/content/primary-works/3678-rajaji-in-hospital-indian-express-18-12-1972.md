@@ -1,22 +1,21 @@
 ---
 id: 3678-rajaji-in-hospital-indian-express-18-12-1972
 title:
-  main: "Rajaji In Hospital-Indian Express"
+  main: "Rajaji in hospital"
   subtitle: ""
-work_type: press_note
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "INDIAN EXPRESS"
   year: 1972
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "biographical-tribute"
+missing_metadata_flags:
+  - "no_author_byline"
+  - "no_publisher_authority_match"
+  - "no_place_of_publication"
+  - "no_edition_statement"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Indian Express clipping, dated 18 December 1972, reports that C. Rajagopalachari (Rajaji), identified as the founder-leader of the Swatantra Party, had been admitted to General Hospital for treatment of uraemia. The report states that hospital sources found no cause for anxiety and described his condition as satisfactory.
 ---
 
-Archive item 3678; dated 1972-12-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The clipping is dated 18 December 1972.
+- It reports C. Rajagopalachari's admission to General Hospital in Madras.
+- The stated reason for admission was treatment of uraemia.
+- Hospital sources said there was no cause for anxiety.
+- The report describes Rajaji's condition as satisfactory.
+- Tamil Nadu Chief Minister M. Karunanidhi and Education Minister V. R. Nedunchezhian reportedly visited or telephoned to enquire about his health.

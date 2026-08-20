@@ -1,22 +1,22 @@
 ---
 id: 2621-letter-to-mr-m-r-arya-20-05-1975
 title:
-  main: "Letter to Mr M R Arya"
+  main: "[Letter to Mr M R Arya]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: M R Arya
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated May 20, 1975, records S. V. Raju’s response to M. R. Arya after Arya corrected a report in the May 4 issue of Lok Bharati stating that he had become secretary of the BFD in Delhi. Raju thanks Arya for the clarification but reproaches him for not disclosing his intentions when they met in Delhi, suggesting that political developments since August have damaged his trust in people who had presented themselves as friends.
+  
+  Raju also explains why he has stopped sending Arya copies of Swatantra Jyoti and Lok Bharati. The letter closes with a sharply hostile political judgment: Raju says that Arya has aligned himself with “a bunch of crooks, self-seekers” under the leadership of a “megalomaniac.” The document is personal in form but reflects concerns about political allegiance, party conduct, and the reliability of partisan publications.
 ---
 
-Archive item 2621; dated 1975-05-20; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- S. V. Raju writes to M. R. Arya on May 20, 1975, from Bombay.
+- Raju thanks Arya for clarifying a report in the May 4 issue of Lok Bharati.
+- The disputed report identified Arya as secretary of the BFD in Delhi.
+- Raju criticizes Arya for not stating his intentions when they previously met in Delhi.
+- Raju says developments since August have weakened his faith in former friends and political associates.
+- He explains that he no longer sends Arya copies of Swatantra Jyoti or Lok Bharati.
+- The postscript condemns Arya’s new political alignment in highly personal terms.

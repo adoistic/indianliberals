@@ -1,22 +1,21 @@
 ---
 id: 2639-letter-to-mr-r-b-mishra-16-08-1968
 title:
-  main: "Letter to Mr R B Mishra"
+  main: "[Letter to Mr R B Mishra]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: R B Mishra
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  Dated 16 August 1968, this one-page letter from Minoo Masani to R. B. Mishra introduces Masani's friend, D. P. Tata, who was visiting Bhubaneswar. Masani asks Mishra to provide Tata with any guidance and assistance possible.
 ---
 
-Archive item 2639; dated 1968-08-16; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 16 August 1968.
+- Minoo Masani addresses R. B. Mishra as the recipient.
+- Masani introduces his friend, D. P. Tata.
+- Tata is identified as visiting Bhubaneswar.
+- Masani requests guidance and assistance for Tata.
+- Mishra's office is identified as the Government of Orissa, where he served as Minister for C.D. & Panchayati Raj, Agriculture & Labour.

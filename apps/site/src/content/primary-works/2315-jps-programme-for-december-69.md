@@ -1,7 +1,7 @@
 ---
 id: 2315-jps-programme-for-december-69
 title:
-  main: "JPs Programme For December 69"
+  main: "JP'S PROGRAMME FOR DECEMBER 69"
   subtitle: ""
 work_type: occasional_paper
 authors: []
@@ -10,12 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Patna"
+  year: 1969
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +26,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "no_publisher"
+  - "no_explicit_author_byline"
+  - "office_document"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page office itinerary records Jayaprakash Narayan's planned movements for December 1969 and a tentative schedule for January 1970. The December programme is centered on Patna, with visits to Badshah Khan, Sokhodeora, Lakhisarai, Varanasi, Sitabdiara, Calcutta, Bombay, Marathwada, Hyderabad, Poona, and Pachmarhi. It also notes travel by plane from Calcutta to Bombay and an international seminar in Delhi.
 ---
 
-Archive item 2315; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The sheet lists Jayaprakash Narayan's programme for December 1969.
+- Patna is the principal base during the first half of the December schedule.
+- The itinerary includes visits to Sokhodeora, Lakhisarai, Varanasi, and Sitabdiara.
+- The programme includes travel from Patna to Calcutta and onward by plane to Bombay.
+- Later December engagements cover Marathwada, Hyderabad, Poona, and Pachmarhi.
+- A tentative January 1970 schedule includes Delhi, an Orissa tour, and an international seminar.
+- The document is an administrative itinerary issued by the secretary to Shri JP Narayan, not a signed authorial work.

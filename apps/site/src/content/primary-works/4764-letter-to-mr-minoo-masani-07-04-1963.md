@@ -1,23 +1,22 @@
 ---
 id: 4764-letter-to-mr-minoo-masani-07-04-1963
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 7 April 1963, C. Rajagopalachari writes to Minoo Masani from Madras, welcoming news about the Gujarat cases and Purshottam Trikamdas's optimism regarding the appeal. He acknowledges Masani's programme and describes it as extensive, “somewhat on the lines of comets and other fast heavenly bodies.”
+  
+  Rajagopalachari outlines an overnight train journey to Trichinopoly on 20 April and a return to Madras on 21 April. He expects to have time with Masani in Madras and Trichy to discuss the Bihar situation and what he calls “the great betrayal of Bombay financiers.”
 ---
 
-Archive item 4764; dated 1963-04-07; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Rajagopalachari dates the letter 7 April 1963 and writes from Madras to Minoo Masani in Bombay.
+- He describes news concerning the Gujarat cases as the best news he has received in recent days.
+- He refers to Purshottam Trikamdas's optimism about an appeal.
+- He comments on Masani's demanding travel or public programme.
+- He plans overnight rail travel to Trichinopoly on 20 April and back to Madras on 21 April.
+- He anticipates discussions with Masani about Bihar and the alleged betrayal by Bombay financiers.

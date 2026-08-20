@@ -1,21 +1,22 @@
 ---
 id: 6337-all-eyes-on-india
 title:
-  main: "All Eyes On India"
+  main: "HIMMAT"
   subtitle: ""
-work_type: letter
+work_type: periodical_issue
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "HIMMAT, 501 Arun Chambers, Tardeo Road, Bombay 34"
+  place: "Bombay"
+  year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 23
   pages_total_source: pypdfium2
@@ -26,14 +27,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "civil-liberty"
+  - "constitutionalism"
+  - "electoral-reform"
+  - "governance-reform"
+  - "party-politics"
+  - "press-freedom"
+  - "socialism-debate"
+  - "marxism-debate"
+  - "foreign-policy"
+  - "education"
+  - "health-policy"
+  - "regulatory-state-critique"
+missing_metadata_flags:
+  - "formal_masthead_not_visible"
+  - "editor_not_named"
+  - "no_formal_toc"
+  - "publisher_not_resolved"
+  - "issn_not_printed"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 6337; 23 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+Archive item 6337. Scanned document from the Swatantra Party papers.

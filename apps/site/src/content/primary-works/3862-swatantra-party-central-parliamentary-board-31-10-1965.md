@@ -1,9 +1,10 @@
 ---
 id: 3862-swatantra-party-central-parliamentary-board-31-10-1965
 title:
-  main: "Swatantra Party Central Parliamentary Board"
+  main: "[Swatantra Party Central Parliamentary Board]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
+purpose: report
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY\nCentral Parliamentary Board"
+  place: "New Delhi"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +29,39 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "foreign-policy"
+  - "civil-liberty"
+  - "constitutionalism"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_imprint"
+  - "no_named_author"
+  - "no_edition_statement"
+  - "no_series_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page office record reports decisions taken by the Swatantra Party Central Parliamentary Board at its meeting in New Delhi on 31 October 1965. The Board addressed party discipline on public issues, advising members of Parliament and state legislatures not to sign appeals or manifestos without permission from the party leadership and not to join conferences or delegations without prior authorization. It also reaffirmed opposition to members supporting the manufacture of an indigenous atom bomb without prior consultation.
+  
+  The Board declined a government invitation for MPs to join a Goodwill Mission to North Africa, arguing that such delegations would serve little purpose, could interfere with diplomatic missions, and would impose an unnecessary burden on the country’s already critical foreign position. On parliamentary business, it instructed the party group to oppose any move to postpone the next year’s Assembly elections in Orissa and to oppose extending President’s Rule in Kerala. It further urged members to scrutinise the Official Secrets Amendment Bill and Unlawful Associations Bill for their implications for civil liberties and citizens’ fundamental rights.
 ---
 
-Archive item 3862; dated 1965-10-31; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Central Parliamentary Board met in New Delhi on 31 October 1965.
+- The Board opposed party members’ support for manufacturing an indigenous atom bomb without prior consultation.
+- Members were instructed to obtain permission before signing public appeals, joining conferences, or participating in delegations.
+- The Board advised declining a government invitation to join a Goodwill Mission to North Africa.
+- It directed Swatantra legislators to oppose postponing Assembly elections in Orissa.
+- It directed the parliamentary group to oppose a further six-month extension of President’s Rule in Kerala.
+- Members were asked to examine proposed security legislation for threats to civil liberties and fundamental rights.

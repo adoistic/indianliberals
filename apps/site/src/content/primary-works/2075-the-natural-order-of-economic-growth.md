@@ -1,21 +1,19 @@
 ---
 id: 2075-the-natural-order-of-economic-growth
 title:
-  main: "The Natural Order of Economic Growth"
-  subtitle: ""
-work_type: letter
+  main: "THE NATURAL ORDER OF ECONOMIC GROWTH"
+  subtitle: "THE DEVELOPMENT OF AGRICULTURE WHICH IS OUR BASIC ASSET SHOULD COME FIRST . . ."
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +24,39 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "agricultural-reform"
+  - "economic-liberty"
+  - "free-market"
+  - "planning-critique"
+  - "development-sequencing"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_not_printed"
+  - "year_not_printed"
+  - "place_not_printed"
+  - "no_toc"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page illustrated argument presents agricultural development as the first stage in a natural sequence of economic growth. As agriculture develops, farmers gain discretionary spending power and purchase consumer goods such as cloth, creating demand for producer goods such as machinery. Investment in consumer-goods industries then generates demand for heavy-industry products, including steel bars and steel caps, which supports the subsequent development of heavy industry.
+  
+  The page therefore links agricultural reform to industrialisation through a chain of demand, investment, and savings. It concludes that savings generated at each stage of development provide the investment needed for the next stage. No author, publisher, organisation, or publication date is identified on the visible page.
 ---
 
-Archive item 2075; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Agricultural development is presented as the foundation of economic growth.
+- Higher agricultural incomes give farmers discretionary spending power.
+- Demand for consumer goods such as cloth stimulates investment in consumer-goods industries.
+- Consumer-goods industries create demand for producer goods such as machinery.
+- The growth of consumer industries creates demand for heavy-industry products such as steel.
+- Savings generated at each stage are described as financing investment in the next stage.

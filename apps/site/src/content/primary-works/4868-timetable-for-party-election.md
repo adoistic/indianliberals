@@ -1,9 +1,9 @@
 ---
 id: 4868-timetable-for-party-election
 title:
-  main: "Timetable for party Election"
+  main: "[Timetable for party Election]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -11,11 +11,11 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +26,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "year_not_explicit"
+  - "no_publisher_address"
+  - "office_record_type_not_available_in_strict_enum"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page internal notice from the Swatantra Party sets out a timetable for party elections. It establishes deadlines beginning with the enrolment of Workers and Life Workers on July 31, 1964, followed by the submission of register entries and subscription quotas on August 15 and the scrutiny and verification of registers by September 15.
+  
+  The timetable then moves elections through the party’s organisational levels: constituencies by October 15, districts by October 31, and State Committees by November 15. Elections to the General Council are to be completed by November 30, the General Council is to elect the National Executive by December 31, and the new National Executive is to assume office on January 1, 1965. Constituency, District, and State committees are to assume office immediately after their respective elections.
 ---
 
-Archive item 4868; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document announces a timetable for Swatantra Party elections.
+- Worker and Life Worker enrolment for election purposes closes on July 31, 1964.
+- Register entries and centre subscription quotas are due by August 15, 1964.
+- Scrutiny and verification of Workers' and Life Workers' registers is scheduled for completion by September 15, 1964.
+- Elections proceed from the primary constituency level through District and State Committees to the General Council.
+- The General Council is to elect the National Executive by December 31, 1964.
+- The new National Executive is scheduled to assume office on January 1, 1965.

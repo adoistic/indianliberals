@@ -1,23 +1,21 @@
 ---
 id: 6187-letter-to-mr-minoo-masani-26-02-1970
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_venue"
+  - "telegram_enum_conflict"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram, sent from Bombay on February 26, 1970, is addressed to Minoo Masani at his New Delhi address. The clipped, block-capital message appears to acknowledge or report the dispatch and receipt of material by air mail and express delivery, though portions of the central text are too blurred to read reliably.
 ---
 
-Archive item 6187; dated 1970-02-26; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page typed telegram rather than a conventional letter.
+- It is addressed to Minoo Masani in New Delhi.
+- The sender is identified as Mr. S.V. Raju, based in Bombay.
+- The message refers to material being dispatched by air mail and received by express delivery.
+- The telegram is dated February 26, 1970.
+- Several words in the central message are illegible because of image quality.

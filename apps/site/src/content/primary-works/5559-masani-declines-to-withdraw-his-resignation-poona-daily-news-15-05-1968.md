@@ -1,22 +1,22 @@
 ---
 id: 5559-masani-declines-to-withdraw-his-resignation-poona-daily-news-15-05-1968
 title:
-  main: "Masani Declines to Withdraw his Resignation-Poona Daily News"
+  main: "Masani Declines To Withdraw His Resignation"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Poona Daily News, Poona"
+  place: "Poona"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_author_byline"
+  - "no_title_page"
+  - "no_publisher_authority_match"
+  - "no_issn"
+  - "no_isbn"
+  - "no_oclc"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page news report, published in the Poona Daily News on 15 May 1968, states that Swatantra Party leader M. R. Masani declined an appeal from the party’s Central Parliamentary Board and National Executive to withdraw his resignation from those bodies. In a letter to the party’s General Secretary, N. Dandekar, Masani described his decision as final and said he would adhere to the action already taken.
+  
+  The report links Masani’s resignation to events surrounding the Rajya Sabha election from Gujarat in early April. It says that Gujarat Swatantra MLAs disobeyed the party High Command’s directive, fielded their own candidate against the High Command’s nominee, and helped that candidate win. No author byline is visible on the clipping.
 ---
 
-Archive item 5559; dated 1968-05-15; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- M. R. Masani rejected an appeal to withdraw his resignation from the Swatantra Party’s Central Parliamentary Board and National Executive.
+- Masani communicated his decision in a letter to the party’s General Secretary, N. Dandekar.
+- He characterized the decision as final and said he would adhere to it.
+- The resignation followed internal party conduct during the Rajya Sabha election from Gujarat.
+- Gujarat Swatantra MLAs reportedly defied the party High Command and supported an alternative candidate.
+- The alternative candidate won the election.

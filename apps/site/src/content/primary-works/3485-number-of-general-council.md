@@ -1,21 +1,19 @@
 ---
 id: 3485-number-of-general-council
 title:
-  main: "Number of General Council"
+  main: "MEMBERS OF THE GENERAL COUNCIL"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,14 +24,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
+  - "year_not_printed"
+  - "place_not_printed"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  “MEMBERS OF THE GENERAL COUNCIL” is a two-page English-language institutional roster. It lists council members by regional sections, including Andhra, Bombay, Delhi, Gujarat, Kerala, Mysore, Madras, Maharashtra, Orissa, Punjab, Rajasthan, and Uttar Pradesh. Names are presented in numbered, two-column lists, with some entries marked “M.P.”, “M.L.A.”, or other professional and honorific titles.
+  
+  The pages document the geographic breadth and composition of the council, but they do not identify the organisation, its office-holders, the date of compilation, or the circumstances in which the list was issued. The document contains no argument, narrative, explanatory introduction, or table of contents; its function in the rendered pages is strictly to record membership.
 ---
 
-Archive item 3485; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is headed “MEMBERS OF THE GENERAL COUNCIL.”
+- It is a two-page English-language membership roster.
+- Members are grouped by regional sections across multiple Indian states and territories.
+- The roster uses numbered entries arranged in two columns.
+- Several members are identified with titles or legislative designations such as “M.P.” and “M.L.A.”
+- The organisation represented by the council is not named on the rendered pages.
+- No author, publisher, issuer, place, year, or explanatory context is printed.

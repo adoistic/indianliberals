@@ -1,23 +1,20 @@
 ---
 id: 5744-letter-to-mr-s-v-raju-08-11-1978
 title:
-  main: "Letter to Mr S V Raju"
+  main: "[Letter to Mr S V Raju]"
   subtitle: ""
 work_type: letter
-authors:
-  - s-v-raju
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1978
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +25,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "place_not_identified"
+  - "no_toc"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page letter, dated 8 November 1978, is from Dr. H. P. Ranina to Shri S. V. Raju. Ranina explains that he has just returned from a tour of Baroda and Ahmedabad and was too late to cast his own personal vote. He regrets that, had he been in Bombay, he would have accepted Raju’s invitation to assist S. Ramachandran (Ramu), a candidate in the Matunga municipal election.
+  
+  The letter is a brief personal communication documenting an intended intervention in a local electoral campaign. It offers no further discussion of the candidate, the constituency, or the issues in the election.
 ---
 
-Archive item 5744; dated 1978-11-08; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 8 November 1978 and is addressed to Shri S. V. Raju.
+- Ranina had recently returned from Baroda and Ahmedabad.
+- He says he was too late to vote personally.
+- He would have assisted S. Ramachandran (Ramu) in the Matunga municipal election if he had been in Bombay.
+- The proposed assistance concerned Ramachandran’s candidacy as a municipal councillor.
+- The letter is personal and does not explain the candidate’s platform or the election’s issues.

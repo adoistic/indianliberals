@@ -1,7 +1,7 @@
 ---
 id: 2595-letter-to-f-c-cama-14-10-1971
 title:
-  main: "Letter to F C Cama"
+  main: "[Letter to F C Cama]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: F C Cama
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated October 14, 1971, is written by Lalchand Hirachand from Construction House, Ballard Estate, Bombay, to F. C. Cama, General Secretary of the Swatantra Party (Bombay Region). Hirachand acknowledges receiving Cama’s October 6 letter conveying a resolution passed by the Bombay Region Executive Committee at its meeting on September 30, 1971.
+  
+  Hirachand expresses gratitude to the Executive Committee for its appreciation of his past service as President of the party and closes with a brief note of thanks. The document is a courteous acknowledgement rather than a substantive discussion of party policy or political strategy.
 ---
 
-Archive item 2595; dated 1971-10-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated October 14, 1971, and originates from Construction House, Ballard Estate, Bombay.
+- Lalchand Hirachand acknowledges receipt of F. C. Cama’s October 6 letter.
+- Cama’s letter conveyed a resolution passed by the Swatantra Party’s Bombay Region Executive Committee.
+- The resolution was adopted at a meeting held on September 30, 1971.
+- Hirachand thanks the Executive Committee for appreciating his past service as President of the party.
+- The letter ends with a renewed expression of thanks and Hirachand’s handwritten signature.

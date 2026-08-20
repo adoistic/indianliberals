@@ -1,7 +1,7 @@
 ---
 id: 1469-telegram-to-s-v-raju
 title:
-  main: "Telegram to S V Raju"
+  main: "[Telegram to S V Raju]"
   subtitle: ""
 work_type: telegram
 authors:
@@ -11,12 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "federalism"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "no_publisher"
+  - "no_venue"
+  - "no_delivery_date"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telegram, sent by S. V. Raju from Madras to M. R. Masani in Bombay, conveys congratulations to friends in Maharashtra on a significant “bold decision.” Raju expresses hope that most other Indian states will follow Maharashtra’s lead, presenting the message as a brief political communication centred on state-level initiative and wider emulation.
+  
+  The document is an official Indian Posts and Telegraphs Department telegram form. The image does not identify the decision being praised, provide a delivery date, or give a title or publication context; the message is limited to its congratulatory appeal.
 ---
 
-Archive item 1469; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- S. V. Raju is identified as the sender.
+- The telegram is addressed to M. R. Masani in Bombay.
+- Raju congratulates friends in Maharashtra.
+- The Maharashtra action is described as a “bold decision.”
+- The sender hopes most other states will follow Maharashtra’s lead.
+- The specific decision and its political context are not stated on the page.

@@ -1,22 +1,20 @@
 ---
 id: 4133-alternative-to-democratic-outlined-03-07-1959
 title:
-  main: "Alternative to Democratic Outlined"
+  main: "Alternative To Democracy Outlined"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1959
+  place: "Benares"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "democratic-governance"
+  - "decentralization"
+  - "constitutionalism"
+  - "governance-reform"
+  - "democratic-alternative"
+missing_metadata_flags:
+  - "author_not_named"
+  - "publisher_not_identified"
+  - "year_not_printed"
+  - "source_newspaper_not_identified"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single scanned page reproduces two newspaper reports from Banaras and Varanasi concerning Jayaprakash Narayan’s proposal for reconstructing India’s political order. The principal report presents his thesis as a non-partisan, non-sectarian alternative to parliamentary democracy, centered on “more satisfying, participating democracy,” broad decentralization of political and economic power, and community-based social reconstruction. Narayan argues that India is especially suited to this experiment because the atomization of society has not yet advanced as far as in the West. The report also notes that his proposals draw on Indian and foreign thinkers, while not being bound to any single ideology or school of thought.
+  
+  The companion report describes a discussion of the 144-page thesis on “Gram Raj,” opened by Narayan at the Sarva Sewa Sangh headquarters in Varanasi. Participants reportedly agreed that parliamentary democracy had not guaranteed democratic freedom or genuine rule of law, but expressed doubts about the practicability of implementing Narayan’s alternative. The page records support or interest from figures including Acharya Vinoba Bhave, Minoo Masani, Acharya Kripalani, Ashoka Mehta, and others.
 ---
 
-Archive item 4133; dated 1959-07-03; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Jayaprakash Narayan is reported as proposing a reconstruction of India’s polity as an alternative to parliamentary democracy.
+- The proposed system is described as non-partisan, non-sectarian, and oriented toward a more participatory form of democracy.
+- Political and economic power would be widely decentralized, with community life serving as the basis of social reconstruction.
+- Narayan argues that India is well placed to attempt community reconstruction because social atomization is less advanced there than in the West.
+- The proposal is presented as influenced by Gandhi while remaining independent of any single ideology or school of thought.
+- A discussion of Narayan’s thesis on “Gram Raj” raised doubts about the practicality of implementing the proposed system.

@@ -1,9 +1,9 @@
 ---
 id: 3776-swatantra-party-candidates-to-the-gujarat-state-assembly
 title:
-  main: "Swatantra Party Candidates to the Gujarat State Assembly"
+  main: "Candidates to the Gujarat State Assembly Approved by the Central Parliamentary Board."
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -15,7 +15,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 5
   pages_total_source: pypdfium2
@@ -26,14 +26,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "place_not_printed"
+  - "edition_not_printed"
+  - "series_not_printed"
+  - "no_formal_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This five-page administrative document lists candidates selected for recommendation by the Swatantra Party's Central Parliamentary Board for Gujarat State Assembly seats. It is organised by parliamentary constituency, assembly seat, and recommended candidate, covering constituencies across Gujarat including Patan, Mehsana, Dohad, Godhra, Broach, Baroda, Jamnagar, Ahmedabad City, Banaskantha, Rajkot, Kutch, Kaira, Anand, Surat, and Bhavnagar.
+  
+  The list includes both party candidates and several explicitly identified as independent candidates to be supported. The document provides no publication date, place, individual author, or formal imprint beyond the Swatantra Party heading. It is a candidate-selection record rather than an argument or programme, so the rendered pages contain no discussion of policy, ideology, or electoral strategy beyond the party's organisational role in recommending candidates.
 ---
 
-Archive item 3776; 5 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is headed "Swatantra Party" and identifies the Central Parliamentary Board as the approving body.
+- It lists recommended candidates for Gujarat State Assembly constituencies.
+- Entries are arranged under parliamentary constituencies and then by assembly seat.
+- The five rendered pages cover constituencies throughout Gujarat, including urban, rural, tribal, and princely-state areas.
+- Some entries identify candidates as independent candidates to be supported rather than as standard party nominees.
+- The pages contain administrative electoral information but no policy statements or explanations of candidate selection.
+- No year, place of publication, individual author, or formal publication imprint is visible.

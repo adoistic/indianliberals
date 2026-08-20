@@ -1,23 +1,22 @@
 ---
 id: 4198-letter-to-mr-minoo-masani-12-01-1964
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - k-m-munshi
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_role_only"
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this personal and confidential letter dated January 12, 1964, K. M. Munshi acknowledges Minoo Masani’s letter of January 10 concerning “Ramgarh” and confirms that Masani’s note is in order. Munshi says he is forwarding copies of two confidential letters addressed to C. Rajagopalachari (“Shri Rajaji”) for Masani’s attention.
+  
+  Munshi closes by stating that he has reached the end of his physical resources “so far as active politics are concerned.” The letter is typed on Bharatiya Vidya Bhavan letterhead from Bombay and bears Munshi’s handwritten signature; no formal title is printed.
 ---
 
-Archive item 4198; dated 1964-01-12; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Munshi acknowledges Masani’s letter of January 10, 1964.
+- The correspondence concerns “Ramgarh,” though the letter gives no further explanation.
+- Munshi confirms that Masani’s note is in order.
+- He sends Masani copies of two letters addressed to C. Rajagopalachari.
+- Munshi says the letters are also intended for Masani’s attention.
+- He reports that he has reached the end of his physical resources for active politics.

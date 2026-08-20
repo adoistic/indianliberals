@@ -1,23 +1,20 @@
 ---
 id: 2306-letter-to-mr-piloo-mody-29-01-1975
 title:
-  main: "Letter to Mr Piloo Mody"
+  main: "REMINDER I"
   subtitle: ""
 work_type: letter
-authors:
-  - piloo-mody
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +25,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "series_not_printed"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  “REMINDER I” is a typed letter from Girish Munshi to Piloo Mody, dated January 29, 1975, concerning unpaid rent for a share of a property at Lodhi Estate, New Delhi. Munshi refers to an earlier letter dated January 15, 1975, and states that the rent has been in arrears since September.
 ---
 
-Archive item 2306; dated 1975-01-29; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated January 29, 1975.
+- Girish Munshi writes to Piloo Mody, addressing him as “My dear Piloo.”
+- Munshi follows up on a January 15 letter about non-payment of rent.
+- The rent arrears concern Mr. Bhatia and extend from September onward.
+- Munshi asks Mody to request that Mr. Bhatia pay the outstanding rent immediately.
+- A carbon copy of the letter is marked to Mr. Bhatia.

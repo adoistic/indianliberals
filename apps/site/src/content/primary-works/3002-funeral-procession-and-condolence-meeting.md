@@ -1,21 +1,21 @@
 ---
 id: 3002-funeral-procession-and-condolence-meeting
 title:
-  main: "Funeral procession and Condolence Meeting"
+  main: "[Funeral procession and Condolence Meeting]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
+purpose: position_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Issued in Public Interest :"
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_found"
+  - "publisher_not_named"
+  - "place_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English public-interest statement declares that “Indian Foreign Policy” has “Expired at Rabat” and says it is mourned by friends and enemies both in India and abroad. It presents the claim as a political obituary for Indian foreign policy, but does not explain what occurred at Rabat or identify the policy decisions being criticized.
+  
+  The statement announces that a funeral procession and condolence meeting will be arranged immediately after the post-mortem, with further communication to follow. It is signed in the public interest by Dahyabhai Patel, M. L. Sondhi, R. R. Singh Deo, S. K. Tapuriah, and K. M. Koushik, identified as Members of Parliament. No title, date, place, or conventional publisher is visible.
 ---
 
-Archive item 3002; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The statement declares that Indian foreign policy has “Expired at Rabat.”
+- It frames the policy's supposed demise as being mourned by both supporters and opponents at home and abroad.
+- It announces a funeral procession and condolence meeting after the post-mortem.
+- It promises that a further communication will follow.
+- The statement is issued in the public interest by five named Members of Parliament.
+- The page does not explain the Rabat reference or provide a date, place, title, or publisher.

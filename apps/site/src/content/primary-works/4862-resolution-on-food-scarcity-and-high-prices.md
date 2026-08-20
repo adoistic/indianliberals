@@ -1,9 +1,10 @@
 ---
 id: 4862-resolution-on-food-scarcity-and-high-prices
 title:
-  main: "Resolution on Food Scarcity and High Prices"
+  main: "DRAFT RESOLUTION ON THE 17TH AMENDMENT TO THE CONSTITUTION"
   subtitle: ""
 work_type: resolution
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
@@ -11,11 +12,11 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "constitutionalism"
+  - "party-politics"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "publisher_line_not_found"
+  - "place_not_printed"
+  - "author_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English draft resolution, issued under the heading “SWATANTRA PARTY,” condemns the enactment of the Seventeenth Amendment to the Constitution. It states that the amendment was passed despite public protests and the party’s efforts to prevent it, and commits the party to seeking its repeal at the earliest possible opportunity.
+  
+  The document presents a clear constitutionalist and oppositional position, but gives no explanation of the amendment’s provisions, the grounds for opposing it, or the political circumstances surrounding its enactment. No individual author, date, place, or separate publication imprint is visible on the rendered page.
 ---
 
-Archive item 4862; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is headed “SWATANTRA PARTY” and identified as a draft resolution.
+- It concerns the Seventeenth Amendment to the Constitution.
+- The Swatantra Party deplores the amendment’s enactment.
+- The resolution refers to public protests and the party’s prior efforts against the amendment.
+- The party pledges to secure repeal of the amendment as soon as possible.
+- The page does not explain the amendment’s content or provide detailed constitutional arguments.

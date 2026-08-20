@@ -1,23 +1,22 @@
 ---
 id: 5677-letter-to-mr-minoo-masani-16-04-1970
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_edition_statement"
+  - "no_series"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 16 April 1970, C. Rajagopalachari writes to M. R. Masani after learning of Masani’s mother’s death. He then discusses the political consequences of C. C. Desai’s expulsion from the Swatantra Party and reports that Morarji Desai should be encouraged to visit Gujarat. Rajagopalachari also describes Mariaswami’s withdrawal of a counter-resolution and his decision not to vote on the expulsion motion, adding that he has urged him to support Masani and avoid becoming entangled in the Delhi M.P. Club led by C. C. Desai.
+  
+  The letter places these immediate party manoeuvres within Rajagopalachari’s larger objective of building a “grand coalition” between the Swatantra-Jan Sangh group and the old Congress. He notes that the Hindustan Times, Statesman, and Times of India appear favourable to Desai’s expulsion, and argues that preventing a reunion of the Indira Congress and the old Congress is necessary to preserve the coalition he believes can save the country from anarchy.
 ---
 
-Archive item 5677; dated 1970-04-16; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Rajagopalachari expresses sympathy to M. R. Masani over his mother’s death.
+- He welcomes Masani’s optimism about the consequences of C. C. Desai’s expulsion from the Swatantra Party.
+- He suggests encouraging Morarji Desai to visit Gujarat.
+- He reports that Mariaswami withdrew his counter-resolution and abstained from voting on the expulsion motion.
+- He says he advised Mariaswami to support Masani and avoid entanglement in the Delhi M.P. Club led by C. C. Desai.
+- He views favourable newspaper coverage as useful to the expulsion effort.
+- He advocates a grand coalition of the Swatantra-Jan Sangh group and the old Congress against the Indira Congress and the old Congress reuniting.

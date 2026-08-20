@@ -1,22 +1,19 @@
 ---
 id: 2953-swatantra-party-justice-2-09-04-1972
 title:
-  main: "Swatantra Party Justice-2"
+  main: "[Swatantra Party Justice-2]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1972
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -26,15 +23,41 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "constitutionalism"
+  - "governance-reform"
+  - "judicial-independence"
+  - "party-politics"
+  - "economic-liberty"
+  - "planning-critique"
+  - "civil-liberty"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_confirmed"
+  - "publisher_not_identified"
+  - "place_not_identified"
+  - "author_not_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  These three handwritten pages are undated internal working notes, apparently concerned with the Swatantra Party and the relationship between justice, constitutional government, and political action. The first page gathers fragmentary observations on economic and political questions, including planning, public policy, elections, and the need to defend individual freedom. It also lists possible interlocutors, institutional references, and lines of argument, but does not present a continuous essay or a clearly identified author.
 ---
 
-Archive item 2953; dated 1972-04-09; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The notes connect justice with constitutional and political questions.
+- They consider the role of the Swatantra Party and possible political alliances.
+- They raise concerns about planning, state intervention, and the delivery of goods and services.
+- They discuss elections, political representation, and the limits of non-violent intervention.
+- They invoke individual freedom, civil liberties, and the need for a principled political programme.
+- The pages are working notes rather than a finished argument, and several passages are difficult to decipher.

@@ -1,22 +1,21 @@
 ---
 id: 3556-letter-to-ms-m-l-dahanukar-co-pvt-ltd-13-11-1963
 title:
-  main: "Letter to MS M L Dahanukar & Co Pvt Ltd"
+  main: "[Letter to MS M L Dahanukar & Co Pvt Ltd]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "constitutionalism"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "no_formal_publication_metadata"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: M L Dahanukar & Co Pvt Ltd
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  Dated 13 November 1963, this confidential office letter from M. R. Masani thanks Messrs. M.L. Dahanukar & Co. (Private) Ltd. for a contribution of Rs. 5,000. The funds were earmarked for activities connected with the Constitution Amendment, and Masani acknowledges receipt of the contribution.
 ---
 
-Archive item 3556; dated 1963-11-13; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 13th November, 1963.
+- M. R. Masani writes in his capacity as General Secretary.
+- The recipient is Messrs. M.L. Dahanukar & Co. (Private) Ltd., Bombay.
+- The letter acknowledges a contribution of Rs. 5,000.
+- The contribution was earmarked for activities connected with the Constitution Amendment.
+- Masani states that a formal receipt is enclosed.
+- The letter expresses gratitude for the recipient's cooperation.

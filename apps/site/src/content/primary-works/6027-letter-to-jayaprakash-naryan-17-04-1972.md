@@ -1,22 +1,22 @@
 ---
 id: 6027-letter-to-jayaprakash-naryan-17-04-1972
 title:
-  main: "Letter to Jayaprakash Naryan"
+  main: "[Letter to Jayaprakash Naryan]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1972
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Jayaprakash Naryan
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter from M. R. Masani to Jayaprakash Narayan, dated April 17, 1972, discusses Masani's upcoming trip to Delhi and his intention to meet Narayan on the morning of Sunday the 23rd. Masani also acknowledges Narayan's telegram and confirms that he has invited a small group of friends and associates to dinner at 8 p.m. on Tuesday the 25th.
 ---
 
-Archive item 6027; dated 1972-04-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated April 17, 1972, and addressed to Jayaprakash Narayan.
+- Masani says he will leave for Delhi early on Wednesday the 19th.
+- He expects to return in time to see Narayan on Sunday morning, the 23rd.
+- Masani acknowledges receiving Narayan's telegram.
+- He confirms a dinner invitation for 8 p.m. on Tuesday the 25th.
+- The invited guests include Khushwant Singh, A. D. Gorwala, V. B. Karnik, J. B. H. Wadia, A. G. Noorani, S. V. Raju, and Jehangir Patel.
+- Jehangir Patel is identified as a young associate editor of Freedom First.

@@ -1,7 +1,7 @@
 ---
 id: 2099-letter-from-sv-raju-10-01-1977
 title:
-  main: "Letter from SV Raju"
+  main: "[Letter from SV Raju]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1977
+  place: "Madras"
+  year: 1976
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "civil-liberty"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter from S. V. Raju to S. S. Meriswamy is dated January 10, 1976. Raju acknowledges Meriswamy's reply of 6 January and expresses concern about his loss of weight during detention. He advises him to take complete rest and says he looks forward to seeing him during a future visit to Bombay.
+  
+  The letter is personal correspondence rather than an argument or policy text, but its reference to detention provides limited evidence relevant to civil liberty and the human consequences of imprisonment. The page contains no discussion of the grounds for detention or of the wider political circumstances. The printed date conflicts with the year in the body, which refers to a reply dated 6 January 1977; this record follows the visibly printed date.
 ---
 
-Archive item 2099; dated 1977-01-10; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- S. V. Raju writes to S. S. Meriswamy in a personal letter dated January 10, 1976.
+- Raju acknowledges receiving Meriswamy's reply of 6 January.
+- The letter expresses concern about Meriswamy's loss of weight during detention.
+- Raju advises Meriswamy to take complete rest.
+- Raju looks forward to seeing Meriswamy during a future visit to Bombay.
+- The page offers only a brief reference to detention and does not explain its legal or political context.
+- The printed date reads 1976, while the body refers to a reply dated 6 January 1977.

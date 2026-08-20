@@ -1,7 +1,7 @@
 ---
 id: 1460-letter-from-vp-bhatia-25-07-1974
 title:
-  main: "letter from VP Bhatia"
+  main: "[letter from VP Bhatia]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +25,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "place_not_identified"
+  - "no_authority_match"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: VP Bhatia
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English-language PDF contains two related administrative letters dated July 25, 1974, concerning the transfer and registration of a Jeep bearing registration number MRG 2350. In the first letter, V. P. Bhatia, identified as Executive Secretary, asks Canara Banking Corporation to investigate the vehicle’s transfer from Central Stores, Mercera, to Mr. P. Purshottam Pai and to provide the new registration number. The letter refers to earlier correspondence dated September 28, 1971, and October 4, 1971.
 ---
 
-Archive item 1460; dated 1974-07-25; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The PDF contains two separate letters, both dated July 25, 1974.
+- The correspondence concerns Jeep MRG 2350 and its transfer and registration.
+- The first letter is addressed to Canara Banking Corporation at Pioneer Road, Mercera, Coorg (Mysore State).
+- The vehicle was sold to Mr. P. Purshottam Pai of Central Stores, Mercera, in September 1971.
+- The writer asks the bank to contact the Regional Transport Officer and confirm the transfer and new vehicle number.
+- The second letter asks Mr. R. Y. Ghorpade of the North Coorg Club to make inquiries with the RTO.
+- The second letter states that the vehicle was registered in the name of Mr. S. V. Raju of Bombay 1 and requests an urgent reply before the writer travels to Delhi.

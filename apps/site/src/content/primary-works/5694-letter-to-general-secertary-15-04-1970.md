@@ -1,7 +1,7 @@
 ---
 id: 5694-letter-to-general-secertary-15-04-1970
 title:
-  main: "Letter to General Secertary"
+  main: "[Letter to General Secertary]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "NADIAD"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "economic-liberty"
+  - "governance-reform"
+  - "rule-of-law"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: General Secertary
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page handwritten letter, dated 15 April 1970, addresses the General Secretary of the Swatantra Party in Bombay regarding the removal of Shri C. C. Desai from party membership. The writer says he has read the National Headquarters statement circulated among party legislators and MPs. Although he remains doubtful about the party's position on economic questions such as managing agencies and the removal of managing directors and directors, he supports the judgment and disciplinary decision concerning Desai.
 ---
 
-Archive item 5694; dated 1970-04-15; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter protests the removal of Shri C. C. Desai from Swatantra Party membership.
+- The writer distinguishes his disagreement over economic issues from his support for the disciplinary decision.
+- The removal is described as justified by Desai's allegedly defiant attitude.
+- The writer argues that party discipline and standards in public life must be maintained.
+- The letter expresses confidence in Minoo Masani's leadership.
+- The document is signed in a manner that creates uncertainty about whether the signatory is Nalinkumar M. Desai or Ghanshidal Dave.

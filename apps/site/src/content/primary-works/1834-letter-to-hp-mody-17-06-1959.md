@@ -1,22 +1,22 @@
 ---
 id: 1834-letter-to-hp-mody-17-06-1959
 title:
-  main: "Letter to HP Mody"
+  main: "[Letter to HP Mody]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_edition_statement"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: HP Mody
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 17 June 1959, Minoo Masani invites Sir Homi Mody to an informal tea meeting with a few leading Bombay businessmen and industrialists. The proposed discussion is intended to clarify the purposes and objectives of the newly formed Swatantra Party and to address any doubts or difficulties surrounding it.
+  
+  Masani proposes meeting at the Princes Room at the Taj on Monday, 22 June, at 5 p.m. He emphasizes that attending would involve no commitment on Mody’s part and asks for a reply. The document is a single-page typed letter on Masani’s official Member of the House of the People letterhead, with a handwritten signature.
 ---
 
-Archive item 1834; dated 1959-06-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Minoo Masani wrote to Sir Homi Mody on 17 June 1959.
+- Masani proposed an informal and intimate discussion with Bombay businessmen and industrialists.
+- The meeting was intended to explain the purposes and objectives of the newly formed Swatantra Party.
+- The proposed venue was the Princes Room at the Taj, on Monday, 22 June, at 5 p.m.
+- Masani stated that participation would not commit Mody to anything.
+- The letter requests a reply confirming whether Mody would attend.

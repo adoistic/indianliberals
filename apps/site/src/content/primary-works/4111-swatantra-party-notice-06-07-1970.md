@@ -1,9 +1,10 @@
 ---
 id: 4111-swatantra-party-notice-06-07-1970
 title:
-  main: "Swatantra party notice"
+  main: "NOTICE"
   subtitle: ""
-work_type: circular
+work_type: occasional_paper
+purpose: report
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY, (Bombay Region)"
+  place: "Bombay"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 7
   pages_total_source: pypdfium2
@@ -27,14 +29,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_formal_title_for_composite_file"
+  - "no_publisher_address"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_identifiers"
+  - "no_formal_author"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This seven-page Swatantra Party (Bombay Region) office file, dated 8 July 1970, contains a notice for an Executive Committee meeting scheduled for 15 July, minutes of the committee's 3 July meeting, and attached planning notes. The notice places a proposed National Convention in Bombay and future election-campaign planning at the center of the agenda. The minutes record discussion of membership drives, volunteer corps, inactive primary units, the appointment of a Parliamentary Board, and possible coordination among democratic forces opposed to the Indira Gandhi government and the Communists.
+  
+  The circulation note develops a detailed convention plan, including proposed financing of Rs. 3,39,000, expenditure capped at Rs. 70,000, public meetings, publicity, accommodation, food, press relations, and a proposed first-week-of-December 1970 date. Sharayu Daftary's election-campaign suggestions call for a centralized campaign structure supported by specialized sub-committees for membership, Election Commission liaison, vigilance, propaganda, electoral statistics, and last-day preparation. The document emphasizes close monitoring, voter contact, polling-day organization, data collection, and clear accountability among autonomous sub-committees.
 ---
 
-Archive item 4111; dated 1970-07-06; 7 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Bombay Region Executive Committee was summoned to consider minutes, a proposed National Convention, and future election-campaign organization.
+- The 3 July minutes record concern with membership recruitment, volunteer corps, inactive primary units, and the future Parliamentary Board.
+- The committee considered an alliance of democratic forces against the Indira Gandhi government and the Communists.
+- The proposed Bombay National Convention included a detailed financing plan, with estimated receipts of Rs. 3,39,000 and expenditure of Rs. 70,000.
+- Convention plans included public meetings, publicity, delegate accommodation, food, press relations, and a souvenir or presentation to Rajaji.
+- The election plan proposed a centralized campaign committee with specialized sub-committees for membership, propaganda, election-law liaison, vigilance, statistics, and polling-day preparation.
+- The campaign proposals stress voter enumeration, local door-to-door contact, rapid reporting of turnout, and preparation for vote counting.

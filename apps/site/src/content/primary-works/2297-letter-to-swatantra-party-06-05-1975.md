@@ -1,7 +1,7 @@
 ---
 id: 2297-letter-to-swatantra-party-06-05-1975
 title:
-  main: "Letter to Swatantra Party"
+  main: "[Letter to Swatantra Party]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,13 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "EASTLEY LAM & CO. SOLICITORS & NOTARY"
+  place: "Bombay"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "publisher_not_resolved"
+  - "issuer_not_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Swatantra Party
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated 6 May 1975, was issued by Eastley Lam & Co., Solicitors & Notary, in Bombay, to the Swatantra Party of Maharashtra. The firm states that it is forwarding, for the party’s information and records, a copy of a letter sent on the party’s behalf to Shri Piloo Mody.
 ---
 
-Archive item 2297; dated 1975-05-06; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is dated 6 May 1975.
+- It was issued from the Bombay office of Eastley Lam & Co., Solicitors & Notary.
+- The recipient is the Swatantra Party of Maharashtra.
+- The letter forwards an enclosed copy of correspondence addressed to Piloo Mody.
+- The stated purpose is to provide the party with the forwarded letter for its information and records.
+- The document bears a handwritten signature, but the signatory's name is not sufficiently legible to establish an author credit.

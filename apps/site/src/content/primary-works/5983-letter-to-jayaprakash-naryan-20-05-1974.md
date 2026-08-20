@@ -1,22 +1,22 @@
 ---
 id: 5983-letter-to-jayaprakash-naryan-20-05-1974
 title:
-  main: "Letter to Jayaprakash Naryan"
+  main: "[Letter to Jayaprakash Naryan]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "recipient_not_catalogued_as_author"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Jayaprakash Naryan
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram from Minoo Masani to Jayaprakash Narayan is dated Bombay, May 20, 1974. Masani asks whether he can meet Narayan before Narayan returns to Bihar and reports that he will be in Bangalore on May 31 and in Madras on the afternoon of June 30. He also asks whether Narayan may be travelling to Bombay and requests information about his movements.
 ---
 
-Archive item 5983; dated 1974-05-20; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is an express telegram and confirmation copy rather than a conventional letter.
+- Minoo Masani is the sender.
+- Jayaprakash Narayan is the named recipient.
+- Masani proposes meeting Narayan before his return to Bihar.
+- Masani identifies Bangalore and Madras as forthcoming locations.
+- Masani asks whether Narayan will be coming to Bombay and requests his travel plans.
+- The telegram is dated Bombay, May 20, 1974.

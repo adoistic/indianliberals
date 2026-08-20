@@ -1,22 +1,20 @@
 ---
 id: 836-karnataka-swantara-party-workers-meeting-19-08-1974
 title:
-  main: "Karnataka Swantara Party Workers Meeting"
+  main: "[Karnataka Swantara Party Workers Meeting]"
   subtitle: ""
-work_type: letter
+work_type: telegram
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1974
+  place: "BANGALORE"
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "no_authority_match"
+  - "no_recipient_metadata"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telegram reports that a meeting of Karnataka Swatantra Party workers decided to continue the party and rejected a proposed merger. The message is addressed to M. R. Masani in Bombay and is signed by Nagabhushana Rao. It is presented on an Indian Posts and Telegraphs Department form; the page does not print a title, publication year, or publisher.
 ---
 
-Archive item 836; dated 1974-08-19; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The document is a one-page typed telegram in English.
+- It reports a Karnataka Swatantra Party workers' meeting.
+- The workers decided to continue the party.
+- A merger proposal was rejected.
+- The telegram is addressed to M. R. Masani at 127 Mahatma Gandhi Road, Bombay.
+- The sender is identified as Nagabhushana Rao.

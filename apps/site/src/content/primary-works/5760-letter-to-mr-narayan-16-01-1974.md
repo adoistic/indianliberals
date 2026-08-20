@@ -1,7 +1,7 @@
 ---
 id: 5760-letter-to-mr-narayan-16-01-1974
 title:
-  main: "Letter to Mr Narayan"
+  main: "[Letter to Mr Narayan]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "agricultural-reform"
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Narayan
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated January 16, 1974, is written by Girish Munshi from Bharatiya Vidya Bhavan in Bombay to Shri Narayan of the Swatantra Party. Munshi reports that he has been unable to reach a person by telephone and asks Narayan to send either Vijay or someone else to the Grain Dealers Association to collect its published literature concerning the position of grain dealers. The letter also encloses a statement that may be released to the press.
+  
+  The correspondence is administrative and preparatory rather than a developed policy argument: it concerns gathering documentary material on grain dealers and coordinating a possible public statement. A handwritten annotation appears to revise or supplement the proposed appointment time, but the annotation is not fully legible.
 ---
 
-Archive item 5760; dated 1974-01-16; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated January 16, 1974, and is written on Bharatiya Vidya Bhavan letterhead in Bombay.
+- Girish Munshi says he has been trying to contact a person by telephone but has not succeeded.
+- The recipient is asked to send Vijay or someone else to the Grain Dealers Association.
+- The requested visit is intended to collect literature published by the association about the position of grain dealers.
+- Munshi is also sending a statement that may be issued to the press.
+- A handwritten annotation modifies or supplements the proposed meeting arrangements, though part of it is difficult to read.

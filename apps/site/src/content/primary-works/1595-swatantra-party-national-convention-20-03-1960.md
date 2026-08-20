@@ -1,22 +1,25 @@
 ---
 id: 1595-swatantra-party-national-convention-20-03-1960
 title:
-  main: "Swatantra Party National Convention"
+  main: "GENERAL SECRETARY’S REPORT"
   subtitle: ""
-work_type: edited_volume
-authors: []
+work_type: occasional_paper
+purpose: report
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY"
+  place: "Patna"
   year: 1960
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 13
   pages_total_source: pypdfium2
@@ -26,15 +29,48 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "party-politics"
+  - "liberalism-as-tradition"
+  - "planning-critique"
+  - "socialism-debate"
+  - "economic-liberty"
+  - "civil-liberty"
+  - "electoral-reform"
+  - "governance-reform"
+  - "anti-corruption"
+  - "judicial-independence"
+missing_metadata_flags:
+  - "no_formal_publisher_line"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_identifiers"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  M. R. Masani’s General Secretary’s Report, prepared for the Swatantra Party’s National Convention at Patna on March 19–20, 1960, reviews the party’s early development and sets out the organisational work required to turn public sympathy into a mass political movement. Masani describes the party’s foundation in 1959, its liberal principles, its reception by the Liberal International, and survey evidence suggesting an uncommitted constituency for a liberal, non-socialist opposition to the Congress. He stresses that sympathy alone is insufficient: the party must build workers, members, local units, literature, and financial resources across India’s vast and linguistically diverse population.
+  
+  The report presents C. Rajagopalachari’s leadership and the party’s Statement of Principles as its central assets, while warning against indiscriminate recruitment and dependence on wealthy supporters. Masani calls for training camps and study circles, multilingual publications, constructive public-service work, and a Public Advice Committee to receive complaints concerning fundamental rights, corruption, ministerial favouritism, and interference with judicial or administrative institutions. He also recommends sustained constituency work before elections and argues that the party must offer a democratic alternative to both Congress rule and communism.
+  
+  The closing section links the party’s prospects to a wider rejection of socialism and planning, claiming that India is beginning to turn away from state control toward a free economic order. The report is explicitly forward-looking, but its immediate concern is practical: converting an ideological message into an effective national organisation before 1962.
 ---
 
-Archive item 1595; dated 1960-03-20; 13 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The report explains the Swatantra Party’s formation in 1959 and its claim to represent liberal, non-socialist politics.
+- Masani cites public-opinion and voting-intention surveys as evidence of substantial political space beyond Congress.
+- The party’s principal organisational tasks are public education, recruitment, worker training, constituency-building, and fundraising.
+- The Statement of Principles and C. Rajagopalachari’s leadership are presented as the party’s main sources of identity and appeal.
+- The report advocates multilingual political literature, meetings, study circles, and constructive service activities.
+- A Public Advice Committee is proposed as a mechanism for reporting infringements of civil liberties, corruption, favouritism, and political interference.
+- Masani rejects cooperation with the Communist Party of India and predicts a future shift away from socialism, planning, and statist economic policy.

@@ -1,22 +1,23 @@
 ---
 id: 5410-freedom-first-issue-1952
 title:
-  main: "Freedom First Issue-1952"
+  main: "INCENTIVES FOR GOODNESS"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: essay
+authors:
+  - jayaprakash-narayan
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "FREEDOM FIRST"
+  place: "Bombay"
   year: 1952
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 6
   pages_total_source: pypdfium2
@@ -27,14 +28,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "liberalism-as-tradition"
+  - "socialism-debate"
+  - "individual-rights"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "no_publisher_address"
+  - "no_issue_volume_or_number"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In “Incentives for Goodness,” Jayaprakash Narayan asks how goodness can be sustained in a modern society where religious faith has weakened and materialism has become dominant. He argues that social reconstruction cannot succeed without the moral reconstruction of individuals, especially the elites who shape society. Scientific and technological progress may make it easier to build institutions, but it cannot supply the inner discipline or ethical purpose required to prevent struggles for power, privilege, and spoils from destroying them.
+  
+  Narayan directly challenges dialectical materialism and other materialist philosophies, arguing that they provide no rational incentive for deliberate goodness. He does not claim that materialists are necessarily vicious or that all non-materialists are good; rather, he maintains that goodness requires going beyond matter and referring the individual to an objective purpose outside the self. Human beings are described as socio-organic, acquiring their moral character through social conditioning, while the conduct of elites determines the direction and fate of society. The visible article ends by presenting transcendence of materialism as the condition for the individual to become an end in himself.
 ---
 
-Archive item 5410; dated 1952; 6 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The article contrasts earlier religiously grounded incentives to goodness with the moral uncertainty of a materialist society.
+- Narayan argues that social reconstruction is impossible without the reconstruction of individual character.
+- Modern science and technology cannot by themselves provide the moral tools needed to create a good society.
+- Dialectical materialism and materialism generally are presented as unable to justify deliberate goodness.
+- Human moral character is shaped partly by nature and partly by social conditioning.
+- Ordinarily decent people may become violent when exposed to destabilising social pressures.
+- The philosophy and conduct of elites are more important to social direction than the character of the inner mass.
+- Narayan defines non-materialism as rejecting matter as ultimate reality and orienting the individual toward an objective purpose.

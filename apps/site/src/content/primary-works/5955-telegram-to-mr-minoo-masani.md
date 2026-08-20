@@ -1,22 +1,21 @@
 ---
 id: 5955-telegram-to-mr-minoo-masani
 title:
-  main: "Telegram to Mr Minoo Masani"
+  main: "[Telegram to Mr Minoo Masani]"
   subtitle: ""
 work_type: telegram
-authors:
-  - minoo-masani
+work_type_source: filename
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "INDIAN POSTS AND TELEGRAPHS DEPARTMENT"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed_or_illegible"
+  - "sender_not_explicitly_printed"
+  - "recipient_not_author"
+  - "publisher_not_an_editorial_publisher"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telegram, issued on an Indian Posts and Telegraphs Department form, is addressed to Minoo Masani at Mahatma Gandhi Road, Bombay 1. The message states that the sender will be in Patna on November 2 and welcomes the recipient there. The message strip ends with the name “JAI PRAKASH,” suggesting Jayaprakash Narayan as the sender, although no formal printed byline appears.
+  
+  The telegram’s sequence markings and postal annotations are visible, but the year cannot be determined reliably from the image. The document is therefore best treated as a brief personal or political communication from Jayaprakash Narayan to Minoo Masani rather than as a published work.
 ---
 
-Archive item 5955; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page telegram on an Indian Posts and Telegraphs Department form.
+- It is addressed to Minoo Masani at Mahatma Gandhi Road, Bombay 1.
+- The message says the sender will be in Patna on November 2.
+- The recipient is welcomed to Patna.
+- The message ends with “JAI PRAKASH,” indicating Jayaprakash Narayan as the likely sender.
+- The year of transmission is not reliably legible.

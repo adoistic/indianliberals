@@ -1,22 +1,21 @@
 ---
 id: 4083-letter-to-n-g-ranga-06-06-1966
 title:
-  main: "Letter to N G Ranga"
+  main: "[Letter to N G Ranga]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,16 +25,37 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - monetary-policy
+proposed_themes:
+  - "economic-liberty"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_standard_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: N G Ranga
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This letter from M. R. Masani to Prof. N. G. Ranga, dated 6 June 1966, concerns an invitation from the Prime Minister to discuss the implications of devaluation. Masani agrees to attend and suggests that he and Ranga might meet the Prime Minister together after their Bangalore meeting.
+  
+  Masani also says that he has wired Rajaji to request his suggestions, while noting that Ranga's whereabouts are, as usual, unknown to him. The letter is a brief piece of political and economic correspondence, documenting liberal engagement with the policy debate surrounding devaluation.
 ---
 
-Archive item 4083; dated 1966-06-06; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 6 June 1966 and is signed by M. R. Masani.
+- Masani writes to Prof. N. G. Ranga, M.P.
+- The Prime Minister has invited Masani to discuss the implications of devaluation.
+- Masani agrees to attend and proposes that he and Ranga see the Prime Minister together.
+- Masani has wired Rajaji requesting his suggestions.
+- The letter refers to a forthcoming Bangalore meeting and uncertainty about Ranga's whereabouts.

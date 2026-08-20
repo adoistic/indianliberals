@@ -1,8 +1,8 @@
 ---
 id: 5789-registration-of-political-parties-under-section-29a-30-08-1994
 title:
-  main: "Registration Of Political Parties Under Section 29A"
-  subtitle: ""
+  main: "REMINDER"
+  subtitle: "Registration of political parties under section 29A - regarding"
 work_type: letter
 authors: []
 editors: []
@@ -11,12 +11,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1994
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -27,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "constitutionalism"
+missing_metadata_flags:
+  - "publisher_not_printed"
+  - "no_issuer_address"
+  - "no_edition_statement"
+  - "no_series_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This three-page English-language document is a reminder letter dated August 30, 1994, from J. Venkiteswaran, President of the Swatantra Party, Maharashtra, to the Secretary of the Election Commission of India. It follows up on an earlier letter dated June 28, 1994, concerning the registration of political parties under Section 29A, and asks the Commission for an immediate reply. L. H. Sampat is identified in the letterhead as General Secretary.
 ---
 
-Archive item 5789; dated 1994-08-30; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is dated August 30, 1994.
+- It is addressed to the Secretary of the Election Commission of India in New Delhi.
+- J. Venkiteswaran writes as President of the Swatantra Party, Maharashtra.
+- The subject is registration of political parties under Section 29A.
+- The letter follows up on correspondence sent on June 28, 1994.
+- The sender requests an immediate reply and encloses a copy of the earlier letter.
+- The remaining rendered pages contain a Speed Post receipt and an EMS Speed Post information sheet.

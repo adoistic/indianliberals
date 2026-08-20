@@ -1,23 +1,22 @@
 ---
 id: 4081-telegram-to-mr-minoo-masani-06-06-1966
 title:
-  main: "Telegram to Mr Minoo Masani"
+  main: "[Telegram to Mr Minoo Masani]"
   subtitle: ""
 work_type: telegram
+work_type_source: filename
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,38 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - monetary-policy
+proposed_themes:
+  - "governance-reform"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "place_not_found"
+  - "edition_not_found"
+  - "series_not_found"
+  - "isbn_not_found"
+  - "issn_not_found"
+  - "oclc_not_found"
+  - "recipient_not_catalogued_as_contributor"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram from C. Rajagopalachari (“Rajaji”) to Minoo Masani, received on 6 June 1966, reports that Rajagopalachari had just given an interview to PTI and UNI. The message argues that the devaluation order indicates the necessity of forming a national government without waiting for elections.
 ---
 
-Archive item 4081; dated 1966-06-06; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a telegram sent by Rajaji to Minoo Masani.
+- It refers to a telegram previously sent by Masani.
+- Rajaji reports having just given an interview to PTI and UNI.
+- The message links currency devaluation to the need for a national government.
+- It proposes that such a government should be formed without waiting for elections.

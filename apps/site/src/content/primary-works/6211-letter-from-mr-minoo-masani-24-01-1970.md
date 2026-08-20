@@ -1,7 +1,7 @@
 ---
 id: 6211-letter-from-mr-minoo-masani-24-01-1970
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "place_not_found"
+  - "recipient_metadata_not_in_schema"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated January 24, 1970, is from M. R. Masani to Mr. D. M. Patodia, MP. Masani apologizes for not having responded sooner to Patodia’s letter of January 8, explaining that he had only recently returned from abroad. He says he has regretfully declined both invitations mentioned by Patodia and encloses copies of letters sent to the two parties concerned.
+  
+  The letter closes with Masani’s anticipation of meeting Patodia in Delhi. The page is a brief item of personal and political correspondence; it does not disclose the subjects of the invitations or identify the two parties beyond the reference to enclosed letters.
 ---
 
-Archive item 6211; dated 1970-01-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- M. R. Masani wrote to D. M. Patodia on January 24, 1970.
+- Masani apologizes for not responding to Patodia’s January 8 letter sooner.
+- He attributes the delay to his recent return from abroad.
+- He has declined both invitations referred to by Patodia.
+- He encloses copies of letters sent to the two parties concerned.
+- Masani looks forward to seeing Patodia in Delhi.

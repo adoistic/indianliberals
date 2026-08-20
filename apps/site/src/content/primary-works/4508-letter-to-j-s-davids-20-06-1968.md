@@ -1,22 +1,21 @@
 ---
 id: 4508-letter-to-j-s-davids-20-06-1968
 title:
-  main: "Letter to J S Davids"
+  main: "[Letter to J S Davids]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: J S Davids
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This archival correspondence file contains a typed letter from M. R. Masani dated 20 June 1968 and addressed to Mr. J. S. Davids of the C.C.E. Workers Union, Sidapur. Masani acknowledges Davids’s letter of 15 May, which had been redirected from Delhi, and thanks him for his encouraging words. He notes that the action he had taken had received a positive response from Davids.
+  
+  The file also preserves a handwritten note addressed to Masani, apparently from J. S. Davids and dated 15 June 1968, together with its envelope. The handwriting is partly difficult to decipher, but the note appears to congratulate Masani and refer to his public or parliamentary activity. The reverse-side writing on the final scanned sheet is too faint to read reliably.
 ---
 
-Archive item 4508; dated 1968-06-20; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The principal document is a typed letter dated 20 June 1968.
+- M. R. Masani writes to Mr. J. S. Davids of the C.C.E. Workers Union.
+- Masani says Davids’s letter of 15 May reached him after being redirected from Delhi.
+- Masani thanks Davids for his encouraging words.
+- Masani describes the response to his action as positive.
+- The file includes a handwritten note apparently from Davids, dated 15 June 1968.
+- An addressed envelope and a faint, largely illegible reverse-side text are also preserved.

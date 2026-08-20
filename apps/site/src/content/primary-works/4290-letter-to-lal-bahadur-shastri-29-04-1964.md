@@ -1,7 +1,7 @@
 ---
 id: 4290-letter-to-lal-bahadur-shastri-29-04-1964
 title:
-  main: "Letter to Lal Bahadur Shastri"
+  main: "[Letter to Lal Bahadur Shastri]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +26,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+  - "federalism"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_edition"
+  - "no_series"
+  - "no_identifier"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Lal Bahadur Shastri
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This untitled personal letter, dated 29 April 1964 and addressed to Prime Minister Lal Bahadur Shastri, presents C. Rajagopalachari’s view of the Kashmir question. Rajagopalachari agrees with Jawaharlal Nehru that anti-India feeling among Pakistani leaders is deep, but argues that India should consider granting Kashmir autonomous status rather than appearing to have taken the territory for itself. He rejects the concern that autonomy would turn Kashmir into a site of international conspiracy, contending that neither the United States nor Britain is seeking territorial acquisitions and that autonomy would not necessarily produce a hostile state.
 ---
 
-Archive item 4290; dated 1964-04-29; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter treats the Kashmir dispute as a problem of Indo-Pakistani jealousy and international perception.
+- Rajagopalachari argues that granting Kashmir autonomy could reduce, though not necessarily eliminate, Indo-Pakistani hostility.
+- He says India should avoid the appearance of having deprived Kashmiris of their territory.
+- He rejects the claim that autonomous Kashmir would inevitably become a centre of foreign conspiracy or intrigue.
+- He contrasts Kashmir with secessionist claims such as Dravidistan, arguing that those claims lack a comparable Indo-Pakistani dimension.
+- He attributes other secessionist demands to alleged discrimination or misrule, which he believes can be addressed.
+- The letter closes by linking a possible settlement to the release of Sheikh Abdullah and to preventing the emergence of a two-front danger for India.

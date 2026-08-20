@@ -1,22 +1,22 @@
 ---
 id: 4387-liberalism-is-contemporary-india-06-12-2003
 title:
-  main: "Liberalism is Contemporary India"
+  main: "Liberalism in Contemporary India?"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: essay
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 2003
+  issuer_id: indian-liberal-group
+  place: "Mumbai"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 11
   pages_total_source: pypdfium2
@@ -27,14 +27,54 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "liberalism-as-tradition"
+  - "indian-liberal-history"
+  - "planning-critique"
+  - "economic-liberty"
+  - "free-trade"
+  - "regulatory-state-critique"
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+  - "anti-corruption"
+  - "constitutionalism"
+  - "individual-rights"
+  - "education"
+  - "health-policy"
+  - "agricultural-reform"
+  - "socialism-debate"
+  - "capitalism-defence"
+  - "federalism"
+  - "religious-freedom"
+  - "secularism"
+missing_metadata_flags:
+  - "publisher_not_printed"
+  - "year_not_unambiguously_printed"
+  - "no_toc"
+  - "composite_scan"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In the rendered pages, S. V. Raju presents post-independence India as a democratic and constitutional success whose economic and political institutions were badly damaged by the “Socialist Pattern of Society” (SPS). He traces the SPS to the Second Five Year Plan’s Soviet-inspired emphasis on state control, heavy industry, import substitution, and restricted internal trade. In the rendered pages, licensing, permits, quotas, tariff barriers, zonal restrictions, and controls on agricultural commerce are described as mechanisms that impoverished citizens, disadvantaged small farmers, and fostered corruption among politicians, bureaucrats, and businessmen. Raju also argues that the SPS weakened legislatures, the bureaucracy, and public administration, while religious fundamentalism created a newer threat to political liberty and social peace.
+  
+  In the rendered pages, Raju links economic reform to wider institutional reform. He credits the 1989 reforms with improving growth and retreating from the permit-licence-quota system, but argues that populism and political survival have stalled the process. The Swatantra Party is presented as an earlier liberal alternative that advocated free markets, decentralisation, coalition government, and electoral reform, while the later Swatantra Bharat Party is cited as an unsuccessful contemporary effort. In the rendered pages, Raju defines Indian liberalism as a practical commitment to individual choice, dignity, responsibility, tolerance, social justice, and equality of opportunity, combined with a state that supplies essential public goods without imposing laissez-faire or egalitarian uniformity. He concludes that liberals should build a broad movement rather than immediately form another political party, and should demonstrate organisational effectiveness rather than remain confined to speeches and seminars. The scan also includes appended delegates lists and correspondence from the Indian Liberal Group, which are not part of the principal essay’s argument.
 ---
 
-Archive item 4387; dated 2003-12-06; 11 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The essay contrasts India’s democratic and constitutional achievements with the economic damage attributed to the post-1957 Socialist Pattern of Society.
+- Soviet-inspired planning, heavy-industry prioritisation, import substitution, and state controls are criticised for restricting commerce and keeping people poor.
+- Licences, permits, quotas, tariff barriers, and zonal restrictions are presented as sources of rent-seeking, black markets, and corruption.
+- The SPS is said to have harmed farmers, entrepreneurs, civil servants, legislatures, and public administration, while religious fundamentalism presents a newer political danger.
+- Economic liberalisation after 1989 is credited with higher growth, but the essay argues that populism and political survival have blocked further reform.
+- The Swatantra Party is treated as a precedent for a liberal programme combining market economics, decentralisation, coalition politics, and electoral reform.
+- The Indian Liberal Group’s liberalism combines individual freedom and responsibility with social justice, equality of opportunity, and essential public services.
+- Raju recommends a broad, organised liberal movement rather than an immediate new political party.

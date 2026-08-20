@@ -1,7 +1,7 @@
 ---
 id: 3409-letter-to-paramchand-kejriwal-11-04-1975
 title:
-  main: "Letter to Paramchand Kejriwal"
+  main: "[Letter to Paramchand Kejriwal]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,12 +11,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Paramchand Kejriwal
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This untitled English-language letter, dated 11 April 1975, was issued on Swatantra Party Maharashtra letterhead from Bombay and signed by P. Narayan. It is addressed to Shri Parmanand Kejriwal. The letter states that, following instructions from Shri Girish Munshi, the sender is forwarding a copy of a draft plaint originally prepared by Mr. Mhalvi of Eastley Lam & Co., for Kejriwal's perusal and possible onward transmission.
 ---
 
-Archive item 3409; dated 1975-04-11; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page typed office letter dated 11 April 1975.
+- It was issued on Swatantra Party Maharashtra letterhead from Bombay.
+- P. Narayan is the typed signatory.
+- The recipient is Shri Parmanand Kejriwal.
+- The enclosure is identified as a draft plaint.
+- The draft plaint was originally prepared by Mr. Mhalvi of Eastley Lam & Co.
+- The letter refers to instructions from Shri Girish Munshi and to a prior conversation involving Mr. Munshi.

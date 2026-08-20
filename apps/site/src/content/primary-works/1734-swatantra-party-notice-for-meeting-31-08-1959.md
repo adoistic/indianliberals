@@ -1,9 +1,9 @@
 ---
 id: 1734-swatantra-party-notice-for-meeting-31-08-1959
 title:
-  main: "Swatantra Party Notice For Meeting"
+  main: "NOTICE"
   subtitle: ""
-work_type: circular
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -12,11 +12,12 @@ publication:
   language: en
   issuer_id: swatantra-party
   publisher_name: "Swatantra Party"
+  place: "BOMBAY"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +28,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_edition"
+  - "no_series"
+  - "no_identifier"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English-language office notice, issued from the Swatantra Party's Bombay office on 31 August 1959, announces a meeting of the party's Organising Committee. The meeting was scheduled for Thursday, 3 September, at 6:30 p.m. at the Swatantra Party office in Sassoon Building, 143 Mahatma Gandhi Road, Bombay.
+  
+  The notice requests the recipients' attendance and is signed by D. Lynn, identified as the party's honorary secretary. It is an administrative communication rather than an argumentative or programmatic political text.
 ---
 
-Archive item 1734; dated 1959-08-31; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a meeting notice issued on Swatantra Party letterhead.
+- It is dated Bombay, 31 August 1959.
+- The meeting concerns the Swatantra Party Organising Committee.
+- The meeting was scheduled for Thursday, 3 September, at 6:30 p.m.
+- The venue was the Swatantra Party office in Sassoon Building, 143 Mahatma Gandhi Road, Bombay.
+- D. Lynn signs the notice as honorary secretary.

@@ -1,23 +1,22 @@
 ---
 id: 4193-letter-to-mr-minoo-masani-17-01-1964
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "foreign-policy"
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "recipient_not_catalogued_as_contributor"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page letter dated 17 January 1964, C. Rajagopalachari writes to M. R. Masani about arrangements for an upcoming Swatantra Party Convention. He endorses keeping the convention's first Saturday-afternoon sitting closed to the press and visitors, followed by a press interview on the conclusions, while opening the Sunday sessions to both press and visitors.
+  
+  Rajagopalachari also advises against discussing proposed organisational amendments, membership, and finances before the press and public. He says he will review Masani's draft resolutions and prepare a resolution on friendship with Pakistan, as suggested by Masani.
 ---
 
-Archive item 4193; dated 1964-01-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Rajagopalachari agrees with Masani's proposed arrangements for the Swatantra Party Convention.
+- The first Saturday-afternoon sitting is to remain closed to the press and visitors.
+- A press interview is planned to present the convention's conclusions.
+- The Sunday morning and Sunday afternoon sessions are to be open to the press and visitors.
+- Organisational amendments, membership, and finances should not be discussed publicly before the press and public.
+- Rajagopalachari will review Masani's draft resolutions and prepare one concerning friendship with Pakistan.

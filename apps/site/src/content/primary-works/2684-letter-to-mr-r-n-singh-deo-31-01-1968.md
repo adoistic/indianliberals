@@ -1,22 +1,22 @@
 ---
 id: 2684-letter-to-mr-r-n-singh-deo-31-01-1968
 title:
-  main: "Letter to Mr R N Singh Deo"
+  main: "[Letter to Mr R N Singh Deo]"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: telegram
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: R N Singh Deo
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page post copy of a telegram, dated January 31, 1968, records M. R. Masani’s request to Odisha Chief Minister R. N. Singh Deo. Masani informs him that the Countess and Earl of Harewood, described as cousins of the British Queen, would arrive in Bhubneshwar by plane from Calcutta on the morning of February 5, travel onward to Puri, and leave for Calcutta on the afternoon of February 7.
+  
+  Masani asks the Chief Minister to meet the visitors on either date and extend them courtesy during their stay. The document is administrative and social in purpose; it contains no sustained political or economic argument.
 ---
 
-Archive item 2684; dated 1968-01-31; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a post copy of a telegram sent by M. R. Masani from New Delhi on January 31, 1968.
+- The recipient is Mr. R. N. Singh Deo, Chief Minister of Bhubneshwar.
+- Masani announces the arrival of the Countess and Earl of Harewood in Bhubneshwar from Calcutta on February 5.
+- The visitors are scheduled to proceed to Puri and depart for Calcutta on February 7.
+- Masani requests that the Chief Minister meet them and extend them courtesy.

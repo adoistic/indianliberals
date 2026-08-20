@@ -1,22 +1,21 @@
 ---
 id: 3568-letter-to-mr-g-t-kamdar-10-08-1963
 title:
-  main: "Letter to MR G T Kamdar"
+  main: "[Letter to MR G T Kamdar]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "place_not_stated"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: G T Kamdar
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English letter from M. R. Masani, dated August 10, 1963, acknowledges Mr. G. T. Kamdar’s letter of August 8 and thanks him for a contribution of Rs. 500 from The Bharat Line Limited. Masani states that a formal receipt is enclosed.
+  
+  The document is a brief administrative acknowledgment rather than an essay or policy statement. It is signed “(M. R. Masani)” and addressed to Mr. G. T. Kamdar at Bharat House, 104 Apollo Street, Fort.
 ---
 
-Archive item 3568; dated 1963-08-10; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated August 10, 1963.
+- M. R. Masani writes to Mr. G. T. Kamdar.
+- Masani acknowledges Kamdar’s letter of August 8.
+- The Bharat Line Limited made a contribution of Rs. 500.
+- A formal receipt is noted as enclosed.
+- The recipient’s address is given as Bharat House, 104 Apollo Street, Fort.

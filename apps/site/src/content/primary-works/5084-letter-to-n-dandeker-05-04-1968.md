@@ -1,7 +1,7 @@
 ---
 id: 5084-letter-to-n-dandeker-05-04-1968
 title:
-  main: "Letter to N Dandeker"
+  main: "[Letter to N Dandeker]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: N Dandeker
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated 5 April 1968, is from Wahidur Rahman to N. Dandeker, the General Secretary of the Swatantra Party. Rahman requests an emergency meeting of the party's General Council to discuss the situation arising from Minoo Masani's resignation from the National Executive and the Central Parliamentary Board.
 ---
 
-Archive item 5084; dated 1968-04-05; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 5 April 1968 and addressed to N. Dandeker, M.P.
+- Wahidur Rahman identifies himself as a member of the Swatantra Party General Council.
+- Rahman requests an emergency meeting of the General Council.
+- The proposed meeting concerns Minoo Masani's resignation from the National Executive and Central Parliamentary Board.
+- Rahman calls for a decision to close the party's ranks and resume united work under its leaders.

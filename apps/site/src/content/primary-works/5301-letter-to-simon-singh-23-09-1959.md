@@ -1,7 +1,7 @@
 ---
 id: 5301-letter-to-simon-singh-23-09-1959
 title:
-  main: "Letter to Simon Singh"
+  main: "[Letter to Simon Singh]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place"
+  - "no_edition"
+  - "no_series"
+  - "no_identifiers"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Simon Singh
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 23 September 1959, acknowledges two letters sent by Mr. Simeon Singh on 7 and 19 September to M. R. Masani while Masani was away from India. Signed by Miss B. S. Kirza as Masani's secretary, it explains that Masani was expected to return sometime in October and that Singh's correspondence would be placed before him on his arrival.
 ---
 
-Archive item 5301; dated 1959-09-23; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 23 September 1959.
+- It acknowledges receipt of two letters dated 7 and 19 September.
+- The letters were addressed to M. R. Masani during his absence from India.
+- Masani was expected to return sometime in October.
+- The secretary promised to place Singh's letters before Masani upon his return.
+- The recipient is identified as Mr. Simeon Singh of 209/G Muthiganj, Allahabad.

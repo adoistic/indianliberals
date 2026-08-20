@@ -1,7 +1,7 @@
 ---
 id: 2010-letter-from-mr-minoo-masani-17-03-1964
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter, dated March 17, 1964, is from M. R. Masani at 57 Lodhi Estate, New Delhi, to Satyanarayan Sinha, Minister for Information & Broadcasting. Masani apologises for being absent from the House during Sinha’s reply to a discussion because he must leave for Bombay that evening.
+  
+  Masani explains that the absence is prompted by demands on the Ministry of International Trade, which is to replace Information & Broadcasting in Parliament’s programme. The letter is brief and administrative, closing with an expression of regards and Masani’s signature.
 ---
 
-Archive item 2010; dated 1964-03-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- M. R. Masani wrote the letter from 57 Lodhi Estate, New Delhi, on March 17, 1964.
+- The recipient is Mr. Satyanarayan Sinha, identified as Minister for Information & Broadcasting.
+- Masani apologises for missing the recipient’s reply to a discussion in the House.
+- Masani says he must leave for Bombay that evening.
+- He attributes the absence to demands connected with the Ministry of International Trade.
+- The letter states that International Trade is taking the place of Information & Broadcasting in Parliament’s programme.

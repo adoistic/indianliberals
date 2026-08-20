@@ -1,7 +1,7 @@
 ---
 id: 4141-letter-from-padmakar-d-kamerkar
 title:
-  main: "Letter from Padmakar D Kamerkar"
+  main: "[Letter from Padmakar D Kamerkar]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,12 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -25,16 +24,34 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "constitutionalism"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "recipient_not_visible"
+  - "no_publisher"
+  - "no_signature_or_closing_visible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Padmakar D Kamerkar
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page handwritten document, dated only as “Apr. 19.”, is a legal memorandum or case-note sheet prepared on the letterhead of Padmakar D. Kamerkar, Advocate, in Bombay. It consists almost entirely of citations to Indian Supreme Court and High Court decisions, with no visible title, recipient, explanatory argument, signature, or closing.
 ---
 
-Archive item 4141; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is written on the letterhead of Padmakar D. Kamerkar, Advocate, at New Shingne Building, 100 Girgaum Road, Bombay.
+- The visible date appears to be “Apr. 19.”; the year is not recoverable.
+- The handwritten content is a list of legal case citations and report references.
+- Cited matters include cases concerning the State of Madras, the Union of India, the State of Bihar, the State of Bombay, and other government authorities.
+- No legal proposition, factual background, recipient, signature, or concluding request is visible on the rendered pages.
+- The notes appear to engage primarily with Indian constitutional and public-law case law.

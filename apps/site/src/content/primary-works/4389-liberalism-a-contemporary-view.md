@@ -1,21 +1,20 @@
 ---
 id: 4389-liberalism-a-contemporary-view
 title:
-  main: "Liberalism-A Contemporary View"
+  main: "Liberalism – A Contemporary View"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: essay
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -25,15 +24,47 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "economic-liberty"
+  - "planning-critique"
+  - "regulatory-state-critique"
+  - "property-rights"
+  - "socialism-debate"
+  - "capitalism-defence"
+  - "liberalism-as-tradition"
+  - "indian-liberal-history"
+  - "individual-rights"
+  - "party-politics"
+  - "constitutionalism"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "no_toc"
+  - "no_identifiers"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In the pages shown, S. V. Raju presents liberalism as an evolving political philosophy anchored in freedom rather than as a fixed doctrine. He traces its Western development from an agrarian setting into an industrial society, highlighting Bentham, John Stuart Mill, and T. H. Green as thinkers who adapted liberal principles to emerging social problems and defended the dignity of the individual. In India, liberalism is described as a philosophy of liberation from social and political constraints, whose commitments to liberty, equality, and justice remain visible in the Constitution despite later amendments.
+  
+  The essay then turns to the Swatantra Party and its liberal opposition to Congress socialism, state monopolies, bank nationalisation, agricultural collectivisation, and the “Licence, Permit, Quota Raj.” Raju argues that the party’s electoral performance was rooted more in political realities than in widespread appreciation of its liberal manifesto, while emphasising its defence of freedom, property rights, mixed-economy arrangements, and opposition to both private and state monopolies. The final pages connect this tradition to the Indian Liberal Group’s attempt to reconcile free-market economics with social concern: reducing poverty and expanding opportunity without imposing equality of conditions, and grounding a better life in liberty, responsibility, tolerance, social justice, democratic accountability, and the rule of law.
 ---
 
-Archive item 4389; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Liberalism is presented as a changing tradition whose central conviction is that liberal thought is anchored in freedom.
+- Western liberalism is described as adapting to industrial society and responding to social problems in defence of individual dignity.
+- Indian liberalism is framed as a philosophy of liberation from social and political constraints, with constitutional commitments to liberty, equality, and justice.
+- The Swatantra Party opposed Congress socialism, nationalisation, agricultural collectivisation, and extensive state control.
+- The party defended property rights, a mixed economy, private initiative, and opposition to both private and state monopolies.
+- The essay links liberal economic policy to social concern, including poverty reduction and equality of opportunity.
+- Contemporary liberalism is associated with individual responsibility, tolerance, democratic accountability, and the rule of law.

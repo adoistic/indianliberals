@@ -1,22 +1,22 @@
 ---
 id: 132-the-hidden-telephone-tax-hindustan-times-01-07-1967
 title:
-  main: "The Hidden Telephone Tax-Hindustan Times"
+  main: "The Hidden Telephone Tax"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: essay
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1967
+  publisher_name: "Hindustan Times"
+  year: 1969
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "public-sector-critique"
+  - "regulatory-state-critique"
+  - "economic-liberty"
+missing_metadata_flags:
+  - "no_publisher_address"
+  - "no_place"
+  - "no_edition"
+  - "no_identifier"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In the rendered page, M. R. Masani argues that telephone users bear a concealed tax through the Post Office’s operation of telecommunications. He begins by comparing this hidden burden with indirect taxation on everyday goods, then uses annual administrative reports to argue that postal and telegraph accounts obscure the actual profitability and losses of individual services. The article presents telephone service as a basic public service whose expansion should be judged by demand, cost, and efficiency rather than by continued bureaucratic administration.
+  
+  In the rendered page, Masani criticises the Post Office’s monopoly and cross-subsidisation, especially the use of profitable telephone revenues to support loss-making postal operations. He argues that the telecommunications branch should be separated from the postal department and converted into an autonomous public corporation, with commercial accounting and freedom to raise capital. Japan is offered as an example of a more productive institutional arrangement, while the article closes by noting the growth of telephone demand and the inadequacy of existing investment and service provision.
 ---
 
-Archive item 132; dated 1967-07-01; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Telephone charges contain an indirect or hidden tax arising from the Post Office’s wider financial structure.
+- The Post Office’s consolidated accounts conceal the profitability and losses of separate services.
+- Profitable telephone operations are presented as subsidising loss-making postal services.
+- Masani calls for telecommunications to be separated from the postal department and run as an autonomous public corporation.
+- Commercial accounting, independent borrowing, and investment are presented as necessary for expanding telephone service.
+- Japan is cited as an example of a telecommunications corporation benefiting from a different capital and institutional framework.
+- The article links inadequate telephone capacity to rising demand and insufficient investment.

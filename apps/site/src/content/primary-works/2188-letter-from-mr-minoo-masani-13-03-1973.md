@@ -1,7 +1,7 @@
 ---
 id: 2188-letter-from-mr-minoo-masani-13-03-1973
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -12,12 +12,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1973
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +28,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_reference_number"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English letter, dated March 13, 1973, is from M. R. Masani to Minoo Mankorey of the Swatantra Party in Bombay. Masani says he is enclosing a copy of a letter received that morning from G. R. Majhi of Orissa, along with his reply.
 ---
 
-Archive item 2188; dated 1973-03-13; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated March 13, 1973.
+- M. R. Masani addresses the recipient as “Minoo” and signs as “(M.R. Masani).”
+- Masani encloses a copy of a letter from Mr. G. R. Majhi of Orissa and his reply.
+- He asks the recipient to carry an envelope marked for Majhi and give it to him upon his arrival.
+- The recipient is identified as Mr. Minoo Mankorey of the Swatantra Party, Bombay.

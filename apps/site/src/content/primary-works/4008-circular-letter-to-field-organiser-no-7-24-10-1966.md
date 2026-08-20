@@ -1,10 +1,12 @@
 ---
 id: 4008-circular-letter-to-field-organiser-no-7-24-10-1966
 title:
-  main: "Circular Letter to Field Organiser no-7"
+  main: "CIRCULAR LETTER TO FIELD ORGANISERS NO. 7"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: circular
+work_type_source: filename
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
@@ -12,11 +14,12 @@ publication:
   language: en
   issuer_id: swatantra-party
   publisher_name: "Swatantra Party"
+  place: "BOMBAY 1."
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +30,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_publisher_address"
+  - "no_edition_statement"
+  - "no_series_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Field Organiser no-7
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page internal Swatantra Party circular, dated 24 October 1966, is addressed to field organisers and signed by S. V. Raju in his capacity as Executive Secretary. It reports that many travel allowance bills submitted by field organisers are vague and inadequately calculated.
+  
+  The circular introduces a procedural control: at least one member of the three-man committee must initial each travel allowance bill before it is sent to the party's central office. It also requires bills to arrive by the tenth of each month together with the organiser's report. A carbon copy is sent to M. R. Masani for information and implementation, with a request that the other committee members be informed.
 ---
 
-Archive item 4008; dated 1966-10-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is Circular Letter to Field Organisers No. 7, issued by the Swatantra Party Central Office in Bombay on 24 October 1966.
+- S. V. Raju signs the letter as Executive Secretary.
+- The central office criticises field organisers for submitting vague and incorrectly calculated travel allowance bills.
+- At least one member of the three-man committee must initial each bill before submission.
+- Bills must reach the central office by the tenth of the month along with the organiser's report.
+- M. R. Masani receives a carbon copy for information and implementation.

@@ -1,7 +1,7 @@
 ---
 id: 2204-letter-from-mr-minoo-masani-21-03-1972
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1972
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 21 March 1972, Minoo Masani thanks H. M. Patel for an invitation to a discussion in Delhi on the morning of 26 March. Masani regrets that he will be unable to attend but expresses hope that the discussions will be fruitful.
+  
+  The letter closes with a concise statement of Masani’s outlook: he describes himself as optimistic over the long term but pessimistic in the short term. The page contains no further discussion of the proposed meeting or its subject.
 ---
 
-Archive item 2204; dated 1972-03-21; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Minoo Masani wrote the letter on 21 March 1972.
+- He responds to H. M. Patel’s letter of 17 March 1972.
+- He was invited to a discussion in Delhi on the morning of 26 March.
+- Masani says he cannot attend the discussion.
+- He hopes that the discussions will be fruitful.
+- He characterizes himself as a long-term optimist and short-term pessimist.

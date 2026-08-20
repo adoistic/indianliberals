@@ -1,23 +1,22 @@
 ---
 id: 5713-letter-to-mr-s-v-raju-05-04-1970
 title:
-  main: "Letter to Mr S V Raju"
+  main: "[Letter to Mr S V Raju]"
   subtitle: ""
 work_type: letter
 authors:
-  - s-v-raju
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_full_name_not_printed"
+  - "sender_full_name_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page typed confirmation copy is a letter from “MASANI” in Bombay, dated 5 April 1970, addressed to “RAJU.” It instructs the recipient to dispatch invitations to members of the Gujarat State Parliamentary Board. The document therefore records a brief administrative communication concerning party-political organization; it does not provide further details about the meeting, invitees, or the board’s activities.
 ---
 
-Archive item 5713; dated 1970-04-05; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a single-page typed office letter and confirmation copy.
+- It is dated “5-4-70,” interpreted in the metadata as 5 April 1970.
+- The sender is identified on the page only as “MASANI.”
+- The recipient is identified only as “RAJU.”
+- The letter concerns dispatching invitations to members of the Gujarat State Parliamentary Board.
+- The place indicated is Bombay.

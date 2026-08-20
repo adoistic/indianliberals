@@ -1,22 +1,20 @@
 ---
 id: 3563-lok-sabha-question-no-115-income-tax-on-income-of-political-parties-17-08-1963
 title:
-  main: "Lok Sabha Question No-115 Income-Tax On Income Of Political Parties"
+  main: "INCOME-TAX ON INCOME OF POLITICAL PARTIES."
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +24,37 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "edition_not_printed"
+  - "identifier_not_printed"
+  - "no_formal_authority_match"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Lok Sabha document records Starred Question No. 115, listed for answer on 17 August 1963. Shri Shree Narayan Das, Shri Yashpal Singh, and Shri Sarjoo Pandey ask whether the Government has considered the levy and legality of income tax on the income of political parties, and, if so, what conclusion it reached.
+  
+  The Deputy Minister of Finance, Smt. Tarkeshwari Sinha, answers that the matter has been considered and states that the income of a political party is not exempt from income tax. The document presents no further explanation of the governing law, the scope of taxable income, or the Government's reasoning.
 ---
 
-Archive item 3563; dated 1963-08-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a Lok Sabha starred question dated 17 August 1963.
+- The question is jointly listed under Shri Shree Narayan Das, Shri Yashpal Singh, and Shri Sarjoo Pandey.
+- The members ask whether the Government considered taxing political-party income and the legality of doing so.
+- The Deputy Minister of Finance answers that the matter was considered.
+- The official answer states that political-party income is not exempt from income tax.
+- No details are provided about the legal basis, implementation, or categories of income covered.

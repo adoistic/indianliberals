@@ -1,21 +1,20 @@
 ---
 id: 5776-swatantra-party-finance
 title:
-  main: "Swatantra Party Finance"
+  main: "Finance."
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
+purpose: report
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -25,15 +24,36 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "author_not_named"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "issuer_not_printed"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page financial report sets out three bank accounts: General Account No. 1, Membership Funds No. 2, and Convention Account No. 3. It records balances of Rs. 400, Rs. 10,000, and Rs. 700 respectively, while stipulating that the membership and convention funds are not to be used for day-to-day expenses. Because of a funding shortfall, the document proposes transferring money to the general account; it also notes that Rs. 1,000 was drawn from Account No. 2 for current expenses and must be reimbursed.
 ---
 
-Archive item 5776; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document distinguishes between a general account, membership funds, and convention funds.
+- The reported account balances are Rs. 400, Rs. 10,000, and Rs. 700.
+- Membership and convention funds are not intended for ordinary daily expenditure.
+- Account No. 3 has declined from Rs. 18,000 two years earlier to Rs. 700.
+- Monthly commitments are estimated at Rs. 2,390, or approximately Rs. 2,500.
+- Monthly income is listed as Rs. 1,100, leaving an average shortfall of Rs. 1,000.
+- Immediate objectives include securing sufficient credit for Account No. 1, reimbursing Rs. 1,000 to Account No. 2, and building the convention account to Rs. 20,000.

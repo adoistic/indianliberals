@@ -1,21 +1,21 @@
 ---
 id: 3118-a-man-for-all-seasons
 title:
-  main: "A Man for All Seasons"
+  main: "A man for all seasons"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: essay
+authors:
+  - nani-palkhivala
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "THE INDIAN EXPRESS"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -25,15 +25,41 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "biographical-tribute"
+  - "liberalism-as-tradition"
+  - "economic-liberty"
+  - "planning-critique"
+  - "civil-liberty"
+  - "constitutionalism"
+missing_metadata_flags:
+  - "year_not_confirmed"
+  - "publisher_not_authority_resolved"
+  - "place_not_printed"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In the rendered article, N. A. Palkhivala presents C. Rajagopalachari (Rajaji) as a rare combination of intellectual power, moral character, administrative ability and political courage. The tribute links Rajaji's public life to his work as Chief Minister of Madras, his advocacy of socialism and social reform, and his later resistance to excessive state control and bureaucratic power.
+  
+  The rendered article emphasizes Rajaji's defence of freedom, democracy and constitutional government. It praises his opposition to permit-licence controls, his founding of the Swatantra Party, and his insistence that civil liberty and the rule of law were essential to India's future. Palkhivala also portrays Rajaji as a thinker rooted in India's cultural tradition yet open to modern political and economic ideas. The second rendered PDF page is an unrelated newspaper page and contains no continuation of the article.
 ---
 
-Archive item 3118; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Palkhivala depicts Rajaji as an outstanding figure whose character and intellect were matched by substantial public service.
+- The article credits Rajaji with combining administrative competence, moral courage, simplicity and intellectual independence.
+- Rajaji's conception of socialism is presented as practical social concern rather than doctrinaire collectivism.
+- The tribute highlights Rajaji's opposition to bureaucratic controls, permit-licence restrictions and excessive state intervention.
+- Rajaji's founding of the Swatantra Party is treated as an effort to restore political debate around freedom, democracy and individual responsibility.
+- The article connects Rajaji's defence of civil liberty with the preservation of constitutional government and the rule of law.
+- Palkhivala presents Rajaji as both a custodian of Indian cultural traditions and a modern political thinker.

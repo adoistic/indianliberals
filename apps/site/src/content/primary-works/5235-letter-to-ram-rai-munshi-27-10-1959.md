@@ -1,22 +1,21 @@
 ---
 id: 5235-letter-to-ram-rai-munshi-27-10-1959
 title:
-  main: "Letter to Ram Rai Munshi"
+  main: "[Letter to Ram Rai Munshi]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_publication_place"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Ram Rai Munshi
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated 27 October 1959, is from M. R. Masani to Ram Rai Munshi. Masani agrees about the significance of Chinese action and directs Munshi to a report in the Indian Express reproducing remarks he made at Mangalore the previous day. He also outlines his immediate schedule: remaining in Bombay until travelling to Delhi for the Parliament session on 15 November, while spending intervening weekends away from Bombay on Swatantra Party engagements.
 ---
 
-Archive item 5235; dated 1959-10-27; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani agrees with the recipient about the significance of Chinese action.
+- He refers the recipient to a report in the Indian Express dated 26 October 1959.
+- The report contains Masani's remarks made at Mangalore the previous day.
+- Masani plans to remain in Bombay until travelling to Delhi on 15 November for the Parliament session.
+- He expects to spend most intervening weekends away from Bombay on Swatantra Party engagements.

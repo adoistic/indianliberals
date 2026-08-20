@@ -1,21 +1,19 @@
 ---
 id: 5622-lead-by-congress
 title:
-  main: "Lead by Congress"
+  main: "Being Treated by Government"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -26,14 +24,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "electoral-reform"
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "author_not_identified"
+  - "year_not_found"
+  - "publisher_not_identified"
+  - "source_periodical_not_identified"
+  - "clipping_title_partially_obscured"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This damaged English newspaper clipping examines proposed measures to address defections and instability in legislative government. It considers whether ministries should be limited in size, suggesting that an excessive number of ministers can create opportunities for accommodating defectors and expanding ministerial office without genuine increases in workload. The article also discusses the proposed disqualification of legislators who defect and the difficulty of defining the circumstances in which a defection should attract penalties.
+  
+  The clipping weighs competing approaches to anti-defection legislation, including restrictions on legislators who change parties and possible consequences for governments that lose their majority. It stresses that any rule must be carefully qualified: a broad prohibition could unfairly penalise legitimate changes of allegiance, while a weak rule would fail to deter opportunistic defections. The article further considers whether mid-term elections should be triggered when a government loses its majority, and whether this remedy would be too drastic or impractical. The source, author, date, and publication are not identifiable from the mounted clipping.
 ---
 
-Archive item 5622; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The article discusses legislative defections and proposed anti-defection legislation.
+- It argues that limiting the size of ministries could reduce incentives to accommodate defectors.
+- It distinguishes between genuine increases in ministerial workload and appointments made to reward or contain defectors.
+- It considers disqualification or other penalties for legislators who change parties.
+- It asks whether losing a majority should lead to mid-term elections.
+- It cautions that anti-defection rules must distinguish legitimate political changes from opportunistic defections.
+- It presents electoral and legislative remedies as difficult to design without creating impractical or excessively drastic consequences.

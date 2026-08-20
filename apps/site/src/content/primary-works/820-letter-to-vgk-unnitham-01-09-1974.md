@@ -1,22 +1,21 @@
 ---
 id: 820-letter-to-vgk-unnitham-01-09-1974
 title:
-  main: "Letter to VGK Unnitham"
+  main: "[Letter to VGK Unnitham]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: VGK Unnitham
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated September 1, 1974, M. R. Masani writes to V. G. K. Unnithan and acknowledges receipt of Unnithan’s August 8 letter. Masani encloses a copy of the September issue of Freedom First, drawing particular attention to its front-page article by S. V. Raju.
+  
+  The letter presents the enclosed article as potentially useful guidance to Unnithan. It is a brief item of correspondence rather than an argumentative essay, and the page contains no further discussion of the article’s subject or contents.
 ---
 
-Archive item 820; dated 1974-09-01; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The letter is dated September 1, 1974.
+- M. R. Masani addresses Mr. V. G. K. Unnithan.
+- Masani acknowledges Unnithan’s letter of August 8.
+- Masani encloses the September issue of Freedom First.
+- The issue carries a front-page article by S. V. Raju.
+- Masani suggests that the article may provide useful guidance to Unnithan.

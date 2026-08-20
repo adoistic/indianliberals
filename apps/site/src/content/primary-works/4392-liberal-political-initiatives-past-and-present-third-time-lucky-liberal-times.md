@@ -1,21 +1,21 @@
 ---
 id: 4392-liberal-political-initiatives-past-and-present-third-time-lucky-liberal-times
 title:
-  main: "Liberal Political Initiatives-past and Present Third Time Lucky-Liberal Times"
+  main: "Liberal Times"
   subtitle: ""
-work_type: letter
+work_type: periodical_issue
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Liberal Times"
+  year: 2000
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 8
   pages_total_source: pypdfium2
@@ -26,14 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "liberalism-as-tradition"
+  - "indian-liberal-history"
+  - "party-politics"
+  - "economic-liberty"
+  - "regulatory-state-critique"
+  - "civil-liberty"
+  - "free-speech"
+  - "governance-reform"
+  - "constitutionalism"
+  - "federalism"
+  - "education"
+  - "health-policy"
+missing_metadata_flags:
+  - "formal_toc_not_present"
+  - "editor_not_named"
+  - "issuer_not_identified"
+  - "place_not_printed"
+  - "issn_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 4392; 8 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+Archive item 4392. Scanned document from the Swatantra Party papers.

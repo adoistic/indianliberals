@@ -1,7 +1,7 @@
 ---
 id: 1961-letter-to-sardar-swaran-singh-17-11-1964
 title:
-  main: "Letter to Sardar Swaran Singh"
+  main: "[Letter to Sardar Swaran Singh]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Swaran Singh
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated November 17, 1964, from Dahyabhai Vallabhbhai Patel, M.P., to Sardar Swaran Singh, Minister for External Affairs, protests Singh’s failure to respond to earlier communications concerning Patel’s delegation. Patel says that Singh’s last-minute actions created avoidable difficulties, despite prior telephone and written discussions and clearance from the Government of India’s External Affairs authorities.
+  
+  Patel argues that the delegation’s arrangements—including the required papers, official clearance, and foreign exchange—had already taken substantial time and effort. He attributes the resulting inconvenience to Singh and asks him to explain his conduct, concluding that at minimum he should apologise to Patel and his colleagues.
 ---
 
-Archive item 1961; dated 1964-11-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated November 17, 1964, and is written from Bombay on Dahyabhai Vallabhbhai Patel’s M.P. letterhead.
+- Patel complains that Sardar Swaran Singh did not reply to his telegram, letter, or telephone communication.
+- The dispute concerns arrangements for a delegation and Singh’s intervention at the last minute.
+- Patel says official clearance, papers, and foreign exchange had already been secured for the visit.
+- The letter invokes the Government of India’s policy as previously explained by Patel while he was in Taiwan.
+- Patel holds Singh responsible for inconveniencing the delegation and demands an explanation and apology.

@@ -1,21 +1,23 @@
 ---
 id: 5946-letter-to-jayaprakash-naryan
 title:
-  main: "Letter to Jayaprakash Naryan"
+  main: "[Letter to Jayaprakash Naryan]"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: correspondence
+authors:
+  - minoo-masani
+  - jayaprakash-narayan
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Patna"
+  year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -25,16 +27,37 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+  - "civil-liberty"
+  - "anti-corruption"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "correspondence_dates_not_uniform"
+  - "recipient_metadata_incomplete"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Jayaprakash Naryan
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page correspondence from November 1974 records an exchange between Minoo Masani and Jayaprakash Narayan concerning the Bihar movement. Masani’s express message thanks Narayan for his invitation and regrets that he cannot attend the meeting, while promising to look forward to the Electoral Reform Committee’s report. Narayan’s letter, dated 9 November 1974, describes the Bihar struggle as eight months old and seeks Masani’s participation in a Delhi meeting of opposition leaders and other distinguished individuals on 25–26 November.
 ---
 
-Archive item 5946; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani responds to Narayan’s invitation and says he cannot attend the forthcoming meeting.
+- Masani expresses interest in the Electoral Reform Committee’s work.
+- Narayan characterizes the Bihar movement as a peaceful struggle against corruption and misgovernment.
+- Narayan argues that the Bihar situation reflects wider national problems, including inflation, unemployment, and inequalities.
+- Narayan calls for radical institutional and political changes at both the Centre and in the states.
+- The proposed Delhi meeting would consider support for the Bihar movement, pressure on the Central Government, and peaceful movements for reform elsewhere in India.

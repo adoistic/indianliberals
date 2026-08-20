@@ -142,9 +142,13 @@ def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):
     work_type, wt_source = fw_apply(name, meta.get("work_type") or "letter")
     purpose = meta.get("purpose")
     year = scalar(dig(meta, "publication.year"))
-    place = dig(meta, "publication.place")
-    publisher_name = dig(meta, "publication.publisher_verbatim")
-    issuer = dig(meta, "publication.issuer_id")
+    # scalar() on every one of these, not just the ones the schema declares as
+    # wrapped. Luna occasionally returns {value, confidence} for a field the
+    # schema says is a plain string; without the unwrap that dict reaches the
+    # frontmatter and fails the collection schema at build time.
+    place = scalar(dig(meta, "publication.place"))
+    publisher_name = scalar(dig(meta, "publication.publisher_verbatim"))
+    issuer = scalar(dig(meta, "publication.issuer_id"))
     language = meta.get("language") or "en"
 
     # Reference integrity: an unknown thinker_id fails the Astro build.

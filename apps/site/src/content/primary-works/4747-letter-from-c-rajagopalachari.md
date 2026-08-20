@@ -1,22 +1,21 @@
 ---
 id: 4747-letter-from-c-rajagopalachari
 title:
-  main: "Letter from C Rajagopalachari`"
+  main: "[Letter from C Rajagopalachari`]"
   subtitle: ""
 work_type: letter
-authors:
-  - c-rajagopalachari
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
+  year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "biographical-tribute"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "no_addressee_metadata"
+  - "telegram_form_classification"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram, sent from C. Rajagopalachari in Madras on 5 June 1963, conveys birthday greetings and blessings to Bhailalbhai Patel on completing his seventy-fifth year. Rajagopalachari acknowledges Patel's wish to retire from active politics as understandable, but asks him to give Minoo Masani's letter “full consideration.”
+  
+  A handwritten postscript on the same page appears to address Masani and notes that Rajagopalachari has sent a telegram to Bhailalbhai. The document is therefore both a personal birthday message and a brief intervention concerning a possible political retirement.
 ---
 
-Archive item 4747; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The communication is dated 5 June 1963 and originates from Madras.
+- Rajagopalachari sends blessings and birthday wishes for Bhailalbhai Patel's seventy-fifth year.
+- The telegram recognises Patel's desire to retire from active politics.
+- Rajagopalachari urges Patel to consider Minoo Masani's letter before retiring.
+- A handwritten postscript appears to tell Masani that the telegram has been sent to Bhailalbhai.

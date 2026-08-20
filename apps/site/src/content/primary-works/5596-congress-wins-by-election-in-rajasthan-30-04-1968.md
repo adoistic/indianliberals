@@ -1,22 +1,20 @@
 ---
 id: 5596-congress-wins-by-election-in-rajasthan-30-04-1968
 title:
-  main: "Congress wins by election in Rajasthan"
+  main: "Congress wins by-elections in Rajasthan"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1968
+  place: "Jaipur"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "no_publisher_line"
+  - "publication_year_not_printed"
+  - "newspaper_title_not_printed"
+  - "author_not_personally_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  The newspaper report, datelined Jaipur, April 29, records Congress victories in two Rajasthan by-elections: the Dausa Lok Sabha seat and the Chomu Assembly seat. It presents the results as a setback for the Swatantra Party, noting that Swatantra had previously won both constituencies in the general elections and that the Dausa contest was decided by a margin of more than 6,300 votes.
 ---
 
-Archive item 5596; dated 1968-04-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Congress captured the Dausa Lok Sabha and Chomu Assembly seats in Rajasthan.
+- The results are described as a severe setback for the Swatantra Party.
+- Nawal Kishore Sharma defeated the Swatantra candidate R. R. Morarka in Dausa.
+- The Dausa by-election followed the death of Mr. Chunnilal Rai (Swa).
+- Ram Kishore Vyas, a former Home Minister, won the Chomu Assembly contest.
+- The report lists candidate-wise votes and notes that the independent candidates lost their deposits.

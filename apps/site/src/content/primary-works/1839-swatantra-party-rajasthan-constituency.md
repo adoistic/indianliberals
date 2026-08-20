@@ -1,21 +1,20 @@
 ---
 id: 1839-swatantra-party-rajasthan-constituency
 title:
-  main: "Swatantra Party Rajasthan Constituency"
+  main: "[Swatantra Party Rajasthan Constituency]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Rajasthan"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +25,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
+  - "document_type_ambiguous"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office record, headed “RAJASTHAN” and numbered 1839, lists 16 contacts with their addresses and brief political remarks. The entries document efforts to build support for SP, apparently the Swatantra Party, including invitations to a forthcoming convention, requests for literature, and reports of local citizens wishing to join or assist the party.
 ---
 
-Archive item 1839; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document records contacts across Rajasthan, including Jaipur, Jodhpur, Ajmer, Kota, Bhilwara, Sri Ganganagar, and other locations.
+- Several remarks concern organising support for SP and inviting prominent local figures to a convention.
+- The list reports favourable reactions from citizens and prospective supporters in multiple districts.
+- One entry describes the party as offering an opposition to Congress.
+- The remarks combine electoral organisation with criticism of existing political conditions and support for cooperative farming.

@@ -1,7 +1,7 @@
 ---
 id: 5175-letter-to-sundaram
 title:
-  main: "Letter to Sundaram"
+  main: "[Letter to Sundaram]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,12 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
+  year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
+  - "editor_not_applicable"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Sundaram
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office communication, dated 27 November 1959, is issued under the name “MASANI” from 40 Canning Lane, New Delhi 1. It is addressed to Sundaram, with “LAKSEMI” and “COIMBATORE” appearing in the recipient block.
+  
+  The message conveys regret at being unable to attend and sends best wishes for success. The page identifies the communication as having been sent by phonogram, with a confirmation copy subsequently sent by ordinary post. No subject line, salutation, or further explanation is provided.
 ---
 
-Archive item 5175; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page English office communication dated 27 November 1959.
+- It is issued under the surname “MASANI” from an address in New Delhi.
+- The recipient block names “SUNDARAM,” “LAKSEMI,” and “COIMBATORE.”
+- The sender regrets being unable to attend.
+- The sender conveys best wishes for success.
+- The message was sent by phonogram and confirmed by ordinary post.

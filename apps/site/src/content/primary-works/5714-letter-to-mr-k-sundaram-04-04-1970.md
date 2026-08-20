@@ -1,22 +1,22 @@
 ---
 id: 5714-letter-to-mr-k-sundaram-04-04-1970
 title:
-  main: "Letter to Mr K Sundaram"
+  main: "[Letter to Mr K Sundaram]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "MADRAS"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: K Sundaram
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 4 April 1970, C. Rajagopalachari urges K. Sundaram, M.P., to attend an upcoming meeting of the National Executive in Delhi. He asks Sundaram to give full support to Minoo Masani and Dr. Cooper in the matter of C. C. Desai.
+  
+  The letter also indicates that Rajagopalachari sent similar letters to Dr. H. V. Hande, Prof. M. Muthunaswami, and Mr. S. S. Mariswami. No further explanation of the dispute involving C. C. Desai or the identity and organisational role of the National Executive is provided on the page.
 ---
 
-Archive item 5714; dated 1970-04-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 4 April 1970 and is written by C. Rajagopalachari from his Madras address.
+- It is addressed to Sri K. Sundaram, M.P.
+- Rajagopalachari asks Sundaram to attend a forthcoming National Executive meeting in Delhi.
+- He requests full support for Minoo Masani and Dr. Cooper in the matter of C. C. Desai.
+- The letter states that similar letters were sent to H. V. Hande, M. Muthunaswami, and S. S. Mariswami.

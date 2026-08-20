@@ -1,22 +1,22 @@
 ---
 id: 959-emergency-must-stay-says-munshi-25-06-1963
 title:
-  main: "Emergency Must Stay Says Munshi"
+  main: "Emergency must stay, says Munshi"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Hindustan Times"
+  place: "Bombay"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+  - "governance-reform"
+  - "emergency-critique"
+missing_metadata_flags:
+  - "no_author_byline"
+  - "no_publisher_address"
+  - "no_exact_publication_date"
+  - "archival_clipping"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Hindustan Times clipping reports a June 25 statement in Bombay by K. M. Munshi, identified as a leader of the Swatantra Party. Munshi argued that the national emergency should continue until India was sufficiently militarily strong to meet the perceived Chinese challenge and deter neighbouring countries from contemplating war.
+  
+  The report says Munshi made the remarks at a luncheon meeting of the Rotary Club of Bombay, speaking on “the emergency and its implications.” The clipping records his position but provides no broader account of the emergency, its legal basis, or the discussion at the meeting.
 ---
 
-Archive item 959; dated 1963-06-25; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The clipping reports a statement by K. M. Munshi, a Swatantra Party leader.
+- Munshi supported continuing the emergency until India could meet the Chinese challenge.
+- He linked continuation of the emergency to building sufficient military strength.
+- He argued that military strength would deter neighbouring countries from initiating war.
+- The statement was delivered at a Rotary Club of Bombay luncheon meeting.
+- The clipping is a brief press report and does not explain the emergency's legal or political context.

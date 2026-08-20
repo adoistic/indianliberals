@@ -1,22 +1,22 @@
 ---
 id: 3531-swatantra-joins-opposition-front-hindustan-times-09-01-1971
 title:
-  main: "Swatantra Joins Opposition Front-Hindustan Times"
-  subtitle: ""
-work_type: letter
+  main: "Swatantra joins opposition Front"
+  subtitle: "No minimum programme"
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Hindustan Times"
+  place: "Madras"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "publisher_not_resolved"
+  - "author_not_resolved"
+  - "publication_date_not_printed_as_formal_imprint"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This Hindustan Times report, datelined Madras, January 8, describes the Swatantra Party’s decision to join the Congress(O)-Jan Sangh-SSP Front for the forthcoming Lok Sabha election. The alliance was formed to field one agreed candidate in each constituency, but Swatantra joined without requiring the participating parties to adopt a joint minimum programme.
+  
+  The article says the decision followed an assurance from Nijalingappa that the Communist Party would not be permitted to associate with the Front. It reports that the Swatantra executive, including C. Rajagopalachari, N. G. Ranga, and Minoo Masani, criticised the abandonment of efforts to establish a democratic alliance around a common programme. Masani nevertheless said Swatantra would welcome agreement on a minimum programme, while ruling out an immediate adjustment with the Communist Party.
 ---
 
-Archive item 3531; dated 1971-01-09; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Swatantra Party decided to join the Congress(O)-Jan Sangh-SSP Front for the forthcoming Lok Sabha election.
+- The Front would seek one agreed candidate for each Lok Sabha constituency.
+- Swatantra joined without insisting on a joint minimum programme.
+- The decision followed an assurance that the Communist Party would not be allowed to associate with the Front.
+- The party executive criticised the abandonment of efforts to create a democratic alliance based on a common programme.
+- Minoo Masani said Swatantra would welcome a common programme but rejected immediate electoral adjustments with the Communist Party.
+- The Swatantra Party’s National Convention was scheduled to be held in Bombay on January 30 and 31.

@@ -1,7 +1,7 @@
 ---
 id: 3195-letter-to-egg-head-02-11-1971
 title:
-  main: "Letter to Egg Head"
+  main: "[Letter to Egg Head]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_identified"
+  - "publisher_not_found"
+  - "recipient_identity_not_resolved"
+  - "signature_not_visible_or_unreadable"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Egg Head
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English letter, dated November 2, 1971, is addressed informally to “Egg-head (hardboiled).” The writer apologizes for delayed replies, explains that they have signed a contract with Agarwal, and discusses a contractual provision concerning royalties on cheap editions. The writer says they signed without creating further problems because the provision seemed unlikely to matter.
+  
+  The letter also reports a delay in handing over a typescript: only the editorials had been typed by October 31, while most articles remained unfinished. The writer expects to submit the completed typescript around November 12 or 13 after returning from Baroda, while assuring the recipient that publication of the book in January should not be delayed. The writer asks the recipient to telephone Mr. R. S. Gae about permission to reproduce passages from his book and confirms that Mr. An...’s article has arrived. Handwritten notes at the foot of the page mention Raju and Rangarajan and express concern about the recipient’s letterhead and papers.
 ---
 
-Archive item 3195; dated 1971-11-02; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated November 2, 1971, and begins with the salutation “My dear Egg-head (hardboiled).”
+- The writer has signed a contract with Agarwal and comments on a royalty clause for cheap editions.
+- The typescript is delayed because only the editorials had been typed by October 31; most articles were still being prepared.
+- The writer expects to hand over the typescript around November 12 or 13 after returning from Baroda.
+- The writer does not expect the delay to affect the planned January publication of the book.
+- The recipient is asked to contact Mr. R. S. Gae regarding permission to reproduce passages from his book.

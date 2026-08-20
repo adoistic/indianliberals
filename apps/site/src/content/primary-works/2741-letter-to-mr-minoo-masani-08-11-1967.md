@@ -1,23 +1,23 @@
 ---
 id: 2741-letter-to-mr-minoo-masani-08-11-1967
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY (Mysore State)"
+  place: "BANGALORE-4"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +28,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_address"
+  - "recipient_not_catalogued"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 8 November 1967, V. T. Sreenivasan responds to M. R. Masani’s decision to retire permanently from the Swatantra Party’s General Secretaryship. Sreenivasan sympathizes with Masani’s reasons but warns that the party will not function as it did when Masani was in complete charge.
+  
+  The letter’s main concern is the neglect of the Mysore State unit by the party’s central organisation. Sreenivasan contrasts the attention given by Rajaji to Madras and Professor Ranga to Andhra Pradesh with Mysore’s marginal position, calling it the “Cinderella of the Party.” He urges that a newly elected Joint Secretary be assigned regular visits to Mysore and hopes that future National Executive representatives will maintain close contact with the state office and attend its meetings. He closes by acknowledging that his complaint may be “a cry in the wilderness,” but says he felt it best to express it.
 ---
 
-Archive item 2741; dated 1967-11-08; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Sreenivasan supports Masani’s decision to retire but says the party will change after Masani leaves the General Secretaryship.
+- The letter argues that the Swatantra Party’s central organisation has badly neglected Mysore State.
+- Rajaji’s attention to Madras and Professor Ranga’s attention to Andhra Pradesh are contrasted with Mysore’s marginalisation.
+- Sreenivasan describes Mysore State as the “Cinderella of the Party.”
+- He recommends assigning a Joint Secretary to make frequent visits to Mysore and help build the party there.
+- He calls for National Executive representatives who remain in regular contact with the state office and attend state meetings.

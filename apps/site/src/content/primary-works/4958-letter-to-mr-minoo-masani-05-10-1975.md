@@ -1,23 +1,22 @@
 ---
 id: 4958-letter-to-mr-minoo-masani-05-10-1975
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - b-r-shenoy
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Geneva"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "liberalism-as-tradition"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_typed_sender_name"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This letter from Geneva, dated October 5, 1975, is a warm personal exchange between the sender, apparently B. R. Shenoy, and Minoo Masani. The sender reports receiving a second copy of Masani’s book, reading it with great interest, and lending it to Mel Lasky. He also notes that Lawrence de Neufville has asked about Masani and that the book appears to be selling reasonably well in India.
+  
+  The letter briefly comments on the recent meeting of Liberal International in Edinburgh, which attracted little press attention, and gives a progress report on the sender’s own book: eight of fourteen chapters have been completed and the manuscript is with a London literary agent. The remainder of the letter concerns family news, a summer spent with Jennifer, and the hope that Masani’s planned European trip will lead to another meeting. The second rendered page is the reverse of the aerogramme and contains no additional legible letter text.
 ---
 
-Archive item 4958; dated 1975-10-05; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The sender writes from Geneva to Minoo Masani on October 5, 1975.
+- He acknowledges receiving a second copy of Masani’s book and says he read it with great interest.
+- The book was lent to Mel Lasky, and the sender reports that it appears to be selling reasonably well in India.
+- Lawrence de Neufville is identified as another mutual friend who has inquired about Masani.
+- The sender says the Liberal International meeting in Edinburgh received little newspaper coverage.
+- His own book is reported to be eight chapters into a planned fourteen-chapter work and is currently with a London literary agent.
+- The closing paragraphs convey family news, affection, and anticipation of Masani’s next European visit.

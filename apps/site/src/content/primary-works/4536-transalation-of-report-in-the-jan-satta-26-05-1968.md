@@ -1,22 +1,22 @@
 ---
 id: 4536-transalation-of-report-in-the-jan-satta-26-05-1968
 title:
-  main: "Transalation of Report in The Jan Satta"
+  main: "Transalation of report in The JAN SATTA,"
   subtitle: ""
 work_type: occasional_paper
+purpose: report
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Ahmedabad"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +27,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_author_byline"
+  - "no_publisher"
+  - "no_issuer"
+  - "no_document_date_as_publication_date"
+  - "no_formal_title_page"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page typed document translates reports from Jan Satta dated 26 May 1968 and Bombay Samachar dated 28 May 1968. The reports describe mounting opposition within the Gujarat Swatantra Party to Minoo Masani’s proposal for an ad hoc committee to reorganise the Gujarat unit after the party’s defeat in Rajya Sabha elections. Party leaders, especially Bhailalbhai Patel and H. M. Patel, portray Masani’s initiative as disruptive and accuse him of acting in the interests of the Congress.
+  
+  The reports also record competing leadership claims and efforts to contain the dispute. Dahyabhai Patel is identified as a possible new Gujarat party chairman with support from several MPs, while the party’s executive committee authorises H. M. Patel to present Gujarat’s views to the General Council. The coverage frames the controversy as a struggle over party discipline, leadership, electoral responsibility, and the future of the Gujarat organisation.
 ---
 
-Archive item 4536; dated 1968-05-26; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Minoo Masani’s proposal for an ad hoc committee for Gujarat provokes opposition among Gujarat Swatantra Party leaders.
+- Bhailalbhai Patel and other leaders accuse Masani of being a Congress spy within the Swatantra Party.
+- The reports connect Masani’s activities with the alleged weakening or liquidation of the Swatantra Party.
+- Dahyabhai Patel is mentioned as a possible chairman of the Gujarat unit, reportedly supported by several MPs.
+- The Gujarat party executive committee gives H. M. Patel authority to present the State unit’s views to the General Council.
+- Party leaders plan a memorandum criticising Masani’s actions and alleged breach of party discipline.
+- The second report says the executive committee opposed forming an ad hoc committee after the defeat of the party’s official Rajya Sabha candidate.

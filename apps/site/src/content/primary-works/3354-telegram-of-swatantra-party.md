@@ -1,7 +1,7 @@
 ---
 id: 3354-telegram-of-swatantra-party
 title:
-  main: "Telegram of Swatantra Party"
+  main: "[Telegram of Swatantra Party]"
   subtitle: ""
 work_type: telegram
 authors: []
@@ -10,12 +10,10 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +24,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "sender_not_visible"
+  - "recipient_not_visible"
+  - "date_not_visible"
+  - "publisher_not_visible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telegram is printed on an Indian Posts and Telegraphs Department form. The sender, recipient, date, and issuing political organisation are not legible, and the message is addressed or associated with “RAMGARH.”
+  
+  The telegram requests the immediate dispatch and distribution of fifteen new jeeps among endorsed units. It asks for confirmation that, when a central observer visits Patna on the eighteenth, he will hand over a draft for the amount after verifying that fifteen jeeps have been allotted to fifteen endorsed units. The document records an administrative and logistical transaction, but does not identify the parties responsible for it.
 ---
 
-Archive item 3354; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page English telegram on an Indian Posts and Telegraphs Department form.
+- It requests immediate distribution of fifteen new jeeps among endorsed units.
+- The message refers to a central observer’s visit to Patna on the eighteenth.
+- A draft is to be handed over after confirmation that the fifteen jeeps have been allotted.
+- The sender, recipient, date, and political organisation are not legible on the rendered page.
+- The message ends with the location or designation “RAMGARH.”

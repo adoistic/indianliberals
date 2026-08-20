@@ -1,22 +1,22 @@
 ---
 id: 203-the-time-to-fight-now-or-never-28-07-1963
 title:
-  main: "The Time to Fight-Now or Never"
+  main: "The Time to Fight—Now or Never"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: essay
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Hindustan Times"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+  - "cold-war-positioning"
+  - "socialism-debate"
+  - "capitalism-defence"
+missing_metadata_flags:
+  - "no_title_page"
+  - "no_publisher_address"
+  - "no_place"
+  - "no_edition"
+  - "no_identifiers"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this newspaper article, M. R. Masani argues that India must reject what he presents as China's coercive ultimatum and resist any settlement that would leave the country militarily or diplomatically weakened. He describes the Chinese advance and the proposed withdrawal arrangement as evidence of a broader Communist strategy, warning that accepting the ultimatum would compromise India's security and national honour. The article also criticises political interference in military affairs and urges the government to give commanders freedom to respond effectively on the frontier.
 ---
 
-Archive item 203; dated 1963-07-28; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani treats the Chinese ultimatum and military pressure as an attempt to impose terms on India.
+- He argues that public opinion has rejected the Chinese move and that the government should not accept the ultimatum.
+- The article warns that a withdrawal from contested frontier areas could create a dangerous and vulnerable military position.
+- Masani criticises political interference that prevents military commanders from acting decisively.
+- He argues that India should not assume that China will honour an agreement or that there will be a peaceful second round.
+- The conclusion presents resistance as a matter of national honour, courage, and strategic necessity.

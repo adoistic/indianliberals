@@ -1,7 +1,7 @@
 ---
 id: 3048-letter-from-m-c-chagla-01-04-1969
 title:
-  main: "Letter from M C Chagla"
+  main: "[Letter from M C Chagla]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1969
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "recipient_not_named"
+  - "document_reference_number_present_but_not_catalogued"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter from M. C. Chagla, dated 1 April 1969 and sent from 26, Western Court, New Delhi, reports the formation of a Parliamentary Group for Tibet following a meeting at the Constitution Club on 29 March. The group appointed a drafting committee consisting of Chagla as convenor, M. R. Masani, Balraj Madbhok, S. M. Joshi, and M. P. Bhargava to prepare a statement on Tibet.
+  
+  Chagla encloses the committee’s draft statement and invites the recipient to attend the group’s next meeting, scheduled for 3 April 1969 in Parliament House. The letter records an early organisational step in parliamentary advocacy concerning Tibet, but it does not include the enclosed statement or identify the recipient.
 ---
 
-Archive item 3048; dated 1969-04-01; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 1 April 1969 and originates from 26, Western Court, New Delhi.
+- Chagla reports that members of Parliament met at the Constitution Club on 29 March to form a Parliamentary Group for Tibet.
+- A drafting committee was appointed to prepare a statement on Tibet.
+- M. C. Chagla is identified as convenor, alongside M. R. Masani, Balraj Madbhok, S. M. Joshi, and M. P. Bhargava.
+- The committee's draft statement was enclosed with the letter, but is not present in the rendered page.
+- A further meeting was planned for 3 April 1969 at 5 p.m. in Room No. 50, Parliament House, to adopt the statement and plan future work.

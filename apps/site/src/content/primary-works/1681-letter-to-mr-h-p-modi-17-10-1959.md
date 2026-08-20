@@ -1,7 +1,7 @@
 ---
 id: 1681-letter-to-mr-h-p-modi-17-10-1959
 title:
-  main: "Letter to Mr H P Modi"
+  main: "[Letter to Mr H P Modi]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,27 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_issuer"
+  - "no_authority_match"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: H P Modi
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This handwritten English letter, dated 17 October 1959 from Ocean View Annex, Warden Road, Bombay, is addressed to H. P. Modi. Mrs Mohan Advani acknowledges receipt of Modi’s letter about a meeting of the Swatantra Party Ladies Committee scheduled for Tuesday, 20 October, at Bombay House. She explains that she will be out of Bombay on the meeting date and therefore cannot attend. She asks to be informed about the next meeting, which she says she will make an effort to attend, and closes with a formal expression of thanks and regret.
 ---
 
-Archive item 1681; dated 1959-10-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 17 October 1959 and was written from Bombay. It is addressed to H. P. Modi. The subject is a Swatantra Party Ladies Committee meeting. The meeting was scheduled for 20 October at Bombay House. Mrs Mohan Advani says she will be out of Bombay and unable to attend.
+- She requests information about the next meeting and expresses willingness to attend it.

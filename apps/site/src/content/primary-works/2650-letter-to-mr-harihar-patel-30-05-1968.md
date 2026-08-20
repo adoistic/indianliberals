@@ -1,22 +1,21 @@
 ---
 id: 2650-letter-to-mr-harihar-patel-30-05-1968
 title:
-  main: "Letter to Mr Harihar Patel"
+  main: "[Letter to Mr Harihar Patel]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_edition_statement"
+  - "no_series"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Harihar Patel
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This confidential letter, dated 30 May 1968, is written by M. R. Masani to Mr. Harihar Patel of the Government of Orissa. Masani welcomes Patel's decision to accept appointment as Public Relations Advisor and encloses a note setting out the post's age qualifications, experience requirements, responsibilities, proposed salary, and terms.
 ---
 
-Archive item 2650; dated 1968-05-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani responds to Patel's letter of 16 May after returning from abroad.
+- He expresses approval of Patel's appointment as Public Relations Advisor.
+- An enclosed note describes the post's qualifications, experience, responsibilities, salary, and terms.
+- Masani suggests that the appointment initially be made on an ad hoc probationary basis.
+- He proposes that confirmation after a year could be based on a reference from the State Public Service Commission.
+- Masani offers to recommend two or three suitable candidates whom Patel could interview.

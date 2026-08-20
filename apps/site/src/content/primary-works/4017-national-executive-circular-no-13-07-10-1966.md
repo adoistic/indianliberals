@@ -1,22 +1,25 @@
 ---
 id: 4017-national-executive-circular-no-13-07-10-1966
 title:
-  main: "National Executive Circular no-13"
+  main: "NATIONAL EXECUTIVE CIRCULAR No.13"
   subtitle: ""
 work_type: circular
-authors: []
+work_type_source: filename
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party\nCENTRAL OFFICE"
+  place: "Bombay"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +30,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_publisher_imprint"
+  - "no_edition_statement"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office circular, issued by the Swatantra Party Central Office in Bombay on 7 October 1966, informs party members that the next meeting of the National Executive will take place in New Delhi on Sunday, 6 November. It explains that the detailed agenda and related information will be circulated later, while providing the date early so recipients can arrange their travel and plans.
 ---
 
-Archive item 4017; dated 1966-10-07; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is National Executive Circular No. 13 of the Swatantra Party.
+- It is dated 7 October 1966 and issued from the party's Central Office in Bombay.
+- The next National Executive meeting is announced for New Delhi on Sunday, 6 November.
+- The detailed agenda and other meeting information will be communicated later.
+- Recipients are asked to make plans in advance based on the announced date.
+- The circular is signed by S. V. Raju for the General Secretary.

@@ -1,23 +1,21 @@
 ---
 id: 2633-letter-to-mr-minoo-masani-17-11-1968
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BHUBANESWAR"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +25,35 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "authority_match_for_author"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English-language official correspondence from Bhubaneswar, dated 17 November 1968, was sent by Orissa Chief Minister R. N. Singh Deo to M. R. Masani. Singh Deo encloses a copy of his 16 November reply to Baron D. von Mirbach, the West German Ambassador, concerning Sister Ursula Elchstaedt, a German national involved in the Statistical Report and Red Cross Leprosy Control Project in Orissa.
+  
+  The enclosed letter states that Sister Ursula was being asked to regularise her stay until 31 January 1969, that no warrant for her arrest existed, and that she should return to Orissa to complete the Statistical Report and Red Cross project audit report. The covering letter, however, reports that the police had initiated a case against her for allegedly violating the Foreigners Registration Rules. The correspondence therefore records competing official positions: an administrative invitation for her return and completion of project work alongside a reported police case under foreigner-registration regulations.
 ---
 
-Archive item 2633; dated 1968-11-17; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- R. N. Singh Deo writes from Bhubaneswar on 17 November 1968 to M. R. Masani.
+- The letter encloses Singh Deo's reply of 16 November 1968 to Baron D. von Mirbach, West German Ambassador.
+- The correspondence concerns Sister Ursula Elchstaedt, identified as a German national.
+- The enclosed reply says she was being asked to regularise her stay until 31 January 1969.
+- The reply states that there was no warrant of arrest against Sister Ursula.
+- She was asked to return to Orissa to complete a Statistical Report and an audit report for the Red Cross Leprosy Control Project.
+- The covering letter reports that police had started a case alleging violation of the Foreigners Registration Rules.

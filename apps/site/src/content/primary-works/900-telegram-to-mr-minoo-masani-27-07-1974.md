@@ -1,23 +1,22 @@
 ---
 id: 900-telegram-to-mr-minoo-masani-27-07-1974
 title:
-  main: "Telegram to Mr Minoo Masani"
+  main: "[Telegram to Mr Minoo Masani]"
   subtitle: ""
 work_type: telegram
-authors:
-  - minoo-masani
+work_type_source: filename
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_authority_unresolved"
+  - "telegram_enum_unavailable"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page express telegram, sent from Bombay on July 27, 1974, is signed “MASANI” and addressed to G. K. Sundram in Coimbatore. The sender accepts an invitation to speak at a convention in Madras in early August and confirms that a verbal invitation was extended in Delhi.
 ---
 
-Archive item 900; dated 1974-07-27; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The document is an express telegram dated July 27, 1974.
+- It is sent from Bombay and addressed to G. K. Sundram in Coimbatore, Tamil Nadu.
+- The sender accepts an invitation to address a convention in Madras in early August.
+- The sender confirms that a verbal invitation was extended in Delhi.
+- The message states that holding the convention in Delhi was considered highly undesirable by the party president.
+- The sender recommends a convention limited to a hall, “without any tamasha.”

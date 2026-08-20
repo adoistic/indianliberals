@@ -1,21 +1,20 @@
 ---
 id: 5404-jps-letter-to-mrm
 title:
-  main: "JPS letter to MRM"
+  main: "[JPS letter to MRM]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - jayaprakash-narayan
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -26,15 +25,40 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "socialism-debate"
+  - "marxism-debate"
+  - "liberalism-as-tradition"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "recipient_not_explicitly_named"
+  - "no_publisher"
+  - "no_date"
+  - "no_place"
+  - "no_salutation_or_complimentary_close"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: MRM
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this undated letter to an implied socialist correspondent, Jayaprakash Narayan distinguishes between the practical usefulness of Gandhi’s “new dynamic” and the validity of its underlying theory. He argues that Gandhian methods may have generated a useful form of mass action that socialists could adopt, while rejecting the theory as “utterly unscientific and built up of hocus-pocus.” He contrasts Gandhian and socialist understandings of social change, and suggests that the wartime record and the Cripps episode cast doubt on the explanatory power of the Gandhian approach.
+  
+  Narayan also cautions against abandoning socialism because of disappointment with the Stalin regime, just as one should not reject Gandhism because of the Congress ministries. He maintains that Marxist theory offers an adequate explanation of Stalinism’s failure, but accepts that his correspondent has reached a firm religious and intellectual conclusion. The letter closes by urging the recipient to remain active in larger political movements and by expressing hope that the “new dynamic” may yet help solve social problems, while reaffirming Narayan’s prayerful concern.
 ---
 
-Archive item 5404; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Narayan disputes the claim that Gandhian methods have no utility for the socialist movement.
+- He separates the practical value of Gandhian mass action from what he regards as the weak theoretical basis of the “new dynamic.”
+- He cites Gandhi’s statement that God is the force among all forces and argues that non-violence without reliance on that force is inadequate.
+- He criticizes the Gandhian explanation of the war, the communal problem, and anarchy, especially in light of the Cripps episode.
+- He rejects disillusionment with socialism or communism solely because of the Stalin regime.
+- He argues that Marxist theory adequately explains the failure of Stalinism.
+- He encourages the recipient to participate in wider political movements rather than retreat from political life.

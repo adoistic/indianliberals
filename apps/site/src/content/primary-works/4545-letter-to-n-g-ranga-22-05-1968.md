@@ -1,22 +1,22 @@
 ---
 id: 4545-letter-to-n-g-ranga-22-05-1968
 title:
-  main: "Letter to N G Ranga"
+  main: "[Letter to N G Ranga]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - piloo-mody
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_edition_statement"
+  - "no_series"
+  - "no_isbn"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: N G Ranga
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This personal and confidential letter, dated May 22, 1968, is from Piloo Mody, Member of Parliament for the Swatantra Party, to Professor N. G. Ranga. Mody asks Ranga to allow him approximately twenty minutes to speak during the forthcoming discussion on organisation and party affairs at the General Council meeting in Madras.
+  
+  Mody specifically requests that his speaking time be scheduled when Rajaji is present, and asks Ranga to confirm whether this arrangement is possible. The letter is typed on Mody's parliamentary letterhead, marked as a copy, and records copies sent to C. Rajagopalachari, N. Dandekar, and M. R. Masani.
 ---
 
-Archive item 4545; dated 1968-05-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Piloo Mody wrote the letter on May 22, 1968, from his Bombay parliamentary office.
+- The letter concerns an upcoming General Council discussion in Madras.
+- The subject of the discussion is organisation and party affairs.
+- Mody requests approximately twenty minutes to speak.
+- He prefers to speak at a time when Rajaji is present.
+- Copies were sent to C. Rajagopalachari, N. Dandekar, and M. R. Masani.

@@ -1,22 +1,21 @@
 ---
 id: 29-letter-to-mr-shantilal-k-devmurari-23-03-1971
 title:
-  main: "Letter to Mr Shantilal K Devmurari"
+  main: "[Letter to Mr Shantilal K Devmurari]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_edition_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Shantilal K Devmurari
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter from M. R. Masani to Mr. Shantilal K. Devmurari is dated 23 March 1971. Masani thanks Devmurari for travelling to Rajkot to help, while acknowledging that “Maharaja Sahib” was probably right not to spare him. He describes the situation as sad from every point of view.
 ---
 
-Archive item 29; dated 1971-03-23; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- M. R. Masani acknowledges and thanks Shantilal K. Devmurari for his letter of 15 March.
+- Devmurari had travelled to Rajkot to provide assistance.
+- Masani says that “Maharaja Sahib” was probably right not to spare Devmurari.
+- Masani characterises the situation as sad from every point of view.
+- He expresses gratitude for Devmurari’s assurance of dedication and loyalty to their party.

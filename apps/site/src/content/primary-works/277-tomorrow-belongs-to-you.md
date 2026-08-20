@@ -1,21 +1,20 @@
 ---
 id: 277-tomorrow-belongs-to-you
 title:
-  main: "Tomorrow Belongs to You"
+  main: "OVER TO YOUTH\nOR\nOVER TO YOU\nOR\nTOMORROW BELONGS TO THE YOUNG"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: pamphlet
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 6
   pages_total_source: pypdfium2
@@ -25,15 +24,45 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "civil-liberty"
+  - "emergency-critique"
+  - "press-freedom"
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+  - "liberalism-as-tradition"
+  - "free-speech"
+  - "indian-liberal-history"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "no_toc"
+  - "no_edition_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In the rendered pages, Minoo Masani reflects on India’s political transition after the Emergency and the 1977 general election. He welcomes the restoration of normal political life but insists that the election should be understood less as a Janata Party victory than as a public rejection of dictatorship. He recalls his own political career, his association with Jayaprakash Narayan and C. Rajagopalachari, and his decision to support younger people rather than return to party politics.
+  
+  In the rendered pages, Masani argues that the future of Indian democracy depends on a generational transfer of responsibility. He urges young people to participate in national affairs while warning that freedom must be actively defended by each succeeding generation. His preferred form of participation extends beyond political parties to grassroots associations, voluntary organisations, civic vigilance, and resistance to excessive state power. The pages close by challenging the readers of Youth Times to improve on the record of Masani’s generation.
 ---
 
-Archive item 277; 6 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani presents the lifting of the Emergency and the 1977 election as a return to political normalcy.
+- He interprets the election primarily as a rejection of dictatorship rather than a simple victory for the Janata Party.
+- He recounts his political history, including work with the Congress Socialist Party, Jayaprakash Narayan, and C. Rajagopalachari.
+- He defends his resistance to Emergency censorship through the magazine Freedom First and appeals to the Bombay High Court.
+- He calls for older freedom fighters to step back and allow younger Indians to assume greater responsibility.
+- He argues that democracy requires grassroots activity, voluntary associations, and vigilance, not only political parties.
+- He warns that freedom must be actively defended by every succeeding generation against authoritarianism and statism.

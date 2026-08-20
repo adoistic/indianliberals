@@ -1,9 +1,10 @@
 ---
 id: 4104-swatantra-party-notice-16-09-1970
 title:
-  main: "Swatantra party notice"
+  main: "[Swatantra party notice]"
   subtitle: ""
-work_type: circular
+work_type: occasional_paper
+purpose: report
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY"
+  place: "Bombay"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 6
   pages_total_source: pypdfium2
@@ -27,14 +29,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_named_human_author"
+  - "document_bundle"
+  - "no_publisher_address"
+  - "no_edition"
+  - "no_series"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This six-page English-language bundle of Swatantra Party, Bombay Region office papers from September 1970 contains a meeting notice, draft minutes, and correspondence concerning party organisation. The notice calls an Executive Committee meeting for 23 September 1970 to confirm earlier minutes, consider proposals for a workers’ “Shibir” from the Matunga and Mahim units, and address other business. The draft minutes of the 9 September meeting record preparations for the party’s National Convention, scheduled for 30–31 January 1971, including venue selection, delegate arrangements, fundraising, souvenir publication, and the possibility of holding the event in an open pandal in Bombay’s Fort area.
 ---
 
-Archive item 4104; dated 1970-09-16; 6 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Bombay Region Executive Committee was scheduled to meet on 23 September 1970 at the Swatantra Party office in Sassoon Building.
+- The September 9 draft minutes list fourteen attendees and confirm minutes from meetings held on 19 and 27 August.
+- The party’s National Convention was fixed for 30–31 January 1971, with the Shanmukhananda Hall provisionally selected as the venue.
+- Projected convention receipts were recorded as Rs. 2,23,000, against estimated expenses of Rs. 60,000.
+- The minutes discuss a separate Fundamental Rights leaflet and a proposed campaign to collect 200,000–300,000 signatures.
+- The Matunga and Mahim units submitted competing proposals for workers’ Shibirs, with different venues, attendance capacities, programmes, and cost-sharing arrangements.
+- The papers also record plans for ladies’ committee meetings and the establishment of units at Bandra and Worli.

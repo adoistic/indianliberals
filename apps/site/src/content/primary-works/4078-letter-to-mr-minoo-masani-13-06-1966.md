@@ -1,23 +1,21 @@
 ---
 id: 4078-letter-to-mr-minoo-masani-13-06-1966
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
-work_type: letter
-authors:
-  - minoo-masani
+work_type: telegram
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_formal_author_byline"
+  - "recipient_identity_unclear"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English express telegram, dated 8 June 1966 and received on 13 June 1966, records A. P. Jain's arrangements for a meeting involving M. P. Masani and M. P. Dahyabhai Patel. Jain reports that the Prime Minister's Secretary has fixed the meeting for Monday, 13 June, at 5 p.m., and asks the recipients to confirm their arrival.
 ---
 
-Archive item 4078; dated 1966-06-13; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is an express telegram rather than a conventional letter.
+- It is dated 8 June 1966 and bears a received stamp dated 13 June 1966.
+- A. P. Jain is identified as the sender from 53 North Avenue, New Delhi.
+- The message is addressed to M. P. Masani and M. P. Dahyabhai Patel in Bombay.
+- The Prime Minister's Secretary reportedly fixed a meeting for Monday, 13 June, at 5 p.m.
+- The recipients are asked to confirm their arrival.
+- Jain says that the Prime Minister's Secretariat is not writing separately and that Prof. Ranga should also be informed.

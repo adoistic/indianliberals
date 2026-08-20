@@ -1,22 +1,21 @@
 ---
 id: 3191-letter-to-v-t-sreenivasan-20-12-1971
 title:
-  main: "Letter to V T Sreenivasan"
+  main: "[Letter to V T Sreenivasan]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: V T Sreenivasan
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this personal letter dated December 20, 1971, S. V. Raju replies to V. T. Sreenivasan regarding two letters sent on November 7 to Dr. Cooper. Raju reports that Cooper has read the letters but, because of his demanding business commitments and frequent travel outside India, has decided not to respond for the time being.
+  
+  Raju indicates that Cooper may reconsider the matter if the “extreme measures” feared by Sreenivasan are actually attempted. The letter is brief and does not explain the underlying dispute, the measures in question, or the identities and positions of the other parties beyond the names given in the correspondence.
 ---
 
-Archive item 3191; dated 1971-12-20; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a typed personal letter from S. V. Raju dated December 20, 1971.
+- It is addressed to V. T. Sreenivasan in Bangalore.
+- Raju refers to Sreenivasan’s two letters of November 7 to Dr. Cooper.
+- Dr. Cooper has read the letters but is described as extremely busy and frequently outside India.
+- Cooper has chosen not to comment for the present.
+- Cooper may look into the matter if the feared “extreme measures” are attempted.

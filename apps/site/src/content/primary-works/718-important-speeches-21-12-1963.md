@@ -1,22 +1,21 @@
 ---
 id: 718-important-speeches-21-12-1963
 title:
-  main: "Important Speeches"
+  main: "IMPORTANT SPEECHES"
   subtitle: ""
-work_type: speech
+work_type: periodical_issue
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Current"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -26,15 +25,33 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "planning-critique"
+  - "economic-liberty"
+  - "regulatory-state-critique"
+  - "public-sector-critique"
+  - "agricultural-reform"
+  - "socialism-debate"
+  - "capitalism-defence"
+missing_metadata_flags:
+  - "publisher_not_identified"
+  - "publisher_place_not_identified"
+  - "issue_number_not_visible"
+  - "volume_not_visible"
+  - "toc_not_present"
+  - "editor_not_named"
+  - "mixed_date_pages"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 718; dated 1963-12-21; 4 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+Archive item 718. Scanned document from the Swatantra Party papers.

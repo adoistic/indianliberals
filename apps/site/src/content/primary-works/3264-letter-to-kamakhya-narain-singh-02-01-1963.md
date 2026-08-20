@@ -1,22 +1,22 @@
 ---
 id: 3264-letter-to-kamakhya-narain-singh-02-01-1963
 title:
-  main: "Letter to kamakhya Narain Singh"
+  main: "[Letter to kamakhya Narain Singh]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_publication_venue"
+  - "recipient_not_in_authority_subset"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: kamakhya Narain Singh
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page correspondence from January 1, 1963, records C. Rajagopalachari’s response to Kamakhya Narain Singh, Raja of Ramgarh, after Singh’s return from abroad. Rajagopalachari welcomes him back, says he hopes to give time to Bihar, and makes that visit conditional on the Bihar party first settling its internal affairs. He urges Singh to accept the democratic solutions being offered to him.
+  
+  The second page is a December 28, 1962, true copy of Singh’s preceding letter to Rajagopalachari, sent on Swatantra Party Bihar letterhead. Singh describes his return to India after six months abroad, reflects on the “crisis” experienced by both the party and the country, and asks Rajagopalachari to make time for a tour of Bihar. Together, the letters show party-political coordination, concern with organisational order, and an appeal to democratic decision-making within the Bihar party.
 ---
 
-Archive item 3264; dated 1963-01-02; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Rajagopalachari welcomes Kamakhya Narain Singh back from abroad.
+- Rajagopalachari says he will give time to Bihar after the Bihar party settles its affairs.
+- He urges Singh to accept the democratic solutions offered to him.
+- Singh’s preceding letter describes his return to India after six months abroad.
+- Singh presents the party and country as having undergone a serious crisis.
+- Singh asks Rajagopalachari to arrange time for a tour of Bihar.

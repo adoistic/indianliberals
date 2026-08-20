@@ -1,21 +1,24 @@
 ---
 id: 5785-swatantra-party-petitioners
 title:
-  main: "Swatantra Party Petitioners"
+  main: "[Swatantra Party Petitioners]"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: occasional_paper
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY (MAHARASHTRA)"
+  place: "Bombay"
+  year: 1994
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 15
   pages_total_source: pypdfium2
@@ -25,15 +28,43 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "constitutionalism"
+  - "civil-liberty"
+  - "individual-rights"
+  - "freedom-of-speech"
+  - "party-politics"
+  - "electoral-reform"
+  - "socialism-debate"
+  - "secularism"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_address"
+  - "no_edition_statement"
+  - "no_isbn"
+  - "no_oclc"
+  - "toc_not_present"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This English-language High Court writ petition, filed in Bombay in December 1994 by the Swatantra Party (Maharashtra) and S. V. Raju, challenges Section 29(A)(5) of the Representation of the People Act, 1951. The provision required political parties seeking registration to include a declaration of true faith and allegiance to the Constitution, the principles of socialism, secularism and democracy, and the sovereignty, unity and integrity of India. The petitioners seek to have the socialism requirement struck down and to have the Swatantra Party registered without making that declaration.
 ---
 
-Archive item 5785; 15 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The petition treats mandatory registration of political parties as a constitutional question under Articles 14, 19 and 226.
+- It distinguishes the 1949 Preamble's reference to a “Sovereign Democratic Republic” from the 42nd Amendment's insertion of “Socialist” and “Secular.”
+- The petitioners argue that “socialism” is undefined and can require an association to profess an indeterminate political doctrine.
+- They contend that Section 29(A)(5) discriminates between individual candidates and political parties, since independents need not declare allegiance to socialism.
+- The provision is alleged to violate equality, freedom of association, freedom of thought and expression, and the democratic right to organize politically.
+- The petition frames the Swatantra Party's refusal to make a socialist declaration as a matter of conscience rather than opposition to democracy, secularism or India's territorial integrity.
+- The requested relief includes striking down the socialism requirement, directing registration of the party, interim registration, and costs.

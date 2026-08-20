@@ -1,9 +1,9 @@
 ---
 id: 1801-swatantra-party-notice-29-07-1959
 title:
-  main: "Swatantra Party Notice"
+  main: "NOTICE"
   subtitle: ""
-work_type: circular
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -12,11 +12,12 @@ publication:
   language: en
   issuer_id: swatantra-party
   publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +28,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "author_not_named"
+  - "publisher_line_not_explicit"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office notice from the Swatantra Party’s Bombay Office announces the final pre-Convention meeting of the party’s Organising Committee. The meeting is scheduled for Friday, 31 July 1959, at the Swatantra Party office at 143 Mahatma Gandhi Road, Bombay 1, at 2 p.m.
+  
+  The notice asks recipients to attend and is signed by the Honorary Secretary. No individual author is identified, and the document contains no agenda or further information about the Convention.
 ---
 
-Archive item 1801; dated 1959-07-29; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is headed “NOTICE” and issued on Swatantra Party (Bombay Office) letterhead.
+- It announces the final pre-Convention meeting of the Organising Committee.
+- The meeting is scheduled for Friday, 31 July 1959.
+- The venue is the Swatantra Party office at 143 Mahatma Gandhi Road, Bombay 1.
+- The meeting time is 2 p.m.
+- Recipients are requested to attend.
+- The notice is signed only as “HON. SECRETARY.”

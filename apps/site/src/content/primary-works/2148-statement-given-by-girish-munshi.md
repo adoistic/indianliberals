@@ -1,9 +1,10 @@
 ---
 id: 2148-statement-given-by-girish-munshi
 title:
-  main: "Statement Given by Girish Munshi"
+  main: "[Statement Given by Girish Munshi]"
   subtitle: ""
-work_type: press_note
+work_type: occasional_paper
+purpose: position_paper
 authors: []
 editors: []
 contributors: []
@@ -11,11 +12,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party\nNational Headquarters\nGeneral Secretary"
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -25,15 +27,39 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "emergency-critique"
+  - "civil-liberty"
+  - "constitutionalism"
+  - "party-politics"
+  - "separation-of-powers"
+  - "judicial-independence"
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "no_publisher_address"
+  - "author_not_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This undated Swatantra Party press statement, issued by General Secretary Girish Munshi, condemns the Central Government's declaration of an internal emergency under Prime Minister Indira Gandhi and the arrest of Jayaprakash Narayan and other non-Congress opposition leaders. It portrays the emergency as an attempt to consolidate dictatorial power, criticizes the use of a Supreme Court-granted conditional stay to impose the emergency, and argues that the government is preparing to destroy democracy.
 ---
 
-Archive item 2148; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The statement condemns the declaration of an internal emergency and the arrests of Jayaprakash Narayan and other non-Congress opposition leaders.
+- It argues that Indira Gandhi seeks to retain power at any cost and is using the emergency to assume dictatorial powers.
+- The statement criticizes the supersession or removal of members of the judiciary, army, and civil services who allegedly refuse to endorse the government's policies.
+- It predicts that popular resistance will eventually overcome the government's repression.
+- The Swatantra Party aligns itself with other non-Congress opposition parties in defense of democracy.
+- The statement condemns the arrests and what it calls the government's corrupt and authoritarian designs.

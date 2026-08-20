@@ -1,9 +1,10 @@
 ---
 id: 3814-resolution-adopted-by-the-general-council-28-05-1966
 title:
-  main: "Resolution Adopted by the General Council"
+  main: "Resignation of Central & State Cabinets three Months Before the General Elections"
   subtitle: ""
 work_type: resolution
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,11 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "electoral-reform"
+  - "governance-reform"
+  - "constitutionalism"
+  - "party-politics"
+missing_metadata_flags:
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "author_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page resolution, adopted by the Swatantra Party General Council on May 28, 1966, calls for the resignation of the Central and State Cabinets three months before the general elections. It proposes that the President take over the administration during this period to ensure equal opportunities for all political parties.
 ---
 
-Archive item 3814; dated 1966-05-28; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a Swatantra Party General Council resolution dated May 28, 1966.
+- It reiterates a previously expressed view that Central and State Cabinets should resign three months before general elections.
+- It proposes that the President assume responsibility for administration during the pre-election period.
+- The stated purpose is to provide equal opportunities for all political parties.
+- The resolution also calls for a nationwide observance of a Demand Day.

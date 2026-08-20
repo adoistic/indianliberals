@@ -1,23 +1,21 @@
 ---
 id: 4439-letter-to-s-v-raju-23-02-1990
 title:
-  main: "Letter to S V Raju"
+  main: "[Letter to S V Raju]"
   subtitle: ""
 work_type: letter
-authors:
-  - s-v-raju
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1990
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "no_isbn"
+  - "no_issn"
+  - "no_oclc"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated February 23, 1990, is written by L. K. Advani from his New Delhi residence to S. V. Raju, editor of Freedom First. Advani acknowledges Raju’s letter of January 30, 1990, and the accompanying January 1990 issue of the journal.
 ---
 
-Archive item 4439; dated 1990-02-23; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is dated February 23, 1990.
+- L. K. Advani writes from C1/6, Pandara Park, New Delhi.
+- The recipient is S. V. Raju, editor of Freedom First.
+- Advani thanks Raju for a letter dated January 30, 1990.
+- Advani acknowledges receiving a copy of the January 1990 issue of Freedom First.
+- Advani requests that he continue to receive the journal.

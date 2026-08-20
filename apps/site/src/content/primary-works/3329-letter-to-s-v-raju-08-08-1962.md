@@ -1,23 +1,21 @@
 ---
 id: 3329-letter-to-s-v-raju-08-08-1962
 title:
-  main: "Letter to S V Raju"
+  main: "[Letter to S V Raju]"
   subtitle: ""
 work_type: letter
-authors:
-  - s-v-raju
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1962
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "title_page_not_found"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "author_byline_not_printed"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Party inter-office memo, dated 8 August 1962, is addressed to Mr. Raju and signed by M. R. Masani. It instructs that monthly payments of Rs. 20,000 on behalf of the Raja of Ramgarh to the Central Bank of India should continue during August, September, and October.
+  
+  The memo further recommends making each payment before the 15th of the month and obtaining a receipt in the Raja’s name. No broader political or policy argument appears on the rendered page.
 ---
 
-Archive item 3329; dated 1962-08-08; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is an inter-office memo on Swatantra Party letterhead.
+- It is dated 8 August 1962 and addressed to Mr. Raju.
+- It directs the continuation of monthly Rs. 20,000 payments on behalf of the Raja of Ramgarh.
+- The payments are to be made to the Central Bank of India.
+- The instruction covers August, September, and October.
+- Payments should be made before the 15th of each month.
+- Receipts should be obtained in the Raja’s name.
+- The memo is signed by M. R. Masani.

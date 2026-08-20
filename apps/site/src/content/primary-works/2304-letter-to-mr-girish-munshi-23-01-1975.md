@@ -1,7 +1,7 @@
 ---
 id: 2304-letter-to-mr-girish-munshi-23-01-1975
 title:
-  main: "Letter to Mr Girish Munshi"
+  main: "[Letter to Mr Girish Munshi]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +25,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "place_not_found"
+  - "recipient_not_fully_named"
+  - "no_authority_match"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Girish Munshi
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This February 1975 document, headed “REMINDER II,” is an administrative letter from Parmanand Kejriwal concerning unpaid rent. The sender acknowledges a letter dated January 23, 1975, addressed to Mr. Girish Munshi and received on January 30, and refers to Munshi’s subsequent communication drawing attention to rent arrears dating from September 1974.
 ---
 
-Archive item 2304; dated 1975-01-23; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a February 1975 reminder letter.
+- Parmanand Kejriwal is identified as the sender in the printed signature.
+- The sender refers to a January 23, 1975 letter addressed to Mr. Girish Munshi.
+- The letter states that rent had remained unpaid from September 1974 onward.
+- Earlier reminders had reportedly been sent to Shri Bhatia.
+- Kejriwal requests instructions that Shri Bhatia pay the arrears without delay, in accordance with an arrangement reached by the parties.

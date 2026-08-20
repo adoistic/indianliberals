@@ -1,22 +1,22 @@
 ---
 id: 5503-masani-sticks-to-his-stand-the-indian-express-03-06-1968
 title:
-  main: "Masani sticks to his stand-The Indian Express"
+  main: "Masani sticks to his stand"
   subtitle: ""
-work_type: press_note
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Indian Express, Vijayawada"
+  place: "Vijayawada"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_author_byline"
+  - "no_publisher_address"
+  - "no_edition_information"
+  - "no_series_information"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Indian Express report describes the Swatantra Party general council meeting held in Madras on 3 June 1968. Prof. Ruthnaswamy presided in the absence of Mr. Ranga. The council discussed the circumstances leading to Minoo Masani’s resignation from the party’s national executive and Central Parliamentary Board, after his defeat in the party’s official candidature for the Rajya Sabha from Gujarat.
 ---
 
-Archive item 5503; dated 1968-06-03; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Swatantra Party general council met in Madras on 3 June 1968.
+- The meeting was presided over by Prof. Ruthnaswamy in the absence of Mr. Ranga.
+- A resolution praised Masani’s service and referred to the harm caused to the party by his defeat as its official Rajya Sabha candidate from Gujarat.
+- The council’s first resolution asked the national executive to create conditions for Masani to accept membership again.
+- A second resolution proposed a committee to investigate allegations concerning the party leadership in Gujarat.
+- The report says disciplinary action had been taken against C. C. Desai for allegedly admitting that he had worked against the official candidate.
+- The general secretary proposed that Masani be re-elected to the national executive; Masani said he would continue working for the party both inside and outside Parliament.

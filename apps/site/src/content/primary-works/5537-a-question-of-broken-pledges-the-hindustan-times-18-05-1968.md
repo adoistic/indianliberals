@@ -1,22 +1,22 @@
 ---
 id: 5537-a-question-of-broken-pledges-the-hindustan-times-18-05-1968
 title:
-  main: "A Question of Broken Pledges-The Hindustan Times"
+  main: "A Question of Broken Pledges"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: essay
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "The Hindustan Times"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,40 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "constitutionalism"
+  - "liberalism-as-tradition"
+  - "civil-liberty"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "no_explicit_byline"
+  - "no_publisher_address"
+  - "no_printed_page_number"
+  - "place_not_printed"
+  - "edition_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this Hindustan Times article, Minoo Masani explains his resignation as General Secretary of the Swatantra Party after what he describes as a breakdown of party discipline and a failure to uphold public commitments. He presents the Gujarat election and the party’s response to defections as evidence of a wider credibility gap, arguing that indiscipline and evasive leadership could damage both the party and parliamentary democracy.
+  
+  Masani rejects the idea that the Swatantra Party should imitate other parties or dilute its principles. He calls instead for fidelity to its pledged commitments, clearer leadership, and a politics grounded in ideals and ethics. The article also criticises the broader failure of leadership in India, while warning that democratic institutions become vulnerable when parties tolerate opportunism and refuse to confront misconduct.
 ---
 
-Archive item 5537; dated 1968-05-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani says he resigned as General Secretary because of the Swatantra Party’s handling of defections and disciplinary failures.
+- The Gujarat election is presented as a test of the party’s credibility and representative character.
+- The article warns that party indiscipline and opportunism can contribute to the collapse of parliamentary government.
+- Masani argues that the Swatantra Party should not reform itself by copying other parties.
+- The party’s pledged word and commitment to democratic politics are treated as central to its identity.
+- The article broadens its criticism from party conduct to the lack of leadership in India generally.
+- Masani stresses that political ideals and ethics matter more than merely increasing the number of legislators.

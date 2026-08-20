@@ -1,7 +1,7 @@
 ---
 id: 3381-letter-to-kamakhya-narain-singh-25-10-1961
 title:
-  main: "Letter to kamakhya Narain Singh"
+  main: "[Letter to kamakhya Narain Singh]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,13 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "The Central Bank of India, Ltd."
+  place: "Bombay"
   year: 1961
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "publisher_not_resolved"
+  - "issuer_not_resolved"
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: kamakhya Narain Singh
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter from The Central Bank of India, Ltd., dated 25 October 1961, concerns the overdraft account of Sri Kamakhya Narayansingh, Raja Bahadur of Ramgarh. The bank acknowledges receipt of a representative cash payment of Rs. 20,000, described as the instalment payable for the current month.
 ---
 
-Archive item 3381; dated 1961-10-25; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 25 October 1961 and was issued from the bank's registered office on Mahatma Gandhi Road, Bombay 1.
+- It is addressed to Sri Kamakhya Narayansingh, Raja Bahadur of Ramgarh, at Ramgarh House, Patna.
+- The subject is the recipient's overdraft account.
+- The bank acknowledges a cash payment of Rs. 20,000.
+- The payment was made through the recipient's representative.
+- The amount is identified as the instalment payable for the current month.
+- A typed copy of the receipt was retained, while the original was handed over to Sir H. P. Mody.

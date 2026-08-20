@@ -1,7 +1,7 @@
 ---
 id: 6227-letter-from-s-v-raju-14-01-1970
 title:
-  main: "Letter from S V Raju"
+  main: "[Letter from S V Raju]"
   subtitle: ""
 work_type: letter
 authors:
@@ -12,12 +12,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +28,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_line"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page confirmatory copy, dated January 14, 1970, is a typed letter from S. V. Raju of the Swatantra Party. It concerns a programme scheduled for Ahmedabad on the 21st and a subsequent address at Ravanji Patil College on the 30th; handwritten corrections appear in the programme description. The document does not state a formal title or identify the recipient.
 ---
 
-Archive item 6227; dated 1970-01-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a confirmatory office letter dated January 14, 1970.
+- S. V. Raju is identified as the sender and as affiliated with the Swatantra Party.
+- The letter refers to a programme fixed for Ahmedabad on the 21st.
+- It also refers to a later address at Ravanji Patil College on the 30th.
+- Handwritten corrections or insertions modify the typed programme wording.
+- The recipient's name and a formal title for the letter are not visible.

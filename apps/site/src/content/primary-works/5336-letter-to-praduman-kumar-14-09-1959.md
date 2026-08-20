@@ -1,7 +1,7 @@
 ---
 id: 5336-letter-to-praduman-kumar-14-09-1959
 title:
-  main: "Letter to Praduman kumar"
+  main: "[Letter to Praduman kumar]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Delhi"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "publisher_not_printed"
+  - "no_letterhead"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Praduman kumar
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office letter, dated 14 September 1959 and sent from Delhi, responds to Mr. Pradhuman Kumar Samar's proposal that M. R. Masani attend a symposium on 13 October. The secretary explains that the letter addressed to Masani had been redirected from his Delhi address, and that Masani was currently out of station and not expected back in India until around 6 October.
 ---
 
-Archive item 5336; dated 1959-09-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 14 September 1959 and originates from Delhi.
+- It is addressed to Mr. Pradhuman Kumar Samar at 4534 Deputy Gunj, Delhi.
+- The recipient's earlier letter to M. R. Masani was redirected to the secretary's office.
+- Masani was out of station and expected to return to India around 6 October.
+- The letter declines the proposed symposium invitation because Masani could not attend on 13 October.
+- The letter is signed by Miss B. S. Mirza, identified as secretary to M. R. Masani.

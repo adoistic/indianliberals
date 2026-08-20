@@ -1,7 +1,7 @@
 ---
 id: 4723-c-rajagopalachari-tour-programme-09-08-1963
 title:
-  main: "C Rajagopalachari Tour Programme"
+  main: "Rajaji's Tour Programme"
   subtitle: ""
 work_type: occasional_paper
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "no_author_byline"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_edition"
+  - "no_series"
+  - "no_identifiers"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  “Rajaji's Tour Programme” is a one-page typed schedule for August 1963. It records C. Rajagopalachari's planned travel between Bangalore, Madras, Salem, and Delhi, including departures by mail train, express train, and plane.
+  
+  The schedule also identifies conference engagements in Bangalore on 6 August and Salem on 11 August, along with periods spent in Delhi on 13 and 14 August. The page includes handwritten annotations and a signature, but no printed author, publisher, or issuing organisation is identified.
 ---
 
-Archive item 4723; dated 1963-08-09; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a single-page tour schedule dated August 1963.
+- The itinerary begins with departure for Bangalore on Monday, 5 August, at 8:45 p.m. by mail.
+- A conference is scheduled in Bangalore on 6 August, followed by travel back to Madras on the same date.
+- The programme lists travel to Salem on 10 August and a conference there on 11 August.
+- The itinerary concludes with travel to Delhi on 12 August and engagements there on 13 and 14 August.
+- The schedule specifies rail and air travel, including mail, express, and plane journeys.

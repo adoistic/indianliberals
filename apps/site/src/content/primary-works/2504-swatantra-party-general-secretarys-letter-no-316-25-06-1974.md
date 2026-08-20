@@ -1,7 +1,7 @@
 ---
 id: 2504-swatantra-party-general-secretarys-letter-no-316-25-06-1974
 title:
-  main: "Swatantra Party General Secretarys Letter No-316"
+  main: "GENERAL SECRETARY'S LETTER NO. 316"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "swatantra party\nnational headquarters\nsassoon building, 143, mahatma gandhi road, bombay 1."
+  place: "Bombay"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +28,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "regulatory-state-critique"
+  - "anti-corruption"
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "subtitle_not_printed"
+  - "no_recipient_name"
+  - "no_publication_edition"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Party letter, dated June 25, 1974, reports that the Government of India is issuing an ordinance to enable firm action against hoarders and black-marketeers. Signed by Madhu Mehta as Acting General Secretary, it says the party has long demanded government action against businesspeople and industrialists engaged in such practices and therefore welcomes the proposed measure.
+  
+  The letter instructs state units to organise public and group meetings condemning hoarding, especially of essential commodities such as vanaspati, edible oil, and cement. It also directs each state unit to appoint a vigilance committee, organise vigilance squads, report cases to the authorities, and ensure that no innocent person is victimised. Any direct action is explicitly to be non-violent, including dharnas and gheraos outside the premises of suspected hoarders, undertaken in cooperation with the authorities.
 ---
 
-Archive item 2504; dated 1974-06-25; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter welcomes a Government of India ordinance targeting hoarders and black-marketeers.
+- It presents action against profiteering as a longstanding Swatantra Party demand.
+- Party units are asked to hold public meetings exposing hoarding of essential commodities.
+- Each state unit should establish a vigilance committee and may organise vigilance squads.
+- The letter stresses that innocent people must not be victimised and that evidence should be sufficient before action is taken.
+- Dharnas and gheraos are proposed as forms of direct action, but the letter specifies that they must be non-violent and coordinated with authorities.

@@ -1,23 +1,22 @@
 ---
 id: 6088-letter-to-c-rajagopalachari-18-09-1963
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
-  - c-rajagopalachari
+  - piloo-mody
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "MADRAS-17"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
+  - "no_explicit_sender_organisation"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 18 September 1963, Piloo Mody writes to C. Rajagopalachari about the formation of a united opposition front against the Congress in Goa. He lists five participating parties—the Goa National Union, Partido Indiano, United Front of Goa, Gonche Paksh, and the Democratic Party—and says that the parties appear broadly aligned on the major issues of statehood, cleanliness in public life, and efficient government. Mody notes that the Indian political parties attempting to organise in Goa have so far joined the United Goa movement, while the PSP, Socialists, and Communists remain outside it.
+  
+  Mody argues that the Forum should encourage the new coalition and suggests that Rajagopalachari write personally to the party, offering congratulations and his blessing. He proposes that the letter be addressed to Dr. Alvaro de Loyola Furtado of United Goa, Margao, and closes by inviting Rajagopalachari's comments on the suggestion.
 ---
 
-Archive item 6088; dated 1963-09-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Mody reports that five opposition parties in Goa have united against the Congress.
+- He identifies statehood, clean government, and efficient government as the coalition's principal concerns.
+- He says the Indian political parties organising in Goa have joined United Goa, while the PSP, Socialists, and Communists have not.
+- He believes the opposition parties are not substantially divided on the central issues.
+- He proposes that the Forum encourage the new party and that Rajagopalachari write to it personally.
+- He suggests addressing the proposed letter to Dr. Alvaro de Loyola Furtado in Margao.

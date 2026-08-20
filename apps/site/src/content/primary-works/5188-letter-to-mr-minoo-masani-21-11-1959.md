@@ -1,23 +1,21 @@
 ---
 id: 5188-letter-to-mr-minoo-masani-21-11-1959
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This typed letter, dated November 21, 1959, is from Charat Ram in New Delhi to Minoo Masani. Ram acknowledges Masani’s notice of a Swatantra Party meeting scheduled for Monday, November 23, and explains that he cannot attend because he is leaving for Calcutta on Monday evening for a few days. He closes with an apology and kind regards.
 ---
 
-Archive item 5188; dated 1959-11-21; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated November 21, 1959, and was sent from 15 Kitchener Road, New Delhi.
+- Charat Ram writes to Minoo Masani, addressed in the salutation as “Minoo.”
+- Ram acknowledges receiving notice of a Swatantra Party meeting on Monday, November 23.
+- He says he cannot attend because he is leaving for Calcutta on Monday evening.
+- The letter is apologetic and concludes with a courteous sign-off.

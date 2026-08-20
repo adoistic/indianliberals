@@ -1,23 +1,21 @@
 ---
 id: 3155-letter-to-s-v-raju-02-03-1985
 title:
-  main: "Letter to S V Raju"
+  main: "[Letter to S V Raju]"
   subtitle: ""
 work_type: letter
-authors:
-  - s-v-raju
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1985
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +26,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English letter, dated 2/3/1985 and sent from Dr. M. Santosham’s address at 70 Egmore High Road, Madras, is addressed to S. V. Raju. Santosham expresses pleasure at receiving Raju’s letter after a long interval and responds briefly to a request for old records, stating that he does not possess any. He closes by wishing Raju success in his doctorate.
 ---
 
-Archive item 3155; dated 1985-03-02; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a private letter from Dr. M. Santosham to S. V. Raju.
+- It is dated 2/3/1985 and gives the sender’s address as 70, Egmore High Road, Madras – 600 008.
+- Santosham acknowledges receiving Raju’s letter after a long time.
+- He states that he is not in possession of any old records.
+- He wishes Raju well in his doctoral studies.
+- The second rendered page is an Indian inland letter-card leaf containing postal and stationery text in Hindi and English.

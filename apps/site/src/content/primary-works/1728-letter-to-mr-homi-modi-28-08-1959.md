@@ -1,7 +1,7 @@
 ---
 id: 1728-letter-to-mr-homi-modi-28-08-1959
 title:
-  main: "Letter to Mr Homi Modi"
+  main: "[Letter to Mr Homi Modi]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,10 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,16 +23,33 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_applicable"
+  - "recipient_not_authority_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Homi Modi
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English letter from S. Y. Krishnaswamy to Homi Mody is dated only “August the 28th.” Writing from Madras, Krishnaswamy reports that he has been occupied with preparing committee proceedings and dealing with accumulated correspondence.
 ---
 
-Archive item 1728; dated 1959-08-28; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Krishnaswamy writes from Madras on August 28, with no year visible on the page.
+- He has been preparing the proceedings of committees.
+- He has also been attending to accumulated correspondence.
+- C. Rajagopalachari (“Rajaji”) is concerned about the Party’s finances.
+- Rajaji is considering an appeal for public donations of five and ten rupees.
+- The letter confirms that a packet reached the sender safely.

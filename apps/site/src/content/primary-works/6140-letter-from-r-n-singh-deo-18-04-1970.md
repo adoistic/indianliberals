@@ -1,7 +1,7 @@
 ---
 id: 6140-letter-from-r-n-singh-deo-18-04-1970
 title:
-  main: "Letter from R N Singh Deo"
+  main: "[Letter from R N Singh Deo]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BHUBANESWAR"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_recipient_identified"
+  - "telegram_enum_unavailable"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: R N Singh Deo
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram-style communication, dated 18 April 1970 and sent from Bhubaneswar, reports that the fourth public meeting is acceptable. It states that Harhar Patel will wire the following day after consulting Dr Mhatab, who is away on tour.
+  
+  The document is an operational political communication rather than a developed argument or policy statement. Its telegraphic wording records coordination around a public meeting and pending communications; no recipient, organisation, or further context is identified on the page.
 ---
 
-Archive item 6140; dated 1970-04-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The communication is dated 18 April 1970 and headed Bhubaneswar.
+- It approves or confirms arrangements for the fourth public meeting.
+- Harhar Patel is expected to send a wire the following day.
+- The wire will follow consultation with Dr Mhatab.
+- Dr Mhatab is described as being away on tour.
+- The page contains no salutation, recipient, publisher, or organisational letterhead.

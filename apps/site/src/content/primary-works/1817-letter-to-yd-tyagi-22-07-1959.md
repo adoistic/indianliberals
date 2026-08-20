@@ -1,7 +1,7 @@
 ---
 id: 1817-letter-to-yd-tyagi-22-07-1959
 title:
-  main: "Letter to YD Tyagi"
+  main: "[Letter to YD Tyagi]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "publisher_not_found"
+  - "sender_not_identified"
+  - "no_letterhead_visible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: YD Tyagi
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter, dated 22 July 1959, thanks Mr. Y. D. Tyagi for his letter of 14 July and acknowledges that the Swatantra Party is receiving widespread support. The unnamed sender welcomes Tyagi’s assurance that he will encourage people in his part of the country to participate in the movement.
+  
+  The sender also invites Tyagi to attend the Party’s Convention in Bombay if his engagements permit. For arrangements, Tyagi is directed to contact the Party’s organising committee secretary, Raja Hutheesing, at the Great Social Building on Sir P. Mehta Road, Bombay 1. The visible page ends with “Yours truly,” but does not identify the sender.
 ---
 
-Archive item 1817; dated 1959-07-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 22 July 1959 and addressed to Mr. Y. D. Tyagi.
+- The sender thanks Tyagi for his letter of 14 July.
+- The sender reports that the Swatantra Party is receiving widespread support.
+- Tyagi is encouraged to interest people in his region in the Party’s movement.
+- The sender invites Tyagi to attend the Party Convention in Bombay if possible.
+- Convention arrangements are handled by the organising committee secretary, Raja Hutheesing.

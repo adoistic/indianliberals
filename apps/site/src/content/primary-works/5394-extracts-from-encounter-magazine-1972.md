@@ -1,22 +1,21 @@
 ---
 id: 5394-extracts-from-encounter-magazine-1972
 title:
-  main: "Extracts from Encounter Magazine-1972"
+  main: "EXTRACTS FROM ENCOUNTER MAGAZINE - June 1972"
   subtitle: ""
-work_type: letter
+work_type: edited_volume
+purpose: anthology
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1972
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 11
   pages_total_source: pypdfium2
@@ -27,14 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "indian-liberal-history"
+  - "constitutionalism"
+  - "minority-rights"
+  - "foreign-policy"
+  - "cold-war-positioning"
+  - "education"
+  - "socialism-debate"
+  - "marxism-debate"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_formal_toc"
+  - "editor_not_named"
+  - "incomplete_source-page_pagination"
+  - "unresolved_contributors"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 5394; dated 1972; 11 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+Archive item 5394. Scanned document from the Swatantra Party papers.

@@ -1,22 +1,20 @@
 ---
 id: 38-letter-to-dr-m-p-verma-11-03-1971
 title:
-  main: "Letter to Dr M P Verma"
+  main: "[Letter to Dr M P Verma]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "civil-liberty"
+  - "individual-rights"
+  - "liberalism-as-tradition"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_visible"
+  - "publisher_not_visible"
+  - "sender_address_not_visible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: M P Verma
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this brief letter, M. R. Masani thanks Dr. M. P. Verma for his letter of the 11th and for the solidarity it expresses. Masani presents the exchange as an instance of democratic principle: people must be allowed to make mistakes and learn from them, while those mistakes should be brought to public notice in due course.
+  
+  The letter is a concise statement of confidence in democratic learning, public accountability, and solidarity. The visible page contains no further explanation of the issue that prompted Verma’s letter, and no date, title, sender address, or publication details are printed.
 ---
 
-Archive item 38; dated 1971-03-11; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani acknowledges Dr. Verma’s letter of the 11th and its expression of solidarity.
+- The letter identifies the right to make mistakes as an essential feature of democracy.
+- It links democratic freedom with the opportunity to learn from mistakes.
+- It assigns a public-minded responsibility to bring mistakes to people’s notice in due course.
+- The specific dispute or event underlying the correspondence is not visible on the page.

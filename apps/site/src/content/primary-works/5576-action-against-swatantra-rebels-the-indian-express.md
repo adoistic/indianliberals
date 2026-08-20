@@ -1,21 +1,21 @@
 ---
 id: 5576-action-against-swatantra-rebels-the-indian-express
 title:
-  main: "Action Against Swatantra Rebels-The Indian Express"
+  main: "Action against Swatantra rebels"
   subtitle: ""
-work_type: press_note
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "THE INDIAN EXPRESS"
+  year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +26,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "economic-liberty"
+  - "free-trade"
+missing_metadata_flags:
+  - "no_publisher_address"
+  - "no_place"
+  - "no_identifier"
+  - "no_edition"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This Indian Express news report dated April 15, 1968, describes action by the Swatantra Party’s National Executive against what it calls rebels in the Gujarat unit. The report says the executive discussed disciplinary measures, including the expulsion of certain members, after disputes involving the Gujarat organisation and its leadership. It also records the party’s position that internal disagreements should be addressed through individual effort and constitutional party procedures rather than public agitation.
+  
+  The report further notes resolutions concerning opposition to the Insurance Amendment Bill, a proposed appeal to the public and other parties against the measure, and the removal of barriers to trade. It mentions concern about the availability and prices of handloom goods and records a decision to seek temporary credit advances for relief. The visible clipping is a single newspaper page; no further article text or continuation is available beyond it.
 ---
 
-Archive item 5576; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Swatantra Party’s National Executive considered disciplinary action against members associated with a Gujarat faction.
+- The report identifies internal party disagreement as the immediate context for action against the alleged rebels.
+- The executive opposed the Insurance Amendment Bill and contemplated an appeal to the public and other parties.
+- The party discussed removing barriers to trade and supporting a more open commercial environment.
+- Resolutions addressed the supply and pricing of handloom goods and proposed temporary credit advances for relief.

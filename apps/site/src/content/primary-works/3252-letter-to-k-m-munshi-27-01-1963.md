@@ -1,23 +1,21 @@
 ---
 id: 3252-letter-to-k-m-munshi-27-01-1963
 title:
-  main: "Letter to K M Munshi"
+  main: "[Letter to K M Munshi]"
   subtitle: ""
 work_type: letter
-authors:
-  - k-m-munshi
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_recipient_metadata"
+  - "no_formal_author_byline"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram, marked “EXPRESS,” is a brief political communication from “MASANI” to K. M. Munshi, dated 27 January 1963. It reports that Ramgarh Maksudpur is seeking signatures from Members of Parliament in support of an appeal. The document does not identify the appeal’s subject or provide further argument, salutation, or closing.
 ---
 
-Archive item 3252; dated 1963-01-27; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is an express telegram or cable-form communication.
+- It is addressed to K. M. Munshi at Bharatiya Vidya Bhavan, Chowpatty, Bombay.
+- The sender is identified only by the surname “MASANI.”
+- The message concerns obtaining Members of Parliament’s signatures in support of an appeal.
+- Ramgarh Maksudpur is identified as the party or place undertaking the signature campaign.
+- The telegram was sent from 40 Canning Lane, New Delhi, on 27 January 1963.
+- The subject and contents of the appeal are not specified on the page.

@@ -1,22 +1,23 @@
 ---
 id: 3004-letter-to-ap-jain-15-10-1969
 title:
-  main: "Letter to AP Jain"
+  main: "[Letter to AP Jain]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1969
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 5
   pages_total_source: pypdfium2
@@ -27,15 +28,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "foreign-policy"
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_line"
+  - "no_publication_address"
+  - "no_edition"
+  - "no_series"
+  - "no_identifiers"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: AP Jain
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This five-page English-language archival item consists primarily of Minoo Masani’s letter of 15 October 1969 to A. P. Jain, together with attached correspondence, handwritten calculations, and an international invitee list. Masani discusses arrangements for entertaining delegates to the Inter-Parliamentary Union (IPU) conference during his Delhi visit on 19–21 October. He also revisits Jain’s proposal for a press conference, explaining that he has decided against holding it immediately because “the balance of advantage is against it at this point of time,” while leaving open the possibility of reconsideration.
 ---
 
-Archive item 3004; dated 1969-10-15; 5 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani plans to meet Jain in Delhi during 19–21 October 1969 to discuss arrangements for IPU delegates.
+- The correspondence records efforts to collect Rs. 100 from Swatantra Party members toward a proposed reception.
+- A reception at the Gymkhana Club is considered, with dinner and drinks costs compared against other arrangements.
+- Masani declines, for the time being, Jain’s suggestion of a press conference, but indicates that the decision could be revisited.
+- The attached correspondence refers to a Rabat Conference statement, an impending parliamentary session, and possible party strategy.
+- A handwritten attachment appears to list names and amounts, but much of it is difficult to read with certainty.
+- The final attachment lists invitees from Britain, the United States, Switzerland, Australia, France, Germany, Israel, Japan, Korea, Thailand, Singapore, Laos, and Vietnam.

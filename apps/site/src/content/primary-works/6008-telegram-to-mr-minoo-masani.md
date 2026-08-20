@@ -1,22 +1,19 @@
 ---
 id: 6008-telegram-to-mr-minoo-masani
 title:
-  main: "Telegram to Mr Minoo Masani"
+  main: "[Telegram to Mr Minoo Masani]"
   subtitle: ""
 work_type: telegram
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +24,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_sender_identified"
+  - "no_date"
+  - "no_publisher"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telegram, sent on an Indian Posts and Telegraphs Department form, is addressed to Minoo Masani in Bombay. Its brief message reports that a wire has already been sent to Sri Jayaprakash Narayan and states that he is apparently “REFECTLY WELL”; the wording is visibly unclear and may contain a transcription or source error. The sender is not legibly identified, and no date is visible.
 ---
 
-Archive item 6008; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a single-page Indian Posts and Telegraphs Department telegram.
+- The address line identifies Minoo Masani in Bombay as the recipient.
+- The message says that a wire has already been sent to Sri Jayaprakash Narayan.
+- The message reports Jayaprakash Narayan as “REFECTLY WELL,” an unclear reading in the rendered image.
+- No sender or date is legibly printed on the page.

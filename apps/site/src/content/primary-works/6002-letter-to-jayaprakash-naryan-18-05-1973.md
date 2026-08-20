@@ -1,7 +1,7 @@
 ---
 id: 6002-letter-to-jayaprakash-naryan-18-05-1973
 title:
-  main: "Letter to Jayaprakash Naryan"
+  main: "[Letter to Jayaprakash Naryan]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1973
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,16 +24,40 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "judicial-independence"
+  - "constitutionalism"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "sender_name_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_edition_statement"
+  - "no_series"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Jayaprakash Naryan
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter, dated 18 May 1973, thanks J. P. Narayan for sending the text of a recent article, which the sender says he had already read in the Indian Express. The sender expresses agreement with Narayan's position and describes ongoing work on a small volume linking Narayan's Lok Sabha speech with material on the relationship between law and the judiciary in theory and practice. The letter argues that the present agitation should move beyond the legal profession's immediate concerns and articulate the wider political implications of the issues in a more permanent and educational form.
+  
+  The remainder of the letter is personal and logistical. The sender reports trying to reach Maiti for news of Narayan's movements, notes that Narayan is in Delhi at the Indian Express Guest House, and discusses Narayan's plans to travel to Simla rather than Wardha. The sender asks to be kept informed and closes by noting that this is his third letter and that a response is now expected. The sender's typed name is absent and the handwritten signature is not sufficiently legible for confident identification.
 ---
 
-Archive item 6002; dated 1973-05-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The sender thanks J. P. Narayan for forwarding a recent article published in the Indian Express.
+- The sender agrees with Narayan's argument and is preparing a small volume related to Narayan's Lok Sabha speech.
+- The proposed volume would connect the speech with material on law and the judiciary in theory and practice.
+- The sender wants the political implications of the present agitation to be articulated beyond the legal profession's immediate concerns.
+- The sender describes this broader treatment as having a more permanent and educational purpose.
+- The letter also exchanges information about Narayan's location and forthcoming travel plans.
+- The sender asks Narayan to communicate his plans and remarks that a reply is overdue.

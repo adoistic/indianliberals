@@ -1,23 +1,22 @@
 ---
 id: 5348-letter-to-piloo-mody-11-07-1968
 title:
-  main: "Letter to Piloo Mody"
+  main: "[Letter to Piloo Mody]"
   subtitle: ""
 work_type: letter
 authors:
-  - piloo-mody
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_sender_letterhead"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 11 July 1968, Minoo Masani responds to Piloo Mody's letter about the B.K.D.–Swatantra talks. Masani explains that Mody appears to have written without knowing the political background against which Masani had recently spoken in Lucknow and Delhi, and attributes Mody's disappointment to a remark that some time might be needed for the process to develop.
+  
+  Masani reassures Mody that he welcomes the move and offers to explain the circumstances more fully. He notes that he will be in Bombay until 17 July and invites Mody to telephone and arrange a meeting. The page presents the exchange as a private effort to clarify disagreements within or around a liberal political alliance.
 ---
 
-Archive item 5348; dated 1968-07-11; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 11 July 1968 and is addressed to Piloo Mody.
+- Masani discusses the B.K.D.–Swatantra talks.
+- He says Mody lacks the background to the speeches Masani recently gave in Lucknow and Delhi.
+- Masani clarifies that his comment about the process taking time was not intended as a rejection.
+- He offers to explain the political circumstances and invites Mody to meet him in Bombay before 17 July.

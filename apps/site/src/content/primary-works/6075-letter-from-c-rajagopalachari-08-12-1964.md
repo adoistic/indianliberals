@@ -1,7 +1,7 @@
 ---
 id: 6075-letter-from-c-rajagopalachari-08-12-1964
 title:
-  main: "Letter from C Rajagopalachari"
+  main: "[Letter from C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "MADRAS-17"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_role_unclear"
+  - "letter_body_not_visible"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English document is a typed letter from C. Rajagopalachari, dated 8 December 1964, on letterhead bearing his Madras address. Its heading reads “LONG LIFE GOOD HEALTH AND PROLONGED SERVICE TO THE GREAT CAUSE OF SWATANTRA,” indicating an association with the Swatantra cause and party politics.
+  
+  The visible pages contain the sender’s letterhead, the instruction “Not to be telegraphed,” and an address block to Piloo Mody at the Swatantra Party office in Bombay. The body of the letter and any signature are not visible in the rendered document, so its substantive purpose and argument cannot be determined from these pages.
 ---
 
-Archive item 6075; dated 1964-12-08; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a two-page typed letter by C. Rajagopalachari.
+- It is dated 8 December 1964 and originates from Madras-17.
+- The letterhead invokes “the great cause of Swatantra.”
+- The document is addressed to Piloo Mody at the Swatantra Party office in Bombay.
+- It is marked “Not to be telegraphed.”
+- The rendered pages do not show the letter’s body or signature.

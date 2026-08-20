@@ -1,23 +1,23 @@
 ---
 id: 4305-telegram-to-mr-minoo-masani-13-04-1964
 title:
-  main: "Telegram to Mr Minoo Masani"
+  main: "[Telegram to Mr Minoo Masani]"
   subtitle: ""
 work_type: telegram
+work_type_source: filename
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "MADRAS"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +28,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page telegram, sent by C. Rajagopalachari (“Rajaji”) from Madras on 13 April 1964, is addressed to Minoo Masani. Rajagopalachari approves the second alternative proposed in the second page of Masani’s letter of 10 April.
+  
+  The message also instructs Masani to raise or address the subject on the seventeenth. The telegram is a brief administrative communication rather than a substantive statement of policy or political argument.
 ---
 
-Archive item 4305; dated 1964-04-13; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page Indian postal telegram.
+- It was sent from Madras on 13 April 1964.
+- The sender is C. Rajagopalachari, identified by the closing “RAJAJI.”
+- The recipient is Minoo Masani.
+- Rajagopalachari approves the second alternative on page two of Masani’s letter dated 10 April.
+- The message says the subject should be addressed on the seventeenth.

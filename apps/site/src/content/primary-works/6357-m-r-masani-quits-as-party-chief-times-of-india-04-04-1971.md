@@ -1,22 +1,21 @@
 ---
 id: 6357-m-r-masani-quits-as-party-chief-times-of-india-04-04-1971
 title:
-  main: "M R Masani Quits As Party Chief-Times Of India"
+  main: "M. R. Masani quits as party chief"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "TIMES OF INDIA"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_publisher_authority_match"
+  - "no_publisher_address"
+  - "no_place"
+  - "no_edition"
+  - "no_identifier"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This Times of India report dated 4 April 1971 announces that M. R. Masani had resigned as president of the Swatantra Party after the party’s poor performance in the mid-term election. His resignation letter was sent to members of the party’s general council and was to be considered at a council meeting in Bombay on 17–18 April.
+  
+  The report says Masani intended to remain a party member and continue advocating its philosophy and principles. He attributed the party’s difficult position to accumulated shortcomings and mistakes, and accepted a share of responsibility as president.
 ---
 
-Archive item 6357; dated 1971-04-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- M. R. Masani resigned as president of the Swatantra Party.
+- The resignation followed the party’s poor showing in the mid-term election.
+- The party’s general council was expected to consider the resignation at a Bombay meeting on 17–18 April.
+- Masani said he would remain a member of the party.
+- He pledged to continue advocating the party’s philosophy and principles.
+- He attributed the party’s plight to accumulated shortcomings and mistakes.
+- Masani accepted his share of responsibility as party president.

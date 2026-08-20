@@ -1,22 +1,22 @@
 ---
 id: 5172-letter-to-r-n-rai-30-11-1959
 title:
-  main: "Letter to R N Rai"
+  main: "[Letter to R N Rai]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Calcutta"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,27 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: R N Rai
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter from M. R. Masani to R. N. Rai, dated 30 November 1959, acknowledges receipt of Rai's letter of 27 November (No. 51/11/59). Masani does not address the substance of Rai's proposal on the visible page, but suggests meeting in Calcutta to discuss the matter personally.
 ---
 
-Archive item 5172; dated 1959-11-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 30 November 1959.
+- Masani acknowledges receiving R. N. Rai's letter No. 51/11/59 dated 27 November.
+- Masani proposes being available in Calcutta from noon on 4 December until the evening of 6 December.
+- The proposed meeting place is the Great Eastern Hotel.
+- The letter's visible page does not disclose the subject of the correspondence.

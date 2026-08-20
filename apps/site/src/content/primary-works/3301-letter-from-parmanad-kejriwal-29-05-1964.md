@@ -1,7 +1,7 @@
 ---
 id: 3301-letter-from-parmanad-kejriwal-29-05-1964
 title:
-  main: "Letter from Parmanad Kejriwal"
+  main: "[Letter from Parmanad Kejriwal]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Parmanad Kejriwal
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter, dated 29 May 1964 and signed by Parmanand Kejriwal, concerns vehicles assigned to the Central Swatantra Party. Kejriwal tells Jagannath Babu that the Central Bank of India has taken possession of the party's jeeps and asks him to help the Bank recover vehicles reportedly being withheld or redirected by Raja Rangarh.
 ---
 
-Archive item 3301; dated 1964-05-29; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is addressed to Jagannath Babu and dated 29 May 1964.
+- Kejriwal refers to an earlier letter concerning the Central Swatantra Party's jeeps.
+- A representative of the Central Bank of India is expected to visit Muzaffarpur to take charge of additional jeeps.
+- The letter alleges that Raja Rangarh is not delivering the required jeep to the Bank and is playing one party against another.
+- Kejriwal asks Jagannath Babu to identify where the Bank's jeeps are located and with whom.
+- Copies are sent to the Muzaffarpur office and to Mehta Kejriwal, who is asked to assist Mr. Gosh.

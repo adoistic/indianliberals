@@ -1,9 +1,9 @@
 ---
 id: 5610-decision-soon-up-swatantra-rebels
 title:
-  main: "Decision soon up Swatantra rebels"
+  main: "[Decision soon up Swatantra rebels]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -11,11 +11,10 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,14 +25,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "federalism"
+  - "constitutionalism"
+  - "governance-reform"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_found"
+  - "publisher_line_not_found"
+  - "place_not_found"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English document records a Swatantra Party General Council resolution moved by Mr. P. K. Deo and unanimously adopted. The resolution objects to what it calls the Centre’s growing interference in the functioning of State governments, particularly through the use of Governors to install minority governments in the States. Its central concern is the protection of federal principles and the constitutional position of elected state administrations.
+  
+  Page 1 also contains a pasted newspaper clipping headed “Decision soon on Swatantra rebels”. The clipping reports an impending decision concerning alleged rebels within the Swatantra Party, including questions about disciplinary action and the party’s leadership. The clipping is difficult to read in places; the typed resolution on page 2 is substantially clearer.
 ---
 
-Archive item 5610; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is headed “SWATANTRA PARTY” and presents a General Council resolution.
+- Mr. P. K. Deo is identified as the mover of the resolution.
+- The resolution was unanimously adopted by the General Council.
+- It criticizes growing interference by the Centre in the working of State governments.
+- It objects to the use of Governors to install minority governments in the States.
+- A pasted newspaper clipping on page 1 concerns a forthcoming decision on alleged Swatantra Party rebels and possible disciplinary action.

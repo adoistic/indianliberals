@@ -1,7 +1,7 @@
 ---
 id: 1803-letter-to-hp-mody-30-07-1959
 title:
-  main: "Letter to HP Mody"
+  main: "[Letter to HP Mody]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Ajmer"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_issuer"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: HP Mody
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English letter, dated 30 July 1959 and written from Ajmer by Diwan Mohan Lall to Sir Homi Mody, concerns Lall's planned visit to Bombay on 5 August. Lall asks whether he may meet Mody briefly and requests that Mody communicate with Shri D. Dare Jenahgir regarding the proposed appointment.
+  
+  Lall also explains that he cannot attend the Swatantra Party convention scheduled in Bombay for 1–2 August 1959, despite an invitation from C. Rajagopalachari (“Rajaji”), because the short notice has prevented him from making arrangements. The page includes the sender's letterhead, typed text, handwritten signature, and handwritten date-and-time annotation.
 ---
 
-Archive item 1803; dated 1959-07-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter was sent from “Lakhan Kotri,” Ajmer, on 30 July 1959.
+- Diwan Mohan Lall planned to reach Bombay on 5 August and stay for four days.
+- Lall requested a brief meeting with Sir Homi Mody at a convenient time.
+- He asked Mody to inform Shri D. Dare Jenahgir about the proposed meeting or appointment.
+- Lall declined an invitation from Rajaji to attend the Swatantra Party convention in Bombay on 1–2 August 1959.
+- The letter documents an early organisational and personal communication connected with the Swatantra Party.

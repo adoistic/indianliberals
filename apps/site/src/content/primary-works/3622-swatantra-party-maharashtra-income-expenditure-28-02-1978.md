@@ -1,9 +1,10 @@
 ---
 id: 3622-swatantra-party-maharashtra-income-expenditure-28-02-1978
 title:
-  main: "Swatantra Party Maharashtra Income & Expenditure"
+  main: "INCOME & EXPENDITURE ACCOUNT FOR THE PERIOD SEPTEMBER 1976 TO 28TH FEBRUARY 1978"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
+purpose: report
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY, MAHARASHTRA"
+  place: "Maharashtra"
   year: 1978
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +28,33 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page institutional financial statement records the Swatantra Party, Maharashtra's income and expenditure for the period September 1976 to 28 February 1978. It lists expenditure on salaries, rent and electricity, postage and telegrams, conveyance, and office expenses, alongside income from donations, rent receipts, and miscellaneous receipts. The statement reports total income and expenditure of Rs. 12,534.17 and an excess of expenditure over income of Rs. 306.58 transferred to the balance sheet.
+  
+  The accompanying balance sheet, dated 28 February 1978, shows a capital fund of Rs. 482.19, represented by cash on hand, cash with the Union Bank of India, and the income-and-expenditure account balance. No human author or signatory is visible on the rendered page; the document is issued under the name of Swatantra Party, Maharashtra.
 ---
 
-Archive item 3622; dated 1978-02-28; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document covers the Swatantra Party, Maharashtra's accounts from September 1976 through 28 February 1978.
+- Recorded expenditure totals Rs. 12,534.17.
+- Major expenditure items are rent/electricity at Rs. 9,482.62 and salaries at Rs. 2,202.00.
+- Income consists chiefly of donations of Rs. 5,050.00 and rent receipts of Rs. 7,108.59.
+- The statement records an excess of expenditure over income of Rs. 306.58.
+- The balance sheet reports a capital fund of Rs. 482.19.
+- Assets include cash on hand and cash with the Union Bank of India.

@@ -1,9 +1,9 @@
 ---
 id: 314-swatantra-newsletter-no-27-october-1962
 title:
-  main: "Swatantra Newsletter No-27 October-1962"
+  main: "Swatantra Newsletter"
   subtitle: ""
-work_type: letter
+work_type: periodical_issue
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "ISSUED BY THE CENTRAL OFFICE OF THE SWATANTRA PARTY, 143 MAHATMA GANDHI ROAD, FORT, BOMBAY. TELEPHONE NO : 28887"
+  place: "Bombay"
   year: 1962
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 7
   pages_total_source: pypdfium2
@@ -26,15 +27,43 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "party-politics"
+  - "foreign-policy"
+  - "cold-war-positioning"
+  - "planning-critique"
+  - "public-sector-critique"
+  - "economic-liberty"
+  - "regulatory-state-critique"
+  - "agricultural-reform"
+  - "land-reform"
+  - "civil-liberty"
+  - "liberalism-as-tradition"
+missing_metadata_flags:
+  - "no_formal_contents_page"
+  - "editor_not_named"
+  - "no_issn"
+  - "no_publisher_address_separate_from_issuer"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 314; dated 1962-10; 7 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Rajaji led a Gandhi Peace Foundation delegation to Washington, London, and Paris to discuss nuclear testing and disarmament.
+- N. G. Ranga attributed India’s diplomatic isolation to failures in its foreign policy and criticised the government’s response to Indonesia, Nepal, and China.
+- The Swatantra parliamentary group demanded the cabinet’s resignation over Chinese incursions in the North-East Frontier Agency and Ladakh.
+- M. R. Masani’s international activities included participation in Liberal International and discussions of the European Community, the Common Market, and the Cold War.
+- The issue argues that planning should serve what people can do rather than merely what government can do, and it calls for partial denationalisation of public-sector enterprises.
+- State-party reports describe membership drives, constituency organisation, opposition to taxation and land levies, and campaigns for greater legislative and administrative accountability.
+- Appendix A reproduces Liberal International resolutions on the EEC, South Africa, freedom, anti-totalitarianism, military defence, and disarmament.
+- Appendix B reproduces an editorial praising the Swatantra Party’s reorganisation of its Bihar unit as a defence of democratic party organisation.

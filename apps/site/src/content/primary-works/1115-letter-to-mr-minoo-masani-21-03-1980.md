@@ -29,6 +29,7 @@ themes: []
 proposed_themes:
   - "indian-liberal-history"
   - "party-politics"
+  - "biographical-tribute"
 missing_metadata_flags:
   - "title_not_printed"
   - "no_publisher"
@@ -41,6 +42,17 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  A one-page typed letter dated 21 March 1980 from J. Venkiteswaran, writing from 143 Mahatma Gandhi Road, Bombay, to Minoo Masani (M. R. Masani) at the Army & Navy Building on the same street. Venkiteswaran explains that S. V. Raju has left India and has entrusted him with the task of keeping in touch with the friends and admirers of Rajaji. He has heard that a meeting was called at the residence of D. N. Patodia in New Delhi on 16 March 1980, at which some of these friends met and discussed current affairs.
+  
+  Since Venkiteswaran was not present at the Delhi meeting, he asks Masani to send him a list of participants (with addresses if possible) and a summary of the general consensus arrived at. He states that this information is required so that he can collate it and put it into the form of a "Newsletter" to be forwarded to friends and admirers of Rajaji throughout the country, and requests an early reply. The letter is a housekeeping note within the post-Rajaji classical-liberal network — the kind of internal correspondence by which the surviving core of the Swatantra circle kept a coordinated presence after 1974.
 ---
 
-Archive item 1115. Scanned document from the Swatantra Party papers.
+## Key points
+
+- Letter of 21 March 1980 from J. Venkiteswaran (143 Mahatma Gandhi Road, Bombay) to Minoo Masani.
+- Venkiteswaran reports that S. V. Raju has left India and has handed him the job of maintaining contact with friends and admirers of Rajaji.
+- References a meeting held at D. N. Patodia's residence in New Delhi on 16 March 1980 where friends of Rajaji discussed current affairs.
+- Asks Masani for a list of participants (with addresses) and a summary of the consensus reached at that Delhi meeting.
+- The information is to be collated into a 'Newsletter' circulated to Rajaji's friends and admirers across the country.
+- The letter documents the operational plumbing of the post-Rajaji classical-liberal network in India in 1980.

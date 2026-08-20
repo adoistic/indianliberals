@@ -1,7 +1,7 @@
 ---
 id: 2410-letter-to-mr-s-r-tracy-29-03-1976
 title:
-  main: "Letter to Mr S R Tracy"
+  main: "[Letter to Mr S R Tracy]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1976
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +25,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "issuer_not_named"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "no_signature_name"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: S R Tracy
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page office letter, dated March 29, 1976, is addressed to the Regional Transport Officer, Bombay, for the attention of Mr. S.R. Tracy. It confirms a conversation held on March 23 concerning vehicles purchased by the former Swatantra Party and subsequently transferred to Bharatiya Lok Dal. The letter lists 25 vehicles, their recorded owners, destinations—including Gujarat, Mysore, Orissa, Himachal Pradesh, Rajasthan, and Godhra—and vehicle registration numbers.
+  
+  The letter states that all vehicles were registered in January 1971 and dispatched immediately from the Mahindra & Mahindra works. It further explains that registration charges and wheel taxes were collected at the factory, that none of the vehicles returned to Bombay because they were sold in the areas to which they were sent, and requests corrections to official records and cancellation of notices issued against the vehicles. The author is not individually identified; the closing is signed only “Executive Secretary.”
 ---
 
-Archive item 2410; dated 1976-03-29; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated March 29, 1976, and is addressed to the Regional Transport Officer in Bombay for Mr. S.R. Tracy’s attention.
+- It confirms details of vehicles purchased by the former Swatantra Party and transferred to Bharatiya Lok Dal.
+- A table records 25 vehicles, their owners, destinations, and registration numbers.
+- The destinations listed include Gujarat, Mysore, Orissa, Himachal Pradesh, Rajasthan, and Godhra.
+- The vehicles were registered in January 1971 and dispatched from the Mahindra & Mahindra works.
+- Registration charges and wheel taxes were collected at the factory.
+- The letter asks that official records be corrected and notices against the vehicles be treated as cancelled.
+- The signatory is identified only as the Executive Secretary.

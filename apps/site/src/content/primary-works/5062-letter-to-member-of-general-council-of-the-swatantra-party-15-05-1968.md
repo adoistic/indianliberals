@@ -1,22 +1,23 @@
 ---
 id: 5062-letter-to-member-of-general-council-of-the-swatantra-party-15-05-1968
 title:
-  main: "Letter to Member of General Council of the Swatantra party"
+  main: "[Letter to Member of General Council of the Swatantra party]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 20
   pages_total_source: pypdfium2
@@ -26,16 +27,40 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "constitutionalism"
+  - "civil-liberty"
+  - "electoral-reform"
+  - "liberalism-as-tradition"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_line"
+  - "no_edition_statement"
+  - "no_series_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Member of General Council of the Swatantra party
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this confidential letter of 15 May 1968, M. R. Masani explains his resignation from the Swatantra Party’s National Executive and Parliamentary Board. He presents the decision as the result of a sustained breakdown in party discipline and democratic functioning, rather than a sudden personal disagreement. The immediate background is the Gujarat party’s handling of the Rajya Sabha candidacy of Babubhai Vaidya, the failure to honour an earlier commitment to support Vaidya, the nomination of U. N. Mahida, and the National Executive’s reluctance to take serious disciplinary action against party members who had opposed the party’s candidate.
 ---
 
-Archive item 5062; dated 1968-05-15; 20 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani argues that the Gujarat crisis revealed a breach of faith between the party leadership and its members.
+- He criticises the National Executive for tolerating indiscipline, inconsistent decisions, and failures of duty by state leaders.
+- He objects to what he sees as a departure from the Swatantra Party’s constitutional commitment to individual freedom within a single national organisation.
+- He warns that allowing state units to adopt divergent positions risks the Balkanisation of the party.
+- He proposes to remain active outside the National Executive through training programmes, party organisation, parliamentary work, and public advocacy.
+- Annexure A restates his resignation as an ethical protest intended to restore the party’s credibility rather than to abandon its principles.
+- Annexure B diagnoses the party’s wider weaknesses as stagnation, lack of discipline, and an emerging form of state-unit statism.
+- Annexures C and D provide supporting correspondence concerning the Gujarat candidacy dispute and alleged anti-party activity in Rajkot.

@@ -1,22 +1,21 @@
 ---
 id: 2764-bld-symbol-indian-express-15-01-1975
 title:
-  main: "BLD Symbol-Indian Express"
+  main: "BLD symbol"
   subtitle: ""
-work_type: press_note
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Indian Express"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +26,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "subtitle_not_printed"
+  - "publisher_not_resolved"
+  - "place_not_printed"
+  - "no_named_author"
+  - "composite_document"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page archival composite contains a short Indian Express news clipping titled “BLD symbol” and a separate printed electoral-roll form. The clipping reports that the Election Commission had decided to recognise the newly formed Bharatiya Lok Dal (BLD) as a national party for purposes of the Symbols Order. It also says that the Commission would separately reserve a symbol for the party after receiving particulars from it.
 ---
 
-Archive item 2764; dated 1975-01-15; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Election Commission decided to recognise the Bharatiya Lok Dal as a national party.
+- The recognition applied for the purposes of the Symbols Order.
+- A separate order was to reserve an election symbol for the BLD.
+- The Commission had received no particulars needed to issue that symbol order at the time of reporting.
+- Symbols reserved for the Swatantra Party, Bharatiya Kranti Dal, and Utkal Congress were reportedly frozen.
+- The BLD had been formed through the amalgamation of those parties.
+- The adjacent second page is an electoral-roll inclusion form rather than part of the news article.

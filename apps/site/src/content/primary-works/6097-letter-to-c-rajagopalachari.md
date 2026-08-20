@@ -1,22 +1,21 @@
 ---
 id: 6097-letter-to-c-rajagopalachari
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
-  - c-rajagopalachari
+  - piloo-mody
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "MADRAS-17"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "recipient_not_resolved_as_author"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page typed letter from Piloo Mody to C. Rajagopalachari (“Rajaji”) revises the date of a fund-raising dinner being organised for Rajagopalachari. Mody explains that the dinner has been moved from 22 December to 23 December 1962 and will begin at 8:30 p.m.
+  
+  Mody adds that the Bharatiya Vidya Bhavan has confirmed that Rajagopalachari will be able to attend. The letter is administrative and cordial, closing with warm regards and Mody’s signature. The document does not print an unambiguous year for the letter itself, although it refers to 23 December 1962.
 ---
 
-Archive item 6097; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Piloo Mody writes to C. Rajagopalachari, addressing him as “Rajaji.”
+- The letter follows up on an earlier letter dated the 6th of the month.
+- A fund-raising dinner has been rescheduled from 22 December to 23 December 1962.
+- The dinner is scheduled for 8:30 p.m.
+- The Bharatiya Vidya Bhavan has confirmed that Rajagopalachari can attend.
+- The letter is a brief logistical communication with a cordial closing.

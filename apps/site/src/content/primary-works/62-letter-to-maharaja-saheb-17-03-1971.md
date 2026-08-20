@@ -1,22 +1,21 @@
 ---
 id: 62-letter-to-maharaja-saheb-17-03-1971
 title:
-  main: "Letter to Maharaja Saheb"
+  main: "[Letter to Maharaja Saheb]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "edition_not_printed"
+  - "series_not_printed"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Maharaja Saheb
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 17 March 1971, Minoo Masani thanks Siraj Meghrajji of Dhrangadhra for a telegram expressing solidarity after events in Rajkot. Masani says the situation is “very bad” and warns that the consequences of what he calls “our mistake” will be borne by the people in the coming months and years.
+  
+  Masani frames the moment as an opportunity for “an agonising reappraisal” of the principles the party stands for. He says he is arranging meetings of the party’s National Executive and General Council for the second half of April, when more information will be available and the immediate controversy will have settled.
 ---
 
-Archive item 62; dated 1971-03-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 17 March 1971 and addressed to Siraj Meghrajji of Dhrangadhra.
+- Masani acknowledges a telegram of 11 March expressing solidarity.
+- He describes the situation connected with Rajkot as very bad and broader than Rajkot alone.
+- He warns that the public may bear the consequences of the party’s mistake in the months and years ahead.
+- He calls for a reassessment of the principles the party represents.
+- He plans meetings of the party’s National Executive and General Council in the second half of April.

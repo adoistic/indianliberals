@@ -1,21 +1,22 @@
 ---
 id: 4423-towards-a-free-society-the-gandhian-alternative
 title:
-  main: "Towards a Free Society The Gandhian Alternative"
-  subtitle: ""
-work_type: letter
+  main: "THE GANDHIAN ALTERNATIVE"
+  subtitle: "Towards a free society"
+work_type: occasional_paper
+purpose: manifesto
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Published & Printed by Rajinder Puri Jan-Society, Janata Party, New Delhi & Printed at Maharashtra Printers & Stationers, Bombay-16."
+  place: "New Delhi"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -25,15 +26,50 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "economic-liberty"
+  - "property-rights"
+  - "agricultural-reform"
+  - "planning-critique"
+  - "decentralisation"
+  - "education"
+  - "health-policy"
+  - "women-rights"
+  - "dalit-rights"
+  - "civil-liberty"
+  - "party-politics"
+  - "electoral-reform"
+  - "anti-corruption"
+  - "liberalism-as-tradition"
+  - "gandhian-economics"
+  - "rural-urban-integration"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "no_author_named"
+  - "issuer_not_resolved"
+  - "publisher_not_resolved"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  The four-page English pamphlet presents the Janata Party as a national political alternative committed to democracy, service, and a society organised around Gandhian principles. Its political programme stresses civil liberties, restoration of democratic institutions, opposition to authoritarian rule, decentralisation, village-level initiative, an independent judiciary, electoral reform, and safeguards against corruption and administrative abuse. The pamphlet also frames the Janata Party as a unified national party rather than merely an alliance of opposition groups, and contrasts its electoral prospects with Congress's past ability to win a disproportionate share of seats.
 ---
 
-Archive item 4423; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The pamphlet describes the Janata Party as a unified national party formed from the merger of opposition groups.
+- Its political charter calls for constitutional democracy, civil liberties, judicial independence, electoral reform, and decentralised government.
+- The programme advocates Gandhian values, village self-government, rural development, and a reduced role for centralised state power.
+- The economic charter proposes abolition of property as a fundamental right, a right to work, full employment, agricultural priority, appropriate technology, and decentralisation.
+- The economic programme includes an end to destitution within ten years, rural-urban integration, wage and price policies, redistributive taxation, and national water and energy policies.
+- The social charter proposes universal schooling, literacy, safe drinking water, preventive health, housing, social insurance, rights protections for Scheduled Castes and Tribes, women's and youth welfare, legal aid, and anti-corruption machinery.
+- The question-and-answer section presents the party's post-election role as either a governing party or a united democratic opposition.

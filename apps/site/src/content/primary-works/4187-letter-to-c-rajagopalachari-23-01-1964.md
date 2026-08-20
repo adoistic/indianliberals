@@ -1,23 +1,21 @@
 ---
 id: 4187-letter-to-c-rajagopalachari-23-01-1964
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
-  - c-rajagopalachari
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +26,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "publication_place_not_printed"
+  - "edition_not_printed"
+  - "series_not_printed"
+  - "no_formal_toc"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated January 23, 1964, M. R. Masani tells C. Rajagopalachari that he intends to continue pressing the Swatantra Party Convention to change the structure of its membership, despite Rajagopalachari’s pessimism. Masani says he is studying Rajagopalachari’s compromise scheme as a possible last resort, but advises maintaining the appearance of support for the unanimous decision of the Central Organising Committee until an alternative becomes necessary.
+  
+  Masani reports that Prof. Ranga and K. M. Munshi have proposed adding to the General Council agenda a motion concerning the reconstitution of the Central Organising Committee, potentially including the removal of the junior Vice-President. He also describes the agreement of Dr. Jack Sequeira and Dr. Alvaro Furtado, leaders of the United Goans, to attend the Bangalore Convention as observers. Masani views their participation as an opportunity to explain their position and possibly build a strong Swatantra unit in Goa capable of winning representation in the next Assembly elections.
 ---
 
-Archive item 4187; dated 1964-01-23; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani rejects Rajagopalachari’s pessimism about persuading the Swatantra Party Convention to alter its membership structure.
+- He is keeping Rajagopalachari’s compromise scheme in reserve while publicly adhering to the Central Organising Committee’s unanimous decision.
+- Prof. Ranga and K. M. Munshi propose an agenda item on reconstituting the Central Organising Committee.
+- Possible changes include eliminating the junior Vice-President’s post.
+- Leaders of the United Goans agree to attend the Bangalore Convention as visitors or observers.
+- Masani sees the Goa connection as a potential basis for a strong Swatantra unit and future electoral success.

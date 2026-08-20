@@ -1,9 +1,9 @@
 ---
 id: 4156-for-favour-of-publication-12-01-1995
 title:
-  main: "For Favour of Publication"
+  main: "[For Favour of Publication]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Issued on behalf of the Swatantra Party(Maharashtra) By Mr.S.V.Raju the 2nd petitioner."
+  place: "Bombay"
   year: 1995
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 18
   pages_total_source: pypdfium2
@@ -26,15 +27,41 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "socialism-debate"
+  - "constitutionalism"
+  - "civil-liberty"
+  - "individual-rights"
+  - "freedom-of-speech"
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_formal_publisher_imprint"
+  - "no_edition_statement"
+  - "no_series_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This 1995 document, issued on behalf of the Swatantra Party (Maharashtra), consists of a Bombay High Court writ petition, supporting affidavit, draft amendment, interim-relief application, and a press-publication cover letter. The petition challenges Section 29(A)(5) of the Representation of the People Act, 1951, as amended in 1988, which required political parties seeking registration to declare true faith and allegiance to the principles of socialism, secularism, democracy, and the sovereignty, unity, and integrity of India. The petitioners argue that the socialism requirement is vague, discriminatory, and inconsistent with constitutional freedoms of association, thought, and expression.
 ---
 
-Archive item 4156; dated 1995-01-12; 18 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Swatantra Party (Maharashtra) and S. V. Raju challenge the constitutional validity of Section 29(A)(5) of the Representation of the People Act, 1951.
+- The petition distinguishes allegiance to the Constitution from allegiance to the undefined principle of socialism.
+- The petition argues that requiring registered parties, but not independent candidates, to affirm socialism creates hostile and irrational discrimination.
+- The petition invokes Articles 14, 19, and 226 of the Constitution, especially equality and freedom of association.
+- The document presents socialism as a broad and internally diverse spectrum, including Saint-Simonism, Owenism, Fabianism, Guild Socialism, Keynesianism, Soviet communism, and Maoism.
+- The petitioners maintain that non-socialist citizens must be able to organise politically and seek constitutional change through elections without falsifying their convictions.
+- The attached draft amendment seeks interim directions requiring the Election Commission to allot a common symbol to Swatantra Party candidates in the forthcoming Maharashtra elections.
+- The opening cover letter reports that the Bombay High Court ordered an expedited hearing after refusing interim relief on the common-symbol request.

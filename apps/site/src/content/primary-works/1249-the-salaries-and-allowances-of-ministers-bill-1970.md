@@ -1,22 +1,22 @@
 ---
 id: 1249-the-salaries-and-allowances-of-ministers-bill-1970
 title:
-  main: "The Salaries and Allowances of Ministers Bill-1970"
-  subtitle: ""
-work_type: letter
-authors: []
+  main: "FINANCIAL MEMORANDUM"
+  subtitle: "The Salaries & Allowances of Ministers Bill, 1970"
+work_type: occasional_paper
+purpose: working_paper
+authors:
+  - minoo-masani
+  - n-dandekar
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,15 +26,33 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "government-spending"
+  - "governance-reform"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page financial memorandum examines the additional expenditure associated with the Salaries and Allowances of Ministers Bill, 1970. It calculates the gross annual cost as Rs. 4,23,000 per Minister and Rs. 1,74,000 per Deputy Minister, while listing recoveries and savings arising from income tax, residence-related charges, staff salaries, utilities, travel, transport, and the abolition of the sumptuary allowance.
 ---
 
-Archive item 1249; dated 1970; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Clause 3 of the Bill is identified as involving additional expenditure on ministerial salaries.
+- The stated gross annual cost is Rs. 4,23,000 per Minister and Rs. 1,74,000 per Deputy Minister.
+- Much of the expenditure is expected to be recouped through recoveries from Ministers and the abolition of the sumptuary allowance.
+- The memorandum itemises additional income tax and surcharge, residence and staff costs, electricity, water, telephone, and travel-related charges.
+- After offsets, the estimated net additional expenditure is Rs. 130 per Minister and Rs. 280 per Deputy Minister annually.
+- For 37 Ministers and 18 Deputy Ministers, the total estimated net additional expenditure is Rs. 9,850.

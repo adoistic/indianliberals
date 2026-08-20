@@ -1,23 +1,23 @@
 ---
 id: 6185-letter-to-s-v-raju-26-02-1970
 title:
-  main: "Letter to S V Raju"
+  main: "[Letter to S V Raju]"
   subtitle: ""
 work_type: letter
 authors:
-  - s-v-raju
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay 1"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +28,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_line"
+  - "no_reference_number_visible"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office letter, dated 26 February 1970 and written by M. R. Masani from the Swatantra Party's National Headquarters in Bombay, concerns the circulation and follow-up of draft minutes. Masani tells S. V. Raju that, after reviewing minutes settled by Cooper and Raju, he sees no reason to postpone their distribution. He asks Raju to attach a revised note concerning material handed to C. C. Desai, marked as an annexure rather than the original draft.
+  
+  Masani also presses Raju for figures on the cost of bringing the Swatantra Party into Parliament, saying the delay is holding up action. He asks that the draft minutes be sent to Rajaji by express delivery if they have not already been dispatched, and concludes that all action arising from the minutes should by then have been taken. The letter bears handwritten annotations and a receipt stamp dated 28 February 1970.
 ---
 
-Archive item 6185; dated 1970-02-26; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani approves circulating draft minutes settled by Cooper and S. V. Raju.
+- He requests that a revised note concerning material handed to C. C. Desai be attached as an annexure.
+- He asks urgently for figures on the cost of bringing the Swatantra Party into Parliament.
+- He requests express delivery of the draft minutes to Rajaji if they have not yet been sent.
+- The letter records an expectation that action arising from the minutes should already have been completed.

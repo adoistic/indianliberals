@@ -1,7 +1,7 @@
 ---
 id: 4151-swatantra-party-maharashtra-28-06-1994
 title:
-  main: "Swatantra party Maharashtra"
+  main: "[Swatantra party Maharashtra]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party Maharashtra"
+  place: "Bombay"
   year: 1994
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,15 +27,38 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "constitutionalism"
+  - "secularism"
+  - "socialism-debate"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_address_not_printed_as_publisher"
+  - "no_identifier"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page letter, dated June 28, 1994, is written by J. Venkiteswaran, President of Swatantra Party Maharashtra, to the Secretary of the Election Commission of India. It concerns the party's proposed registration under Section 29A of the Representation of the People Act, 1951, and refers to the Commission's application form, the statutory provision, and the 1989 Election Symbols (Reservation and Allotment) (Amendment) Order.
+  
+  The letter identifies a conflict between the party's political position and the registration requirement in Section 29A(5), which required party rules to affirm true faith and allegiance to the principles of socialism, secularism, and democracy. Swatantra Party Maharashtra states that it supports secularism and democracy but opposes socialism, and asks whether it can be registered while rejecting the statutory reference to socialism. The pages do not show the Election Commission's response or the outcome of the registration request.
 ---
 
-Archive item 4151; dated 1994-06-28; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated June 28, 1994, and is addressed to the Secretary of the Election Commission of India.
+- It seeks clarification about registration of Swatantra Party Maharashtra under Section 29A of the Representation of the People Act, 1951.
+- The party cites the requirement that its rules affirm allegiance to the Constitution and to socialism, secularism, and democracy.
+- Swatantra Party Maharashtra declares support for secularism and democracy but opposition to socialism.
+- The party asks whether registration will be accepted if it rejects the socialism requirement in Section 29A(5).
+- The pages contain the party's request but not the Election Commission's reply or any later registration decision.

@@ -1,23 +1,21 @@
 ---
 id: 3542-letter-to-mr-s-v-raju-09-02-1966
 title:
-  main: "Letter to Mr S V Raju"
+  main: "[Letter to Mr S V Raju]"
   subtitle: ""
 work_type: letter
 authors:
-  - s-v-raju
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "place_not_found"
+  - "no_organization_letterhead"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This untitled letter, dated 9 February 1966, is addressed by M. R. Masani to S. V. Raju. Masani asks Raju to send Mr. C. Rai two copies of a donor list being prepared from contributions made to the party fund during the 1962 elections. The second rendered page contains handwritten annotations and a handwritten signature over the typed text.
+  
+  The visible document is a brief administrative communication concerning party finance and donor records. It does not identify the party, provide the donor list itself, or explain how the contributions were collected or used.
 ---
 
-Archive item 3542; dated 1966-02-09; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 9 February 1966.
+- M. R. Masani addresses Mr. S. V. Raju.
+- Masani requests two copies of a donor list for Mr. C. Rai.
+- The list concerns contributions to a party fund during the 1962 elections.
+- The second page bears handwritten annotations and a handwritten signature.

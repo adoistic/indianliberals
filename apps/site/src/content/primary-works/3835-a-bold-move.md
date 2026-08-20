@@ -1,21 +1,22 @@
 ---
 id: 3835-a-bold-move
 title:
-  main: "A Bold Move"
+  main: "A BOLD MOVE"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "\"The Indian Nation\" (Patna)"
+  place: "Patna"
+  year: 1962
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,14 +27,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "constitutionalism"
+  - "individual-rights"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_line_not_printed"
+  - "issuer_not_printed"
+  - "edition_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In the rendered pages, the editorial describes the Bihar Swatantra Party's gains in the 1962 general elections and its emergence as the principal opposition party in the Bihar Vidhan Sabha. It attributes the party's improved performance to growing anti-Congress sentiment, Congress infighting, and the isolation of liberal-minded people within the Congress Party, while noting that the party's influence had extended beyond its earlier stronghold in Hazaribagh. The Congress lost seats, while the Jharkhand Party's strength also declined.
 ---
 
-Archive item 3835; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Bihar Swatantra Party gained strength and important seats in the 1962 general elections.
+- The editorial presents the party as Bihar's principal opposition party.
+- It links the Congress setback to inner-party factionalism and the exclusion of politically enlightened members.
+- The article criticizes the Raja Bahadur of Ramgarh for exercising personal authority over the Bihar unit's organisation.
+- The Swatantra Party's central bodies revoked that authority and dissolved an interim committee regarded as unrepresentative.
+- The editorial frames internal party democracy, member consent, and accountability to central constitutional procedures as essential to liberal politics.
+- It concludes that the party accepted short-term organisational costs in order to protect its long-term democratic interests.

@@ -1,22 +1,22 @@
 ---
 id: 2255-sc-directive-on-air-tv-autonomy-plea-indian-express-29-04-1987
 title:
-  main: "SC Directive On AIR TV Autonomy Plea-Indian Express"
+  main: "SC directive on AIR, TV autonomy plea"
   subtitle: ""
-work_type: press_note
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Express News Service"
+  place: "New Delhi"
   year: 1987
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +26,40 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "press-freedom"
+  - "civil-liberty"
+  - "free-speech"
+  - "constitutionalism"
+  - "individual-rights"
+missing_metadata_flags:
+  - "author_not_named"
+  - "publisher_not_explicitly_named"
+  - "publication_title_not_visible"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Express News Service report dated New Delhi, April 28, 1987, covers a Supreme Court petition seeking autonomy for All India Radio and Doordarshan. Journalist Romesh Thapar’s petition argues that radio and television, then treated as “attached offices” of the Information and Broadcasting Ministry, should be regarded as “State” entities under Article 12 and therefore subject to citizens’ Fundamental Rights. Counsel A. G. Noorani submits that the government’s control violates equality, liberty, and the constitutional right to information and argues that broadcasting frequencies are scarce public resources that must be used for public purposes rather than partisan ends.
+  
+  The report says a bench headed by Chief Justice R. S. Pathak, with Justice Ranganath Misra, issued notice and asked respondents to file replies by July 21. It records arguments that public broadcasting should be placed under an autonomous organisation, notes the Prasar Bharati Bill introduced in Parliament in 1979 and lapsed after the fall of the Janata Government, and describes a request for directions preventing further violations of Fundamental Rights. The article also refers to earlier committee recommendations and cases concerning electronic media, but the clipping does not report the Supreme Court’s final ruling.
 ---
 
-Archive item 2255; dated 1987-04-29; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Supreme Court issued notice on a petition seeking autonomy for All India Radio and Doordarshan.
+- The petition was moved by journalist Romesh Thapar and argued by counsel A. G. Noorani.
+- The petition challenges the treatment of radio and television as attached offices of the Information and Broadcasting Ministry.
+- The arguments invoke Article 12 and Fundamental Rights including equality, liberty, and the right to information.
+- The petition characterises radio frequencies as scarce public resources that should serve public rather than partisan purposes.
+- The report mentions the lapsed 1979 Prasar Bharati Bill and earlier committee recommendations for broadcasting autonomy.
+- The clipping reports the filing of replies by July 21 but does not show the case’s final disposition.

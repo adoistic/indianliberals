@@ -1,22 +1,22 @@
 ---
 id: 5170-letter-to-bahadur-c-b-taraporevals-30-11-1999
 title:
-  main: "Letter to Bahadur C B Taraporevals"
+  main: "[Letter to Bahadur C B Taraporevals]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1999
+  place: "Bombay"
+  year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Bahadur C B Taraporevals
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page personal letter, dated 30 November 1959, is from M. R. Masani in Bombay to Khan Bahadur C. B. Taraporevala in Hyderabad. Masani acknowledges a message conveyed by Mr. Venkata Subbaro offering him hospitality during his visit to Hyderabad from 8 to 10 December.
+  
+  Masani explains that he had already arranged accommodation at the Ritz before receiving the offer, while expressing appreciation for Taraporevala’s kindness. He nevertheless hopes that the recipient’s crowded programme of meetings will leave time for a visit and a conversation with Mrs. Taraporevala after many years.
 ---
 
-Archive item 5170; dated 1999-11-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 30 November 1959 and was sent from 148, Mahatma Gandhi Road, Bombay.
+- M. R. Masani plans to be in Hyderabad from 8 to 10 December.
+- Masani received Taraporevala’s offer of hospitality through Mr. Venkata Subbaro.
+- Masani had already reserved accommodation at the Ritz before receiving the offer.
+- The letter expresses gratitude for the offer despite Masani’s inability to accept it.
+- Masani hopes to visit Taraporevala and Mrs. Taraporevala if their schedule permits.

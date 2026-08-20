@@ -1,23 +1,21 @@
 ---
 id: 862-letter-to-mr-minoo-masani-22-07-1974
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "governance-reform"
+  - "party-politics"
+  - "socialism-debate"
+  - "anti-corruption"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_authority_match"
+  - "recipient_role_only"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated July 22, 1974, is written by Sree S. Ahuja of Bharati Sewak Saina to M. R. Masani and Madhu Mehta. It endorses a proposed initiative titled “FUTURE OF SWATANTRA,” described as a non-political, state-level social-service organisation intended to coordinate social, cultural, and educational work across India.
+  
+  The letter argues that such an institution is urgently needed amid public concern about price rises, corruption, smuggling, and political disorder. It praises Madhu Mehta’s non-political activities and presents him as a possible future leader who is “a MAN OF ACTION AND ALOOF FROM CONTROVERSY.” Ahuja asks the recipients to use their influence to secure acceptance of the proposal and promises the organisation’s cooperation.
 ---
 
-Archive item 862; dated 1974-07-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The letter is dated July 22, 1974, and is addressed to M. R. Masani and Madhu Mehta.
+- It supports a proposed initiative called “FUTURE OF SWATANTRA.”
+- The proposed organisation would be non-political and function at the state level.
+- Its stated purpose is to coordinate social, cultural, and educational organisations and workers across India.
+- The letter links the proposal to public concern about price rises, corruption, smuggling, and political disorder.
+- Madhu Mehta is praised for his non-political social work and reputation for avoiding controversy.
+- The signatory asks Masani and Mehta to help secure acceptance of the proposal by a majority.

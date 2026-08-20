@@ -1,7 +1,7 @@
 ---
 id: 5726-telex-message-from-s-v-raju-to-minoo-masani-02-04-1970
 title:
-  main: "Telex Message From S V Raju to Minoo Masani"
+  main: "[Telex Message From S V Raju to Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "place_not_found"
+  - "edition_not_found"
+  - "series_not_found"
+  - "recipient_not_catalogued_separately"
+  - "telegram_enum_conflict"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: S V Raju to Minoo Masani
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telex, sent by Raju to Mr. Masani on 2 April 1970, confirms agreement with a preceding telex from Cooper. It reports that a letter to Members of Legislative Assemblies and State Executive members in Gujarat will be prepared for dispatch by 8 April, as requested.
+  
+  Raju also states that he is meeting Dandekar to finalise a draft resolution. The message is an administrative communication concerning party coordination, correspondence, and the preparation of a resolution.
 ---
 
-Archive item 5726; dated 1970-04-02; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a telex from Raju to Mr. Masani dated 2 April 1970.
+- Raju confirms agreement with a previous telex from Cooper.
+- A letter to MLAs and State Executive members in Gujarat will be prepared for dispatch by 8 April.
+- Raju is meeting Dandekar to settle a draft resolution.
+- The communication concerns party coordination and organisational correspondence.

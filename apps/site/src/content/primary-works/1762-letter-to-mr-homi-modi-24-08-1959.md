@@ -1,7 +1,7 @@
 ---
 id: 1762-letter-to-mr-homi-modi-24-08-1959
 title:
-  main: "Letter to Mr Homi Modi"
+  main: "[Letter to Mr Homi Modi]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,10 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +24,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "recipient_not_authority_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Homi Modi
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page handwritten English letter from S. Y. Krishnaswamy to Homi Modi is dated “Bangalore 26th August,” although no year is written on the page. Krishnaswamy asks Modi to arrange a document or communication concerning J. D. Krishnaswamy for “Rajaji” (C. Rajagopalachari), and to pay Rajaji Rs. 10 in cash.
 ---
 
-Archive item 1762; dated 1959-08-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a personal letter written in English on S. Y. Krishnaswamy’s Madras letterhead.
+- It is addressed to Homi Modi and signed by S. Y. Krishnaswamy.
+- The handwritten dateline reads “Bangalore 26th August”; the year is not specified.
+- The letter refers to J. D. Krishnaswamy.
+- The recipient is asked to arrange something for Rajaji, identifiable as C. Rajagopalachari.
+- The letter includes an instruction to pay Rajaji Rs. 10 in cash.

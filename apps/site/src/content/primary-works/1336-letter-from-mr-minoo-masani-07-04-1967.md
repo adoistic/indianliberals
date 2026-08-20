@@ -1,7 +1,7 @@
 ---
 id: 1336-letter-from-mr-minoo-masani-07-04-1967
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "Nomination of Members to the General Assembly of the Indian Council of Cultural Relations."
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_publisher"
+  - "no_issuer"
+  - "no_reference_number"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated April 7, 1967, Minoo Masani writes to M. C. Chagla, Deputy Secretary of the Lok Sabha Secretariat, regarding nominations to the General Assembly of the Indian Council of Cultural Relations. Masani asks that the Hon. Speaker consider two nominees in order of preference for appointment: Mr. H. Ajmal Khan and Nawabzada Zulfiqar Ali Khan.
 ---
 
-Archive item 1336; dated 1967-04-07; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated April 7, 1967, and is addressed to M. C. Chagla in New Delhi.
+- Its subject is the nomination of members to the General Assembly of the Indian Council of Cultural Relations.
+- Masani refers to Chagla's letter dated April 3, 1967.
+- Masani recommends two nominees in a stated order of preference.
+- The first nominee is Mr. H. Ajmal Khan.
+- The second nominee is Nawabzada Zulfiqar Ali Khan.

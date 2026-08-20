@@ -1,22 +1,22 @@
 ---
 id: 5583-harvesting-led-to-swatantra-route-the-indian-express-02-05-1968
 title:
-  main: "Harvesting led to Swatantra route-The Indian Express"
+  main: "Harvesting led to Swatantra rout"
   subtitle: ""
-work_type: press_note
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "The Indian Express"
+  place: "Jaipur"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "agricultural-reform"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_not_resolved"
+  - "publisher_address_not_visible"
+  - "year_not_printed"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  The article, datelined Jaipur, May 1, attributes the Swatantra Party's poor showing in the anti-Congress Assembly by-elections to the timing of the harvest. It reports that cultivators were busy in the fields and therefore unable to campaign or vote, while Congress workers were active among voters. The article also notes that the Swatantra Party had fielded workers who were not sufficiently familiar with village conditions and had failed to organise effectively.
 ---
 
-Archive item 5583; dated 1968-05-02; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The article links the Swatantra Party's defeat in Jaipur district to the harvesting season.
+- Farmers were reportedly occupied in the fields and unable to participate fully in campaigning or voting.
+- Congress workers are described as having organised more effectively at the village level.
+- The Swatantra Party is criticised for selecting candidates and workers unfamiliar with local conditions.
+- The article cites polling figures showing Congress ahead in several contests, including one in which Congress secured about 25 per cent of the vote.
+- It argues that the result should prompt the Swatantra Party to examine its organisation and political position.

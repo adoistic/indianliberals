@@ -1,22 +1,21 @@
 ---
 id: 4432-letter-to-philip-mason-12-07-1989
 title:
-  main: "Letter to Philip Mason"
+  main: "[Letter to Philip Mason]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1989
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "place_not_stated"
+  - "recipient_not_author"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Philip Mason
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter from M. R. Masani to Philip Mason, dated July 12, 1989, acknowledges that the July issue of Freedom First carries an article about Mason on page 17. Masani says he is arranging for a copy of the issue to be sent to Mason by second-class air mail and expresses pleasure at the recognition Mason's work has received in India.
+  
+  A carbon-copy instruction at the bottom asks S. V. Raju, identified as editor of Freedom First in Bombay, to arrange the mailing. The page also contains handwritten annotations and a signature; no title, publisher, or further correspondence is present.
 ---
 
-Archive item 4432; dated 1989-07-12; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated July 12, 1989 and is signed by M. R. Masani.
+- Masani writes to Philip Mason about an article concerning Mason in the July issue of Freedom First.
+- The article appears on page 17 of that issue.
+- Masani arranges for Mason to receive a copy by second-class air mail.
+- The letter welcomes the recognition of Mason's work in India.
+- A carbon-copy instruction is addressed to S. V. Raju, editor of Freedom First in Bombay.

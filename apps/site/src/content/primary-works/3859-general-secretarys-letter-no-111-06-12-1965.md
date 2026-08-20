@@ -1,10 +1,12 @@
 ---
 id: 3859-general-secretarys-letter-no-111-06-12-1965
 title:
-  main: "General Secretarys Letter no-111"
+  main: "GENERAL SECRETARY'S LETTER NO.111"
   subtitle: ""
 work_type: letter
-authors: []
+work_type_source: filename
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
@@ -12,11 +14,12 @@ publication:
   language: en
   issuer_id: swatantra-party
   publisher_name: "Swatantra Party"
+  place: "Bombay 1"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +30,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "individual-rights"
+missing_metadata_flags:
+  - "no_publisher_address"
+  - "no_edition_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Party circular, dated December 6, 1965, announces that G. Latchanna, president of the party's Andhra Pradesh unit and a member of its National Executive, has been asked to advise on developing party work among Backward Classes and other under-privileged sections of society. The letter frames this work as part of an effort to intensify the party's activities among these groups.
 ---
 
-Archive item 3859; dated 1965-12-06; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is General Secretary's Letter No. 111 from the Swatantra Party Central Office.
+- It is dated December 6, 1965, and addressed generically to party members.
+- G. Latchanna is identified as president of the Andhra Pradesh unit and a member of the National Executive.
+- Latchanna has been asked to advise on party work among Backward Classes and other under-privileged sections of society.
+- Party members throughout India are requested to give Latchanna their fullest cooperation.
+- The circular specifically asks state and local units to support these activities.

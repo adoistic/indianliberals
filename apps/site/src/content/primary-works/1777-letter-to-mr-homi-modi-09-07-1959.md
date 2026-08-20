@@ -1,7 +1,7 @@
 ---
 id: 1777-letter-to-mr-homi-modi-09-07-1959
 title:
-  main: "Letter to Mr Homi Modi"
+  main: "[Letter to Mr Homi Modi]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY-42"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +26,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "economic-liberty"
+  - "capitalism-defence"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_edition"
+  - "no_series"
+  - "no_identifier"
+  - "no_formal_byline"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Homi Modi
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page handwritten letter, dated 9 July 1959 and written from Bombay, congratulates the recipient on reaching the age of 70 and reflects on his public and business career. The writer recalls efforts to establish Bombay's local time and standard time, describes the recipient's association with municipal and civic affairs, and praises his long partnership with Sir Shapurji Broacha from 1890 to 1920.
+  
+  The letter also turns to contemporary liberal politics. It welcomes the recipient's connection with the Swatantra Party and the Forum of Free Enterprise, arguing that Bombay remains insufficiently committed to free enterprise. The writer refers approvingly to A. D. Shroff and Minoo Masani and closes by expressing admiration for the recipient's service and wishing him continued health and longevity.
 ---
 
-Archive item 1777; dated 1959-07-09; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter congratulates its recipient on reaching the age of 70.
+- It recalls the recipient's role in efforts concerning Bombay time and standard time.
+- It praises a thirty-year business partnership with Sir Shapurji Broacha, spanning 1890 to 1920.
+- It refers to the recipient's civic and public service, including municipal and club-related work.
+- It welcomes the recipient's association with the Swatantra Party.
+- It advocates the Forum of Free Enterprise and criticizes Bombay's limited commitment to free enterprise.

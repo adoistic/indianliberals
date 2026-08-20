@@ -1,22 +1,22 @@
 ---
 id: 927-letter-to-s-gopalkrishnan-28-05-1974
 title:
-  main: "Letter to S GopalKrishnan"
+  main: "[Letter to S GopalKrishnan]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: S GopalKrishnan
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page letter dated May 28, 1974, M. R. Masani thanks S. Gopalakrishnan for sending him a copy of his letter to Piloo Mody dated April 25. Masani agrees with Gopalakrishnan’s position and says he will travel to Delhi for the Swatantra Party General Council meeting on June 9/10, where he hopes to help prevent what he calls an “unfortunate step.”
 ---
 
-Archive item 927; dated 1974-05-28; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The letter is dated May 28, 1974, and is written from Masani’s Bombay address.
+- Masani acknowledges receiving a copy of Gopalakrishnan’s April 25 letter to Piloo Mody.
+- He states that he agrees with the position expressed in Gopalakrishnan’s letter.
+- Masani plans to attend the Party’s General Council meeting in Delhi on June 9/10.
+- He hopes the meeting may take action to prevent an unspecified “unfortunate step.”
+- Masani encourages Gopalakrishnan and other southern colleagues to attend.

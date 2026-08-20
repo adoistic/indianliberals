@@ -1,22 +1,21 @@
 ---
 id: 4959-letter-to-g-t-daru-03-10-1975
 title:
-  main: "Letter to G T Daru"
+  main: "[Letter to G T Daru]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "parliamentary"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_edition"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: G T Daru
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 3 October 1975, M. R. Masani replies to C. T. Daru concerning a planned visit. Masani says he will arrive in Ahmedabad on an early-morning flight, stay overnight on Sunday the 12th with Mrs. Mona Chinubhai and her brother-in-law Soli Sorabjee, and return the following morning. He asks Daru to provide details of the day's programme, including when and where he will be needed.
+  
+  Masani also reports that he has prepared a rough draft of a petition to be presented to Parliament. Because Soli Sorabjee has been occupied, Masani has been unable to discuss the petition with him, but plans to send Daru a draft early the following week if Sorabjee has not yet reviewed it.
 ---
 
-Archive item 4959; dated 1975-10-03; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 3 October 1975 and is addressed to C. T. Daru.
+- Masani plans to arrive in Ahmedabad on flight IC 492 at 06:55 and return on flight IC 491 at 08:30.
+- He intends to stay overnight on Sunday the 12th with Mrs. Mona Chinubhai and Soli Sorabjee.
+- He asks Daru to outline the day's programme and specify when and where his presence will be required.
+- Masani has drafted a petition intended for presentation to Parliament.
+- He has not yet been able to consult Soli Sorabjee because Sorabjee has been extremely busy.
+- Masani expects to send Daru the draft early the following week if Sorabjee has not reviewed it.

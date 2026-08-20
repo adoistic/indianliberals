@@ -1,23 +1,21 @@
 ---
 id: 2681-letter-to-mr-minoo-masani-01-02-1968
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BHUBANESWAR"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,27 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "no_issuer_statement"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page official letter, dated 1 February 1968, is from R. N. Singh Deo, Chief Minister of Orissa State, to M. R. Masani. Singh Deo thanks Masani for his letter, conveyed through Sundarmani Patel, and confirms that Masani’s proposed visit to Bhubaneswar on 24 and 25 February would be suitable.
 ---
 
-Archive item 2681; dated 1968-02-01; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 1 February 1968 and was sent from Bhubaneswar.
+- R. N. Singh Deo is identified on the letterhead as Chief Minister of Orissa State.
+- The recipient is Sri M. R. Masani, M.P., at an address on Mahatma Gandhi Road, Bombay-1.
+- Singh Deo acknowledges a letter from Masani that was sent through Sundarmani Patel.
+- The proposed visit to Bhubaneswar on 24 and 25 February is confirmed as suitable.

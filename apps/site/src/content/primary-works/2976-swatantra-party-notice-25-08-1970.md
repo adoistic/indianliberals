@@ -1,9 +1,9 @@
 ---
 id: 2976-swatantra-party-notice-25-08-1970
 title:
-  main: "Swatantra Party Notice"
+  main: "[Swatantra Party Notice]"
   subtitle: ""
-work_type: circular
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY PARLIAMENTARY OFFICE"
+  place: "New Delhi"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +28,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "subtitle_not_printed"
+  - "no_publisher_address"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office notice, dated August 25, 1970, was issued by the Swatantra Party Parliamentary Office in New Delhi under the heading “WHIP.” Addressed to all Swatantra Party members of the Lok Sabha, it instructs them to attend the House and vote against the Privy Purses Bill, scheduled for discussion on September 1 and 2, 1970.
+  
+  The notice stresses that the vote will be crucial and requires every party member to be present and participate, with “No absentees please at any cost!” Members are also asked to confirm their arrival in Delhi. The document is signed by K. B. Singh Deo in his capacity as Chief Whip.
 ---
 
-Archive item 2976; dated 1970-08-25; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a Swatantra Party Parliamentary Office whip dated August 25, 1970.
+- It is addressed to all Swatantra Party members of the Lok Sabha.
+- Members are instructed to vote against the Privy Purses Bill.
+- The bill was scheduled for discussion in the Lok Sabha on September 1 and 2, 1970.
+- The notice characterizes the vote as crucial and demands full attendance and participation.
+- Members are asked to confirm their arrival in Delhi.
+- K. B. Singh Deo is identified as Chief Whip and signs the notice.

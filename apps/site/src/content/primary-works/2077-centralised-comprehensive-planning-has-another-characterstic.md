@@ -1,21 +1,19 @@
 ---
 id: 2077-centralised-comprehensive-planning-has-another-characterstic
 title:
-  main: "Centralised Comprehensive Planning has Another Characterstic"
+  main: "When Again, CENTRALISED COMPREHENSIVE PLANNING HAS ANOTHER CHARACTERSTIC."
   subtitle: ""
-work_type: letter
+work_type: pamphlet
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -25,15 +23,38 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "planning-critique"
+  - "public-sector-critique"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_not_printed"
+  - "year_not_printed"
+  - "place_not_printed"
+  - "no_toc"
+  - "title_typographical_error_possible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  The illustrated sheet presents centralised comprehensive planning as an approach in which investments are based on previously established physical targets rather than on available financial resources. It argues that this method generates pressure to mobilise funds through taxation and public borrowing, rather than allowing investment decisions to respond to financial constraints.
+  
+  The page identifies four sources from which the Government of India obtains planning resources: taxes, public borrowings, deficit financing, and foreign aid, although only the first two are detailed in the visible portion. The taxation section distinguishes direct taxes, such as income tax on companies and individuals, from indirect taxes, including excise duties on kerosene, sugar, and cloth, sales taxes on articles of daily use, and electricity duty. The public-borrowings section identifies small savings and government loans as sources of funds.
 ---
 
-Archive item 2077; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Centralised comprehensive planning sets physical investment targets before relating them to available financial resources.
+- The sheet presents this investment method as creating a need to mobilise funds through taxation and public borrowing.
+- It states that the Government of India draws planning resources from four sources.
+- Direct taxation includes income tax on companies and individuals.
+- Indirect taxation includes excise duty, sales tax, and electricity duty.
+- Public borrowings are represented through small savings and government loans.

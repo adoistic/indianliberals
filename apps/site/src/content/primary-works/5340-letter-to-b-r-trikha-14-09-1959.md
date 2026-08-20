@@ -1,7 +1,7 @@
 ---
 id: 5340-letter-to-b-r-trikha-14-09-1959
 title:
-  main: "Letter to B R Trikha"
+  main: "[Letter to B R Trikha]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1959
+  place: "MEERUT"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: B R Trikha
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office letter is an acknowledgment addressed to Mr. B.R. Trikha of the District Courts, Meerut. Miss B.S. Mirza, identified as secretary to M.R. Masani, explains that Masani is currently outside India and expected to return around 6 October. She states that Trikha's letter of the 12th will be placed before Masani upon his arrival.
+  
+  The document is a brief administrative reply rather than an argumentative or political text. The date at the upper right is visibly incomplete or indistinct, appearing to begin with “14th”; no reliable year is printed on the page. The letter is signed by hand above the typed name of Miss B.S. Mirza.
 ---
 
-Archive item 5340; dated 1959-09-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is addressed to Mr. B.R. Trikha at the District Courts, Meerut.
+- It refers to Trikha's letter of the 12th concerning M.R. Masani.
+- M.R. Masani is reported to be outside India at the time of writing.
+- Masani is expected to return around 6 October.
+- Miss B.S. Mirza says she will place Trikha's letter before Masani after his return.
+- The document is a single typed office letter with a handwritten signature.

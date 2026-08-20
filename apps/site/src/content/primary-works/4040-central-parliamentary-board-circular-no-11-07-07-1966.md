@@ -1,22 +1,25 @@
 ---
 id: 4040-central-parliamentary-board-circular-no-11-07-07-1966
 title:
-  main: "Central Parliamentary Board Circular No-11"
+  main: "CENTRAL PARLIAMENTARY BOARD CIRCULAR No. 11"
   subtitle: ""
 work_type: circular
-authors: []
+work_type_source: filename
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party\nCENTRAL OFFICE"
+  place: "Bombay"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +30,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "no_formal_publisher_imprint"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Party circular, dated 7 July 1966, convenes the Central Parliamentary Board in Madras for meetings on 22–23 July. Signed by General Secretary M. R. Masani, it sets out an agenda covering confirmation of previous minutes, processing prospective parliamentary and assembly candidates, parliamentary business, preparations for the forthcoming general elections, and coordination with other Opposition parties on electoral adjustments.
+  
+  The circular also records a planned report on a discussion with the Prime Minister by Prof. Ranga and Mr. Masani, including a note on the devaluation submitted to the Prime Minister. A postscript asks members needing hotel, rail, or air reservations to contact Krishnamurthy Rao in Madras and to send copies of their requests to Bombay.
 ---
 
-Archive item 4040; dated 1966-07-07; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Central Parliamentary Board is scheduled to meet in Rajaji's room at Kalki Buildings, Madras, on 22–23 July 1966.
+- The agenda includes confirmation of minutes from the Board's previous Bombay meeting.
+- The Board will consider recommendations for prospective Parliamentary and Assembly candidates.
+- The circular lists parliamentary business beginning on 25 July 1966.
+- The General Secretary will report on preparations for general elections in various states.
+- The Board will review discussions with other Opposition parties concerning electoral adjustments.
+- A report is expected on a discussion with the Prime Minister concerning devaluation.

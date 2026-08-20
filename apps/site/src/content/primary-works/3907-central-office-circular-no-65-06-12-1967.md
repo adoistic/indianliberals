@@ -1,9 +1,10 @@
 ---
 id: 3907-central-office-circular-no-65-06-12-1967
 title:
-  main: "Central Office Circular no-65"
+  main: "Central Office Circular No. 85"
   subtitle: ""
 work_type: circular
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party\nCENTRAL OFFICE"
+  place: "Bombay"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +29,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_explicit_publisher_imprint"
+  - "no_edition_statement"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Party Central Office circular, dated December 5, 1967, asks party members to comment on the alleged misuse of the party’s star symbol. It reproduces a General Council member’s concern that the symbol should be reserved for party members and that the Jan Sangh had recently used it to attract votes in municipal elections, raising a similar concern for forthcoming Panchayat elections.
+  
+  Signed by Executive Secretary S. V. Raju, the circular seeks responses on three points: whether misuse of the star symbol is occurring, whether it is widespread, and what remedies could prevent further misuse. The document frames party-symbol control as an electoral and organisational-governance issue, but does not itself propose a remedy.
 ---
 
-Archive item 3907; dated 1967-12-06; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The circular was issued by the Swatantra Party Central Office on December 5, 1967.
+- It responds to a General Council member’s note about alleged misuse of the party’s star symbol.
+- The note claims that the Jan Sangh used the star to attract votes in municipal elections.
+- The circular asks whether misuse exists and whether it is widespread.
+- It requests suggestions for preventing possible misuse at Panchayat elections.
+- The document is signed by S. V. Raju, Executive Secretary.

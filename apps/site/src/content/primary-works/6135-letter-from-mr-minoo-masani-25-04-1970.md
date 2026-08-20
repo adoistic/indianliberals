@@ -1,23 +1,21 @@
 ---
 id: 6135-letter-from-mr-minoo-masani-25-04-1970
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
-work_type: letter
-authors:
-  - minoo-masani
+work_type: telegram
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "sender_not_named"
+  - "recipient_role_only"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram, dated April 25, 1970, is addressed to Mr. M. R. Masani at Swatantra Party headquarters in Bombay. It is issued on the letterhead of the Ministry for Industries and Public Relations and communicates an apology concerning the postponement of a visit.
 ---
 
-Archive item 6135; dated 1970-04-25; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a typed government telegram dated April 25, 1970.
+- It is addressed to Mr. M. R. Masani at Swatantra Party headquarters.
+- The sender says they have just seen Masani's telegram.
+- The sender expresses shock and says a decision has been made to postpone a visit.
+- The recipient is asked to inform all concerned and convey the sender's apologies.

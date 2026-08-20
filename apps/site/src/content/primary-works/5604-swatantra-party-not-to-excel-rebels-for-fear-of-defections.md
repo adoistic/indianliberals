@@ -1,21 +1,19 @@
 ---
 id: 5604-swatantra-party-not-to-excel-rebels-for-fear-of-defections
 title:
-  main: "Swatantra party not to excel rebels for fear of defections"
+  main: "SWATANTRA PARTY NOT TO EXPEL REBELS FOR FEAR OF DEFECTIONS"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +24,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "no_author_byline"
+  - "no_publisher"
+  - "year_not_printed"
+  - "place_not_printed"
+  - "source_publication_not_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English newspaper clipping reports that the Swatantra Party is not expected to expel rebels in its Gujarat unit, despite their having voted against the party’s official candidate in the Rajya Sabha by-election. The report attributes the position to concern that disciplinary action could prompt defections and weaken the party.
 ---
 
-Archive item 5604; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Swatantra Party is reportedly reluctant to expel rebels in its Gujarat unit.
+- The rebels voted against the party’s official candidate in a Rajya Sabha by-election.
+- Party leaders are described as fearing that expulsions could lead to defections.
+- The report discusses possible disciplinary action against M. R. Masani and other members.
+- N. Dandekar is reported to have argued for differentiated treatment rather than automatic expulsion.
+- The article refers to disagreement within the party over whether rebels should be punished.

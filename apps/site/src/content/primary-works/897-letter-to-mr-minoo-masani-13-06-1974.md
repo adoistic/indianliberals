@@ -1,23 +1,21 @@
 ---
 id: 897-letter-to-mr-minoo-masani-13-06-1974
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Poona City"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -28,14 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_publication_edition"
+  - "recipient_not_encoded"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this handwritten letter dated 13 June 1974, Sumantilal Daptalal Shah writes to M. R. Masani after attending the Swatantra Party's General Council meeting in Delhi. Shah reports that he presented his views forcefully and that senior council members, including C. R. Narasimbhan, Maharana Lakshman Singhji, H. M. Patel, and D. N. Patodia, appreciated his intervention. He also says that Masani's circulated letter to Piloo Mody had a strong effect on the meeting, particularly by putting Masani's views on the proposed dissolution of the party before its members.
+  
+  The letter expresses hope that the proposal to form a common-programme front for joint action will prevail, while the partially visible continuation indicates Shah's concern that the party should not be dissolved hastily. The final page is a later typed receipt and filing note concerning a separate Masani letter dated 1 July 1974, received on 3 July 1974.
 ---
 
-Archive item 897; dated 1974-06-13; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- Shah attended the Swatantra Party General Council meeting in Delhi and presented his views before the meeting.
+- He characterizes his speech as forceful and says several senior members appreciated what he said.
+- The letter identifies C. R. Narasimbhan, Maharana Lakshman Singhji, H. M. Patel, and D. N. Patodia among those who responded positively.
+- Masani's letter to Piloo Mody was circulated to council members and influenced discussion of the party's proposed dissolution.
+- Shah supports forming a front based on a common programme for joint action.
+- The document includes a later filing note recording receipt of a separate Masani letter on 3 July 1974.

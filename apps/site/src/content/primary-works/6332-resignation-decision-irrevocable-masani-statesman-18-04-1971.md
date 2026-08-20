@@ -1,22 +1,22 @@
 ---
 id: 6332-resignation-decision-irrevocable-masani-statesman-18-04-1971
 title:
-  main: "Resignation Decision Irrevocable-Masani-Statesman"
+  main: "Resignation Decision Irrevocable: Masani"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Statesman"
+  place: "Bombay"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_not_resolved"
+  - "publisher_address_not_visible"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Statesman clipping, dated 18 April 1971, reports on Minoo Masani’s resignation as chairman of the Swatantra Party. The party’s general council discussed the resignation and unanimously urged him to reconsider, but Masani reportedly maintained that his decision was irrevocable. The report also describes a review of the party’s recent electoral performance, including pessimistic and optimistic assessments of its future.
+  
+  The article says Masani’s report addressed the circumstances of his resignation and related questions concerning the party’s organisation and leadership. It also records objections to proposals for adjustment or merger involving the party, while noting that some members wanted the leadership to negotiate possible arrangements. No personal author is printed; the article is attributed only to “From Our Special Representative.”
 ---
 
-Archive item 6332; dated 1971-04-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- Minoo Masani’s resignation as Swatantra Party chairman is reported as irrevocable.
+- The party’s general council unanimously asked Masani to reconsider his decision.
+- Masani reportedly declined attempts to persuade him to remain in office.
+- The council reviewed the Swatantra Party’s recent election results and future prospects.
+- The report presents both pessimistic and optimistic views of the party’s electoral reverses and organisational future.
+- The article discusses proposals for political adjustment or merger and resistance to those proposals.

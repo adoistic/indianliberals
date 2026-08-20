@@ -1,23 +1,21 @@
 ---
 id: 2708-letter-to-mr-minoo-masani-10-05-1967
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BHUBANESWAR"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "issuer_not_stated"
+  - "recipient_not_resolved"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page official letter, dated 10 May 1967 and written from Bhubaneswar, records Orissa Chief Minister R. N. Singh Deo's proposal to appoint C. H. Bhabha as chairman of an Evaluation Committee for the state's projects. Singh Deo asks M. R. Masani to ascertain Bhabha's willingness to serve and the terms and conditions he would expect.
 ---
 
-Archive item 2708; dated 1967-05-10; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is addressed to M. R. Masani and dated 10 May 1967.
+- Singh Deo refers to an earlier discussion about appointing an Evaluation Committee.
+- The committee would evaluate projects in Orissa State.
+- C. H. Bhabha is proposed as chairman.
+- Bhabha is identified as Vice Chairman of the Central Bank of India and a former Union Minister of Commerce.
+- Masani is asked to determine Bhabha's willingness and expected terms and conditions.

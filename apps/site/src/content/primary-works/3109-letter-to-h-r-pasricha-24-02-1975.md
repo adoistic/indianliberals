@@ -1,22 +1,22 @@
 ---
 id: 3109-letter-to-h-r-pasricha-24-02-1975
 title:
-  main: "Letter to H R Pasricha"
+  main: "[Letter to H R Pasricha]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "recipient_not_authority_resolved"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: H R Pasricha
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 24 February 1975, records S. V. Raju’s follow-up to Dr. H. R. Pasricha after a meeting in Delhi. Raju asks for a copy of the minutes of the National Executive meeting held in Bombay the previous month, noting that the minutes still need confirmation and promising to return them after making a copy.
+  
+  The letter’s second subject is a planned demonstration before Parliament on 6 March under the leadership of Jayaprakash Narayan. Raju asks Pasricha to arrange approximately 20–25 volunteers from outside Delhi to join the demonstration, presenting their participation as a symbolic expression of support for Narayan’s movement. The page also contains handwritten editorial or drafting annotations, some of which are difficult to decipher.
 ---
 
-Archive item 3109; dated 1975-02-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Raju writes to H. R. Pasricha on 24 February 1975 after meeting him in Delhi.
+- He requests the minutes of the previous month’s National Executive meeting in Bombay.
+- He says the minutes need to be confirmed and offers to return the copy after consulting it.
+- He refers to a demonstration before Parliament scheduled for 6 March.
+- The demonstration is described as being under Jayaprakash Narayan’s leadership.
+- Raju asks Pasricha to arrange approximately 20–25 volunteers from outside Delhi.
+- He characterizes the requested participation as symbolic support for Narayan’s movement.

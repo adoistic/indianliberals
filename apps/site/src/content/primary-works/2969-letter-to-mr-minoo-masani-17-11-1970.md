@@ -1,23 +1,21 @@
 ---
 id: 2969-letter-to-mr-minoo-masani-17-11-1970
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Shillong"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "federalism"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_not_authority_resolved"
+  - "no_publication_imprint"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page official letter, dated 17 November 1970 from Shillong, is written by Williamson A. Sangma in his capacity as Chief Minister of Meghalaya to Minoo Masani. Sangma thanks Masani for his sympathy with Meghalaya's demand to become a full-fledged state and expresses confidence in Masani's support for legislation implementing that decision.
 ---
 
-Archive item 2969; dated 1970-11-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 17 November 1970 and issued from Shillong on the Chief Minister of Meghalaya's letterhead.
+- Williamson A. Sangma writes to Minoo Masani.
+- Sangma thanks Masani for his sympathy toward Meghalaya's demand for full statehood.
+- The letter refers to proposed legislation giving effect to Meghalaya's elevation to full state status.
+- Sangma frames Meghalaya's future as one of equal partnership with the other states of the Union.
+- The letter uses courteous personal correspondence to express support for a federal reorganisation decision.

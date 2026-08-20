@@ -1,21 +1,21 @@
 ---
 id: 178-business-vs-bureaucracy-by-mr-masani
 title:
-  main: "Business Vs Bureaucracy By Mr Masani"
+  main: "BUSINESS VS BUREAUCRACY"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: essay
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 6
   pages_total_source: pypdfium2
@@ -26,14 +26,43 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "economic-liberty"
+  - "regulatory-state-critique"
+  - "public-sector-critique"
+  - "socialism-debate"
+  - "capitalism-defence"
+  - "planning-critique"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "no_publisher"
+  - "no_place"
+  - "no_edition"
+  - "no_series"
+  - "no_identifiers"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In the rendered pages, M. R. Masani presents business-government relations as a central problem for India's economic progress. He argues that the post-independence state has often approached business through suspicion, envy, and an appetite for expanding its economic role rather than through social justice alone. The essay traces this attitude partly to the historical antagonism between colonial government and Indian industry, while also criticising business for excessive caution, private grumbling, opportunism, and an inadequate willingness to defend its principles publicly.
+  
+  In the rendered pages, Masani proposes coexistence rather than a simple choice between state and market. He assigns professional management three responsibilities: improving communication across the public and private sectors, accepting business's social obligations, and participating actively in citizenship and public life. He advocates a division of labour in which government sets broad rules and business operates within them, and supports professional mobility between state enterprises and private firms. The essay concludes by pointing to American corporate political education as a possible model, while urging Indian managers to show greater civic courage. The final rendered page is an unrelated illustrated page and is not part of the essay.
 ---
 
-Archive item 178; 6 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani identifies mutual misunderstanding between government and business as a serious obstacle to India's economic progress.
+- He attributes governmental hostility partly to historical antagonism toward Indian industry and partly to an instinct of envy and state aggrandisement.
+- He criticises business for accepting socialist assumptions, pursuing licences and permits, and failing to stand consistently for free enterprise.
+- He argues that professional management can improve relations through cross-sectoral movement and the exchange of ideas and techniques.
+- He presents social responsibility and active citizenship as essential obligations of management.
+- He recommends a division of labour in which government makes rules and business undertakes productive activity without excessive detailed control.
+- He suggests that business should learn from American corporate efforts to train executives in political participation.

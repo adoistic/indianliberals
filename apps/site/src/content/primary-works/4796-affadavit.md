@@ -1,9 +1,9 @@
 ---
 id: 4796-affadavit
 title:
-  main: "Affadavit"
+  main: "[Affadavit]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -11,11 +11,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
+  year: 1996
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -25,15 +26,38 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "constitutionalism"
+  - "electoral-reform"
+  - "governance-reform"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_standard_identifier"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This three-page English affidavit, dated 18 January 1996, was filed in the High Court of Judicature at Bombay in support of Swatantra Party's Writ Petition No. 14 of 1995 and a related Notice of Motion. Laxmidas R. Sampat identifies himself as the petitioner's General Secretary and states that the motion sought an expedited hearing of the writ petition.
 ---
 
-Archive item 4796; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document concerns Swatantra Party and another petitioner versus the Union of India and other respondents.
+- It is an affidavit supporting a Notice of Motion in Writ Petition No. 14 of 1995.
+- The petitioners sought an expedited hearing in advance of the forthcoming general elections to Parliament.
+- The affidavit states that the notice and supporting papers had been served on the relevant respondents.
+- It records that respondents 2 and 3 received the Rule NISI and petition on 18 December 1995.
+- The affirmant argues that the respondents had waived service and that the Notice of Motion was ready for hearing.

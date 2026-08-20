@@ -1,9 +1,10 @@
 ---
 id: 5016-swatantra-party-minutes-of-meeting-23-02-1965
 title:
-  main: "Swatantra Party Minutes of Meeting"
+  main: "Minutes of the Meeting"
   subtitle: ""
 work_type: minutes
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY PARLIAMENTARY OFFICE"
+  place: "New Delhi-1"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +28,36 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_human_author"
+  - "no_edition_statement"
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English-language office record, dated 23 February 1965, records a meeting of the Swatantra Party Executive Committee held in the Party Committee Room at Parliament House. It lists nine attendees, including N. G. Ranga, M. R. Masani, Maharani Gayatri Devi, Kapur Singh, C. L. Narasimha Reddy, P. N. Solanki, N. Dandekar, Loknath Misra, and Krishnapal Singh.
+  
+  The committee decided to issue a whip requesting members to attend the House for voting on amendments to the President’s Address. It assigned speakers for the Income-Tax (Amendment) Bill, Armed Forces Continuance Bill, Railway Budget, General Budget, Supplementary Demands for Grants, and several private members’ resolutions, including resolutions on the abolition of the contract labour system and “The Situation in Viet Nam.” A sub-committee was also asked to recommend speakers for ministry-wise demands for grants and related cut motions.
 ---
 
-Archive item 5016; dated 1965-02-23; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Executive Committee met on 23 February 1965 in the Swatantra Party Committee Room at Parliament House.
+- Nine members are recorded as present, with Prof. N. G. Ranga in the chair.
+- The committee approved issuing a whip concerning attendance and voting on amendments to the President’s Address.
+- N. Dandekar and M. R. Masani were nominated to speak on the Income-Tax (Amendment) Bill and Armed Forces Continuance Bill respectively.
+- Members were assigned speaking roles for the Railway Budget, General Budget, and Supplementary Demands for Grants.
+- The record assigns speakers to private members’ resolutions concerning contract labour and the situation in Vietnam.
+- A three-member sub-committee was asked to recommend speakers for ministry-wise demands for grants and associated cut motions.

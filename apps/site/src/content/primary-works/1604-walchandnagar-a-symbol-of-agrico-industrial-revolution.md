@@ -1,9 +1,10 @@
 ---
 id: 1604-walchandnagar-a-symbol-of-agrico-industrial-revolution
 title:
-  main: "Walchandnagar a Symbol of Agrico-Industrial Revolution"
+  main: "SWATANTRA PARTY SOUVENIR 1961"
   subtitle: ""
-work_type: letter
+work_type: edited_volume
+purpose: proceedings
 authors: []
 editors: []
 contributors: []
@@ -11,11 +12,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "published by M. R. MASANI, General Secretary, for the Swatantra Party, 143, Mahatma Gandhi Road, Bombay 1."
+  place: "Bombay"
+  year: 1961
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 207
   pages_total_source: pypdfium2
@@ -26,14 +29,24 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "economic-liberty"
+  - "indian-liberal-history"
+missing_metadata_flags:
+  - "no_toc_visible"
+  - "editor_not_named"
+  - "no_edition_statement"
+  - "no_isbn"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 1604; 207 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+Archive item 1604. Scanned document from the Swatantra Party papers.

@@ -1,7 +1,7 @@
 ---
 id: 6169-letter-from-s-v-raju-18-03-1970
 title:
-  main: "Letter from S V Raju"
+  main: "[Letter from S V Raju]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "cold-war-positioning"
+  - "party-politics"
+  - "marxism-debate"
+  - "socialism-debate"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place"
+  - "no_recipient_metadata"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated March 18, 1970, S. V. Raju writes to Dr. Minoo Masani about a seminar on Lenin being held to mark Lenin’s birth centenary. The event is described as sponsored by the Indian Council of World Affairs, although Raju states that the organisation had not itself organised the seminar and had only received a contribution from the Gandhi Peace Foundation.
+  
+  Raju further alleges that the seminar is being held on the initiative of the Soviet Embassy, which is financing it, and notes the presence of four Russian participants alongside predominantly Communist Indian participants. He presents the event as part of what he characterises as a systematic Communist effort to take over opinion-making bodies, concluding that the ICWA seminar is therefore politically significant.
 ---
 
-Archive item 6169; dated 1970-03-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter concerns a seminar on Lenin held during Lenin’s birth-centenary year.
+- The seminar is described as sponsored by the Indian Council of World Affairs.
+- Raju states that the ICWA did not organise the seminar but received a contribution from the Gandhi Peace Foundation.
+- He alleges that the Soviet Embassy initiated and financed the seminar.
+- He reports four Russian participants and says that almost all Indian participants are Communists.
+- He interprets the seminar as evidence of a broader Communist attempt to influence opinion-making bodies.

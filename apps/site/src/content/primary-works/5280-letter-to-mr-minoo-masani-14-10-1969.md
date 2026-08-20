@@ -1,23 +1,21 @@
 ---
 id: 5280-letter-to-mr-minoo-masani-14-10-1969
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1969
+  place: "Shillong, Assam"
+  year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +26,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "socialism-debate"
+  - "education"
+  - "foreign-policy"
+  - "cold-war-positioning"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "recipient_not_catalogued_separately"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page letter, dated 14 October 1959 from Shillong, describes the formation of an ad hoc committee for the Swatantra Party in Shillong. J. S. Narayan explains that he has accepted the committee chairmanship temporarily, having been drawn out of retirement by T. S. Krishnamoorthy. He presents himself and his wife as committed to the party's principles and recounts his anti-Communist activity since 1947, including letters to Indian leaders and church authorities warning of the dangers of Communism.
+  
+  Narayan asks Minoo Masani for help developing political literature for Assam. He says the party's 21 Principles, written in difficult English, should be supplemented by shorter and simpler material for free distribution, initially translated into Khasi and later into other languages of Assam. The letter stresses the strategic importance of winning support in Assam, which Narayan describes as being on the border of Communist China, and calls for propaganda, leadership, encouragement, and plentiful literature.
 ---
 
-Archive item 5280; dated 1969-10-14; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- An ad hoc committee has been formed to organise the Swatantra Party in Shillong, with J. S. Narayan serving as its temporary chairman.
+- Narayan and his wife, a member of the Khasi tribal community, express strong support for the party's principles.
+- Narayan recounts anti-Communist activities dating from 1947, including correspondence with Indian leaders and church representatives.
+- The committee lacks literature and funds and seeks assistance from party leaders.
+- The party's 21 Principles are considered too difficult in their existing English form for broad public distribution.
+- The letter proposes translations into Khasi and subsequently into other languages of Assam.
+- Assam's location near Communist China is presented as making political organisation and public education especially urgent.

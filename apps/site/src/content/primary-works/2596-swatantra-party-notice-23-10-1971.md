@@ -1,9 +1,9 @@
 ---
 id: 2596-swatantra-party-notice-23-10-1971
 title:
-  main: "Swatantra Party Notice"
+  main: "[Swatantra Party Notice]"
   subtitle: ""
-work_type: circular
+work_type: pamphlet
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY (Bombay Region)"
+  place: "Bombay"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +28,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_address"
+  - "office_record_type_not_represented_in_strict_work_type_enum"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English office notice, issued by the Swatantra Party (Bombay Region) on 23 October 1971, announces a special meeting of the regional Executive Committee. The meeting was scheduled for Friday, 29 October 1971, at 6:15 p.m. at the Party's office at 113 Mahatma Gandhi Road, Fort, Bombay 1.
 ---
 
-Archive item 2596; dated 1971-10-23; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The notice concerns a special meeting of the Swatantra Party's Bombay Region Executive Committee.
+- The meeting was called to consider a draft Election Manifesto for the ensuing Assembly Elections.
+- The draft manifesto was being prepared by a sub-committee appointed at a Regional Committee meeting held on 22 October 1971.
+- K. H. Subramanian was listed as the sub-committee's convenor.
+- Other listed sub-committee members were R. V. Murthy, Maurice Jahet, P. I. Shah, J. Venkiteswaran, Dhiraj Shah, and B. H. Ginwalla.
+- P. Narayan signed the notice as Office Secretary.

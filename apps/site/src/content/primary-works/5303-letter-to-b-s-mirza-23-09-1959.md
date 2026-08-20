@@ -1,7 +1,7 @@
 ---
 id: 5303-letter-to-b-s-mirza-23-09-1959
 title:
-  main: "Letter to B S Mirza"
+  main: "[Letter to B S Mirza]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Delhi"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "recipient_not_structured"
+  - "letterhead_or_sender_identity_partially_unclear"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: B S Mirza
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page handwritten letter, dated 23 September 1959 from Delhi, is signed by S. L. Pareek and addressed to Miss Mirza. Pareek thanks her for a letter received the previous day and acknowledges the accompanying enclosures, which he says he will review over the next few days.
+  
+  The letter states that Pareek intends to prepare a note about the Swatantra Party after meeting Mr. Minoo Masani in Delhi. He plans to discuss the matter with Masani and obtain his further thinking, indicating an immediate preparatory and consultative purpose rather than a completed political statement. The reverse of the second page bears the recipient and postal details, though parts of the address are difficult to read.
 ---
 
-Archive item 5303; dated 1959-09-23; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 23 September 1959 and was sent from Delhi.
+- S. L. Pareek thanks Miss Mirza for a letter sent the previous day.
+- Pareek acknowledges receiving additional enclosures.
+- He plans to review the materials over the next few days.
+- He intends to prepare a note about the Swatantra Party.
+- He expects to consult Minoo Masani when Masani is in Delhi.

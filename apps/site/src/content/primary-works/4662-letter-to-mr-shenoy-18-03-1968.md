@@ -1,7 +1,7 @@
 ---
 id: 4662-letter-to-mr-shenoy-18-03-1968
 title:
-  main: "Letter to Mr Shenoy"
+  main: "[Letter to Mr Shenoy]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "AHMEDABAD"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_full_name"
+  - "work_type_taxonomy_lacks_telegram"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Shenoy
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telegram confirmation copy, dated 18 March 1968 and sent from Ahmedabad, records Masani thanking Professor Shenoy for withdrawing his nomination as state president at the direction of H. M. Patel. Masani also asks Dandeker to withdraw, referring to an assurance made in Dandeker's telegram.
 ---
 
-Archive item 4662; dated 1968-03-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is marked “EXP” and is formatted as a clipped-wording telegram rather than a conventional letter.
+- Masani addresses Professor Shenoy and thanks him for withdrawing his nomination.
+- The withdrawal is described as being directed by H. M. Patel.
+- Masani asks Dandeker to withdraw as well, citing an assurance in Dandeker’s telegram.
+- The document is dated 18.3.68 and signed “MASANI.”

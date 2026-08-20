@@ -1,7 +1,7 @@
 ---
 id: 763-letter-to-raja-11-04-1975
 title:
-  main: "Letter to Raja"
+  main: "[Letter to Raja]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party\nNational Headquarters\nGeneral Secretary's office"
+  place: "Bombay"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +28,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_address"
+  - "publisher_year_not_explicit_as_publication_year"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Raja
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office letter, dated 11 April 1975, is written on the Swatantra Party's National Headquarters letterhead by its General Secretary, Girish Rushi, to Shri S. V. Raju. Rushi informs Raju that he has been nominated Joint Secretary of the All-India Swatantra Party at a meeting of the National Executive held in Madras on 6–7 April 1975.
 ---
 
-Archive item 763; dated 1975-04-11; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The document is a formal appointment letter from the Swatantra Party's General Secretary.
+- It is dated 11 April 1975 and addressed to Shri S. V. Raju.
+- Raju is informed of his nomination as Joint Secretary of the All-India Swatantra Party.
+- The nomination was made at a National Executive meeting held in Madras on 6–7 April 1975.
+- The letter uses a cordial but official tone and closes with congratulations and a signature from Girish Rushi.

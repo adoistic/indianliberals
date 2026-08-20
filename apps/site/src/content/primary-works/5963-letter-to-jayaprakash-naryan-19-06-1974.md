@@ -1,22 +1,21 @@
 ---
 id: 5963-letter-to-jayaprakash-naryan-19-06-1974
 title:
-  main: "Letter to Jayaprakash Naryan"
+  main: "[Letter to Jayaprakash Naryan]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Jayaprakash Naryan
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This confidential letter from Minoo Masani to Jayaprakash Narayan, dated June 19, 1974, concerns the secure hand delivery of a packet and the need to avoid identifying the friends who helped deliver it. Masani explains that the Telegraph Office's poor efficiency has made life difficult, but says the letter should reach Narayan safely by hand on June 20. He asks Narayan to acknowledge receipt and emphasizes that only the two of them should know the helpers' names.
 ---
 
-Archive item 5963; dated 1974-06-19; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani asks Jayaprakash Narayan to acknowledge receipt of a hand-delivered packet and its contents.
+- The letter stresses secrecy concerning the friends who made the delivery possible.
+- Masani refers to difficulties caused by the Telegraph Office's inefficient service.
+- He says he did not attend the Swatantra Party meeting in Delhi and instead sent a letter to the President.
+- He reports that the meeting ended in a stalemate and an even division, with no decision taken.
+- A National Convention is to be convened in early August.
+- Masani praises Narayan's interview with Kuldeep Nair in the Statesman and asks about the healing of Narayan's wound.

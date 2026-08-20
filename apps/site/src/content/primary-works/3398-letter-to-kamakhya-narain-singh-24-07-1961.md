@@ -1,22 +1,21 @@
 ---
 id: 3398-letter-to-kamakhya-narain-singh-24-07-1961
 title:
-  main: "Letter to kamakhya Narain Singh"
+  main: "[Letter to kamakhya Narain Singh]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1961
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "place_not_identified"
+  - "recipient_authority_not_catalogued"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: kamakhya Narain Singh
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This untitled letter from M. R. Masani to Shri Kamakhya Narain Singh of Ramgarh is dated 24 July 1961. Masani reports that, after a full day’s effort, the credit discussed during Singh’s recent stay in Bombay now appears likely to be secured. He says he will be able to confirm this definitively when they meet in Madras.
 ---
 
-Archive item 3398; dated 1961-07-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 24 July 1961.
+- M. R. Masani writes to Kamakhya Narain Singh of Ramgarh, whom he addresses as “Rajasaheb.”
+- Masani reports progress toward securing a previously discussed credit.
+- He attributes the progress to a full day’s effort on his part the previous day.
+- He asks the recipient to come to Bombay after their Madras meeting.
+- The proposed Bombay visit is intended to conclude formalities, make the initial payment, and settle matters with suppliers.

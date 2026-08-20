@@ -1,9 +1,9 @@
 ---
 id: 2763-swatantra-to-function-as-before-times-of-india-09-12-1974
 title:
-  main: "Swatantra to Function As Before-Times Of India"
+  main: "[Swatantra to Function As Before-Times Of India]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +27,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "constitutionalism"
+  - "governance-reform"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "editor_not_named"
+  - "no_individual_author"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page institutional document records the Maharashtra State Council of the Swatantra Party’s opposition to dissolving the party as part of a proposed merger with six other parties. The resolution, adopted in Bombay on 6 July 1974, argues that the Swatantra Party’s principles and policies remain valid and that a new coalition based on a vague general programme would not provide a genuine national alternative. It also warns that the continued existence of both the Congress and the Jana Sangh would undermine the prospect of a competitive two-party system.
 ---
 
-Archive item 2763; dated 1974-12-09; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Maharashtra State Council rejects the proposal to dissolve the Swatantra Party.
+- It maintains that the party’s principles and policies remain valid.
+- The resolution doubts that a new party formed from seven existing parties would produce a coherent national alternative.
+- It argues that the continued separate existence of Congress and Jana Sangh would frustrate the development of a two-party system.
+- The Council requests another General Council meeting before the dissolution proposal reaches the National Convention.
+- If dissolution is approved nationally, the Maharashtra unit says it will retain its identity, message, and flag.
+- An attached Times of India clipping reports that the Swatantra Party would continue to function and names its Maharashtra office-bearers and organisational plans.

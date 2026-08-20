@@ -1,22 +1,22 @@
 ---
 id: 3573-letter-to-mr-d-p-sethna-24-07-1963
 title:
-  main: "Letter to Mr D P Sethna"
+  main: "[Letter to Mr D P Sethna]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: D P Sethna
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 24 July 1963, is from M. R. Masani to Darab, whom the address identifies as Mr. D. P. Sethna. Masani acknowledges Sethna’s letter and his contribution of Rs. 250, and says that a receipt is enclosed. The exchange appears connected to a shared concern about current circumstances, though the letter does not specify the underlying cause.
 ---
 
-Archive item 3573; dated 1963-07-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani writes to Darab on 24 July 1963.
+- He acknowledges receipt of Darab’s letter dated the 23rd.
+- He thanks Darab for contributing Rs. 250 and notes that a receipt is attached.
+- Masani recognises Darab’s pessimism but says he cannot quarrel with it while remaining a born optimist.
+- He encourages looking at the brighter side of the picture and expresses hope that conditions will improve.

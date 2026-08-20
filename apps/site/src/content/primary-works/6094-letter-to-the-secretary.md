@@ -1,21 +1,22 @@
 ---
 id: 6094-letter-to-the-secretary
 title:
-  main: "Letter to the secretary"
+  main: "[Letter to the secretary]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
+  year: 1962
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,15 +27,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "no_publication_edition"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: the secretary
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English correspondence consists of an envelope/address leaf and a brief typed letter from C. Rajagopalachari, dated December 9, 1962. The letter is addressed to the Secretary of the Swatantra Party's Bombay Office at 143 Mahatma Gandhi Road, Bombay-1.
 ---
 
-Archive item 6094; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated December 9, 1962.
+- C. Rajagopalachari is identified as the writer.
+- The recipient is the Secretary of the Swatantra Party (Bombay Office).
+- Rajagopalachari acknowledges receipt of an affectionate message.
+- The letter closes with a handwritten signature.

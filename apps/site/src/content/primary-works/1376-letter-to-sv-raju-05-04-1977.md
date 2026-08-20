@@ -1,23 +1,21 @@
 ---
 id: 1376-letter-to-sv-raju-05-04-1977
 title:
-  main: "Letter to SV Raju"
+  main: "[Letter to SV Raju]"
   subtitle: ""
 work_type: letter
-authors:
-  - s-v-raju
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Singapore"
   year: 1977
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,27 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page personal letter, dated April 5, 1977, was written by Dr. R. C. Cooper from Singapore to S. V. Raju in Bombay. Cooper refers to “the most interesting developments of last few weeks” and asks for Raju’s and Minoo’s assessment of future developments, also mentioning Dandekar.
 ---
 
-Archive item 1376; dated 1977-04-05; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated April 5, 1977, and was sent from Singapore to S. V. Raju in Bombay.
+- Cooper seeks Raju’s comments on recent developments and on how the future is likely to unfold.
+- Minoo and Dandekar are identified as additional commentators whose views Cooper expects to hear.
+- Cooper requests at least a dozen postal copies of Without Fear or Favour.
+- The letter asks how many copies remain and suggests that the time may be suitable for a second, paperback edition.

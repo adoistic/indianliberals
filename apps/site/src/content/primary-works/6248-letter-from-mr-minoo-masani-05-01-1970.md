@@ -1,7 +1,7 @@
 ---
 id: 6248-letter-from-mr-minoo-masani-05-01-1970
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "no_title_page"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated January 5, 1970, M. R. Masani thanks Raj Ballabh Mishra for his letter, congratulations, sympathy, and good wishes. Masani explains that he cannot attend events on January 12 and 20 connected with the Conference of the Orissa Engineering Congress because he will be abroad from January 8 until January 23.
+  
+  Masani asks Mishra to excuse his absence and to explain to the relevant associations why he is unable to accept the invitation. The typed letter closes with New Year wishes for 1970 and Masani’s handwritten signature.
 ---
 
-Archive item 6248; dated 1970-01-05; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated January 5, 1970, and is signed by M. R. Masani.
+- Masani thanks Raj Ballabh Mishra for his letter and expressions of congratulations, sympathy, and good wishes.
+- Masani declines an invitation connected with events on January 12 and 20.
+- He will be abroad from January 8 and will not return to India until January 23.
+- Masani asks Mishra to explain his absence to the associations concerned.

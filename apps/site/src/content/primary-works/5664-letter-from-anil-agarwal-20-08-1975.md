@@ -1,7 +1,7 @@
 ---
 id: 5664-letter-from-anil-agarwal-20-08-1975
 title:
-  main: "Letter From Anil Agarwal"
+  main: "[Letter From Anil Agarwal]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Delhi"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -27,15 +26,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "press-freedom"
+  - "free-speech"
+  - "emergency-critique"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "no_recipient_address"
+  - "no_authority_match"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Anil Agarwal
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This letter, dated 20 August 1975, is from Anil Agarwal in Delhi to “Shri RNG Bombay” and encloses a reproduced conversation with Sanjay Gandhi. The conversation concerns demands to remove the editors of the Indian Express. Agarwal presents himself as acting as a friend and relative by marriage to the Goenka family, rather than in his capacity as an Indian Express director, and asks Gandhi to allow time for the matter to be handled discreetly and without appearing coercive.
+  
+  Gandhi rejects delay and insists that the editors—including regional editors—be removed immediately, even if this leads to the paper’s closure. He proposes replacing them with editors of his choice and says the government would not suffer if Indian Express closed. Agarwal attempts to explain that the paper faces strong competition and that a proposed committee of directors might address the dispute, but Gandhi insists that any committee must have the power to appoint, dismiss, and transfer editors. The document records a direct confrontation between demands for editorial control and appeals for procedural handling, personal trust, and time.
 ---
 
-Archive item 5664; dated 1975-08-20; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a dated covering letter from Anil Agarwal enclosing a conversation with Sanjay Gandhi.
+- Agarwal distinguishes his personal and familial relationship to the Goenka family from his role as an Indian Express director.
+- Gandhi demands the immediate removal of the Indian Express editors and rejects a meeting with Mr Goenka before that occurs.
+- Gandhi states that the paper may close and proposes replacing its editors with people of his choice.
+- Agarwal argues for delay, discretion, and a committee of directors to address the editorial dispute.
+- Gandhi insists that any committee must have authority to appoint, dismiss, and transfer editors.
+- The exchange documents pressure for editorial intervention in a newspaper during 1975.

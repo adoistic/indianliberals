@@ -1,22 +1,22 @@
 ---
 id: 6083-18-goa-congrssmen-quit-on-party-times-of-india-06-11-1963
 title:
-  main: "18 Goa Congrssmen Quit on Party-Times of India"
-  subtitle: ""
-work_type: letter
+  main: "18 Goa Congressmen Quit Party"
+  subtitle: "CHOICE OF NOMINEES FOR POLL RESENTED"
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "\"The Times of India\" News Service"
+  place: "PANJIM"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "no_named_author"
+  - "no_publisher_address"
+  - "no_formal_publication_date"
+  - "newspaper_title_not_explicitly_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This Times of India News Service report, dated Panjim, November 5, 1963, describes the resignation of eighteen Goa Congressmen, including the party's vice-president and secretary and six members of the Pradesh Congress Committee. The resignations protested the Central Parliamentary Board's distribution of Congress tickets for the forthcoming elections and were presented as a serious challenge to the ruling party's prestige in Goa.
 ---
 
-Archive item 6083; dated 1963-11-06; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Eighteen Goa Congressmen resigned over the allocation of election tickets.
+- The resignatories included senior Goa Congress and Pradesh Congress Committee members.
+- The report says the resignations created a major crisis in the Congress organisation in Goa.
+- Two additional Congress nominees, Anthony D'Souza and Dr. Rama Hegde, are reported to have resigned.
+- The resignatories criticised the choice of candidates as unfair and binding on all Congressmen.
+- Goa Congress president Mr. Purushottam Kakodkar deplored the resignations and defended the Central Parliamentary Board's decisions.
+- The resignations followed a Congressmen's decision to hold a one-hour protest session.

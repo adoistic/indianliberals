@@ -1,22 +1,22 @@
 ---
 id: 5163-letter-to-ishwara-dutt-01-12-1959
 title:
-  main: "Letter to Ishwara Dutt"
+  main: "[Letter to Ishwara Dutt]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "edition_not_printed"
+  - "series_not_printed"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Ishwara Dutt
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page personal letter, dated 1 December 1959 and signed by M. R. Masani from his Bombay address, responds to Mr. K. Ishwara Dutt's letter of 24 November. Masani thanks Dutt for appreciating his speech at Sapru House and notes that he reads Junius with considerable appreciation.
 ---
 
-Archive item 5163; dated 1959-12-01; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 1 December 1959.
+- M. R. Masani writes from 148 Mahatma Gandhi Road, Bombay-1.
+- Masani thanks Mr. Dutt for his letter of 24 November.
+- Masani acknowledges Dutt's appreciation of his speech at Sapru House.
+- Masani states that he reads Junius with considerable appreciation.
+- Masani expects to be in Delhi from Christmas to the New Year.
+- He invites Dutt to telephone and visit him at 40, Canning Lane, New Delhi.

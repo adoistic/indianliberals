@@ -1,23 +1,22 @@
 ---
 id: 1874-letter-to-mr-minoo-masani-08-11-1965
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "GOVERNMENT OF INDIA\nDEPARTMENT OF PARLIAMENTARY AFFAIRS"
+  place: "NEW DELHI"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +27,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_in_authority"
+  - "issuer_not_in_authority"
+  - "author_not_in_authority"
+  - "contributor_not_in_authority"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English government letter dated November 8, 1965, records an urgent exchange between the Department of Parliamentary Affairs and Minoo Masani. D.S. Bakshi, Under Secretary, asks Masani to provide ten copies of photographs and one biographical sketch, explaining that the Ministry of External Affairs requires them urgently.
+  
+  The attached memorandum from the Ministry of External Affairs identifies the materials as relating to members of parliamentary goodwill missions expected to travel abroad. It asks the Department of Parliamentary Affairs to forward photographs and biographical sketches to India's missions overseas, stressing that the photographs are needed immediately. The document therefore concerns the administrative preparation and external representation of parliamentary delegations, rather than a substantive policy argument.
 ---
 
-Archive item 1874; dated 1965-11-08; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated November 8, 1965, and was issued from Parliament House, New Delhi.
+- D.S. Bakshi, Under Secretary in the Department of Parliamentary Affairs, writes to Minoo Masani.
+- The recipient is asked to send ten copies of photographs and one biographical sketch.
+- The Ministry of External Affairs requires the materials urgently.
+- The attached memorandum concerns members of parliamentary goodwill missions expected to visit foreign countries.
+- Photographs and biographical sketches are intended for India's missions abroad.
+- The document reflects interdepartmental coordination concerning parliamentary diplomacy and external publicity.

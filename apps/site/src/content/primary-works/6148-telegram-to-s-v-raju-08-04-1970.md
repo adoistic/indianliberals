@@ -1,23 +1,21 @@
 ---
 id: 6148-telegram-to-s-v-raju-08-04-1970
 title:
-  main: "Telegram to S V Raju"
+  main: "[Telegram to S V Raju]"
   subtitle: ""
 work_type: telegram
-authors:
-  - s-v-raju
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_explicitly_identified"
+  - "no_publisher"
+  - "no_issuer"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telegram form from the Indian Posts and Telegraphs Department records a message received in New Delhi on 8 April 1970. The message is addressed to S. V. Raju in Bombay and reads: “YOURS 3 RD APPROVE COVERING LETTER - MASANI -”. It appears to acknowledge or request approval of a covering letter associated with Masani, but the telegram does not provide further context.
 ---
 
-Archive item 6148; dated 1970-04-08; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a single-page Indian Posts and Telegraphs Department phonogram telegram.
+- The received stamp is dated 8 April 1970.
+- The telegram route identifies New Delhi and Bombay.
+- The recipient line appears to identify S. V. Raju.
+- The message refers to approval of a covering letter and names Masani.

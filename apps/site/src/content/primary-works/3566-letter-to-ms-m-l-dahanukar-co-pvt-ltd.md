@@ -1,7 +1,7 @@
 ---
 id: 3566-letter-to-ms-m-l-dahanukar-co-pvt-ltd
 title:
-  main: "Letter to MS M L Dahanukar & Co Pvt Ltd"
+  main: "[Letter to MS M L Dahanukar & Co Pvt Ltd]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,12 +10,10 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,15 +24,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_identified"
+  - "date_not_identified"
+  - "publisher_not_identified"
+  - "recipient_or_document_purpose_unclear"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: M L Dahanukar & Co Pvt Ltd
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  The two rendered pages contain a handwritten list of names and postal addresses, apparently assembled for correspondence or office reference. The entries include individuals and firms in Bombay, Calcutta, and other locations, with several addresses partially obscured, overwritten, or difficult to decipher.
+  
+  A clearly legible entry on the first page refers to “M/s M. L. Dahanukar & Co. Pvt. Ltd.” The second page continues the list and includes a visible “TISCO” entry, along with further names and addresses. No date, salutation, signature, authorial identification, title, or explanation of the list’s purpose is visible in the rendered pages; the document’s classification as a letter therefore remains provisional.
 ---
 
-Archive item 3566; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document consists of two handwritten pages dominated by names and postal addresses.
+- The material appears correspondence-related or administrative rather than discursive.
+- Addresses in Bombay and Calcutta are visible, though many entries are partly illegible.
+- “M/s M. L. Dahanukar & Co. Pvt. Ltd.” is clearly referenced on page 1.
+- A “TISCO” entry appears on page 2.
+- No date, sender, recipient, salutation, signature, or stated purpose is visible.

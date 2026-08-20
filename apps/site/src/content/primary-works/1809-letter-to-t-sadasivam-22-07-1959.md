@@ -1,7 +1,7 @@
 ---
 id: 1809-letter-to-t-sadasivam-22-07-1959
 title:
-  main: "Letter to T Sadasivam"
+  main: "[Letter to T Sadasivam]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_identified"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "no_signature_name_visible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: T Sadasivam
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 22 July 1959, is addressed to Mr. T. Sadasivam. The unidentified sender apologises for the delayed acknowledgement of Sadasivam’s 30 June letter and says that, although they had previously read Swarajya only occasionally, its association with Rajaji and support for the Swatantra Party has prompted them to become a more regular reader. The sender congratulates Sadasivam on taking over the paper and wishes him success under his management.
+  
+  The sender adds that retirement from the Tatas has not left them without commitments, but promises to write when circumstances warrant it, including to comment on particular policy positions adopted by Sadasivam. The visible page contains no signature name, so the sender cannot be identified from the document itself.
 ---
 
-Archive item 1809; dated 1959-07-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 22 July 1959 and addressed to Mr. T. Sadasivam.
+- The sender apologises for not replying earlier to Sadasivam’s letter of 30 June.
+- The sender had seldom read Swarajya but intends to read it more regularly because of its association with Rajaji and support for the Swatantra Party.
+- The sender welcomes Sadasivam’s management of the paper and wishes him success.
+- The sender states that retirement from the Tatas has not ended their other commitments.
+- The sender offers to comment in future on particular policies adopted by Sadasivam.
+- The sender’s name is not visible; the letter closes only with “Yours sincerely.”

@@ -1,23 +1,22 @@
 ---
 id: 2399-letter-to-mr-minoo-masani-06-04-1987
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "BHARATIYA LOK DAL\nBOMBAY"
+  place: "Bombay"
   year: 1987
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_resolved"
+  - "issuer_not_resolved"
+  - "no_authority_match"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English administrative letter, dated 6 April 1987, is written by V. P. Bhatia on Bharatiya Lok Dal letterhead to M. R. Masani. Bhatia confirms that vehicle MRG 2347, registered in Masani’s name, was allotted to Piloo Mody, M.P., during the general elections and subsequently sold to Mody for his use.
+  
+  The letter states that Bhatia could not establish the jeep’s whereabouts through Mody & Colgane, identified as the office of the late Piloo Mody. The two rendered scans contain slight textual differences: one says the vehicle was sold “later on” by the Swatantra Party, while the other says it was sold immediately after the elections. The document provides no further information about the vehicle or the correspondence surrounding it.
 ---
 
-Archive item 2399; dated 1987-04-06; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 6 April 1987 and is addressed to M. R. Masani.
+- V. P. Bhatia signs the letter on Bharatiya Lok Dal, Bombay letterhead.
+- Vehicle MRG 2347 was registered in Masani’s name.
+- The vehicle was allotted to Piloo Mody, M.P., during general elections.
+- The letter records that the vehicle was sold to Mody for his use.
+- Bhatia reports being unable to ascertain the jeep’s whereabouts from Mody & Colgane.
+- The two scans differ slightly on whether the sale occurred later or immediately after the elections.

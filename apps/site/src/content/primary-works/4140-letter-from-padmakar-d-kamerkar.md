@@ -1,7 +1,7 @@
 ---
 id: 4140-letter-from-padmakar-d-kamerkar
 title:
-  main: "Letter from Padmakar D Kamerkar"
+  main: "[Letter from Padmakar D Kamerkar]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,12 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,15 +25,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "constitutionalism"
+  - "judicial-independence"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_found"
+  - "publisher_not_found"
+  - "recipient_not_found"
+  - "date_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Padmakar D Kamerkar
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English letter, written on the printed letterhead of advocate Padmakar D. Kamerkar in Bombay, consists almost entirely of handwritten legal case references. The sender lists decisions from the Supreme Court and other courts, with citations dating from the 1950s through the 1980s, including cases concerning the States of Madras, Bihar, Bengal, Bombay, and Mysore.
+  
+  The visible pages do not state the legal issue being researched, identify a recipient, or provide a date, subject line, argument, or conclusion. They appear to function as a working list of authorities, possibly for constitutional or administrative-law research, but the document itself does not explain the relationship among the cited cases.
 ---
 
-Archive item 4140; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a two-page handwritten legal note on Padmakar D. Kamerkar's advocate letterhead.
+- The pages list numerous case names and law-report citations rather than presenting continuous legal argument.
+- The cited decisions span approximately the 1950s to the 1980s.
+- Several references concern State governments and Supreme Court decisions.
+- The pages do not reveal a date, recipient, title, subject, or stated legal question.
+- The relationship among the listed authorities cannot be determined from the rendered pages alone.

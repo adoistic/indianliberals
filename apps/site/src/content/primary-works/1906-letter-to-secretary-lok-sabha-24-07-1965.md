@@ -1,22 +1,23 @@
 ---
 id: 1906-letter-to-secretary-lok-sabha-24-07-1965
 title:
-  main: "Letter to Secretary-Lok Sabha"
+  main: "[Letter to Secretary-Lok Sabha]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
+  - n-dandekar
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "NEW DELHI"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +28,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "constitutionalism"
+  - "parliamentary"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
+  - "no_reference_number"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Secretary-Lok Sabha
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 24 July 1965 and addressed to the Secretary of the Lok Sabha, gives formal notice of a no-confidence motion against the Council of Ministers. The proposed resolution is stated in the precise form: the House has no confidence in the Council of Ministers.
+  
+  Signed by M. R. Masani and N. Dandekar, the letter requests that the motion be placed on the Lok Sabha’s agenda at its first sitting. It also authorises the Secretary to make any necessary modification to conform the resolution to the normal procedural form. The document records the signatories’ division numbers as 448 and 464.
 ---
 
-Archive item 1906; dated 1965-07-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is dated 24 July 1965 and addressed to the Secretary of the Lok Sabha.
+- M. R. Masani and N. Dandekar give notice of a no-confidence motion.
+- The proposed motion states that the House has no confidence in the Council of Ministers.
+- The signatories request that the motion be placed on the agenda at the Lok Sabha’s first sitting.
+- The Secretary is authorised to make procedural modifications to the resolution if required.
+- The letter identifies the signatories by division numbers 448 and 464.

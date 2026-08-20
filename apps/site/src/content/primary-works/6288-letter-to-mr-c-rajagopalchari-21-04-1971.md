@@ -1,22 +1,22 @@
 ---
 id: 6288-letter-to-mr-c-rajagopalchari-21-04-1971
 title:
-  main: "Letter to Mr C Rajagopalchari"
+  main: "[Letter to Mr C Rajagopalchari]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Vellore"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: C Rajagopalchari
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this typed letter dated 21 April 1971, M. R. Masani acknowledges C. Rajagopalachari’s letter of 11 April and expresses pleasure that Rajagopalachari approved a statement Masani had made after the election results became available. Masani then refers to press reports describing how he persuaded his party colleagues to let him resign as party president the previous weekend.
+  
+  The one-page document is a brief political correspondence concerning post-election developments, party leadership, and Masani’s decision to step down. It is signed by Masani and gives his address in Vellore, Tamil Nadu.
 ---
 
-Archive item 6288; dated 1971-04-21; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 21 April 1971 and is addressed to C. Rajagopalachari.
+- Masani acknowledges receipt of Rajagopalachari’s letter of 11 April.
+- Masani says Rajagopalachari approved a statement he made after the election results were available.
+- Masani refers to press reports about his resignation from the party presidency.
+- He says he persuaded his party colleagues to allow him to step down the previous weekend.
+- The letter is signed by M. R. Masani from Vellore, Tamil Nadu.

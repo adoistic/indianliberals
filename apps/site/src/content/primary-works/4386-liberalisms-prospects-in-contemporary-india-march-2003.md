@@ -1,22 +1,21 @@
 ---
 id: 4386-liberalisms-prospects-in-contemporary-india-march-2003
 title:
-  main: "Liberalisms Prospects in Contemporary India-March 2003"
+  main: "SOUTH ASIA POLITICS"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: periodical_issue
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 2003
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 5
   pages_total_source: pypdfium2
@@ -27,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "liberalism-as-tradition"
+  - "economic-liberty"
+  - "planning-critique"
+  - "regulatory-state-critique"
+  - "governance-reform"
+  - "party-politics"
+  - "individual-rights"
+  - "socialism-debate"
+  - "constitutionalism"
+missing_metadata_flags:
+  - "publisher_not_visible"
+  - "place_not_visible"
+  - "issue_volume_number_not_visible"
+  - "formal_toc_not_visible"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 4386; dated 2003-03; 5 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+Archive item 4386. Scanned document from the Swatantra Party papers.

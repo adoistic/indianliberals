@@ -1,7 +1,7 @@
 ---
 id: 4254-letter-to-c-rajagopalachari-25-05-1964
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras-17"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page true copy records C. Rajagopalachari’s letter of 25 May 1964 from his Madras address to Shri G. D. Birla in New York. Rajagopalachari thanks Birla for a letter dated 22 May, written from London, and says that reading it heartened him.
+  
+  Rajagopalachari asks Birla to consider writing to The New York Times himself on the subject under discussion, arguing that such a letter would lend additional weight to Birla’s appreciation of Rajagopalachari’s efforts. The brief exchange closes with Rajagopalachari asking when Birla will return to India. The document is marked “(true copy)” and bears the archival reference number 4254.
 ---
 
-Archive item 4254; dated 1964-05-25; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 25 May 1964 and was sent from C. Rajagopalachari’s address in Madras.
+- Rajagopalachari acknowledges and appreciates G. D. Birla’s letter of 22 May from London.
+- He suggests that Birla write directly to The New York Times on the subject under discussion.
+- Rajagopalachari believes Birla’s intervention would add weight to his own efforts.
+- The letter ends with a personal question about Birla’s return to India.
+- The surviving document is explicitly identified as a true copy.

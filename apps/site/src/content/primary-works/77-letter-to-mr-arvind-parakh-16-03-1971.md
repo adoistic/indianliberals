@@ -1,22 +1,21 @@
 ---
 id: 77-letter-to-mr-arvind-parakh-16-03-1971
 title:
-  main: "Letter to Mr Arvind Parakh"
+  main: "[Letter to Mr Arvind Parakh]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Arvind Parakh
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page typed letter, dated 16 March 1971, is addressed by M. R. Masani to Mr. Arvind Parakh in Gonda. Masani acknowledges Parakh's telegram of the 12th and expresses appreciation for his message of sympathy and solidarity.
+  
+  The letter is brief and contains no discussion of the event or issue that prompted the telegram. It closes formally with “Yours truly,” followed by Masani’s printed name and the initials “MRM/pay.”
 ---
 
-Archive item 77; dated 1971-03-16; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The letter is dated 16 March 1971.
+- M. R. Masani writes to Mr. Arvind Parakh of Gonda.
+- Masani acknowledges receipt of Parakh’s telegram sent on the 12th.
+- The letter thanks Parakh for expressing sympathy and solidarity.
+- No further context about the underlying event or cause is provided on the page.
+- The document is a single typed office letter signed by M. R. Masani.

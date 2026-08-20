@@ -1,22 +1,22 @@
 ---
 id: 3567-letter-to-khan-bahadur-framroze-mehta-12-08-1963
 title:
-  main: "Letter to Khan Bahadur Framroze Mehta"
+  main: "[Letter to Khan Bahadur Framroze Mehta]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "no_letterhead_visible"
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Khan Bahadur Framroze Mehta
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated August 12, 1963, records S. V. Raju's transmission of a receipt to Khan Bahadur Framroze Mehta for a donation of Rs. 501/-. It is brief administrative correspondence, with no further explanation of the donation's purpose or recipient organisation visible on the page.
 ---
 
-Archive item 3567; dated 1963-08-12; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated August 12, 1963.
+- S. V. Raju addresses the recipient as Khan Bahadur Saheb.
+- Raju encloses a receipt relating to a donation.
+- The donation amount is Rs. 501/-. 
+- The letter is signed by S. V. Raju.
+- The recipient's address is given as 19 A Cuffe Parade, Bombay 5.

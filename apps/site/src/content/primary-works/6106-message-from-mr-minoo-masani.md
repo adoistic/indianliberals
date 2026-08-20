@@ -1,7 +1,7 @@
 ---
 id: 6106-message-from-mr-minoo-masani
 title:
-  main: "Message from Mr Minoo Masani"
+  main: "Message from Mr. M.R. Masani, President of the Swatantra Party"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,12 +11,10 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +25,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "economic-liberty"
+  - "party-politics"
+  - "labour-movement"
+  - "trade-unionism"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "recipient_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this message to the Fifth Convention of CITU, M. R. Masani commends the organisation's effort to develop a worker-led labour movement in India. He describes the task as difficult and frustrating, but necessary if Indian trade unions are to develop the strength and independence associated with unions in the United States and Western Europe. He also welcomes a genuine labour lobby and its representatives in Parliament, while distinguishing them from politicians posing as labour leaders for personal or party advantage.
+  
+  Masani closes by wishing the convention success in its undertaking. The clearly legible page presents the message in his capacity as President of the Swatantra Party; the second rendered page appears to be a faint handwritten copy or draft and could not be read reliably. No date, recipient, place, or publisher is visible.
 ---
 
-Archive item 6106; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani supports CITU's effort to build a worker-led labour movement.
+- He characterises the development of independent trade-union strength as difficult but necessary.
+- He points to the United States and Western Europe as examples of strong trade-union organisation.
+- He welcomes a genuine labour lobby and genuine labour representatives in Parliament.
+- He criticises politicians who present themselves as labour leaders while exploiting labour and trade unions for personal or party ends.
+- The message concludes with good wishes for the Fifth Convention of CITU.

@@ -1,22 +1,20 @@
 ---
 id: 3507-not-united-enough-indian-express-05-01-1971
 title:
-  main: "Not United Enough-Indian Express"
+  main: "Not united enough"
   subtitle: ""
-work_type: press_note
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 19
   pages_total_source: pypdfium2
@@ -27,14 +25,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "constitutionalism"
+  - "governance-reform"
+  - "socialism-debate"
+missing_metadata_flags:
+  - "author_not_named"
+  - "publisher_not_named"
+  - "title_page_not_found"
+  - "no_formal_toc"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This archival dossier brings together newspaper and magazine editorials published between 5 and 9 January 1971 on the opposition’s attempt to form an electoral front against Indira Gandhi and the Congress (R). The principal Indian Express editorial, “Not united enough,” argues that the Congress (O), Jana Sangh and Samyukta Socialist Party have failed to agree on a coherent minimum programme, while the Swatantra Party’s withdrawal exposes deeper divisions over whether the alliance is substantive or merely tactical. Related editorials in The Statesman, The Hindu, The Financial Express, The Times of India and The Western Times revisit the same dispute, weighing seat adjustments, ideological differences, leadership ambitions and the difficulty of presenting voters with a credible alternative.
 ---
 
-Archive item 3507; dated 1971-01-05; 19 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The clippings focus on the January 1971 opposition effort to defeat Indira Gandhi’s Congress (R) in the Lok Sabha elections.
+- The proposed alliance among Congress (O), Jana Sangh and the Samyukta Socialist Party is presented as electorally significant but organisationally fragile.
+- Minoo Masani’s objection is that an alliance without an agreed minimum programme would be opportunistic and politically meaningless.
+- Several editorials argue that voters need a positive alternative, not merely a coalition united by opposition to Mrs Gandhi.
+- The coverage highlights competing calculations over seats in Uttar Pradesh, Bihar and other states, as well as disputes over symbols, manifestos and leadership.
+- The dossier repeatedly connects opposition disunity with constitutional and democratic concerns, particularly fears of authoritarian government and the erosion of parliamentary norms.
+- The later clippings broaden the discussion into a critique of opportunism, ideological inconsistency and the absence of clear policy commitments.

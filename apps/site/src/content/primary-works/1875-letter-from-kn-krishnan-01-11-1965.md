@@ -1,7 +1,7 @@
 ---
 id: 1875-letter-from-kn-krishnan-01-11-1965
 title:
-  main: "Letter from KN Krishnan"
+  main: "[Letter from KN Krishnan]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "NEW DELHI"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "authority_match_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: KN Krishnan
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English administrative letter, dated November 1, 1965, was sent from the Department of Parliamentary Affairs, Government of India, at Parliament House, New Delhi. The letter encloses a note received from the Ministry of External Affairs and asks the recipient to provide ten copies of photographs and a biographical sketch at the Ministry's earliest convenience.
+  
+  The letter is signed by K. N. Krishnan, identified as Under Secretary. No title, recipient name, or further information about the requested biographical material is visible on the page.
 ---
 
-Archive item 1875; dated 1965-11-01; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is dated November 1, 1965.
+- It was issued from 90, Parliament House, New Delhi.
+- The issuing office is the Government of India's Department of Parliamentary Affairs.
+- The letter refers to a note received from the Ministry of External Affairs.
+- The recipient is asked to send ten copies of photographs and a biographical sketch.
+- The request is made for completion at the recipient's earliest convenience.
+- K. N. Krishnan signs the letter as Under Secretary.

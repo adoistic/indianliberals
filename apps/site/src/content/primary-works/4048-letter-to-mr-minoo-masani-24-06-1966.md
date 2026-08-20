@@ -1,23 +1,22 @@
 ---
 id: 4048-letter-to-mr-minoo-masani-24-06-1966
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "TATA INDUSTRIES Private LIMITED"
+  place: "Bombay"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,27 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_id_unresolved"
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English letter, dated June 24, 1966, was issued on Tata Industries Private Limited letterhead from Bombay. Signed by L. Sawhny, it forwards two copies of the signatory's article to M. R. Masani for onward transmission to Mrs. Indira Gandhi and Mr. L. K. Jha. The letter does not identify the article's title or subject.
 ---
 
-Archive item 4048; dated 1966-06-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The correspondence is dated June 24, 1966.
+- It was issued on Tata Industries Private Limited letterhead from Bombay.
+- L. Sawhny sends two copies of an article to M. R. Masani.
+- The article was intended for Indira Gandhi and L. K. Jha.
+- The article's title, subject, and contents are not included on the rendered page.

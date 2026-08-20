@@ -1,22 +1,20 @@
 ---
 id: 923-letter-to-mr-minoo-masani
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +25,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "constitutionalism"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "place_not_found"
+  - "author_identity_unresolved"
+  - "date_not_fully_confirmed"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This undated-title letter, apparently written by D. Satagopan to M. R. Masani in late November 1963, discusses the recent merger affecting their political party. Satagopan argues that the merger has damaged the party’s morale, organisational structure, and democratic functioning, and that many members regard it as a surrender to a “monolithic congress.” He also criticises the absence of a common programme as having weakened the broader alliance.
+  
+  The letter presents the party as having offered economic alternatives to the government while failing to provide the clear and spirited leadership that its supporters expect. Satagopan urges Masani to reconsider his decision, resume an active role, and help rebuild the organisation in accordance with the wishes of its workers and the memory of the late Rajaji. The surviving two-page scan contains the complete letter, though portions of the handwriting and the date are difficult to read.
 ---
 
-Archive item 923; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The writer believes a recent party merger has weakened morale and damaged the party’s organisational framework.
+- The merger is criticised as subordinating the party to a “monolithic congress.”
+- The absence of a common programme is presented as a major cause of the alliance’s failure.
+- The party is credited with offering economic alternatives to the government.
+- The writer calls for clearer, more spirited leadership and for M. R. Masani to resume active participation.
+- The appeal is made in the name of party workers and invokes the memory of Rajaji.

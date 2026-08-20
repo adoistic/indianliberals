@@ -1,22 +1,22 @@
 ---
 id: 4362-politics-a-wholetime-occupation-times-weekly-13-08-1972
 title:
-  main: "Politics-A Wholetime Occupation-Times Weekly"
+  main: "POLITICS—A WHOLETIME OCCUPATION"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: essay
+authors:
+  - piloo-mody
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "TIMES WEEKLY"
   year: 1972
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -27,14 +27,40 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "socialism-debate"
+  - "economic-liberty"
+  - "liberalism-as-tradition"
+missing_metadata_flags:
+  - "publisher_not_resolved"
+  - "no_publisher_address"
+  - "place_not_printed"
+  - "no_edition_statement"
+  - "no_identifiers"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this interview-profile, Piloo Mody presents politics as a demanding, full-time vocation rather than a route to office or personal advancement. He recounts his movement from business and public life into politics, his association with the Swatantra Party, and his belief that political work requires sustained contact with citizens, persuasion, organisation, and service. The article also describes his criticism of party leaders who treat politics as an occasional activity and his preference for direct engagement with voters over reliance on intermediaries.
+  
+  Mody argues that India’s political difficulties cannot be solved simply by changing personalities or redistributing positions within existing parties. In the rendered pages, he links political effectiveness to clear ideas, economic understanding, and a willingness to challenge socialism, excessive state control, and the concentration of power. He discusses the Swatantra Party’s electoral prospects, its relationship to other opposition forces, and the need for a broader political alternative, while also reflecting on figures including Nehru, Rajaji, Morarji Desai, Indira Gandhi, M. N. Roy, Karl Marx, Mao, and B. R. Shenoy.
 ---
 
-Archive item 4362; dated 1972-08-13; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Mody defines politics as a whole-time occupation requiring continuous public work.
+- He describes political activity as persuasion, organisation, and service rather than merely contesting elections.
+- He criticises politicians who pursue office without sustained contact with ordinary citizens.
+- He defends the need for a political alternative to Congress and socialist economic policy.
+- He discusses the Swatantra Party’s prospects and the practical difficulties of opposition unity.
+- He connects effective politics with economic literacy and criticism of excessive state control.
+- He presents political leadership as requiring personal commitment, discipline, and long-term work.

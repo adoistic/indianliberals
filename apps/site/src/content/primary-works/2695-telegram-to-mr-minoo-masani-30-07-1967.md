@@ -1,23 +1,21 @@
 ---
 id: 2695-telegram-to-mr-minoo-masani-30-07-1967
 title:
-  main: "Telegram to Mr Minoo Masani"
+  main: "[Telegram to Mr Minoo Masani]"
   subtitle: ""
 work_type: telegram
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bhopal"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "constitutionalism"
+  - "governance-reform"
+  - "party-politics"
+  - "electoral-reform"
+  - "constitutionalism governance-reform party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_explicit_author_byline"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page press telegram, sent from Bhopal on 30 July 1967 to M. R. Masani in New Delhi, reports that the M. I. Mishra government in Madhya Pradesh was defeated by sixteen votes on a demand concerning education. The telegram says that the governor was informed of the voting results and of the Sanyukta Vidhayak Dal's readiness to form a stable government, implement an agreed minimum programme, and secure passage of the budget or a vote on account. The signatories call for the immediate dismissal of the Mishra ministry and for the Sanyukta Vidhayak Dal to be allowed to form the government, presenting this as necessary to uphold the Constitution and democracy. The page also states that Pandit Dwarka Prashad Mishra had neither tendered his resignation nor met the governor, contrary to parliamentary conventions and precedents. Some words in the telegram are obscured or crossed out.
 ---
 
-Archive item 2695; dated 1967-07-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The M. I. Mishra government is reported to have been defeated by sixteen votes on an education demand. The governor was informed of the assembly voting results. The Sanyukta Vidhayak Dal is described as prepared to form a stable government. The proposed government would implement an agreed minimum programme. The telegram reports that the budget or vote on account had passed on Monday. The signatories demand the immediate dismissal of the Mishra ministry.
+- The appeal frames a transfer of power to the Sanyukta Vidhayak Dal as necessary to uphold the Constitution and democracy.

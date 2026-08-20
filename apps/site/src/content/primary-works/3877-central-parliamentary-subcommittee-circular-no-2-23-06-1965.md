@@ -1,22 +1,25 @@
 ---
 id: 3877-central-parliamentary-subcommittee-circular-no-2-23-06-1965
 title:
-  main: "Central parliamentary subcommittee Circular no-2"
+  main: "OFFICIAL PARLIAMENTARY BOARD'S SUB COMMITTEE CIRCULAR NO.2"
   subtitle: ""
 work_type: circular
-authors: []
+work_type_source: filename
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party Central Office"
+  place: "Bombay"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +30,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "no_publisher_address"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_identifier"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office circular, issued by the Swatantra Party Central Office on June 23, 1965, seeks approval for a prospective parliamentary candidate in Banaskantha Constituency. M. R. Masani, signing as General Secretary, reports that the Parliamentary Board of the Gujarat Unit has recommended Mr. Manu Amerey and that the recommendation has been investigated and found satisfactory.
+  
+  The circular asks the Parliamentary Board's Sub-Committee to approve the recommendation, noting that the Central Parliamentary Board had met only recently and that another meeting would take some time. It establishes a fourteen-day period for objections: no reply would be taken as consent to the proposal.
 ---
 
-Archive item 3877; dated 1965-06-23; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is Official Parliamentary Board's Sub Committee Circular No. 2, dated June 23, 1965.
+- The Parliamentary Board of the Gujarat Unit recommends Mr. Manu Amerey as a prospective candidate.
+- The proposed candidacy concerns Banaskantha Constituency.
+- The sender states that necessary enquiries were conducted and that the recommendation was found satisfactory.
+- The Sub-Committee is asked to approve the recommendation because the Central Parliamentary Board had only recently met.
+- A lack of response within a fortnight is to be treated as an absence of objection.

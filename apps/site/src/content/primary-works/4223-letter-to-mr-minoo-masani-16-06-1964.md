@@ -1,23 +1,22 @@
 ---
 id: 4223-letter-to-mr-minoo-masani-16-06-1964
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated June 16, 1964, is from C. Rajagopalachari (“Rajaji”) in Madras to M. R. Masani. It is a brief message of congratulations on Masani’s work, “My Benediction,” which Rajaji says has achieved an especially apt tone.
+  
+  The document is a carbon-copy or typescript office letter rather than a developed essay or argument. It contains no further discussion of the work being praised; the lower right is marked “confirmatory copy.”
 ---
 
-Archive item 4223; dated 1964-06-16; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page letter in English.
+- It is authored by C. Rajagopalachari, identified on the page as “RAJAJI.”
+- The recipient is M. R. Masani, addressed at 143 Mahatma Gandhi Road, Bombay 1.
+- The letter is dated June 16, 1964, and headed “Kalki, Madras.”
+- Rajaji congratulates Masani on “My Benediction.”
+- Rajaji says the work has “struck just the right note.”
+- The page is marked “confirmatory copy” and appears to be a typescript or carbon copy.

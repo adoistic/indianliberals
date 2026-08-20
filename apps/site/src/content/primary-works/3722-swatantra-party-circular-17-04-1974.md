@@ -1,9 +1,10 @@
 ---
 id: 3722-swatantra-party-circular-17-04-1974
 title:
-  main: "Swatantra Party Circular"
+  main: "Meeting of the State Council."
   subtitle: ""
 work_type: circular
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY\nMaharashtra."
+  place: "Bombay"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +29,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page circular, issued by the Swatantra Party, Maharashtra, on 17 April 1974, announces an urgent meeting of the party's State Council in Bombay on 27 April 1974. The stated agenda is to consider the National Executive's resolutions of 6 April 1974, including the proposed merger of the Swatantra Party with seven other Democratic Opposition Parties, review developments since the last party elections, and take up any other matter with the Chair's permission.
+  
+  The circular presents the proposed merger as a matter of major importance for the Swatantra Party's role in Indian politics. It urges every member of the State Council to attend so that the issue can be discussed in full detail. The document is signed by Girish Munshi, identified as General Secretary.
 ---
 
-Archive item 3722; dated 1974-04-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Swatantra Party, Maharashtra, called an urgent State Council meeting for 27 April 1974.
+- The meeting was scheduled at the party office in Sassoon Building, 143 Mahatma Gandhi Road, Bombay 1.
+- The first agenda item was consideration of the National Executive resolutions of 6 April 1974.
+- The agenda included the proposed merger of the Swatantra Party with seven other Democratic Opposition Parties.
+- Members were also asked to review developments since the last party elections.
+- The circular stressed the importance of the merger proposal for the party's role in Indian politics.
+- Girish Munshi signed the circular as General Secretary.

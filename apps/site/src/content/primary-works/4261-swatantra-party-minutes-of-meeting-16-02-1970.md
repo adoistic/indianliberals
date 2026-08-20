@@ -1,22 +1,20 @@
 ---
 id: 4261-swatantra-party-minutes-of-meeting-16-02-1970
 title:
-  main: "Swatantra Party Minutes of Meeting"
+  main: "Rajaji's Tour Programme"
   subtitle: ""
 work_type: minutes
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "foreign-policy"
+missing_metadata_flags:
+  - "publication_year_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
+  - "place_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English typescript, headed “Rajaji's Tour Programme,” lays out C. Rajagopalachari’s engagements in Bombay from Sunday 28 June through Tuesday 30 June 1964. The schedule includes a Parliamentary Board meeting, a C.O.C.C. meeting at Sir H. P. Mody’s house, a Swatantra Party public meeting, two General Council sessions, and appearances before the Rotary Club and the Indian Council of World Affairs.
+  
+  The listed public-talk subjects are “India & her neighbours” and “Our Foreign Policy.” The page concludes with a departure for Madras at noon; handwritten annotations appear to amend the final date and indicate a change to Thursday. No author, publisher, issuing organisation, or publication year is printed on the page.
 ---
 
-Archive item 4261; dated 1970-02-16; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page schedule for Rajaji’s tour from 28 to 30 June 1964.
+- The programme begins with arrival in Bombay at 4.15 p.m. on Sunday, 28 June.
+- It records a Parliamentary Board meeting and a C.O.C.C. meeting at Sir H. P. Mody’s house.
+- A Swatantra Party public meeting is scheduled for 6.15 p.m. on Monday.
+- Tuesday’s programme includes two General Council sessions and a Rotary Club appearance.
+- The Indian Council of World Affairs public meeting is associated with the subject “Our Foreign Policy.”
+- The final entry schedules departure for Madras at noon, with handwritten amendments to the date.

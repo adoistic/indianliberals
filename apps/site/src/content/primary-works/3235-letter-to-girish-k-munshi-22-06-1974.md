@@ -1,22 +1,21 @@
 ---
 id: 3235-letter-to-girish-k-munshi-22-06-1974
 title:
-  main: "Letter to Girish K Munshi"
+  main: "[Letter to Girish K Munshi]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "liberalism-as-tradition"
+  - "electoral-reform"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_edition_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Girish K Munshi
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated June 22, 1974, S. V. Raju writes to Girish about Piloo Mody’s letter to the Swatantra Party’s General Council. Raju argues that Mody has failed to meet C. Rajagopalachari’s expectations and is seeking to dissolve the existing party in favour of a new political formation. He maintains that the need for a national alternative is not a new idea, but insists that such an alternative must be genuinely democratic and supported by other major national opposition parties.
 ---
 
-Archive item 3235; dated 1974-06-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Raju criticises Piloo Mody’s political leadership and his attempt to justify dissolving the Swatantra Party.
+- He links Mody’s position to the longstanding arguments of Rajaji and Minoo Masani for a national alternative.
+- He argues that a credible national alternative must include other major democratic opposition parties.
+- Raju says Mody is being influenced by Charan Singh and describes this as a politically dangerous direction.
+- He fears that, as Party President, Mody could commit the Swatantra Party’s accumulated assets to a new party.
+- He argues that the party’s money and properties were collected to advance the objectives of the Swatantra Party and should not be absorbed by another organisation.

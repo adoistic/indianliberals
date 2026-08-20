@@ -1,7 +1,7 @@
 ---
 id: 2008-letter-from-mr-minoo-masani-28-03-1964
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
+  - "no_edition"
+  - "no_series"
+  - "no_identifiers"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 28 March 1964, M. R. Masani replies to Mr. S. K. Dey of the Ministry of Community Development and Co-operation regarding an invitation to join the Consultative Council on Panchayati Raj. Masani accepts the invitation and agrees to advise the Ministry through service on the Council.
 ---
 
-Archive item 2008; dated 1964-03-28; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter was written in New Delhi on 28 March 1964.
+- Masani acknowledges a letter from S. K. Dey dated 25 March.
+- The invitation concerns membership of the Consultative Council on Panchayati Raj.
+- Masani accepts the invitation to serve on the Council.
+- The letter frames his participation as an opportunity to advise the Ministry of Community Development and Co-operation.

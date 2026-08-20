@@ -1,23 +1,21 @@
 ---
 id: 5204-letter-to-mr-minoo-masani-11-11-1959
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 11 November 1959, is written by S. S. Mariswamy from Madras to Minoo Masani. On Berigai letterhead, Mariswamy says that he is sending Masani, by separate post, a copy of Berigai containing speeches delivered at the publication's recent convention. The letter closes with thanks and a formal salutation.
 ---
 
-Archive item 5204; dated 1959-11-11; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a typed letter dated 11 November 1959.
+- S. S. Mariswamy is the signatory and appears as the editor on the Berigai letterhead.
+- The letter is addressed to Shri M. R. Masani, resolved as Minoo Masani.
+- Mariswamy says he is sending a copy of Berigai by separate post.
+- The enclosed issue contains speeches from a recent convention.
+- The letter was sent from an address on Poonamallee High Road, Madras-3.

@@ -1,7 +1,7 @@
 ---
 id: 1818-letter-to-hp-mody-14-07-1959
 title:
-  main: "Letter to HP Mody"
+  main: "[Letter to HP Mody]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Saharanpur, U.P."
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "liberalism-as-tradition"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_edition_statement"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: HP Mody
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This 14 July 1959 letter from Saharanpur is Yajna Datta Tyagi’s congratulatory message to H. P. Mody on his election as Treasurer of the newly formed Swatantra Party. Tyagi recalls his earlier association with Mody during Mody’s governorship of Uttar Pradesh and at the 1950 All India Diplomatic Studies Convention in Allahabad. He also describes his own work as a lawyer and as editor of the Hindi weekly Loksatta, and offers his active cooperation to the party.
 ---
 
-Archive item 1818; dated 1959-07-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Tyagi congratulates H. P. Mody on becoming Treasurer of the Swatantra Party.
+- He recalls working under Mody’s guidance during the 1950 All India Diplomatic Studies Convention at Allahabad.
+- Tyagi identifies himself as a Saharanpur lawyer and editor of the Hindi weekly Loksatta.
+- He expresses disillusionment with the Congress regime and with parties acting contrary to their professed principles.
+- He presents the Swatantra Party as a hopeful alternative to Congress.
+- He reports mobilising support for the party in districts of western Uttar Pradesh.
+- He asks for Mody’s blessings and guidance while offering continued organisational cooperation.

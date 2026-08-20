@@ -1,22 +1,21 @@
 ---
 id: 136-for-favour-of-publication-24-01-1968
 title:
-  main: "For Favour of Publication"
+  main: "[For Favour of Publication]"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: occasional_paper
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1968
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,15 +25,40 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "constitutionalism"
+  - "civil-liberty"
+  - "governance-reform"
+  - "party-politics"
+  - "cold-war-positioning"
+  - "economic-liberty"
+  - "regulatory-state-critique"
+  - "anti-corruption"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this two-page press-publication statement, M. R. Masani argues that India’s Republic and Constitution are endangered by both external hostility and internal failures. He calls on citizens to renew their loyalty to the Constitution and rejects the division between responsible citizens and supposedly blameworthy politicians: in a democracy, governments reflect the people, and continual vigilance and participation are necessary to preserve freedom. He particularly criticises the business community for neglecting its civic responsibilities, citing public passivity toward legislation imposing “social control” over banking and insurance.
 ---
 
-Archive item 136; dated 1968-01-24; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani presents the Republic as threatened by Chinese Communist aggression, Communist subversion, economic decline, corruption, disorder, and political irresponsibility.
+- He argues that democratic freedom depends on daily citizen vigilance, participation, and acceptance of individual responsibility.
+- He criticises businesspeople, depositors, shareholders, and insurance policyholders for failing to organise against legislation he believes would damage banking and insurance services.
+- He attributes economic deterioration to bad government policies, inadequate planning, and insufficient capacity for hard work.
+- He calls for Union and State governments to enforce law and order rather than shifting responsibility onto one another.
+- He distinguishes voluntary democratic discipline from the coercive discipline of authoritarian regimes, warning that disorder could create a dangerous power vacuum.
+- He proposes a broad-based Government of Democratic Unity excluding the Communists, and urges citizens and voluntary associations to act directly in their communities.

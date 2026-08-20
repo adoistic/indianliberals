@@ -1,22 +1,22 @@
 ---
 id: 4947-letter-to-inder-malohtra-22-10-1975
 title:
-  main: "Letter to inder malohtra"
+  main: "[Letter to inder malohtra]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,16 +26,37 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "civil-liberty"
+  - "press-freedom"
+  - "free-speech"
+  - "emergency-critique"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: inder malohtra
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page letter dated October 22, 1975, M. R. Masani declines an invitation from Inder Malhotra to contribute a feature on books being planned for the end of the year. He explains that, as editor of Freedom First, he has already declined to submit to the censor and is seeking assistance from the law courts through a writ of mandamus to assert his right to publish material he considers reasonable.
+  
+  Masani says he will contribute approximately 500 words only if The Times of India gives a specific assurance that the text will be published without alteration or deletion, whether by the censor or the editor. He acknowledges that his contribution would not normally violate government guidelines, but argues that the unusual circumstances require him to retain the right to judge the matter himself. He also asks about the delayed review of his book "The JP Answer," which he expected Malhotra to have prepared.
 ---
 
-Archive item 4947; dated 1975-10-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani declines a proposed contribution to a year-end feature on books.
+- He situates the decision in his role as editor of Freedom First during an unusual political and censorship climate.
+- He is seeking assistance from the law courts through a writ of mandamus to defend his right to publish.
+- He conditions any contribution on The Times of India's assurance that it will not be censored or edited.
+- He distinguishes compliance with government guidelines from his claimed right to decide whether a particular contribution should be published.
+- He asks for an update on the delayed review of his book "The JP Answer."

@@ -1,22 +1,22 @@
 ---
 id: 6016-letter-from-jayaprakash-naryan-27-09-1972
 title:
-  main: "Letter from Jayaprakash Naryan"
+  main: "[Letter from Jayaprakash Naryan]"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: edited_volume
+authors:
+  - jayaprakash-narayan
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Patna"
   year: 1972
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 8
   pages_total_source: pypdfium2
@@ -27,15 +27,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "economic-liberty"
+  - "planning-critique"
+  - "regulatory-state-critique"
+  - "decentralization"
+  - "governance-reform"
+  - "anti-corruption"
+  - "public-sector-critique"
+  - "socialism-debate"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "no_formal_toc"
+  - "editor_not_named"
+  - "mixed_document_packet"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Jayaprakash Naryan
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 6016; dated 1972-09-27; 8 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+Archive item 6016. Scanned document from the Swatantra Party papers.

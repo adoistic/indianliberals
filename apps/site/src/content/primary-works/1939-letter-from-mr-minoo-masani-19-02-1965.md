@@ -1,7 +1,7 @@
 ---
 id: 1939-letter-from-mr-minoo-masani-19-02-1965
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi 3"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "governance-reform"
+  - "constitutionalism"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer_resolution"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated February 19, 1965, M. R. Masani writes from the Parliamentary Group Office to the Secretary of the Lok Sabha, for the attention of Mr. P. K. Patnaik. He refers to an amendment to the President's Address that had been tabled in his name and in the names of others in List 2.
+  
+  Masani explains that paragraph (b) of the amendment was accidentally omitted from the circulated copy. He requests that the amendment be reduplicated and circulated with the missing paragraph restored, which he considers important. He also suggests dropping any clauses beyond the contained paragraph if they do not form part of the amendment tabled by his group.
 ---
 
-Archive item 1939; dated 1965-02-19; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated February 19, 1965, and originates from 57 Lodi Estate, New Delhi 3.
+- M. R. Masani addresses the Secretary of the Lok Sabha regarding an amendment to the President's Address.
+- The amendment was tabled in Masani's name and in the names of others in List 2.
+- Paragraph (b) was accidentally omitted from the circulated copy of the amendment.
+- Masani asks for the amendment to be reduplicated and recirculated with paragraph (b) restored.
+- He asks that clauses beyond the contained paragraph be dropped if they were not part of his group's amendment.

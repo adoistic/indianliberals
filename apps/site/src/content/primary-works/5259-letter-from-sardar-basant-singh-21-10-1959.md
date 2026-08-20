@@ -1,7 +1,7 @@
 ---
 id: 5259-letter-from-sardar-basant-singh-21-10-1959
 title:
-  main: "Letter from Sardar Basant Singh"
+  main: "INAUGURATING CONFERENCE MANGALORE 25TH PLEASE CONVEY CONVENTION MY APOLOGIES FOR ABSENCE AND BEST WISHES SUCCESS"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_publisher"
+  - "no_place"
+  - "no_addressee_address"
+  - "no_salutation_or_body_visible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Basant Singh
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English correspondence is a confirmatory copy sent by ordinary post, dated 21 October 1959. It is headed for Sardar Basant Singh of the Swatantra Party, Patiala, and concerns the inaugural conference and convention in Mangalore on 25 October. The visible text records Masani’s apology for being unable to attend and asks that his best wishes for the event’s success be conveyed.
 ---
 
-Archive item 5259; dated 1959-10-21; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is marked “ORDINARY” and identified as a confirmatory copy by ordinary post.
+- It is addressed to Sardar Basant Singh of the Swatantra Party, Patiala.
+- The correspondence concerns an inaugural conference and convention in Mangalore.
+- The event is dated for 25 October, while the letter itself is dated 21 October 1959.
+- Masani apologises for his absence and sends best wishes for the convention’s success.
+- No substantive argument, policy discussion, or extended body text is visible on the rendered page.

@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "no_explicit_author_byline"
+  - "no_publisher"
+  - "no_recipient_name"
+  - "office_record_enum_constraint"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English administrative record, dated May 21, 1974, is headed “Madras Visit Folder.” It identifies itself as a telex message from “J.P.” transmitted through the Indian Express and provides the Madras host’s name, address, and telephone number.
+  
+  The message names Mr. K. B. Eswaran of Sudhama, located at No. 6 Sir Desika Chari Road, Mylapore 4. No further information about the purpose, itinerary, recipient, or outcome of the visit appears on the rendered page.
 ---
 
-Archive item 5979; dated 1974-05-21; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is dated May 21, 1974.
+- It is headed “Madras Visit Folder.”
+- It is described as a telex message from J.P. through the Indian Express.
+- The Madras host is identified as Mr. K. B. Eswaran of Sudhama.
+- The listed address is No. 6 Sir Desika Chari Road, Mylapore 4.
+- A telephone number, 72911, is provided.

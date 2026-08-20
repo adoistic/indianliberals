@@ -1,7 +1,7 @@
 ---
 id: 1921-letter-from-mr-minoo-masani-12-03-1965
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated March 12, 1965, is written by M. R. Masani from 57 Lodhi Estate, New Delhi, to Mr. Ramanan, Under Secretary at the Lok Sabha Secretariat. Masani proposes a minor correction to the minutes of the fourth meeting of the Jawaharlal Nehru Portrait Parliamentary Committee. He argues that paragraph 3 should accurately record M. R. Masani's statement that members of his party would be asked to contribute the specified amount individually.
 ---
 
-Archive item 1921; dated 1965-03-12; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a typed office letter dated March 12, 1965.
+- M. R. Masani addresses Mr. Ramanan at the Lok Sabha Secretariat.
+- Masani requests a wording change in the minutes of the committee's fourth meeting.
+- The proposed correction concerns paragraph 3 of the minutes.
+- The revised wording states that members of Masani's party would be requested to contribute the specified amount individually.
+- The committee discussed is the Jawaharlal Nehru Portrait Parliamentary Committee.

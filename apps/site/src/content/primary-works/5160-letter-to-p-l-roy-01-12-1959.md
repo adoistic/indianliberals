@@ -1,22 +1,21 @@
 ---
 id: 5160-letter-to-p-l-roy-01-12-1959
 title:
-  main: "Letter to P L Roy"
+  main: "[Letter to P L Roy]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_edition"
+  - "no_series"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: P L Roy
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated 1 December 1959, is from M. R. Masani to P. L. Roy. Masani explains that he has not yet been informed of the time or location of a cocktail party in Calcutta scheduled for Friday, 4 December, and says he will be available at the Great Eastern Hotel from 6:30 p.m. onward so that Roy can collect him en route.
 ---
 
-Archive item 5160; dated 1959-12-01; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 1 December 1959.
+- M. R. Masani addresses the recipient as “My dear Roy.”
+- Masani has not been given the time or place of a cocktail party in Calcutta.
+- He will be available at the Great Eastern Hotel from 6:30 p.m. onward.
+- He asks Roy to collect him on the way to the event.
+- Masani requests a message at the hotel with the necessary particulars and the required dress code.
+- The letter is addressed to Mr. P. L. Roy at The Metal Box Co of India Ltd., New Delhi.

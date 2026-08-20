@@ -1,7 +1,7 @@
 ---
 id: 5313-letter-to-g-b-joshi-17-09-1959
 title:
-  main: "Letter to G B Joshi"
+  main: "[Letter to G B Joshi]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "publisher_not_identified"
+  - "place_not_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: G B Joshi
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English letter, dated 17 September 1959, is addressed to Mr. C. B. Joshi, Hon. Secretary and Development Officer of the North Gujarat Development Board in Ahmedabad. The writer, signing as Secretary to Mr. M. R. Masani, acknowledges Joshi’s letter of 21 August and its enclosure, thanks him for material made available to Masani, and explains that Masani is currently abroad and expected to return around 6 October.
 ---
 
-Archive item 5313; dated 1959-09-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 17 September 1959.
+- It is addressed to Mr. C. B. Joshi of the North Gujarat Development Board.
+- The writer acknowledges receipt of Joshi’s 21 August letter and an enclosure for acknowledgement.
+- M. R. Masani is reported to be abroad and expected back around 6 October.
+- The writer conveys Masani’s thanks for material Joshi made available to him.
+- The writer is identified only as Secretary to Mr. M. R. Masani.

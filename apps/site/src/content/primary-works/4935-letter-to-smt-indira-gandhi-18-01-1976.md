@@ -1,23 +1,22 @@
 ---
 id: 4935-letter-to-smt-indira-gandhi-18-01-1976
 title:
-  main: "Letter to Smt Indira Gandhi"
+  main: "[Letter to Smt Indira Gandhi]"
   subtitle: ""
 work_type: letter
 authors:
-  - indira-gandhi
+  - jayaprakash-narayan
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1976
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -28,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "emergency-critique"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_standard_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated January 18, 1976, Jayaprakash Narayan writes to Prime Minister Indira Gandhi after H. O. Gorey brings him a copy of a letter Gorey and H. M. Patel had sent her the previous weekend. Narayan argues that steps should be taken to end the existing impasse and begin a dialogue.
 ---
 
-Archive item 4935; dated 1976-01-18; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a political letter from Jayaprakash Narayan to Prime Minister Indira Gandhi.
+- Narayan reports receiving a copy of a recent letter from H. O. Gorey and H. M. Patel.
+- He calls for an end to the prevailing political impasse.
+- He proposes beginning a dialogue, while noting that he must first consult senior colleagues.
+- He identifies Morarjibhai Desai, Charan Singh, Ashoka Mehta, Atal Bihari Vajpayee, Madhu Limaye, and Siddharaj Dhadda as colleagues to be consulted.
+- Narayan says that Gandhi is the person who can make a meeting between the parties possible.

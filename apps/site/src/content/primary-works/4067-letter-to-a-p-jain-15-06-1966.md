@@ -1,9 +1,9 @@
 ---
 id: 4067-letter-to-a-p-jain-15-06-1966
 title:
-  main: "Letter to A P Jain"
+  main: "[Letter to A P Jain]"
   subtitle: ""
-work_type: letter
+work_type: telegram
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "NEW DELHI"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_venue"
+  - "no_formal_publication_details"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: A P Jain
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English telegram record, dated 15 June 1966, was issued from the Swatantra Party Parliamentary Office in New Delhi under the name A P Jain. The message asks the recipient to confirm “RANGA” and states that the sender will meet the Prime Minister on 22 June at 5 p.m.; it also notes that Ranga has been informed.
 ---
 
-Archive item 4067; dated 1966-06-15; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a telegram and confirmation copy rather than a conventional letter.
+- It was issued from the Swatantra Party Parliamentary Office at 53 North Avenue, New Delhi.
+- The sender is identified as A P Jain.
+- The message requests confirmation from “RANGA.”
+- The sender says he will meet the Prime Minister on 22 June at 5 p.m.
+- The message reports that Ranga has been informed.
+- The confirmation copy is addressed to M. R. Masani of the Swatantra Party in Bombay.

@@ -1,22 +1,22 @@
 ---
 id: 2435-letter-to-regional-transport-officer-07-02-1985
 title:
-  main: "Letter to Regional Transport Officer"
+  main: "[Letter to Regional Transport Officer]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY"
   year: 1985
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
+  - "no_named_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Regional Transport Officer
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this registered letter dated February 7, 1985, Minoo Masani asks the Regional Transport Officer, RTO Recovery Branch, to cancel a motor-vehicle tax bill for Jeep No. MRG 2347. He explains that the bill, dated February 1, 1984, covers the period February 1984 to January 1985, despite earlier correspondence that he says should have settled the matter.
+  
+  Masani states that the vehicle belonged to the Swatantra Party for election use in 1971 and was sold outside Bombay immediately after the elections. He refers the officer to letters from the Executive Secretary of the Bharatiya Lok Dal dated March 29, 1976, and from S. V. Raju dated November 23, 1976, asserting that nothing is owed by him and returning the bill for cancellation. The page records an administrative dispute involving party property, vehicle ownership, and retrospective tax recovery.
 ---
 
-Archive item 2435; dated 1985-02-07; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated February 7, 1985, and is addressed to the Regional Transport Officer, RTO Recovery Branch, in Bombay.
+- Masani disputes Motor Vehicles Tax Bill No. 840201 for the period February 1984 to January 1985.
+- The disputed vehicle is Jeep No. MRG 2347.
+- Masani says the jeep belonged to the Swatantra Party during the 1971 elections and was sold outside Bombay after the elections.
+- He cites earlier letters from the Bharatiya Lok Dal's Executive Secretary and S. V. Raju concerning the vehicle's disposal.
+- He asks the transport office to cancel the bill and states that he owes nothing in respect of the vehicle.

@@ -1,23 +1,21 @@
 ---
 id: 3139-letter-to-s-v-raju-11-03-1985
 title:
-  main: "Letter to S V Raju"
+  main: "[Letter to S V Raju]"
   subtitle: ""
 work_type: letter
-authors:
-  - s-v-raju
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Pune"
   year: 1985
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_edition"
+  - "no_identifiers"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this handwritten letter dated 11 March 1985, K. R. Kodati writes from Pune to S. V. Raju, apologising for missing a wedding in Bombay and promising to visit during the fourth week of March. Kodati says he is collecting relevant papers and newspaper clippings for Raju, suggesting an ongoing exchange of political and archival material.
+  
+  Kodati also offers Raju recordings of political speeches, including a 1980 public-meeting speech by Rajaji and another recording concerning the general elections. He remarks that Rajaji’s election message was unusual and had become a symbol and part of propaganda material, and closes by offering best wishes and hoping to see Raju soon. The second rendered page shows the addressed inland-letter card, including the sender and recipient details and the postal slogan against untouchability.
 ---
 
-Archive item 3139; dated 1985-03-11; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 11 March 1985 and was written from 16 Gornaught Road, Pune.
+- K. R. Kodati apologises to S. V. Raju for not attending a wedding in Bombay.
+- Kodati plans to visit Bombay in the fourth week of March.
+- The sender is collecting relevant papers and newspaper clippings for Raju.
+- Kodati offers recordings of speeches by Rajaji and another speaker identified in the handwriting as “Rangaji.”
+- The letter discusses Rajaji’s message during the general elections and its later use as propaganda material.

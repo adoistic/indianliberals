@@ -1,23 +1,22 @@
 ---
 id: 4722-letter-to-mr-minoo-masani-09-08-1963
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,27 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page letter dated 9 August 1963, C. Rajagopalachari acknowledges Minoo Masani’s letter of 7 August and the materials enclosed with it. The enclosures included Nabakrishna Choudhury’s speech and other papers. Rajagopalachari adds that Mr. Krishna Jyothi is well known to the recipients, then closes the brief personal acknowledgement from his Madras address.
 ---
 
-Archive item 4722; dated 1963-08-09; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 9 August 1963 and is written by C. Rajagopalachari from Madras.
+- It acknowledges receipt of Minoo Masani’s letter dated 7 August.
+- The enclosures included Nabakrishna Choudhury’s speech and other papers.
+- Rajagopalachari states that Mr. Krishna Jyothi is well known to them.
+- The document is a brief personal acknowledgement rather than an argumentative or policy text.

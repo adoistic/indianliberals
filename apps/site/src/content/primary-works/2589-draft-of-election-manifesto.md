@@ -1,9 +1,10 @@
 ---
 id: 2589-draft-of-election-manifesto
 title:
-  main: "Draft of Election Manifesto"
+  main: "DRAFT OF ELECTION MANIFESTO"
   subtitle: ""
 work_type: occasional_paper
+purpose: manifesto
 authors: []
 editors: []
 contributors: []
@@ -11,11 +12,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY (Bombay Region)"
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -26,14 +28,39 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "electoral-reform"
+  - "urban-policy"
+  - "housing-policy"
+  - "education"
+  - "transport-policy"
+  - "employment-policy"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "publisher_not_explicitly_printed"
+  - "no_formal_title_page"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This three-page draft election manifesto, issued by the Swatantra Party (Bombay Region), presents policy proposals for the forthcoming Maharashtra Assembly elections. It frames Bombay’s pressing problems as requiring immediate, coordinated action, especially in housing, transport, employment, and metropolitan development.
+  
+  The manifesto calls for a specialist Housing Authority to accelerate slum rehabilitation and the construction of affordable houses, flats, and tenements, alongside tenancy and ownership subsidies and measures against real-estate speculation. It proposes an autonomous Metropolitan Rapid Transport Body to coordinate suburban trains and municipal buses, while exploring water transport along Bombay’s western seafront. On employment, it seeks to reduce migration into the city by creating rural jobs through public works, irrigation, low-cost housing, medical and conservancy services, industrial dispersal, vocational training, and adult education. The final section endorses an early Twin City Project to expand Bombay onto the mainland and relieve pressure on the island city.
 ---
 
-Archive item 2589; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The manifesto is directed at the forthcoming Maharashtra Assembly elections and focuses on Bombay’s urban crisis.
+- It proposes a high-powered Housing Authority staffed by urban-housing specialists.
+- It supports slum rehabilitation, affordable construction, tenancy and ownership subsidies, and action against real-estate speculation.
+- It recommends an autonomous Metropolitan Rapid Transport Body to coordinate suburban trains and municipal buses.
+- It proposes investigating water transport along Bombay’s western seafront.
+- It links urban unemployment to rural-urban migration and advocates a nationwide public-works programme to expand rural employment.
+- It supports industrial dispersal into the Trans-Thana belt and the mainland, together with vocational training and adult education.
+- It presents the Twin City Project as the principal strategy for Bombay’s long-term spatial development.

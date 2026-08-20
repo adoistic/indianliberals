@@ -1,7 +1,7 @@
 ---
 id: 3385-letter-from-mr-minoo-masani-04-10-1961
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -17,7 +17,7 @@ publication:
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +28,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_recipient_visible"
+  - "no_place"
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page Swatantra Party inter-office memo, dated 4 October 1961, records an internal financial arrangement concerning the non-payment of the first instalment by the Raja Saheb of Ramgarh to Sir Homi Mody, the party’s Treasurer. M. R. Masani notes that he showed the relevant communication from New India and the Central Bank.
 ---
 
-Archive item 3385; dated 1961-10-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is an inter-office memo issued under the Swatantra Party heading.
+- It is dated 4 October 1961 and signed by M. R. Masani.
+- The memo concerns the non-payment of a first instalment by the Raja Saheb of Ramgarh.
+- Sir Homi Mody is identified as the Treasurer.
+- A payment of Rs. 20,000 was agreed to be made in cash to the Central Bank.
+- Mr. Raju was asked to make the payment and hand the receipt to the Treasurer.

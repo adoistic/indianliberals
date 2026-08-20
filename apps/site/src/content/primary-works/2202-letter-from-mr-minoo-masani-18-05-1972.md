@@ -1,7 +1,7 @@
 ---
 id: 2202-letter-from-mr-minoo-masani-18-05-1972
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1972
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "no_edition_statement"
+  - "no_series_statement"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 18 May 1972, Minoo Masani replies to D. M. Patodia's letter of 15 May concerning an internal controversy within the party. Masani says he has tried to stay out of the dispute and doubts that the proposed changes will produce significant results. He advises Patodia to follow his own instincts, while suggesting that resignation need not be submitted immediately.
+  
+  Masani notes that Patodia could attend the forthcoming meeting in Madras and, if necessary, tender his resignation there. The page also contains handwritten annotations, including a suggestion to enlist subscribers for Freedom First and a reference to page 16.
 ---
 
-Archive item 2202; dated 1972-05-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani responds to D. M. Patodia's letter of 15 May 1972.
+- He describes the issue as an unfortunate controversy within the party.
+- He says he has tried to remain outside the dispute.
+- He expects the proposed changes to have little practical effect.
+- He tells Patodia to follow his own instincts about whether to resign.
+- He suggests attending the late-June meeting in Madras before deciding.

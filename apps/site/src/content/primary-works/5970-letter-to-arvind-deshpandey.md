@@ -1,7 +1,7 @@
 ---
 id: 5970-letter-to-arvind-deshpandey
 title:
-  main: "Letter to Arvind Deshpandey"
+  main: "[Letter to Arvind Deshpandey]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,12 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
+  year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_formal_byline"
+  - "telegram_enum_unavailable"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Arvind Deshpandey
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram, sent from Bombay on June 14, 1974, is addressed to Arvind Deshpande at the Care Halbe Near Film Institute Road, Poona 4. Signed “MASANI,” it asks the recipient to be prepared to travel to Patna for urgent work during the middle of the following week. The page contains no further explanation of the assignment, its urgency, or the intended visit.
 ---
 
-Archive item 5970; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is marked “EXPRESS” and is formatted as a telegram.
+- It is addressed to Arvind Deshpande in Poona.
+- The apparent sender or signatory is identified only as “MASANI.”
+- The message requests preparation for a visit to Patna.
+- The purpose is described only as “urgent work.”
+- The proposed timing is the middle of the next week.
+- The telegram is dated June 14, 1974, and originates from Bombay.

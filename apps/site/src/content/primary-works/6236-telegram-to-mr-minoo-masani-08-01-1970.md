@@ -1,23 +1,20 @@
 ---
 id: 6236-telegram-to-mr-minoo-masani-08-01-1970
 title:
-  main: "Telegram to Mr Minoo Masani"
+  main: "[Telegram to Mr Minoo Masani]"
   subtitle: ""
 work_type: telegram
-authors:
-  - minoo-masani
+work_type_source: filename
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +25,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "recipient_identity_ambiguous"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram, sent on an Indian Posts and Telegraphs Department form, concerns arrangements for a Sundargarh District Conference in Rourkela. It states that the conference has been fixed for February 8, 9, and 10, and that a public meeting will take place on February 10.
+  
+  The sender asks the recipient to refer to an earlier discussion and requests confirmation from Sundarmani Patel. The page does not identify the sender, does not clearly print a year, and includes an ambiguous telegraphic address for the recipient in Bombay.
 ---
 
-Archive item 6236; dated 1970-01-08; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page English telegram on an Indian Posts and Telegraphs Department form.
+- It refers to an earlier discussion concerning the Sundargarh District Conference.
+- The conference is scheduled to take place in Rourkela on February 8, 9, and 10.
+- A public meeting is scheduled for February 10.
+- The telegram requests confirmation from Sundarmani Patel.
+- The sender is not identified on the visible page.
+- The recipient's telegraphic address appears to be associated with Masani and Bombay, but its exact reading is ambiguous.

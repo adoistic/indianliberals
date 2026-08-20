@@ -1,9 +1,10 @@
 ---
 id: 3716-resolution-passed-by-the-karnataka-unit-of-the-party-24-04-1974
 title:
-  main: "Resolution Passed by the Karnataka Unit of the Party"
+  main: "Text of resolution passed by the Karnataka Unit of the Party on merger"
   subtitle: ""
 work_type: resolution
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Karnataka State Swatantra Party"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +28,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "constitutionalism"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_publisher_line"
+  - "no_place"
+  - "no_named_author"
+  - "no_formal_publication_date"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English resolution records the Karnataka State Swatantra Party executive committee's response to a proposal for merger with several other political parties, including the B.K.D., Utkal Congress, S.S.P., Muslim Majlis, Loktantrik Dal, and Khatikar Sangh. The committee authorises the party president and General Council to negotiate and act on the proposal, but insists that any merger must preserve the Swatantra Party's basic ideals and principles.
 ---
 
-Archive item 3716; dated 1974-04-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The resolution was passed unanimously by the Karnataka State Swatantra Party executive committee.
+- It concerns a proposed merger between the Swatantra Party and several other political parties.
+- The party president and General Council are authorised to agree to and pursue the merger.
+- The authorisation is conditional on preserving the Swatantra Party's basic ideals and principles.
+- Representatives are instructed to attend the General Council meeting and convey the members' position.
+- The resolution refers to the party's 22 principles in its manifesto, while the scan's final paragraph appears to say 21 principles in one place.
+- The document argues that acceptance of these principles by other parties could produce a new all-India party and support a two-party system as a means of saving democracy.

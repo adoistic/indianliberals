@@ -1,7 +1,7 @@
 ---
 id: 5819-letter-from-mr-minoo-masani-13-04-1992
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1992
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "press-freedom"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "place_not_identified"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page correspondence concerns a notice from the Lok Sabha Secretariat regarding a column by M.R. Masani published in The Statesman on March 15, 1992. In his letter of March 8, Cushrow Irani tells Masani that the Speaker’s office has requested the newspaper’s comments and says he will follow whatever position Masani takes. The letter frames the matter as a question requiring coordination between the columnist and the newspaper.
 ---
 
-Archive item 5819; dated 1992-04-13; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Cushrow Irani’s March 8 letter encloses a notice from the Lok Sabha Secretariat concerning one of Masani’s columns.
+- The notice relates to a column published in The Statesman on March 15.
+- Irani says the Speaker’s office has requested the newspaper’s comments.
+- Irani offers to follow whatever position Masani adopts.
+- Masani’s April 13 reply forwards a copy of his letter to the Joint Secretary of Parliament.
+- Masani leaves Irani free to take whatever stand he considers best in the interest of the paper.
+- The exchange documents a press-related interaction with a parliamentary authority.

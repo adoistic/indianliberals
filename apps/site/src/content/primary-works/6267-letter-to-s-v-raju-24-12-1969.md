@@ -1,23 +1,21 @@
 ---
 id: 6267-letter-to-s-v-raju-24-12-1969
 title:
-  main: "Letter to S V Raju"
+  main: "[Letter to S V Raju]"
   subtitle: ""
 work_type: letter
 authors:
-  - s-v-raju
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1969
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "recipient_not_author"
+  - "no_formal_letterhead_visible"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English office letter, dated 12 November 1969 and signed by M. R. Masani, is addressed to Mr. Raju. Masani asks that Mr. Kashyap be elected to the General Council from Maharashtra and not be overlooked. The letter is therefore a brief intervention concerning representation, candidate selection, and internal organisational politics.
+  
+  The second rendered page consists chiefly of handwritten annotations and appears to contain a short list of names and quantities, together with a note identifying an “Erdumann’s Book” and an address for Suresh Naglath in Agra. The annotations are only partly legible and their relationship to the typed letter is not explained on the visible pages.
 ---
 
-Archive item 6267; dated 1969-12-24; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- M. R. Masani writes to Mr. Raju on 12 November 1969.
+- He requests that Mr. Kashyap be elected to the General Council from Maharashtra.
+- The letter stresses that Kashyap should not be overlooked.
+- The document concerns internal representation and organisational or party-political selection.
+- The second page contains partly legible handwritten lists, quantities, names, and an Agra address.

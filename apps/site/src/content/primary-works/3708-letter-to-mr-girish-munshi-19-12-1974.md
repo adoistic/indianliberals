@@ -1,22 +1,22 @@
 ---
 id: 3708-letter-to-mr-girish-munshi-19-12-1974
 title:
-  main: "Letter to Mr Girish Munshi"
+  main: "[Letter to Mr Girish Munshi]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - piloo-mody
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_subtitle"
+  - "no_edition"
+  - "no_series"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Girish Munshi
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English letter from Piloo Mody, dated December 19, 1974, acknowledges Girish Munshi’s letter of December 6. Mody explains that he has no current plans to visit Bombay but may do so once his programme is fixed.
+  
+  Mody closes by saying that he will ask Bhatia to inform Munshi when the arrangements are known. The letter is typed on Mody’s New Delhi parliamentary letterhead and includes a carbon-copy notation for V. P. Bhatia.
 ---
 
-Archive item 3708; dated 1974-12-19; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated December 19, 1974, and was sent from Piloo Mody’s New Delhi parliamentary office.
+- Mody acknowledges receipt of Girish Munshi’s letter dated December 6.
+- Mody states that he currently has no plans to visit Bombay.
+- He says he will ask Bhatia to inform Munshi once his programme is fixed.
+- The page includes a carbon-copy notation for V. P. Bhatia.

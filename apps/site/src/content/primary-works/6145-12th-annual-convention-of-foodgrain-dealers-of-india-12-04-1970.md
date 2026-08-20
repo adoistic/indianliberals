@@ -1,22 +1,23 @@
 ---
 id: 6145-12th-annual-convention-of-foodgrain-dealers-of-india-12-04-1970
 title:
-  main: "12th Annual Convention of Foodgrain Dealers of India"
+  main: "CONVENTION OF FOODGRAIN DEALERS OF INDIA"
   subtitle: ""
-work_type: edited_volume
+work_type: occasional_paper
+purpose: report
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "THE FEDERATION OF ALL INDIA FOODGRAIN DEALERS’ ASSOCIATIONS"
+  place: "Delhi"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 7
   pages_total_source: pypdfium2
@@ -27,14 +28,41 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "planning-critique"
+  - "regulatory-state-critique"
+  - "economic-liberty"
+  - "free-trade"
+  - "party-politics"
+  - "agricultural-reform"
+missing_metadata_flags:
+  - "publisher_not_resolved"
+  - "issuer_not_resolved"
+  - "no_formal_title_page"
+  - "multilingual_document_set"
+  - "no_toc"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This seven-page archival dossier documents the Federation of All India Foodgrain Dealers’ Associations’ 12th annual convention, held in Delhi on 12 April 1970. The invitation and publicity materials present the convention as a coordinated response to the Government of India’s proposed nationalisation of the foodgrain trade. They argue that transferring the trade to state governments, the Food Corporation of India, or cooperative societies would threaten traders’ businesses and livelihoods, while also harming consumers and cultivators through disruption and inefficiency.
+  
+  The English and Hindi bulletins call for a large, peaceful and constitutional mobilisation of foodgrain dealers. They announce expected attendance of approximately 20,000–25,000 traders, arrangements for delegates at the National Football Stadium, and the inauguration by Dr. Bharat Ram, identified as president of the International Chamber of Commerce and a prominent industrialist. The packet also includes an invitation to Members of Parliament, a Gujarati letter describing a proposed delegation from Gujarat, and related logistical correspondence. The documents are advocacy and organising materials rather than a neutral policy analysis; they emphasise economic liberty, opposition to state control, federation-building and financial contributions to the convention.
 ---
 
-Archive item 6145; dated 1970-04-12; 7 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Federation of All India Foodgrain Dealers’ Associations convened its 12th annual convention in Delhi on 12 April 1970.
+- The convention was organised to oppose the proposed nationalisation of the foodgrain trade.
+- The publicity materials claim that state control would damage traders’ businesses and livelihoods and create difficulties for consumers and cultivators.
+- The Federation advocates opposition through peaceful, constitutional and lawful means.
+- The organisers expected approximately 20,000–25,000 foodgrain traders and sought to strengthen the Federation through attendance and financial contributions.
+- Dr. Bharat Ram was announced as the convention’s inaugurator, and the documents identify Federation officers and regional organisers.
+- The dossier combines English, Hindi and Gujarati invitations, bulletins and correspondence, including an appeal to Members of Parliament.

@@ -1,7 +1,7 @@
 ---
 id: 2916-rajajis-tour-programme-nov-1963
 title:
-  main: "Rajajis Tour Programme Nov-1963"
+  main: "Rajaji's Tour Programme for November 63"
   subtitle: ""
 work_type: occasional_paper
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_author_byline"
+  - "no_publisher"
+  - "no_issuer"
+  - "no_place"
+  - "no_edition"
+  - "no_series"
+  - "no_identifiers"
+  - "not_a_publication"
+  - "office_record_enum_conflict"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page office record, headed “Rajaji's Tour Programme for November 63,” lists C. Rajagopalachari's scheduled movements during November 1963. It records departures and arrivals by train and air between Vijayawada, Madras, Tirunelveli, and Delhi, with times and railway termini specified where applicable.
+  
+  The schedule includes Rajaji's attendance at the 17th Amendment Conference in Vijayawada and a Swatantra Party conference in Tirunelveli, followed by planned visits to Delhi on 23 and 24 November. The document is an administrative itinerary rather than an argumentative or literary work.
 ---
 
-Archive item 2916; dated 1963-11; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page typed itinerary for Rajaji's November 1963 tour.
+- Rajaji was scheduled to travel to Vijayawada on 2 November and attend the 17th Amendment Conference there on 3 November.
+- The itinerary records travel between Vijayawada and Madras, including departure and arrival times.
+- Rajaji was scheduled to travel to Tirunelveli on 9 November for a Swatantra Party conference on 10 November.
+- The schedule includes a return to Madras on 11–12 November and a planned flight to Delhi on 21 or 22 November.
+- The final visible entries place Rajaji in Delhi on 23 and 24 November.

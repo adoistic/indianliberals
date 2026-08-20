@@ -1,9 +1,10 @@
 ---
 id: 3865-swatantra-party-circular-22-10-1965
 title:
-  main: "Swatantra party Circular"
+  main: "C I R C U L A R"
   subtitle: ""
 work_type: circular
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY\nPARLIAMENT OFFICE"
+  place: "New Delhi"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +29,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "publisher_address"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English circular, issued by the Swatantra Party Parliament Office in New Delhi on 22 October 1965, announces a General Body meeting for Tuesday, 2 November 1965, at 10:30 a.m. The meeting is to take place in the Party Committee Room, Parliament House, New Delhi, and members are requested to attend.
+  
+  The listed agenda is limited to consideration of the party's business in the coming session of Parliament, with provision for any other item to be intimated later. The document is signed by N. G. Ranga, identified as the parliamentary leader. Archival marks include a receipt stamp dated 20 October 1965 and the handwritten reference number 3865.
 ---
 
-Archive item 3865; dated 1965-10-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Swatantra Party Parliament Office circulated notice of a General Body meeting.
+- The meeting was scheduled for 2 November 1965 at 10:30 a.m.
+- The venue was the Party Committee Room in Parliament House, New Delhi.
+- Members were requested to attend.
+- The principal agenda item was party business for the forthcoming session of Parliament.
+- Additional agenda items could be communicated later.
+- N. G. Ranga signed the circular as parliamentary leader.

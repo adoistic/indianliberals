@@ -1,7 +1,7 @@
 ---
 id: 1792-letter-to-mr-homi-modi-04-08-1959
 title:
-  main: "Letter to Mr Homi Modi"
+  main: "[Letter to Mr Homi Modi]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,12 +11,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_not_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Homi Modi
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English office letter, issued on Swatantra Party letterhead from Madras and dated 4 August 1959, informs the recipient that he was nominated at the party’s Bombay convention to its provisional Regional Council and asks him to confirm acceptance. The letter is signed by S. Y. Krishnaswamy.
+  
+  An attached administrative sheet headed “PROVISIONAL REGIONAL COUNCIL” lists nominees by region, including Madras, Andhra, Orissa, Uttar Pradesh, Assam, the Punjab, Rajasthan, Gujarat, Bombay, Karnataka, and Kerala. The supplied filename identifies the apparent recipient as Mr. Homi Modi, but that name does not appear on the rendered pages; the visible salutation is simply “Dear Sir.”
 ---
 
-Archive item 1792; dated 1959-08-04; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 4th August 1959 and was sent from 5, East Circular Road, Madras 28.
+- It records a nomination made at the Swatantra Party convention held in Bombay on 1 and 2 August 1959.
+- The nomination was to the provisional Regional Council of the Swatantra Party.
+- The recipient is asked to intimate his acceptance.
+- The second page lists provisional Regional Council nominees by region.

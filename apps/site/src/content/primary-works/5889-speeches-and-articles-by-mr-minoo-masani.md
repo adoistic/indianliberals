@@ -1,21 +1,20 @@
 ---
 id: 5889-speeches-and-articles-by-mr-minoo-masani
 title:
-  main: "Speeches And Articles By Mr Minoo Masani"
+  main: "Speeches and Articles by Mr. Masani"
   subtitle: ""
-work_type: speech
+work_type: book
+purpose: collected_works
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +25,40 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "socialism-debate"
+  - "planning-critique"
+  - "economic-liberty"
+  - "regulatory-state-critique"
+  - "foreign-policy"
+  - "party-politics"
+  - "capitalism-defence"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "no_year"
+  - "no_publisher"
+  - "no_place"
+  - "no_page_numbers"
+  - "toc_page_starts_absent"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  The rendered page is a contents sheet for a collected work headed “Speeches and Articles by Mr. Masani.” It lists eighteen items spanning political economy, socialism, mixed economic systems, anti-totalitarianism, foreign policy, agriculture, electoral politics, party organisation, convention reports, public finance, and international affairs. Several entries are dated or identify their source or occasion, including Korea (June 1952), Tibet (November–December 1952), a Bangalore speech to the Forum of Free Enterprise (May 1959), Cooperative Farming as an ICCF publication, and a Ranchi election manifesto (1963).
 ---
 
-Archive item 5889; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The page presents an eighteen-item contents list attributed in print to “Mr. Masani.”
+- The first three entries address socialism, a mixed economy, and anti-totalitarianism.
+- Foreign-policy material includes items on Korea and Tibet.
+- The collection includes agricultural and economic topics, including cooperative farming and a plea for a mixed economy.
+- Political material includes an election manifesto, convention speeches, general-secretary reports, and discussions of the Congress and the Swatantra alternative.
+- The final listed items concern a budget speech and international affairs.
+- The page does not provide the publication year, publisher, place of publication, or page starts for the listed items.

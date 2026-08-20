@@ -3,20 +3,18 @@ id: 5595-congress-defeats-swatantra-in-rajasthan-29-04-1968
 title:
   main: "Congress defeats Swatantra in Rajasthan"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1968
+  place: "Jaipur"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_not_printed"
+  - "year_not_printed"
+  - "source_publication_not_identified"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This newspaper clipping, datelined Jaipur, April 24, reports Congress victories over the Swatantra Party in the Dausa Lok Sabha and Chomu Vidhan Sabha constituencies in Rajasthan. It describes the contests as closely fought and says the results were expected to strengthen Congress confidence, while noting that Swatantra candidates had previously held both seats.
 ---
 
-Archive item 5595; dated 1968-04-29; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Congress won both the Dausa Lok Sabha and Chomu Vidhan Sabha seats.
+- The defeated opponents belonged to the Swatantra Party.
+- The contests are described as among the most keenly fought elections in Rajasthan.
+- The results were presented as a significant boost to Congress confidence.
+- The report discusses the scale of Congress organisation and campaign activity.
+- The clipping comments on the Swatantra Party's electoral position and internal campaign effort.

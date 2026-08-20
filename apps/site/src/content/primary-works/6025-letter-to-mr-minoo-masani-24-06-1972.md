@@ -1,23 +1,21 @@
 ---
 id: 6025-letter-to-mr-minoo-masani-24-06-1972
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Kadamkuan, Patna-3, Bihar, India"
   year: 1972
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_not_author"
+  - "author_not_resolved"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This typed letter, dated June 24, 1972, is from Sachchidanand, secretary to Jayaprakash Narayan, to M. R. Masani. Sachchidanand acknowledges Masani’s letter of June 21 and explains that it has been forwarded to Jayaprakash Narayan, who was then resting near Bangalore in Mysore State.
 ---
 
-Archive item 6025; dated 1972-06-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated June 24, 1972, and addressed to M. R. Masani.
+- The sender identifies himself as Sachchidanand, secretary to Jayaprakash Narayan.
+- Sachchidanand confirms receipt of Masani’s June 21 letter addressed to Jayaprakash Narayan.
+- Jayaprakash Narayan was staying at a Circuit House in Tippagondanahalli, approximately 20 miles from Bangalore.
+- Jayaprakash Narayan had left Yercaud on May 30, visited Delhi and Gwalior, and returned to the area before travelling to Bangalore.
+- The letter states that Jayaprakash Narayan was expected to remain at Tippagondanahalli until the third week of July.

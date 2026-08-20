@@ -1,22 +1,22 @@
 ---
 id: 2361-letter-to-mr-p-k-deo-07-12-1979
 title:
-  main: "Letter to Mr P K Deo"
+  main: "[Letter to Mr P K Deo]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1979
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +27,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: P K Deo
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English letter, dated December 7, 1979, was written by S. V. Raju to Mr. P. K. Deo. Raju acknowledges Deo's letter of November 22 and says he is writing to Ghasirambabu as suggested. He also thanks Deo for offering to write to the Regional Transport Office in Bombay and encloses a draft for that purpose.
+  
+  The enclosure is a formal certification addressed to the RTO Recovery Branch concerning Jeep No. MRA 4093. It states that the vehicle was purchased from the General Secretary of the Swatantra Party in 1967. The document is administrative and narrowly focused on providing evidence of the vehicle's ownership history.
 ---
 
-Archive item 2361; dated 1979-12-07; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- S. V. Raju's letter is dated December 7, 1979, and addressed to Mr. P. K. Deo.
+- Raju says he is writing to Ghasirambabu at Deo's suggestion.
+- Raju thanks Deo for offering to write to the RTO in Bombay.
+- The second page is an enclosed draft letter to the Regional Transport Officer, RTO Recovery Branch, Bombay.
+- The draft concerns Jeep No. MRA 4093 and cites an RTO post-card reference dated October 26, 1979.
+- The draft certifies that the vehicle was bought from the General Secretary of the Swatantra Party in 1967.

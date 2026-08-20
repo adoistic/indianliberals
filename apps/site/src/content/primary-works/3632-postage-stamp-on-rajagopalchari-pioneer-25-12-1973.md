@@ -1,22 +1,22 @@
 ---
 id: 3632-postage-stamp-on-rajagopalchari-pioneer-25-12-1973
 title:
-  main: "Postage Stamp On Rajagopalchari-Pioneer"
+  main: "Postage stamp on Rajagopalachari"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "PIONEER LUCKNOW"
+  place: "Lucknow"
   year: 1973
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "biographical-tribute"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_id_unresolved"
+  - "no_publication_day_confirmed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English newspaper clipping from Pioneer Lucknow reports the planned issue of a special 20-paise postage stamp commemorating C. Rajagopalachari. The stamp was scheduled for Tuesday, 25 December 1973, marking the first death anniversary of Rajagopalachari, who died in 1972.
+  
+  The notice states that the stamp would be sold through three philatelic bureaux in Lucknow, Kanpur, and Allahabad, as well as head post offices and selected sub-offices in Uttar Pradesh. First-day covers and publicity folders were also to be available, with special first-day cancellation provided at the philatelic bureaux. The clipping is mounted on an International Clipping Service sheet and carries a client identification for the Swatantra Party; no article byline is visible.
 ---
 
-Archive item 3632; dated 1973-12-25; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The clipping announces a special 20-paise postage stamp commemorating C. Rajagopalachari.
+- The issue date was Tuesday, 25 December 1973.
+- The stamp marked Rajagopalachari's first death anniversary.
+- The stamp was to be sold at philatelic bureaux in Lucknow, Kanpur, and Allahabad.
+- Availability was also planned at head post offices and selected sub-offices in Uttar Pradesh.
+- First-day covers, publicity folders, and special first-day cancellation were announced.

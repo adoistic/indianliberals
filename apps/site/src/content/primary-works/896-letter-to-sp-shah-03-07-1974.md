@@ -1,22 +1,21 @@
 ---
 id: 896-letter-to-sp-shah-03-07-1974
 title:
-  main: "Letter to SP Shah"
+  main: "[Letter to SP Shah]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "edition_not_printed"
+  - "series_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: SP Shah
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter from M. R. Masani to S. P. Shah is dated 3 July 1974. Masani thanks Shah for his letter of 13 June and expresses approval of the position Shah took in Delhi. He also forwards a second letter he has written to Piloo Mody in response to Mody’s communication.
 ---
 
-Archive item 896; dated 1974-07-03; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The letter is dated 3 July 1974.
+- Masani addresses S. P. Shah as “My dear Shah.”
+- Masani acknowledges Shah’s letter of 13 June.
+- Masani says he was pleased by Shah’s stand in Delhi.
+- Masani encloses a second letter addressed to Piloo Mody.
+- The enclosed letter responds to a letter Mody had sent to Masani.

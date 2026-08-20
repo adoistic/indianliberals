@@ -1,22 +1,25 @@
 ---
 id: 4004-general-council-circular-no-23-30-11-1966
 title:
-  main: "General Council Circular no-23"
+  main: "GENERAL COUNCIL CIRCULAR No. 23"
   subtitle: ""
 work_type: circular
-authors: []
+work_type_source: filename
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party — CENTRAL OFFICE"
+  place: "Bombay"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +30,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Party circular, dated 30 November 1966, informs party members that the General Council will meet in New Delhi on Sunday, 11 December, at 3 p.m. The meeting location is given as Vithalbhai Patel House, Rafi Marg, New Delhi.
+  
+  Signed by General Secretary M. R. Masani, the notice is a formal invitation to attend the party meeting. No agenda or further political subject matter is included on the page.
 ---
 
-Archive item 4004; dated 1966-11-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is General Council Circular No. 23 of the Swatantra Party.
+- It is dated 30 November 1966.
+- The General Council meeting is scheduled for Sunday, 11 December, at 3 p.m.
+- The meeting will take place at Vithalbhai Patel House, Rafi Marg, New Delhi.
+- The circular asks recipients to attend if possible.
+- M. R. Masani signs as General Secretary.

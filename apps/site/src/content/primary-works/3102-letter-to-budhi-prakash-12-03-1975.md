@@ -1,22 +1,22 @@
 ---
 id: 3102-letter-to-budhi-prakash-12-03-1975
 title:
-  main: "Letter to Budhi Prakash"
+  main: "[Letter to Budhi Prakash]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_edition"
+  - "no_series"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Budhi Prakash
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page typed personal letter, dated March 12, 1975, was sent by S. V. Raju from Tilak Nagar, Chembur, Bombay, to Budhi Prakash, an advocate in Chamba, Himachal Pradesh. In a brief, teasing message, Raju asks whether Prakash is “dead or alive” and jokes that being in “BLD” would mean he was dead, while absence from it would indicate that he was alive.
 ---
 
-Archive item 3102; dated 1975-03-12; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated March 12, 1975.
+- S. V. Raju writes from Tilak Nagar, Chembur, Bombay.
+- The recipient is Budhi Prakash, identified as an advocate in Chamba, Himachal Pradesh.
+- The letter asks, humorously, whether Budhi Prakash is “dead or alive.”
+- It refers to “BLD,” though the abbreviation is not explained on the page.
+- The letter closes with kind regards and Raju’s signature.

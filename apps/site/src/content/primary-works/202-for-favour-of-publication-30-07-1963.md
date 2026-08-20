@@ -1,22 +1,21 @@
 ---
 id: 202-for-favour-of-publication-30-07-1963
 title:
-  main: "For Favour of Publication"
+  main: "[For Favour of Publication]"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: occasional_paper
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1963
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +26,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "electoral-reform"
+  - "party-politics"
+  - "governance-reform"
+  - "education"
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "year_not_printed"
+  - "document_type_label_unclear"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this two-page statement, M. R. Masani reflects on his recent Parliamentary campaign for the Lok Sabha seat from Rajkot. He identifies two notable features of the campaign: the continuing fear of authority among much of the rural population, and intense antagonism toward people wearing the white Gandhi cap. He also describes Rajkot voters as politically conscious and relatively free from narrow parochialism, noting their acceptance of a candidate attacked as an “outsider.”
+  
+  Masani then turns to practical electoral reform. He argues that the high cost of campaigning is aggravated by the size of parliamentary constituencies and proposes that candidate manifestos and voter information be distributed by the government, while mobile polling stations should reduce the need for voters to travel long distances. He attributes electoral success to both organisation and platform, describes the value of mobile campaign teams and mass communication, and discusses television as a possible future instrument for voter education. The statement closes by emphasising that elections remain unpredictable and recalling the exuberant public response to the Rajkot result.
 ---
 
-Archive item 202; dated 1963-07-30; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani reports that fear of authority remained widespread among the rural population during the Rajkot campaign.
+- He observes strong antagonism toward people wearing the white Gandhi cap, despite its association with the independence struggle.
+- He characterises Rajkot voters as politically conscious, hospitable, and receptive to an outsider candidate.
+- He criticises the high cost of parliamentary elections and the resulting influence of money power.
+- He proposes government distribution of candidate manifestos and voter information, together with mobile polling stations.
+- He presents electoral success as dependent on both effective organisation and a platform that communicates clear principles.
+- He treats television as a promising but not yet immediately available means of educating a largely illiterate electorate.

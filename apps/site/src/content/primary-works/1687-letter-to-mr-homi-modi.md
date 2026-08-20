@@ -1,7 +1,7 @@
 ---
 id: 1687-letter-to-mr-homi-modi
 title:
-  main: "Letter to Mr Homi Modi"
+  main: "[Letter to Mr Homi Modi]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,11 +11,11 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "recipient_not_authority_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Homi Modi
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This undated, single-page English letter on Swatantra Party letterhead is signed by S. Y. Krishnaswamy from 106 Armenian Street, George Town, Madras. Addressed to Sir Homi Modi in Bombay, it responds to a short published account of Modi's speech in Bombay, which Krishnaswamy says reads well and answers the major criticisms directed at the Party.
 ---
 
-Archive item 1687; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a personal letter written on Swatantra Party letterhead.
+- S. Y. Krishnaswamy writes from Madras to Sir Homi Modi in Bombay.
+- Krishnaswamy has read a short account of Modi's speech in Bombay.
+- He approves of the account's presentation and argument.
+- He says the speech answers the major criticisms levelled against the Swatantra Party.
+- He requests a complete transcript of the speech so that he can have it published.
+- No date, year, title, or publisher is printed on the page.

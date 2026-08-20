@@ -1,22 +1,22 @@
 ---
 id: 3559-letter-to-mr-prabhu-v-mehta-17-09-1963
 title:
-  main: "Letter to Mr Prabhu V Mehta"
+  main: "[Letter to Mr Prabhu V Mehta]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "issuer_not_identified"
+  - "no_letterhead_visible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Prabhu V Mehta
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This untitled office letter, dated September 17, 1963, is addressed to Mr. Prabhu V. Mehta of Calico Dyeing & Printing Mills Pvt. Ltd. in Bombay. S. V. Raju thanks Mehta's organisation for contributing Rs. 2,000 to “the Party” and informs him that a receipt is enclosed.
 ---
 
-Archive item 3559; dated 1963-09-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated September 17, 1963.
+- It is addressed to Mr. Prabhu V. Mehta of Calico Dyeing & Printing Mills Pvt. Ltd.
+- S. V. Raju acknowledges a contribution of Rs. 2,000.
+- The contribution was made to an organisation referred to only as “the Party.”
+- A receipt is identified as enclosed with the letter.
+- The document is signed by S. V. Raju.

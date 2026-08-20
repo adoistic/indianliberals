@@ -1,22 +1,20 @@
 ---
 id: 5489-swatantra-factions-21-06-1968
 title:
-  main: "Swatantra factions"
+  main: "SWATANTRA FACTIONS"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_not_printed"
+  - "publication_source_not_identified"
+  - "no_title_page"
+  - "date_handwritten"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This unsigned English-language clipping argues that the Swatantra Party, founded in 1959 and described as a rapidly growing force of the political Right, is being threatened by internal factionalism. It expresses regret that factional conflict has led M. R. Masani to follow his conscience and resign from the party’s National Executive.
+  
+  The clipping warns that the party could follow the course of other short-lived political groups unless it removes its “recalcitrants.” It focuses particularly on the Gujarat unit, arguing that tolerating its factionalism could allow the problem to spread elsewhere and push a promising young movement into oblivion. The publication source and author are not visible; the date 21/6/68 is handwritten on the surrounding archival sheet rather than printed in the clipping.
 ---
 
-Archive item 5489; dated 1968-06-21; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Swatantra Party is presented as a rapidly growing force of the political Right.
+- The clipping criticizes factionalism within the party.
+- M. R. Masani is said to have resigned from the Swatantra National Executive on grounds of conscience.
+- The party is warned that internal divisions could make it resemble other politically declining groups.
+- The Gujarat unit is singled out as a source of factional conflict.
+- The clipping urges the party to remove its recalcitrant elements before factionalism spreads.

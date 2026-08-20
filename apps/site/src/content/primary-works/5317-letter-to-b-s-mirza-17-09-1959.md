@@ -1,7 +1,7 @@
 ---
 id: 5317-letter-to-b-s-mirza-17-09-1959
 title:
-  main: "Letter to B S Mirza"
+  main: "[Letter to B S Mirza]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: B S Mirza
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This letter, dated 17 September 1959, is addressed to the Principal of May Jivan Inter College in Farrukhnagar, Meerut. B.S. Mirza, identified as secretary to M.R. Masani, explains that Masani has left for continental Europe and the United Kingdom and would be glad to meet the recipient in Delhi during the October–November parliamentary session.
 ---
 
-Archive item 5317; dated 1959-09-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 17 September 1959 and addressed to the Principal of May Jivan Inter College.
+- B.S. Mirza writes in her capacity as secretary to M.R. Masani.
+- M.R. Masani is expected to meet the recipient in Delhi during the October–November parliamentary session.
+- The letter encloses Masani's opening remarks at the Preparatory Convention of the Swatantra Party held in Bombay.
+- It also encloses a copy of the Swatantra Party's Statement of Principles.

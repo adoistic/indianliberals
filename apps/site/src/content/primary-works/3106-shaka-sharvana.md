@@ -1,7 +1,7 @@
 ---
 id: 3106-shaka-sharvana
 title:
-  main: "Shaka Sharvana"
+  main: "[Shaka Sharvana]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,12 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  year: 1972
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +25,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_identified"
+  - "publisher_not_identified"
+  - "place_not_identified"
+  - "document_form_uncertain"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single handwritten account is recorded on a calendar sheet dated Wednesday, 2 August 1972. It appears to list personal financial items, including “2 months rent,” “Laxmi,” “Sethji,” and a further partially legible entry, alongside several rupee amounts.
+  
+  The page also records a cash amount of 100 rupees and shows a prominently circled handwritten total or calculation, approximately “2479.” Because the handwriting is difficult to decipher, the identities of the people mentioned, the nature of several listed expenses, and the exact arithmetic cannot be established with confidence.
 ---
 
-Archive item 3106; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a single handwritten account or note dated 2 August 1972.
+- It includes the entries “2 months rent,” “Laxmi,” and “Sethji.”
+- Multiple rupee amounts are listed, including 600, 116, 80, 160, 120, 244, and 85, though some readings are uncertain.
+- A cash entry of 100 rupees appears near the bottom of the page.
+- A large circled calculation or total appears to read approximately “2479.”
+- The page has no identifiable author, recipient, institutional attribution, or formal title.

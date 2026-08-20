@@ -1,21 +1,19 @@
 ---
 id: 4844-notes-of-disscussion-of-first-meeting-of-joint-secretaries
 title:
-  main: "Notes of Disscussion of First Meeting of Joint Secretaries"
+  main: "Notes of Discussion of First Meeting of Joint Secretaries"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,14 +24,39 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "economic-liberty"
+  - "property-rights"
+  - "governance-reform"
+  - "press-freedom"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
+  - "author_not_printed"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page typed office record documents the first meeting of a group of joint secretaries. M. R. Masani is listed as president, R. C. Cooper as general secretary, five joint secretaries are assigned regional responsibilities, and S. V. Raju is identified as executive secretary. The meeting stresses the need for a systematic approach to publicity and research and records that Mr. Masani reported assistance from Ishwar Chandra Vidyasagar in the party’s public-relations effort.
+  
+  The notes also prepare subjects for Masani’s forthcoming press conference in Bombay, including the economic-policy decisions of the Bombay Congress, which the group says could increase unemployment and destabilise prices; the Jan Sangh’s position toward the ruling Congress and Congress in opposition; dissolution of Parliament; and a proposal to remove property from the Fundamental Rights. The second page allocates states and additional organisational duties among the joint secretaries, including preparation of background papers on economic policy, cadre training, and grassroots work.
 ---
 
-Archive item 4844; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The meeting records the attendance and office-bearer roles of Masani, Cooper, the joint secretaries, and S. V. Raju.
+- Participants call for a systematic approach to publicity and research.
+- M. R. Masani seeks suggestions for his forthcoming Bombay press conference.
+- The proposed press-conference agenda includes Congress economic policy, unemployment, price stability, the Jan Sangh, dissolution of Parliament, and property rights.
+- The notes record a proposal to delete property from the Fundamental Rights, with reference to Justice Hegde’s speech and a circular issued by Dr. Cooper.
+- Joint secretaries receive geographic assignments covering most Indian states.
+- R. K. Amin is asked to help prepare background papers on economic policy, while Madhu Mehta is assigned cadre training and grassroots work.

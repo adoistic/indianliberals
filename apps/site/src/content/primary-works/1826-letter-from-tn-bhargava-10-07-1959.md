@@ -1,7 +1,7 @@
 ---
 id: 1826-letter-from-tn-bhargava-10-07-1959
 title:
-  main: "Letter from TN Bhargava"
+  main: "[Letter from TN Bhargava]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Allahabad"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "individual-rights"
+  - "economic-liberty"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_authority_match"
+  - "editor_not_applicable"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: TN Bhargava
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 10 July 1959 and sent from Allahabad to “Sir Mody,” expresses the signatories’ support for the newly formed Swatantra Party. T. N. Bhargava, S. N. Dwivedi, and P. B. Nair state that, after studying Mody’s views alongside those of his colleagues, they believe the country’s interests can best be served by the party.
+  
+  The writers say they share the principles of justice, fair play, freedom of work, and freedom of organisation, which they present as compatible with traditional ways. They propose forming a Swatantra Party Youth Forum among students in Allahabad and expanding it to the wider Uttar Pradesh region, asking Mody for approval and blessings.
 ---
 
-Archive item 1826; dated 1959-07-10; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 10 July 1959 and originates from 985 Kattra, Allahabad, Uttar Pradesh.
+- The signatories endorse the Swatantra Party as the party best able to serve India’s interests.
+- They say they agree with principles of justice, fair play, freedom of work, and freedom of organisation.
+- The writers describe these principles as consistent with traditional ways.
+- They propose an initial Swatantra Party Youth Forum in the student community of Allahabad.
+- They intend the forum to extend beyond Allahabad University and eventually across Uttar Pradesh.
+- The letter asks the addressee for approval and blessings for the initiative.

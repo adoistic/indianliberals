@@ -1,22 +1,22 @@
 ---
 id: 477-for-favour-of-publication-15-02-1968
 title:
-  main: "For Favour of Publication"
+  main: "For favour of publication"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: occasional_paper
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +26,38 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "civil-liberty"
+  - "constitutionalism"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_publisher"
+  - "no_issuer"
+  - "no_series"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page office paper, dated February 15, 1968, forwards a telegram for publication. The telegram was sent by several Members of Parliament, including M. R. Masani, to Dharam Vira, Governor of West Bengal, following the treatment he received in the Bengal Assembly while acting as the representative of the President of India.
+  
+  The message expresses distress at the incident and commends Vira for his courage and steadfastness in upholding democratic processes against what the signatories describe as a ruthless attempt to subvert them. The document is also marked “Not to for publication” beneath the reproduced telegram and bears Masani’s signature.
 ---
 
-Archive item 477; dated 1968-02-15; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is dated February 15, 1968, and originates from Parliament House, New Delhi.
+- It forwards a telegram to Dharam Vira, Governor of West Bengal, for possible publication.
+- The telegram was sent by several Members of Parliament, including M. R. Masani.
+- The signatories condemn the treatment of Vira in the Bengal Assembly.
+- The message praises Vira for defending democratic processes.
+- The document frames the episode as an attempted subversion of democratic procedure.
+- A handwritten or typed instruction at the bottom marks the material “Not to for publication.”

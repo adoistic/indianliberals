@@ -1,22 +1,25 @@
 ---
 id: 1926-swatantra-party-circular-04-03-1965
 title:
-  main: "Swatantra Party Circular"
+  main: "[Swatantra Party Circular]"
   subtitle: ""
 work_type: circular
-authors: []
+work_type_source: filename
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party Parliamentary Office"
+  place: "New Delhi-1"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +30,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Party Parliamentary Office circular, dated 4 March 1965, informs all members of the Executive Committee that a meeting will be held on Monday, 8 March 1965, at 10:15 a.m. in the Party Committee Room in Parliament House. The notice is signed by Shri M. R. Masani and P. K. Sodhi, Secretary.
+  
+  The stated agenda covers four items: business before Parliament, discussion of the General Budget, submission of a committee report, and any other item permitted by the Chair. The document is an administrative party notice rather than a substantive statement of policy.
 ---
 
-Archive item 1926; dated 1965-03-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The circular is issued by the Swatantra Party Parliamentary Office.
+- It is dated 4 March 1965 and announces a meeting for 8 March 1965.
+- The meeting is scheduled for 10:15 a.m. in the Party Committee Room in Parliament House.
+- The notice is addressed to all members of the Executive Committee.
+- The agenda begins with business before Parliament.
+- Discussion of the General Budget is listed as the second agenda item.
+- A committee report and other business permitted by the Chair complete the agenda.

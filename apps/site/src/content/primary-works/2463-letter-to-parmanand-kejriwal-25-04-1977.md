@@ -1,7 +1,7 @@
 ---
 id: 2463-letter-to-parmanand-kejriwal-25-04-1977
 title:
-  main: "Letter to Parmanand Kejriwal"
+  main: "[Letter to Parmanand Kejriwal]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,13 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "JANATA PARTY\n7, JANTAR MANTAR ROAD, P. B. NO. 709\nNEW DELHI-110001"
+  place: "NEW DELHI"
   year: 1977
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_resolved"
+  - "recipient_authority_not_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Parmanand Kejriwal
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated April 25, 1977, is written by Asoka Mehta on Janata Party letterhead to Parmanand Kejriwal of the Swatantra Party. Mehta acknowledges Kejriwal’s letter of April 19 and reports that the Swatantra Party’s national executive has decided to formally merge into the Janata Party.
+  
+  Mehta also welcomes the proposed participation of Swatantra Party representatives in the Janata Party’s National Conference, scheduled for May 1 in New Delhi. He asks Kejriwal to send the representatives’ names to the Janata Party secretary. The document is an administrative communication concerning party merger and conference participation; it contains no broader policy argument.
 ---
 
-Archive item 2463; dated 1977-04-25; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated April 25, 1977, and is issued on Janata Party letterhead.
+- Asoka Mehta thanks Parmanand Kejriwal for a letter dated April 19.
+- The Swatantra Party’s national executive has decided to formally merge into the Janata Party.
+- Swatantra Party representatives are invited to participate in the Janata Party National Conference on May 1 in New Delhi.
+- Mehta requests the names of the representatives for submission to the Janata Party secretary.
+- The letter concerns party organisation and coordination rather than ideological or policy debate.

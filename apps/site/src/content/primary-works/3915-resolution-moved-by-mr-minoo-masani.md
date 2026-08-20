@@ -1,9 +1,10 @@
 ---
 id: 3915-resolution-moved-by-mr-minoo-masani
 title:
-  main: "Resolution moved by Mr Minoo Masani"
+  main: "Complimenting the performance of the Orissa Government"
   subtitle: ""
 work_type: resolution
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
@@ -11,11 +12,11 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +27,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "governance-reform"
+  - "anti-corruption"
+  - "agricultural-reform"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "no_publisher_address"
+  - "no_author_byline"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English resolution records the Swatantra Party General Council’s unanimous appreciation of the Orissa Government’s performance. It specifically praises the abolition of land revenue and panchayat taxes, the adoption of a Code of Conduct for Ministers, the administration of cyclone-relief work, and what it calls “clean administration.”
+  
+  The resolution also commends the humanitarian and selfless service of the Swamies of Anand Marg, as well as the “spirited and honest service” of the state government’s administrative staff. The page presents these measures as evidence of responsible and ethical governance, but gives no date, named mover, or further policy discussion.
 ---
 
-Archive item 3915; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Swatantra Party General Council unanimously adopted the resolution.
+- The resolution praises the Orissa Government’s administrative performance.
+- It highlights the abolition of land revenue and panchayat taxes.
+- It commends the Code of Conduct for Ministers.
+- It praises cyclone-relief administration among affected communities.
+- It characterizes the state administration as clean.
+- It separately acknowledges the service of the Swamies of Anand Marg and government administrative staff.

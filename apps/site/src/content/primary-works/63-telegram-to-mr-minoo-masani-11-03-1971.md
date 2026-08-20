@@ -1,23 +1,20 @@
 ---
 id: 63-telegram-to-mr-minoo-masani-11-03-1971
 title:
-  main: "Telegram to Mr Minoo Masani"
+  main: "[Telegram to Mr Minoo Masani]"
   subtitle: ""
 work_type: telegram
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1971
+  publisher_name: "INDIAN POSTS AND TELEGRAPHS DEPARTMENT"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +25,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_author_or_sender_byline"
+  - "year_not_visible"
+  - "recipient_field_unclear"
+  - "publisher_id_unresolved"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telegram, sent to Shri M. R. Masani at 140 Mahatma Gandhi Road, Bombay, expresses disappointment at what appears to be an unsuccessful political outcome. The sender acknowledges the difficulties Masani faced and offers solidarity, but the sender's name and the date of transmission are not legible on the rendered form.
 ---
 
-Archive item 63; dated 1971-03-11; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The document is an Indian Posts and Telegraphs Department telegram form.
+- M. R. Masani is the named addressee, not an identifiable sender.
+- The message conveys disappointment and dejection over Masani's apparent lack of success.
+- The sender says that others appreciate the odds Masani had to face.
+- The telegram is addressed to Masani at 140 Mahatma Gandhi Road, Bombay.

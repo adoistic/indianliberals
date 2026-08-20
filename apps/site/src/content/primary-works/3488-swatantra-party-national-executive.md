@@ -1,9 +1,10 @@
 ---
 id: 3488-swatantra-party-national-executive
 title:
-  main: "Swatantra Party National Executive"
+  main: "Swatantra Souvenir 1966"
   subtitle: ""
-work_type: letter
+work_type: edited_volume
+purpose: proceedings
 authors: []
 editors: []
 contributors: []
@@ -12,10 +13,11 @@ publication:
   language: en
   issuer_id: swatantra-party
   publisher_name: "Swatantra Party"
+  year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -26,14 +28,26 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "indian-liberal-history"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "editor_not_named"
+  - "no_table_of_contents"
+  - "no_publisher_address"
+  - "no_place"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 3488; 4 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+Archive item 3488. Scanned document from the Swatantra Party papers.

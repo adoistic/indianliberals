@@ -1,9 +1,9 @@
 ---
 id: 2580-swatantra-party-notice-agenda-13-11-1971
 title:
-  main: "Swatantra Party Notice & Agenda"
+  main: "NOTICE."
   subtitle: ""
-work_type: circular
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY\nBombay Region.\nTele: No. 253085."
+  place: "Bombay"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +28,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "no_named_author"
+  - "no_edition"
+  - "no_series"
+  - "no_identifiers"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English notice, issued by the Swatantra Party’s Bombay Region on November 13, 1971, invites members to an Executive Committee meeting scheduled for November 24, 1971, at the party office in Bombay. The notice is signed by P. Narayan, identified as Office Secretary.
+  
+  The agenda is limited to confirming the minutes of the previous meeting held on October 22, 1971; considering and approving a draft election manifesto for the forthcoming assembly elections; and discussing any other matter with the permission of the Chair. The document records an internal party-administrative process rather than presenting the substance of the proposed manifesto.
 ---
 
-Archive item 2580; dated 1971-11-13; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The notice was issued by the Swatantra Party, Bombay Region, on November 13, 1971.
+- An Executive Committee meeting was scheduled for November 24, 1971, from 6–7.5 p.m.
+- The meeting was to be held at the party office at 143 Mahatma Gandhi Road, Bombay 1.
+- The first agenda item was confirmation of the minutes of the October 22, 1971 meeting.
+- The committee was to consider and approve a draft election manifesto for the ensuing assembly elections.
+- The agenda also allowed discussion of other matters with the Chair’s permission.
+- P. Narayan signed the notice as Office Secretary.

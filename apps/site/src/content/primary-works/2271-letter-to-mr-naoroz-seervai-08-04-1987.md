@@ -1,22 +1,22 @@
 ---
 id: 2271-letter-to-mr-naoroz-seervai-08-04-1987
 title:
-  main: "Letter to Mr Naoroz Seervai"
+  main: "[Letter to Mr Naoroz Seervai]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY"
   year: 1987
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "press-freedom"
+  - "civil-liberty"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Naoroz Seervai
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 8 April 1987, M. R. Masani forwards Naoroz Seervai a draft petition concerning the Government Monopoly of Broadcasting, together with a file. Masani writes that he and Soli believe the petition should be finalised while awaiting a response from Arjun Singh. He notes that paragraphs 4 and 5 depend on correspondence with the Government that remains unresolved, but argues that the rest can be revised and sent to Soli for settlement and preparation.
+  
+  Masani also suggests appending to the petition a study of the news in English produced by the Indian Committee for Cultural Freedom and the Indian Liberal Group. The page records the letter's immediate procedural purpose rather than the substantive arguments of the draft petition or the attached study; those enclosures are not included in the rendered page.
 ---
 
-Archive item 2271; dated 1987-04-08; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani forwards a draft petition concerning the Government Monopoly of Broadcasting.
+- He and Soli want to proceed with finalising the petition while awaiting a reply from Arjun Singh.
+- Paragraphs 4 and 5 cannot yet be settled because they concern unfinished correspondence between the petitioners and the Government.
+- Masani proposes revising the remaining portions and sending them to Soli for settlement and preparation.
+- He suggests adding a study of the news in English as an appendix to the petition.
+- The study was produced by the Indian Committee for Cultural Freedom and the Indian Liberal Group.
+- The rendered page does not contain the draft petition or the attached study themselves.

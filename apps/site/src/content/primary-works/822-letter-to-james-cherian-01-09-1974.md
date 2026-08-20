@@ -1,22 +1,21 @@
 ---
 id: 822-letter-to-james-cherian-01-09-1974
 title:
-  main: "Letter to James Cherian"
+  main: "[Letter to James Cherian]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_edition"
+  - "no_series"
+  - "no_identifiers"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: James Cherian
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated September 1, 1974, is from M. R. Masani to James Cherian. Masani acknowledges Cherian's August 9 letter and encloses the September issue of Freedom First, directing him to an article by S. V. Raju, described as having served for many years as the Executive Secretary of Masani's party. The letter presents the enclosed article as potentially useful guidance to Cherian.
 ---
 
-Archive item 822; dated 1974-09-01; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The letter is dated September 1, 1974.
+- M. R. Masani writes to Mr. James Cherian.
+- Masani acknowledges Cherian's letter of August 9.
+- He encloses the September issue of Freedom First.
+- The issue contains an article by S. V. Raju.
+- Raju is identified as a longtime Executive Secretary of Masani's party.
+- Masani suggests that the article may provide useful guidance to Cherian.

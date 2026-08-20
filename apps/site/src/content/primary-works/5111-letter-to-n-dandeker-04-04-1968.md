@@ -1,7 +1,7 @@
 ---
 id: 5111-letter-to-n-dandeker-04-04-1968
 title:
-  main: "Letter to N Dandeker"
+  main: "[Letter to N Dandeker]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Mysore"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_publication_place"
+  - "no_edition_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: N Dandeker
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter, dated 4 April 1968 and sent from Mysore by M. S. Ramalingam to N. Dandeker, M.P., requests an emergency meeting of the Swatantra Party General Council. Ramalingam identifies Minoo Masani’s resignation from the National Executive and the Central Parliamentary Board as the immediate cause for concern.
+  
+  The letter asks the party to decide how to close its ranks and resume unified work under the leadership of its respected leaders. It is a brief internal appeal focused on party organisation, leadership, and institutional cohesion.
 ---
 
-Archive item 5111; dated 1968-04-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 4 April 1968 and originates from Mysore.
+- M. S. Ramalingam addresses N. Dandeker, M.P., the Swatantra Party’s General Secretary.
+- Ramalingam requests an emergency meeting of the party’s General Council.
+- The proposed meeting concerns Minoo Masani’s resignation from the National Executive and Central Parliamentary Board.
+- The letter calls for a decision to close the party’s ranks and restore unified work.
+- The appeal places emphasis on collective leadership and party cohesion.

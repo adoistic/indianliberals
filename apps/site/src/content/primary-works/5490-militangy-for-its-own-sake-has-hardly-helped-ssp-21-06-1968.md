@@ -1,22 +1,22 @@
 ---
 id: 5490-militangy-for-its-own-sake-has-hardly-helped-ssp-21-06-1968
 title:
-  main: "Militangy for its own sake has hardly helped SSP"
+  main: "MILITANCY FOR ITS OWN SAKE HAS HARDLY HELPED SSP"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Statesman, Delhi"
+  place: "Delhi"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +27,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "socialism-debate"
+missing_metadata_flags:
+  - "no_title_page"
+  - "no_publisher_authority_match"
+  - "no_issuing_organisation"
+  - "no_toc"
+  - "editor_not_applicable"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In the rendered pages, Dilip Mukerjee argues that the Socialist Party (SSP) has gained little from militancy pursued for its own sake. The commentary portrays the party as politically directionless: it has moved away from its anti-Congress position without developing a credible alternative, while successive tactical gestures have weakened rather than strengthened its appeal. Mukerjee contrasts the SSP's instability with the more coherent organisational positions of the Jana Sangh and the Communists, and suggests that the party's difficulties reflect both strategic confusion and weak leadership.
 ---
 
-Archive item 5490; dated 1968-06-21; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The SSP is presented as lacking a clear political course after abandoning its earlier anti-Congress stance.
+- Mukerjee argues that militancy, agitation, and successive political gimmicks have not produced electoral or organisational gains.
+- The article contrasts the SSP's uncertainty with the stronger ideological and organisational positioning of the Jana Sangh and Communist parties.
+- The SSP's Hindu and Muslim outreach is assessed as uneven, with particular difficulties in translating its message into support among different social groups.
+- The commentary criticises the party's leadership and internal divisions, especially the contrasting roles of Raj Narain and Madhu Limaye.
+- The article discusses the SSP's programme, including student unrest, examination reform, job reservations, and a proposed 60-percent share for backward classes in government employment.
+- The second rendered page contains adjacent Statesman news reports, including stories about Haryana employees, compensation to states, Raj Narain's demand for an inquiry into a Ghazipur firing, a proposed telephone factory at Naini, and the arrest of a Jharkhand Rai leader.

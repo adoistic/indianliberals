@@ -1,22 +1,22 @@
 ---
 id: 2778-business-advisory-panel-formed-indian-express-01-05-1962
 title:
-  main: "Business Advisory Panel Formed-Indian Express"
+  main: "Business Advisory Panel Formed"
   subtitle: ""
-work_type: press_note
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Indian Express"
+  place: "New Delhi"
   year: 1962
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "governance-reform"
+  - "economic-liberty"
+missing_metadata_flags:
+  - "no_author"
+  - "no_publisher_authority_match"
+  - "no_publication_date_printed_on_clipping"
+  - "no_document_type_label"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Indian Express news clipping reports that the Business Advisory Committee of the Lok Sabha had been constituted by the Speaker, who would also serve as its chairman. The report states that the committee included 14 other members, among them the Deputy Speaker and several named parliamentarians.
 ---
 
-Archive item 2778; dated 1962-05-01; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The clipping is a short parliamentary news report from the Indian Express.
+- It announces the formation of a Business Advisory Committee for the Lok Sabha.
+- The Speaker is identified as both the constituting authority and chairman of the committee.
+- The committee is said to have 14 members in addition to the Speaker.
+- The report lists the Deputy Speaker and other members by name.
+- The clipping is datelined New Delhi, April 30; a handwritten note on the mounting reads 1/5/62.

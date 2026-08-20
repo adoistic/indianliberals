@@ -1,9 +1,9 @@
 ---
 id: 3826-details-regarding-reception-26-05-1966
 title:
-  main: "Details Regarding Reception"
+  main: "[Details Regarding Reception]"
   subtitle: ""
-work_type: letter
+work_type: circular
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -27,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "publisher_not_printed"
+  - "no_edition_statement"
+  - "no_series_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This untitled Swatantra Party circular provides logistical instructions for members attending the General Council meetings in Bombay on May 26 and 27, 1966. It explains reception arrangements at Victoria Terminus, Bombay Central, and Santa Cruz Airport; identifies party volunteers by their badges; and outlines transport from arrival points to members’ residences or the city booking office. Members travelling by air are asked to provide arrival and accommodation details so that the Bombay Unit can coordinate assistance.
 ---
 
-Archive item 3826; dated 1966-05-26; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The circular concerns the Swatantra Party General Council meetings scheduled for May 26 and 27, 1966.
+- Volunteers were to receive arriving members at Bombay’s two railway terminals and at Santa Cruz Airport.
+- Transport arrangements were available from both railway stations, while air passengers were directed to the I.A.C. enquiry counter and city booking office.
+- The Bombay Unit offered to arrange hotel accommodation at members’ own cost and listed hotels with approximate rates and cuisine options.
+- General Council members belonging to the party’s M.P.s, M.L.A.s, and M.L.C.s could use accommodation at the M.L.A.’s Hostel at specified rates.
+- The circular notes efforts to arrange low-cost accommodation at a Dharamshala.
+- Members were asked to give at least ten days’ advance notice for rail reservations and to return a detailed questionnaire covering arrival, accommodation, and return travel.

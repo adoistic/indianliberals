@@ -1,23 +1,20 @@
 ---
 id: 4250-letter-to-mr-c-rajagopalachari-27-05-1964
 title:
-  main: "Letter to Mr C Rajagopalachari"
+  main: "[Letter to Mr C Rajagopalachari]"
   subtitle: ""
 work_type: letter
-authors:
-  - c-rajagopalachari
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +25,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "sender_not_named"
+  - "publisher_not_identified"
+  - "place_not_identified"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated 27 May 1964, is addressed to C. Rajagopalachari (“Rajaji”) at his Madras address. The writer reports that, after returning from Madras, Minoo Masani had agreed to speak at the Rotary Club of Bombay on 30 June on “India and Her Neighbours.” The writer regards the subject as especially relevant to contemporary political developments and expresses confidence that Rajagopalachari’s analysis would place the issue in its proper perspective. The sender’s handwritten signature is not legible enough to establish authorship.
 ---
 
-Archive item 4250; dated 1964-05-27; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 27 May 1964 and addressed to C. Rajagopalachari in Madras.
+- Minoo Masani is reported to have agreed to speak at the Rotary Club of Bombay.
+- The scheduled talk was to take place on Tuesday, 30 June, on “India and Her Neighbours.”
+- The writer connects the subject to contemporary political movements.
+- The letter praises Rajagopalachari’s ability to analyse the issue from a properly informed perspective.
+- A handwritten circulation note copies M. R. Masani, but does not establish the letter’s authorship.

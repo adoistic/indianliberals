@@ -1,22 +1,21 @@
 ---
 id: 4466-it-is-gandhi-vs-marx-in-india-by-masani-14-02-1971
 title:
-  main: "It is Gandhi Vs Marx in India by Masani"
+  main: "It's Gandhi vs Marx in India: Masani"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: essay
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1971
+  place: "NEW DELHI"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "gandhi"
+  - "marxism-debate"
+  - "property-rights"
+  - "economic-liberty"
+  - "socialism-debate"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "publisher_not_identified"
+  - "source_periodical_not_identified"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English press clipping reports M. R. Masani's address to the Press Club of India in New Delhi on February 13. Masani frames Indian politics as a contest between Gandhi and Marx: he says Mrs. Gandhi represents the status quo, while he advocates Gandhian decentralisation, an economy free from government control of foodgrains, and stable prices.
+  
+  Masani accepts Marx's diagnosis that the proletariat had been deprived of property and enslaved, but rejects Marx's conclusion that everyone should lose property. He argues that property is a fundamental, though not absolute, right subject to reasonable restrictions, and presents the conflict between Gandhi and Marx as a dispute over the future of property and economic organisation. In the question-and-answer portion, he criticises Mrs. Gandhi's electoral prospects, comments on the cost of Air Force travel, condemns aircraft hijacking as criminal piracy, and remarks on the persistence of socialist sentiment.
 ---
 
-Archive item 4466; dated 1971-02-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani presents Indian politics as a contest between Gandhian decentralisation and Marxist economic doctrine.
+- He characterises Mrs. Gandhi as standing for the status quo.
+- He argues that government should not control foodgrains and advocates a stable price level.
+- He accepts Marx's account of proletarian dispossession but rejects the abolition of private property.
+- He treats property as a fundamental right subject to reasonable restrictions.
+- In the question period, he discusses elections, Air Force fares, aircraft hijacking, and socialist commitment.

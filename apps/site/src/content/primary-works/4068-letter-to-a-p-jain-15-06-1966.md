@@ -1,7 +1,7 @@
 ---
 id: 4068-letter-to-a-p-jain-15-06-1966
 title:
-  main: "Letter to A P Jain"
+  main: "[Letter to A P Jain]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1966
+  place: "NEW DELHI"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_visible"
+  - "publisher_not_visible"
+  - "recipient_identity_incomplete"
+  - "telegram_enum_unavailable"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: A P Jain
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram, addressed to Jain in New Delhi and issued under the name “RAJU,” concerns a proposed meeting with the Prime Minister. It reports that Masani has already wired the Prime Minister explaining his inability to meet on the 13th. Because Professor Ranga and Masani are completing engagements in Bangalore that evening, and no plane connection reaches Delhi on the 13th, Masani has offered the Prime Minister an alternative date.
+  
+  The document is a clipped logistical communication rather than a developed political argument. The scan does not print a full title, sender identity, recipient identity, or year; the filename suggests a date, but that date is not treated as visible-page evidence.
 ---
 
-Archive item 4068; dated 1966-06-15; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The telegram is addressed to Jain at 53 North Avenue, New Delhi.
+- Masani has already wired the Prime Minister about his inability to meet on the 13th.
+- Professor Ranga and Masani are completing engagements in Bangalore that evening.
+- The message states that no plane connection reaches Delhi on the 13th.
+- Masani has offered the Prime Minister an alternative meeting date.
+- The document is signed or issued under the name “RAJU,” whose full identity is not visible.

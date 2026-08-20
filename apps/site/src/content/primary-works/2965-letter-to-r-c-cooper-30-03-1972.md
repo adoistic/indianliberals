@@ -1,22 +1,22 @@
 ---
 id: 2965-letter-to-r-c-cooper-30-03-1972
 title:
-  main: "Letter to R C Cooper"
+  main: "[Letter to R C Cooper]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1972
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 5
   pages_total_source: pypdfium2
@@ -26,16 +26,44 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "party-politics"
+  - "constitutionalism"
+  - "socialism-debate"
+  - "property-rights"
+  - "public-sector-critique"
+  - "economic-liberty"
+  - "fiscal-policy"
+  - "civil-liberty"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
+  - "no_venue"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: R C Cooper
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This 30 March 1972 letter from C. Rajagopalachari to Dr. R. C. Cooper encloses gallery proofs of a front-page article and “Dear Reader” paragraphs intended for the 8 April issue of Swarajya. Rajagopalachari asks Cooper to discuss all matters at the Swatantra Party’s General Council and National Executive meetings on 8 and 9 April in Bombay, while postponing final decisions until a subsequent meeting so that nothing is done hastily.
+  
+  The enclosed material argues that the Swatantra Party supports social justice but rejects socialism as a means of achieving it. Rajagopalachari associates socialism with state control, reduced production, weakened incentives, heavy taxation, and threats to individual freedom, and instead stresses increased production, prudence in taxation, the rule of law, fair trials, and Gandhian ethical limits on political action. He also defends the party against claims that it serves capitalists and princes, warns that constitutional safeguards and democracy are being undermined, criticizes property ceilings and proposed public-sector automobile manufacturing, and endorses N. Dandekar’s call for the party to revive moral values while maintaining external restraints on wealthy interests.
 ---
 
-Archive item 2965; dated 1972-03-30; 5 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Rajagopalachari sends Cooper proofs of material planned for Swarajya’s 8 April issue.
+- He urges discussion at the Swatantra Party’s April meetings but advises delaying final decisions.
+- The enclosed article distinguishes the goal of social justice from socialism as a policy instrument.
+- Socialism is criticized for state control, diminished freedom, reduced production, and weakened work incentives.
+- The text emphasizes increased production, prudent taxation, the rule of law, and fair judicial trials.
+- Rajagopalachari defends the Swatantra Party against accusations that it was founded for capitalists and princes.
+- The “Dear Reader” section criticizes property ceilings, the socialist direction of government, and proposed public-sector car manufacturing.
+- The material calls for constitutional defense, democratic freedoms, and a revival of moral values in party politics.

@@ -1,23 +1,22 @@
 ---
 id: 6004-letter-to-mr-minoo-masani-16-05-1973
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - jayaprakash-narayan
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1973
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page letter dated May 16, 1973, from New Delhi, Jayaprakash Narayan writes to Minoo Masani about an enclosed article. Narayan says the article was published in full in The Indian Express and briefly reported in other newspapers.
+  
+  The letter does not discuss the article’s subject or reproduce its title. Instead, it presents the enclosure to Masani for his information and for any action he may consider necessary. The document is therefore chiefly a brief transmission note accompanying material not included in the scanned page.
 ---
 
-Archive item 6004; dated 1973-05-16; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a dated personal letter from Jayaprakash Narayan to Minoo Masani.
+- It was written in New Delhi on May 16, 1973.
+- Narayan enclosed a copy of a recent article of his.
+- The article had appeared in full in The Indian Express.
+- Other newspapers had briefly reported the article.
+- The article itself and its title are not included in the scanned page.
+- Narayan leaves any further action to Masani's judgment.

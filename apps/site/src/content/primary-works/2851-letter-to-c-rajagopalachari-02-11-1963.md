@@ -1,23 +1,21 @@
 ---
 id: 2851-letter-to-c-rajagopalachari-02-11-1963
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
-  - c-rajagopalachari
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated November 2, 1963, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about using Rajagopalachari’s presence in Delhi on November 23 and 24 to hold an Organisation Sub Committee meeting. Masani asks Rajagopalachari to confirm that he will be in Delhi on those dates so that the meeting can be arranged.
+  
+  Masani argues that a separate Parliamentary Sub Committee meeting would not justify bringing twelve people to Delhi when there is little substantive business to discuss. He instead proposes a smaller meeting involving Rajagopalachari, Prof. Ranga, K. M. Munshi, Kamakhya Narain Singh, and himself, followed by a Central Organising Committee meeting to complete plans for the National Convention early in the new year.
 ---
 
-Archive item 2851; dated 1963-11-02; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani proposes taking advantage of Rajagopalachari’s expected presence in Delhi on November 23 and 24.
+- He seeks confirmation from Rajagopalachari before arranging an Organisation Sub Committee meeting.
+- He opposes convening a twelve-person Parliamentary Sub Committee because there is insufficient business to discuss.
+- He recommends a smaller meeting with Rajagopalachari, Prof. Ranga, K. M. Munshi, Kamakhya Narain Singh, and Masani.
+- He also anticipates a Central Organising Committee meeting to finalise preparations for the National Convention early in 1964.

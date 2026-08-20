@@ -1,23 +1,22 @@
 ---
 id: 4211-letter-to-mr-minoo-masani-13-12-1963
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_edition_statement"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This brief personal letter, dated 13 December 1963, is from C. Rajagopalachari in Madras to M. R. Masani in New Delhi. Rajagopalachari acknowledges Masani’s letter of 10 December and reports that the speeches have arrived from the Party office in a relatively large packet. The exchange therefore documents a small piece of administrative and political coordination within their party network.
+  
+  The second rendered page shows the reverse of the letter and its inland-letter envelope, addressed to M. R. Masani at 57, Lodhi Estate, New Delhi. No further substantive correspondence or argument is visible in the document.
 ---
 
-Archive item 4211; dated 1963-12-13; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter was written by C. Rajagopalachari on 13 December 1963.
+- It was sent from 60, Bazullah Road, T. Nagar, Madras-17.
+- Rajagopalachari acknowledges receiving Masani’s letter of 10 December.
+- He says that the speeches arrived in a large packet from the Party office.
+- The recipient is identified as M. R. Masani in New Delhi.
+- The reverse page contains an inland-letter envelope addressed to 57, Lodhi Estate, New Delhi.

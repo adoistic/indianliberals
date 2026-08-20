@@ -1,23 +1,21 @@
 ---
 id: 4730-letter-to-c-rajagopalachari-18-07-1963
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
-  - c-rajagopalachari
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "place_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page letter dated 18 July 1963, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about an upcoming public meeting at Sapru House. Masani says he has been in touch with Paricha and reports that the meeting has been booked for Wednesday, 14 August, at 6 p.m.
+  
+  Masani expects the event to follow the successful pattern of an earlier Madras meeting and asks Rajagopalachari to arrange to reach Delhi by the evening of Tuesday, 13 August, a date previously identified as convenient. The document is a brief logistical communication rather than an exposition of political ideas.
 ---
 
-Archive item 4730; dated 1963-07-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 18 July 1963 and is addressed to C. Rajagopalachari.
+- Masani reports that a public meeting has been booked at Sapru House for 14 August at 6 p.m.
+- Masani says he has been in touch with Paricha concerning the arrangements.
+- The forthcoming meeting is expected to resemble a successful earlier Madras meeting.
+- Masani asks Rajagopalachari to reach Delhi by the evening of 13 August.

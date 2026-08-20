@@ -1,7 +1,7 @@
 ---
 id: 2834-letter-about-discussion-on-the-third-plan-22-08-1960
 title:
-  main: "Letter About Discussion on the Third Plan"
+  main: "Discussion on the Third Plan"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1960
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "planning-critique"
+  - "party-politics"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_not_printed"
+  - "no_signature_name"
+  - "no_recipient_field_in_schema"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated August 22, 1960, is issued on Parliamentary Group letterhead and addressed to the Speaker of the Lok Sabha. It concerns the forthcoming debate on the Third Plan and asks that three members participate on behalf of the Swatantra group: Professor N. G. Ranga, M. R. Masani, and J. M. Inam.
+  
+  The letter explains that the Swatantra group has tabled an amendment disapproving of the Plan and is the only parliamentary group opposing the Plan as a whole. It requests that one of its speakers be called on each of the three debate days, assigning Ranga to the opening day, Inam to the second day, and Masani to the closing day. The signer is not identified; only the typist initials “mrj;rxa” appear at the bottom.
 ---
 
-Archive item 2834; dated 1960-08-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated August 22, 1960, and was sent from New Delhi to the Speaker of the Lok Sabha.
+- It requests parliamentary speaking opportunities for three Swatantra group members during the debate on the Third Plan.
+- The Swatantra group had tabled an amendment disapproving of the Plan.
+- The group is described as the only parliamentary group opposing the Plan as a whole.
+- Professor N. G. Ranga was requested for the opening day, August 22.
+- J. M. Inam was requested to intervene on August 23, while M. R. Masani was assigned to the closing day, August 24.
+- No signer’s name is printed on the document.

@@ -1,22 +1,21 @@
 ---
 id: 1353-relevant-extract-from-the-house-of-the-people-deoates-28-04-1953
 title:
-  main: "Relevant Extract from the House of the People Deoates"
+  main: "Relevant extract from the House of the People Debates dated 23.4.1953 on the Salaries and Allowances of Officers of Parliament Bill"
   subtitle: ""
-work_type: letter
+work_type: speech
+purpose: parliamentary
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1953
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_publisher"
+  - "no_place"
+  - "no_edition"
+  - "no_series"
+  - "no_identifiers"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page extract from the House of the People Debates, dated 23 April 1953, records Shri T. T. Krishnamachari's intervention on the Salaries and Allowances of Officers of Parliament Bill. Krishnamachari argues that the Deputy Speaker and the other parliamentary officers should be treated as whole-time officers once they receive a salary.
 ---
 
-Archive item 1353; dated 1953-04-28; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The extract concerns the status and remuneration of officers of Parliament.
+- Krishnamachari describes the Deputy Speaker as a whole-time officer.
+- He notes that Dr. Syama Prasad Mookerjee had proposed an amendment to state this explicitly in the statute.
+- The Government preferred recognition through parliamentary convention rather than a statutory clause.
+- The argument relies on the fact that the officers are elected by Parliament and continuously observed in the discharge of their duties.
+- Krishnamachari asks Mookerjee to allow the convention to be tried in practice.

@@ -1,21 +1,20 @@
 ---
 id: 3562-list-of-business-houses-industries-in-bombay-city
 title:
-  main: "List Of Business Houses & Industries In Bombay City"
+  main: "[List Of Business Houses & Industries In Bombay City]"
   subtitle: ""
-work_type: letter
+work_type: reference
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -26,14 +25,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "commercial-directory"
+  - "bombay-business-history"
+  - "industrial-history"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "title_page_not_found"
+  - "no_author_or_issuer_statement"
+  - "no_publisher_line"
+  - "year_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This three-page English-language reference document is a numbered directory of 34 business houses and industrialists in Bombay City. Each entry identifies an individual, associated firm, address, and business activity. The listings cover grain, cotton, salt, spice, paper, iron and steel, bullion, coal, machinery, automobiles, engineering, insurance, sugar, textiles, metalware, jewellery, and import-export businesses.
 ---
 
-Archive item 3562; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The directory contains 34 numbered business listings across three printed pages.
+- Entries combine personal names, company names, Bombay addresses, and occupational or commercial descriptions.
+- The listed businesses span both mercantile activities and manufacturing industries.
+- Bombay's Fort, Ballard Estate, Bruce Street, Iron Market, and other commercial districts recur in the addresses.
+- The directory includes grain, cotton, paper, salt, spice, bullion, coal, iron, and metal merchants.
+- Industrial listings include engineering, construction, sugar, textile, machinery, refrigeration, printing, fertiliser, leather-cloth, and barrel manufacturing.
+- The visible pages contain no printed title, author, publisher, issuer, date, or explanatory introduction.

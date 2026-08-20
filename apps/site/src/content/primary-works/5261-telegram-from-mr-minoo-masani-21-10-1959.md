@@ -1,23 +1,23 @@
 ---
 id: 5261-telegram-from-mr-minoo-masani-21-10-1959
 title:
-  main: "Telegram from Mr Minoo Masani"
+  main: "[Telegram from Mr Minoo Masani]"
   subtitle: ""
 work_type: telegram
-authors:
-  - minoo-masani
+work_type_source: filename
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY 1"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +28,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_explicit_sender_full_name"
+  - "telegram_enum_unavailable"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telegram-style communication is dated 21 October 1959 and appears on Swatantra Party, Bangalore letterhead. It is signed or attributed only as “MASANI” and gives a Bombay address at 148 Mahatma Gandhi Road, Bombay 1.
+  
+  The message consists of clipped wording referring to “ROBERT COMMITMENTS IN BOMBAY” and stating that they “DO NOT PERMIT.” The page does not provide enough context to establish what commitments are meant, who Robert is, or what action is being restricted. It also records that a confirmation copy was sent by ordinary post.
 ---
 
-Archive item 5261; dated 1959-10-21; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page English telegram-style office communication.
+- It is dated 21 October 1959.
+- The letterhead identifies the Swatantra Party in Bangalore.
+- The sender is printed only as “MASANI,” with a Bombay address.
+- The message refers to “ROBERT COMMITMENTS IN BOMBAY TWENTYFOUR” and says they “DO NOT PERMIT.”
+- A confirmation copy was sent by ordinary post.
+- The page does not explain the reference to Robert or the commitments mentioned.

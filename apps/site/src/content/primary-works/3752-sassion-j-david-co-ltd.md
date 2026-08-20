@@ -1,7 +1,7 @@
 ---
 id: 3752-sassion-j-david-co-ltd
 title:
-  main: "Sassion J David & Co Ltd"
+  main: "[Sassion J David & Co Ltd]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,12 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +25,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "author_not_printed"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English archival office note records the receipt of a cover addressed to Messrs. Sassoon J. David & Co. Ltd., at Ewart House, Bruce Street, Bombay 1. The cover was marked for the attention of Mr. T. S. Bharda and identified as originating from Mr. G. K. Munshi, General Secretary of the Swatantra Party, Maharashtra. A handwritten date notation, “21/8,” and a Bombay postal marking are visible, but no year can be established from the page.
 ---
 
-Archive item 3752; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a typed administrative note about a received cover.
+- The addressee is Messrs. Sassoon J. David & Co. Ltd., Ewart House, Bruce Street, Bombay 1.
+- The cover was marked for Mr. T. S. Bharda.
+- The sender is identified as Mr. G. K. Munshi, General Secretary, Swatantra Party, Maharashtra.
+- A handwritten “21/8” notation and a Bombay postal marking appear on the page.
+- The page does not establish a document title, author, or year.

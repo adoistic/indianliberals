@@ -1,22 +1,21 @@
 ---
 id: 5169-letter-to-raja-bahadur-kamkhya-narain-singh-30-11-1959
 title:
-  main: "Letter to Raja Bahadur Kamkhya Narain Singh"
+  main: "[Letter to Raja Bahadur Kamkhya Narain Singh]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Bahadur Kamkhya Narain Singh
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter from M. R. Masani to Raja Bahadur Kamakhya Narain Singh is dated 30 November 1959. Masani acknowledges Singh’s letters of 18 and 20 November and refers to an invitation from Madras to attend a Central Organizing Committee meeting in Hyderabad on 9 and 10 December.
+  
+  Masani says he is looking forward to seeing Singh at the meeting and suggests that they may then discuss the matters Singh had raised in his earlier letter. The page contains no further account of those matters, and no title, publisher, or place of publication is printed.
 ---
 
-Archive item 5169; dated 1959-11-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 30 November 1959.
+- Masani thanks Raja Bahadur Kamakhya Narain Singh for letters dated 18 and 20 November.
+- Masani refers to an invitation from Madras to a Central Organizing Committee meeting in Hyderabad.
+- The meeting is scheduled for 9 and 10 December.
+- Masani looks forward to seeing Singh and discussing matters raised in Singh’s earlier letter.

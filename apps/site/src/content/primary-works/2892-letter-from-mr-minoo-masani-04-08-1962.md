@@ -1,23 +1,23 @@
 ---
 id: 2892-letter-from-mr-minoo-masani-04-08-1962
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
-work_type: letter
-authors:
-  - minoo-masani
+work_type: telegram
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party Central Office"
+  place: "Bombay"
   year: 1962
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +28,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_formal_publisher_line"
+  - "no_addressee_authority_resolution"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page express telegram, dated 4 August 1962, records Minoo Masani's advice to His Highness P. K. Deo of Kalahandi concerning a proposed meeting involving Swatantra Party members. Masani describes the initiative as a response to a letter from “Bishop Chandra” and a proposal to form a larger Lok Sabha bloc.
 ---
 
-Archive item 2892; dated 1962-08-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is an internal Swatantra Party political communication dated 4 August 1962.
+- Masani refers to a letter from a person identified in the text as “Bishop Chandra.”
+- The proposed meeting would include Swatantra Party members and discuss forming a larger Lok Sabha bloc.
+- Masani recommends calling a private meeting of Swatantra Party members first.
+- He suggests that the party should not participate in the proposed meeting.
+- He instead recommends stating the party's position in a written reply, following the lines of a prior party minority-board decision in Madras.

@@ -1,22 +1,21 @@
 ---
 id: 3-letter-to-mr-sri-prakash-21-04-1971
 title:
-  main: "Letter to Mr Sri Prakash"
+  main: "[Letter to Mr Sri Prakash]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "electoral-reform"
+  - "party-politics"
+  - "education"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "title_page_not_found"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "recipient_not_authority_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Sri Prakash
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated April 21, 1971, M. R. Masani responds to Sri Prakash's concern about the political situation following Indira Gandhi's recent electoral victory. Masani argues that the victory was less overwhelming than it appeared, attributing its scale partly to distortions in the British-derived electoral system, while nevertheless agreeing that the result could be beneficial for India's future.
+  
+  Masani also reports that he has resigned as president of the Swatantra Party. He says he intends to devote himself to the neglected task of basic education, describing it as a responsibility that political leaders have failed to perform effectively. The letter closes with a personal hope that Sri Prakash's health will allow him to return home to Benares.
 ---
 
-Archive item 3; dated 1971-04-21; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani acknowledges Sri Prakash's gloomy assessment of the current political scene.
+- He argues that Indira Gandhi's electoral victory was not as overwhelming as it appeared.
+- He attributes the apparent scale of the victory partly to distortions in the British electoral system.
+- Despite this criticism, he agrees that the election result may be good for India's future.
+- Masani states that he has resigned as president of the Swatantra Party.
+- He plans to focus on basic education, which he says has been badly neglected.
+- The letter ends with concern for Sri Prakash's health and hoped-for return to Benares.

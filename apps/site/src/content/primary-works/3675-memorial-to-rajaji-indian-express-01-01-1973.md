@@ -1,22 +1,22 @@
 ---
 id: 3675-memorial-to-rajaji-indian-express-01-01-1973
 title:
-  main: "Memorial To Rajaji-Indian Express"
+  main: "Memorial to Rajaji"
   subtitle: ""
-work_type: press_note
+work_type: letter
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "INDIAN EXPRESS"
+  place: "BOMBAY"
   year: 1973
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "biographical-tribute"
+  - "education"
+  - "liberalism-as-tradition"
+  - "individual-rights"
+missing_metadata_flags:
+  - "author_names_unclear"
+  - "publisher_not_resolved"
+  - "publication_issue_details_incomplete"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Rajaji-Indian Express
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This letter, published in the Indian Express on 1 January 1973 under the heading “Memorial to Rajaji,” presents C. Rajagopalachari as a major defender of dissent, human liberty, and opposition politics. The writer endorses N. A. Palkhivala’s assessment that Rajaji’s contribution lay in opposing the prevailing political current, and argues that his interpretation as an “angry old man” overlooked the principles behind his criticism of the Congress government.
+  
+  The letter emphasizes Rajaji’s “unrelenting crusade” against powers that threatened basic human liberties and compares his historical significance with figures who struggled against overwhelming odds. It closes by proposing a memorial that would preserve Rajaji’s memory through a political and philosophical research institution, suggesting the Harold Laski Institute as a possible model.
 ---
 
-Archive item 3675; dated 1973-01-01; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter treats Rajaji’s opposition to the Congress government as principled dissent rather than political obstruction.
+- It highlights Rajaji’s defence of basic human liberties against concentrated political power.
+- It invokes N. A. Palkhivala’s interpretation of Rajaji’s contribution and rejects dismissive characterizations of him as merely an “angry old man.”
+- It presents Rajaji as a figure whose importance may be compared with historical leaders who struggled against overwhelming odds.
+- It proposes a memorial in the form of a political and philosophical research institution.
+- The Harold Laski Institute is suggested as a possible institutional model.

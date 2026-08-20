@@ -1,9 +1,10 @@
 ---
 id: 5597-swatantra-sangh-move-for-haryana-poll-pacts-15-04-1968
 title:
-  main: "Swatantra Sangh move for Haryana poll Pacts"
+  main: "Swatantra-Sangh move for Haryana poll pact"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
+purpose: position_paper
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +28,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "constitutionalism"
+  - "federalism"
+  - "governance-reform"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "no_publisher_line"
+  - "no_place_of_publication"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_identifier"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page occasional paper combines a Hindustan Times report dated April 15, 1968, with a typed Swatantra Party General Council resolution. The newspaper article reports negotiations between the Swatantra Party and the Sangh for an electoral pact in Haryana, following the Assembly's refusal to comment on a motion concerning the Governor's conduct. It describes disciplinary action against rebel MLAs, disagreements over candidate selection, and discussions involving Charan Singh and other political figures.
 ---
 
-Archive item 5597; dated 1968-04-15; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Swatantra Party and the Sangh were negotiating a Haryana Assembly election pact.
+- The report links the negotiations to disputes over the Governor's role and the conduct of State Governments.
+- The Swatantra Party General Council considered disciplinary action against several MLAs described as rebels.
+- The article reports disagreements over the selection and approval of candidates for the Haryana mid-term election.
+- The typed resolution criticises growing central interference in the functioning of State Governments.
+- The resolution specifically objects to the use of Governors to install minority governments in the States.

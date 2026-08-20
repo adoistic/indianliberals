@@ -1,7 +1,7 @@
 ---
 id: 1723-letter-to-mr-s-y-krishnaswamy-08-09-1959
 title:
-  main: "Letter to Mr S Y Krishnaswamy"
+  main: "[Letter to Mr S Y Krishnaswamy]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,16 +24,37 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "sender_not_named"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "issuer_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: S Y Krishnaswamy
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This typed personal letter, dated 8 September 1959 and addressed to S. Y. Krishnaswamy, discusses financial support for the Rajasthan Committee. The writer reports that the Bombay Regional Committee has, at his instruction, sent Hukum Singh a cheque for Rs. 2,500, with the possibility of a further contribution later. The letter also asks for clarification about the Central Committee’s allocation to Uttar Pradesh and the division between central and local contributions to regional-office expenses.
+  
+  The writer firmly rejects a possible merger of the Swatantra Party with the All India Ram Rajya Parishad, describing the Parishad as “thoroughly reactionary” and “revivalist.” He asks that future funding proposals be sent to him with Krishnaswamy’s recommendations. A handwritten postscript adds that, regarding Rajasthan, they should “work out how to raise funds.” The sender is not identified on the visible page.
 ---
 
-Archive item 1723; dated 1959-09-08; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter concerns a request for Central Fund support for the expenses of the Rajasthan Committee.
+- The Bombay Regional Committee has sent Hukum Singh a cheque for Rs. 2,500 at the writer’s instruction.
+- The writer leaves open the possibility of sending Hukum Singh additional funds later.
+- The writer opposes any merger between the Swatantra Party and the All India Ram Rajya Parishad.
+- The All India Ram Rajya Parishad is characterized as reactionary and revivalist.
+- The writer requests clarification about Central Committee allocations to Uttar Pradesh and the share of regional expenses to be met locally.
+- Future funding suggestions should be submitted to the writer together with Krishnaswamy’s recommendations.

@@ -1,22 +1,22 @@
 ---
 id: 3653-tributes-paid-to-rajaji-as-writer-mail-14-01-1973
 title:
-  main: "Tributes Paid to Rajaji As Writer-Mail"
+  main: "Tributes Paid to Rajaji as Writer"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "INTERNATIONAL CLIPPING SERVICE"
+  place: "Bombay"
   year: 1973
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "biographical-tribute"
+  - "indian-liberal-history"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "original_publication_publisher_not_identified"
+  - "original_publication_date_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This newspaper clipping reports tributes paid to the late C. Rajagopalachari (Rajaji) at a meeting of the Southern Sahitya Akademi in Madras. The resolution recalled his association with the Akademi from its inception, his receipt of its 1958 award for Tamil, and his work in both English and Tamil. It presented Rajaji's writing as marked by introspection, persuasion, and purposeful expression.
+  
+  Speakers described Rajaji as a bridge between the past and the present and emphasized that his literary friendships brought him closer to people than his political associations did. Dr. V. Raghavan read Rajaji's Sanskrit poem “Kavitān̄jali,” while other participants recalled his educational and literary contributions; the meeting concluded as a mark of respect to his memory.
 ---
 
-Archive item 3653; dated 1973-01-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The clipping reports a resolution honoring the late C. Rajagopalachari at a meeting of the Southern Sahitya Akademi.
+- Rajaji had been associated with the Akademi since its inception.
+- He received the Akademi award for Tamil in 1958.
+- The report highlights his writing in both English and Tamil.
+- Speakers praised his introspection, persuasive power, and purposeful expression.
+- Rajaji was described as a bridge between the past and the present.
+- The meeting included a reading of his Sanskrit poem “Kavitān̄jali.”

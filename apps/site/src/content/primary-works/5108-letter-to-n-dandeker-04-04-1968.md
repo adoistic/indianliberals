@@ -1,7 +1,7 @@
 ---
 id: 5108-letter-to-n-dandeker-04-04-1968
 title:
-  main: "Letter to N Dandeker"
+  main: "[Letter to N Dandeker]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Dalhousie, Himachal Pradesh"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "no_authority_match"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: N Dandeker
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This typed letter, dated 4 April 1968 and sent from Dalhousie, Himachal Pradesh, is addressed to N. Dandekar, M.P., the General Secretary of the Swatantra Party. The signer, identified as Budhi Prakash, requests an emergency meeting of the party’s General Council to address Minoo Masani’s resignation from the National Executive and Central Parliamentary Board.
+  
+  The letter urges the party to take an appropriate decision so that it can close its ranks and resume united work under the leadership of its senior leaders. The page also contains handwritten annotations identifying the sender as an advocate at the S.D.M.’s Court in Dalhousie.
 ---
 
-Archive item 5108; dated 1968-04-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 4 April 1968 and was sent from Dalhousie, Himachal Pradesh.
+- It is addressed to N. Dandekar, M.P., General Secretary of the Swatantra Party.
+- The writer requests an emergency meeting of the party’s General Council.
+- The proposed meeting would discuss Minoo Masani’s resignation from the National Executive and Central Parliamentary Board.
+- The writer calls for a decision intended to reunite the party and restore coordinated work among its leaders.
+- The handwritten annotations identify the signer as Budhi Prakash, an advocate at the S.D.M.’s Court in Dalhousie.

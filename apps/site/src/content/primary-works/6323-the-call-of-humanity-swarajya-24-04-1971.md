@@ -1,22 +1,22 @@
 ---
 id: 6323-the-call-of-humanity-swarajya-24-04-1971
 title:
-  main: "The Call Of Humanity-Swarajya"
+  main: "Dear Reader"
   subtitle: ""
-work_type: letter
+work_type: periodical_issue
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWARAJYA"
+  place: "Madras"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,39 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+  - "cold-war-positioning"
+  - "party-politics"
+  - "economic-liberty"
+  - "regulatory-state-critique"
+  - "planning-critique"
+  - "federalism"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "masthead_not_visible"
+  - "issue_number_not_visible"
+  - "volume_number_not_visible"
+  - "author_not_named"
+  - "no_publisher_address"
+  - "no_toc_visible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 6323; dated 1971-04-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The page calls for stronger Western involvement in the Pakistan crisis and warns that delay benefits China.
+- It presents the Swatantra Party’s mission as creating a consolidated democratic opposition to the ruling power.
+- It argues that the party must educate voters about economic laws and accept electoral outcomes.
+- It criticises taxing the rich to finance investment when the policy merely generates inflation and rising prices.
+- It praises the Tamil Nadu Chief Minister for objecting to construction on Madras’s Island Grounds.
+- It questions whether the Congress should select a presidential candidate based on independence, experience, and personal standing.

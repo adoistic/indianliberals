@@ -1,21 +1,21 @@
 ---
 id: 5273-telegram-from-jinarjhegde
 title:
-  main: "Telegram from Jinarjhegde"
+  main: "[Telegram from Jinarjhegde]"
   subtitle: ""
 work_type: telegram
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "INDIAN POSTS AND TELEGRAPHS DEPARTMENT"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_found"
+  - "sender_name_unclear"
+  - "recipient_not_identified"
+  - "publisher_not_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Jinarjhegde
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram, written on an Indian Posts and Telegraphs Department form, records a brief travel-related communication. The handwritten message appears to refer to Mangalore, Bombay, Mahatma Gandhi Road, Minoo Masani, receipt of something, and a return journey by plane on the 25th. The sender's name appears at the foot as “Jinarajhegde,” although the handwriting is not fully certain.
+  
+  The document has no printed title, date, identified recipient, or explanatory context. Because it is a single telegram rather than a discursive work, it does not present a developed argument or sustained engagement with political ideas; its significance lies in the interpersonal and logistical record preserved in the message.
 ---
 
-Archive item 5273; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a single-page telegram form issued by the Indian Posts and Telegraphs Department.
+- The handwritten message appears to mention Mangalore and Bombay.
+- It includes the phrase “Mahatma Gandhi Road” and appears to mention Minoo Masani.
+- The message refers to receipt and return travel by plane on the 25th.
+- The apparent sender name is “Jinarajhegde,” but the reading remains uncertain.
+- No title, year, recipient, or surrounding correspondence is visible.

@@ -1,7 +1,7 @@
 ---
 id: 2936-letter-to-r-c-cooper-22-03-1971
 title:
-  main: "Letter to R C Cooper"
+  main: "[Letter to R C Cooper]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,16 +24,42 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "property-rights"
+  - "agricultural-reform"
+  - "economic-liberty"
+  - "individual-rights"
+  - "labour-rights"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "recipient_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: R C Cooper
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this two-page letter dated March 22, 1971, R. C. Cooper reflects on the Swatantra Party’s extremely poor performance in the Lok Sabha and Legislative Assembly elections. Although he initially considered winding up the party, he argues that it must continue and be revitalised to meet future responsibilities. He rejects the view that the defeat resulted from the party’s principles or programme, attributing it instead to the distorted public image of the party. He therefore opposes alliances or mergers with the Organisation Congress, the Jan Sangh, or other opposition parties, and calls for rebuilding the Swatantra Party through a strong grassroots organisation.
+  
+  Cooper proposes organisational decentralisation, greater autonomy for state, district, and unit bodies, and financially self-sufficient party structures staffed by dedicated people from diverse social and professional backgrounds. The suggested public programme emphasises mass employment through increased production and public works, protection of small farmers and small property owners, stable agricultural prices, controlling the prices of essential commodities, national integration, restoration of law and order, protection of Muslims and other minorities as well as Scheduled Castes and Scheduled Tribes, and recognition of labour’s rights to collective bargaining and to strike. He concludes by urging the creation of a Youth Wing to reconnect the party leadership with the masses.
 ---
 
-Archive item 2936; dated 1971-03-22; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Cooper describes the Swatantra Party’s electoral defeat as a failure of public image rather than of its principles or programme.
+- He rejects winding up the party and argues for its continuation, revitalisation, and grassroots reconstruction.
+- He opposes alliances or mergers with the Organisation Congress, the Jan Sangh, and other opposition parties.
+- He recommends decentralisation, autonomy for state and local party units, and recruitment of members from varied occupational backgrounds.
+- He calls for financially self-sufficient party organisations and criticises dependence on central funding and corporate contributions.
+- His proposed minimum programme combines employment creation, public works, agricultural and property protections, price stability, national integration, minority protection, law and order, and labour rights.
+- He urges the party to organise young people through a new Youth Wing to restore its connection with the masses.

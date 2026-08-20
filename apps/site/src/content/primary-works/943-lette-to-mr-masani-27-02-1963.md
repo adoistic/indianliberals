@@ -1,22 +1,22 @@
 ---
 id: 943-lette-to-mr-masani-27-02-1963
 title:
-  main: "Lette to Mr Masani"
+  main: "[Lette to Mr Masani]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +27,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "recipient_not_structured"
+  - "delivery_venue_not_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this brief handwritten letter dated 27 February 1963, C. Rajagopalachari writes to M. R. Masani about the publication of an advertisement. He reports that it has appeared in newspapers, including the Hindustan Times and Express, and asks Masani to let him know when it appears in the Times of India.
 ---
 
-Archive item 943; dated 1963-02-27; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The letter is dated 27 February 1963 and is written from Rajagopalachari's Madras address.
+- Rajagopalachari addresses M. R. Masani as “My dear Masani.”
+- The subject is the appearance of an advertisement in newspapers.
+- The writer says the advertisement has appeared in the Hindustan Times and Express.
+- He asks Masani to inform him when it appears in the Times of India.
+- The document consists of a short personal note and an addressed envelope.

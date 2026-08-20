@@ -1,22 +1,21 @@
 ---
 id: 2766-swatantra-mlas-writ-admited-14-02-1975
 title:
-  main: "Swatantra MLAs Writ Admited"
+  main: "Swatantra MLAs' writ admitted"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,15 +25,39 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "electoral-reform"
+  - "constitutionalism"
+  - "party-politics"
+  - "judicial-independence"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "no_publisher"
+  - "no_author"
+  - "document_composite"
+  - "date_inferred_from_handwritten_annotation"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  The two rendered pages comprise a newspaper clipping and an electoral-registration form. The clipping, headed “Swatantra MLAs’ writ admitted,” reports that the Madras High Court issued an interim order allowing members said to belong to the Swatantra Party in the Tamil Nadu legislature to continue functioning as party members pending further orders. The case was brought by the party president, G. K. Sundaram, and party joint secretary V. S. Srik... against an Election Commission order granting recognition to the Bharatiya Jana Sangh’s election symbol. The report states that the interim order applied to the members on whose behalf the petition had been filed and that notice was ordered to the respondents, including the Union government and BLD general secretary Piloo Mody.
+  
+  The second page reproduces Form No. 18, a statutory application for inclusion of a person’s name in the electoral roll for a Graduates’ Constituency. It asks for personal particulars, educational qualification, occupation, residence, age, proof of graduation or an equivalent diploma, and a declaration that the applicant is an Indian citizen and that the information supplied is true. The form also provides an alternative declaration for deleting a name already included in another Graduates’ Constituency roll.
 ---
 
-Archive item 2766; dated 1975-02-14; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- A newspaper clipping reports the Madras High Court’s admission of a writ petition concerning Swatantra Party MLAs.
+- The court reportedly issued an interim order allowing the affected legislators to continue functioning as members of the Swatantra Party.
+- The dispute concerned the Election Commission’s recognition of the Bharatiya Jana Sangh’s election symbol.
+- The court ordered notice to the respondents, including the Union government and Piloo Mody.
+- The accompanying Form No. 18 is a claim for inclusion in the electoral roll for a Graduates’ Constituency.
+- The form requires educational, residential, occupational, age, citizenship, and duplicate-registration declarations.

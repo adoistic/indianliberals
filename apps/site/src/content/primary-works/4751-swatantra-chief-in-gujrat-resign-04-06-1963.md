@@ -1,22 +1,22 @@
 ---
 id: 4751-swatantra-chief-in-gujrat-resign-04-06-1963
 title:
-  main: "Swatantra Chief in Gujrat Resign"
+  main: "Swatantra chief in Gujarat resigns"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "INTERNATIONAL CLIPPING SERVICE Bombay - Delhi."
+  place: "Bombay - Delhi"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "no_author"
+  - "no_formal_publication_statement"
+  - "publisher_not_resolved"
+  - "source_newspaper_not_catalogued_as_publisher"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page clipping-service sheet reproduces two reports from the Free Press Journal, Bombay, dated 3 and 4 June 1963. The catalogued right-hand report, “Swatantra chief in Gujarat resigns,” states that Bhailalbhai Patel, president of the Gujarat Swatantra Party, resigned from the presidency, reportedly because of his age. General Secretary Natvar Singh Solanki said Patel would be asked to continue until party elections, expected in about three months; the State executive was to meet at Vallabh Vidyanagar on 16 June to consider the resignation.
 ---
 
-Archive item 4751; dated 1963-06-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Bhailalbhai Patel is identified as president of the Gujarat Swatantra Party.
+- Patel reportedly resigned from the party presidency on grounds of old age.
+- General Secretary Natvar Singh Solanki said Patel would be requested to continue until party elections.
+- The party elections were expected to take place in approximately three months.
+- The Gujarat State executive was scheduled to meet at Vallabh Vidyanagar on 16 June to consider the resignation.
+- A second clipping, dated 3 June, presents a reader's praise of Minoo Masani's victory in Rajkot over Congress candidate Nathalal Joshi.

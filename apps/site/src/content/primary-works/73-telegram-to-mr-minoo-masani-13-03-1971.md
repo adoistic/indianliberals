@@ -1,23 +1,20 @@
 ---
 id: 73-telegram-to-mr-minoo-masani-13-03-1971
 title:
-  main: "Telegram to Mr Minoo Masani"
+  main: "[Telegram to Mr Minoo Masani]"
   subtitle: ""
 work_type: telegram
-authors:
-  - minoo-masani
+work_type_source: filename
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +24,34 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - democracy
+proposed_themes:
+  - "constitutionalism"
+  - "democracy"
+  - "electoral-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "sender_not_identified"
+  - "publisher_not_applicable"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram, sent on an Indian Posts and Telegraphs Department form, is addressed to Shri Minoo Masani in Bombay. The sender is not identified by name; the message is attributed to “MERCHANT ASSOCIATION.” It expresses shock at Masani’s defeat and equates that defeat with the destruction of democracy.
 ---
 
-Archive item 73; dated 1971-03-13; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The document is a telegram rather than a conventional letter.
+- It is addressed to Shri Minoo Masani in Bombay.
+- The sender's personal or institutional identity is not otherwise specified.
+- The message attributes itself to “MERCHANT ASSOCIATION.”
+- Its central claim is that Masani's defeat represents the destruction of democracy.

@@ -1,22 +1,21 @@
 ---
 id: 975-letter-to-deendayal-upadhyaya-25-06-1963
 title:
-  main: "Letter to Deendayal Upadhyaya"
+  main: "[Letter to Deendayal Upadhyaya]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Deendayal Upadhyaya
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page letter dated June 25, 1963, M. R. Masani acknowledges Deendayal Upadhyaya's letter of June 19, which had been passed to him by C. Rajagopalachari ("Rajaji"). Masani welcomes a resolution adopted by Upadhyaya's Working Committee on June 13 and 14 concerning efforts at opposition unity, and expresses agreement with pursuing the course Upadhyaya had indicated.
+  
+  Masani closes by saying that he looks forward to meeting Upadhyaya in Delhi in August. The letter is a brief exchange between two political figures focused on cooperation among opposition forces; it contains no further discussion of the proposed strategy.
 ---
 
-Archive item 975; dated 1963-06-25; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The letter is dated June 25, 1963, and is addressed to Deendayal Upadhyaya.
+- Masani says that C. Rajagopalachari had passed on Upadhyaya's June 19 letter to him.
+- He welcomes the Bharatiya Jana Sangh Working Committee's resolution of June 13 and 14.
+- The subject of the resolution is identified as efforts at opposition unity.
+- Masani says he is equally keen to pursue efforts in the direction indicated by Upadhyaya.
+- He anticipates meeting Upadhyaya in Delhi in August.

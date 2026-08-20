@@ -1,22 +1,22 @@
 ---
 id: 5539-masani-refuses-to-withdraw-resignation-national-herald-17-05-1968
 title:
-  main: "Masani Refuses to Withdraw Resignation-National Herald"
+  main: "Masani Refuses To Withdraw Resignation"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "National Herald, Lucknow"
+  place: "Lucknow"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "author_not_identified"
+  - "publisher_not_resolved"
+  - "no_publication_edition"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page National Herald, Lucknow report dated 17 May 1968 states that Swatantra Party leader M. R. Masani rejected appeals from the party's central parliamentary board and national executive to withdraw his resignation from those bodies. The report says that Masani communicated his decision in a letter to the party's general secretary, N. Dandekar, and regarded the decision as final.
 ---
 
-Archive item 5539; dated 1968-05-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The clipping reports M. R. Masani's refusal to withdraw his resignation.
+- The appeal came from the Swatantra Party's central parliamentary board and national executive.
+- Masani's resignation concerned his positions in those party bodies.
+- Masani communicated his decision in a letter to the party's general secretary, N. Dandekar.
+- The report characterises Masani's decision as final.
+- The item is attributed to UNI and was published in the National Herald, Lucknow.

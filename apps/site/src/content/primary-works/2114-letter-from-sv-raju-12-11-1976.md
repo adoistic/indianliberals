@@ -1,7 +1,7 @@
 ---
 id: 2114-letter-from-sv-raju-12-11-1976
 title:
-  main: "Letter from SV Raju"
+  main: "[Letter from SV Raju]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1976
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_edition"
+  - "no_series"
+  - "no_identifiers"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated November 12, 1976, S. V. Raju declines Haribhau's suggestion that a pamphlet be prepared during the Swatantra Party's current circumstances. He explains that a pamphlet would require an effective distribution mechanism, which the party lacks, and notes that its funds are tight. Instead, he recommends encouraging small groups to meet regularly as study circles to discuss current topics, and says he plans to begin weekly study meetings at the party office from January 1977.
 ---
 
-Archive item 2114; dated 1976-11-12; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Raju rejects an immediate pamphlet project because the party lacks an effective distribution mechanism.
+- He cites the party's financially constrained position as an additional reason for caution.
+- He proposes regular small-group study circles focused on current topics.
+- He plans to begin weekly study meetings at the party office in January 1977.
+- He reconsiders a proposal concerning Chanakya, acknowledging that his earlier conclusion may have been erroneous.
+- He reports a discussion with Mr. Sundaram about Tamil Nadu party affairs and plans to consult colleagues before writing further.

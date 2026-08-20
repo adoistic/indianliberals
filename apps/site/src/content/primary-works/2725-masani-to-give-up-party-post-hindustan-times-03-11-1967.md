@@ -1,22 +1,22 @@
 ---
 id: 2725-masani-to-give-up-party-post-hindustan-times-03-11-1967
 title:
-  main: "Masani To Give Up Party Post-Hindustan Times"
+  main: "Masani to give up party post"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Hindustan Times Correspondent"
+  place: "Bombay"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_named_author"
+  - "no_publisher_imprint"
+  - "no_complete_publication_date"
+  - "no_archival_document_type"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This Hindustan Times report describes Minoo Masani's decision to relinquish his post as general secretary of the Swatantra Party after seven years. Writing to the party's general council before its Delhi meeting, Masani says that he and C. Rajagopalachari had been arguing that remaining in office too long was not good for the country or for parliamentary democracy, and that the principle should also apply to government office-holders.
+  
+  Masani extends this argument into a broader case for rotation in leadership, comparing it with practices in enlightened industrial management. He rejects the idea that party office-bearers should do nearly all the work while others remain passive, arguing instead for a disciplined and dedicated cadre that need not hold office. He says he will continue serving the party through Parliament and public speaking, and recommends N. Dandekar—who had acted in his place during Masani's illness—as the next general secretary.
 ---
 
-Archive item 2725; dated 1967-11-03; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Minoo Masani announces that he will give up the Swatantra Party's general-secretary post after seven years.
+- He and C. Rajagopalachari argue that prolonged tenure in office is unhealthy for the country and parliamentary democracy.
+- Masani invokes job rotation in industrial management as an analogy for applying rotation to political and governmental office.
+- He criticises the assumption that party office-bearers should perform almost all organisational work while others remain passive.
+- He calls for a disciplined and dedicated party cadre whose members need not necessarily hold office.
+- Masani intends to continue serving the party in Parliament and through spoken and written advocacy.
+- He recommends N. Dandekar, who had been officiating during Masani's illness, as the next general secretary.

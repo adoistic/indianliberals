@@ -41,6 +41,15 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This single-page letter, dated 6 February 1975, was written by B. D. Pandey of Gorakhpur to Minoo Masani shortly after the dissolution of the Swatantra Party. Pandey reports receiving letters from political associates in Mathura, Moradabad, and Bulandshahr, and asks Masani to advise him on the party's future direction.
 ---
 
-Archive item 1221. Scanned document from the Swatantra Party papers.
+## Key points
+
+- Pandey writes to Masani about the dissolution of the Swatantra Party.
+- He refers to Masani's remark at a Delhi convention that the national alternative was Jayaprakash Narayan rather than the Bharatiya Lok Dal.
+- Pandey argues that the era of political parties in India may be over.
+- He asks whether it would nevertheless be worthwhile to work toward reviving the Swatantra Party, particularly in Uttar Pradesh.
+- Pandey identifies himself as a leading member of the Jan Sangharsh Samiti and chairman of the J.P. Reception Committee in Gorakhpur.
+- The letter closes with a request for advice and a conventional expression of good wishes.

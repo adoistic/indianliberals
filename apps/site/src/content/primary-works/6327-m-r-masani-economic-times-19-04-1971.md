@@ -1,22 +1,22 @@
 ---
 id: 6327-m-r-masani-economic-times-19-04-1971
 title:
-  main: "M R Masani-Economic Times"
+  main: "M. R. Masani"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "ECONOMIC TIMES"
+  place: "BOMBAY"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_title_page"
+  - "no_publisher_address"
+  - "no_edition"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Economic Times report, dated 19 April 1971, records an internal leadership change in the Swatantra Party. The party's general council accepted M. R. Masani's resignation as president and appointed N. Dandekar to the post. The clipping also reports that new party office-bearers were elected in September.
 ---
 
-Archive item 6327; dated 1971-04-19; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The report appeared in the Economic Times on 19 April 1971.
+- The Swatantra Party general council accepted M. R. Masani's resignation.
+- M. R. Masani is identified as the outgoing party president.
+- N. Dandekar was appointed to the party presidency.
+- The report says that new office-bearers were elected in September.

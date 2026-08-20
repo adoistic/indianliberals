@@ -1,23 +1,20 @@
 ---
 id: 4294-letter-to-c-rajagopalachari-29-04-1964
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
-authors:
-  - c-rajagopalachari
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +25,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_not_structured"
+  - "telegram_classification_constrained_by_work_type_enum"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English express telegram, dated 28 April 1964, is addressed to C. Rajagopalachari in Madras and identified as being from “MASANI.” It conveys congratulations on the outcome of a political and constitutional campaign, stating that the “great fight against 17th amendment” led by Rajagopalachari has been rewarded.
 ---
 
-Archive item 4294; dated 1964-04-29; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is an express telegram rather than a conventional letter.
+- It is dated 28 April 1964.
+- The recipient is C. Rajagopalachari, at 60 Bazullah Road, Madras 17.
+- The sender is identified only as “MASANI.”
+- The message refers to a campaign against the 17th Amendment.
+- The sender says that Rajagopalachari’s efforts have been rewarded.

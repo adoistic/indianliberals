@@ -1,7 +1,7 @@
 ---
 id: 6095-letter-to-c-rajagopalachari
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,12 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "MADRAS-17"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "recipient_not_structured"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English typed letter is from C. Rajagopalachari, whose address is given as 60, Bastiullah Road, Thyagarayanagar, Madras-17, to Piloo Mody of the Swatantra Party in Bombay. Its subject line records Rajagopalachari's gratitude for Mody's offer and states that he has decided to cancel his Bombay programme. No further body text, date, or year is visible on the rendered page.
 ---
 
-Archive item 6095; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page typed letter in English.
+- The sender is C. Rajagopalachari.
+- The recipient is Piloo Mody, whose address is in Bombay.
+- The subject concerns Rajagopalachari's decision to cancel his Bombay programme.
+- The subject line opens by expressing gratitude for Mody's offer.
+- No date, year, or substantive letter body is visible.

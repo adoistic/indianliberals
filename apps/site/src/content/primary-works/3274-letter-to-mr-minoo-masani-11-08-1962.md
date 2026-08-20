@@ -1,23 +1,22 @@
 ---
 id: 3274-letter-to-mr-minoo-masani-11-08-1962
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "MADRAS"
   year: 1962
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_publication_edition"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 11 August 1962, C. Rajagopalachari writes to Minoo Masani, General Secretary of the Swatantra Party, concerning an earlier resolution adopted in Madras. Rajagopalachari instructs Masani to keep preparations ready on the assumption that the resolution remains unchanged, while ensuring that no information is leaked and that any release awaits his confirmation by telegram and letter.
+  
+  Rajagopalachari says he has not yet replied to K. M. Munshi, proposing to write after some time has passed and Munshi's health has improved. He emphasizes that the decision should be implemented without "any breaking of chords," suggesting a desire to preserve internal coordination and avoid an abrupt or discordant public action.
 ---
 
-Archive item 3274; dated 1962-08-11; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 11 August 1962 and is addressed to Minoo Masani in Bombay.
+- Rajagopalachari refers to his previous correspondence and Masani's letter of 9 August.
+- He asks Masani to prepare on the basis that a Madras resolution remains unchanged.
+- He insists that there be no leakage of information before authorization.
+- He requires release of the decision to await his instructions by telegram and confirmatory letter.
+- He plans to write to K. M. Munshi after some time has elapsed and when Munshi is in better health.
+- The letter stresses adherence to the decision without "any breaking of chords."

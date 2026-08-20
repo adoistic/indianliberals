@@ -1,22 +1,20 @@
 ---
 id: 5591-comment-rajasthan-polls-01-05-1968
 title:
-  main: "Comment Rajasthan Polls"
-  subtitle: ""
-work_type: letter
+  main: "COMMENT"
+  subtitle: "Rajasthan poll"
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +25,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "author_not_named"
+  - "publisher_not_identified"
+  - "publication_source_not_identified"
+  - "date_not_printed_on_clipping"
+  - "composite_scan_content_mismatch"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  The visible political commentary, headed “Rajasthan poll,” discusses the Congress victory in the Lok Sabha by-election in Dausa and the Assembly election in Chomu. It argues that these results should help the Swatantra Party recover its self-confidence, particularly because the party had earlier held both seats. The commentary identifies the defeat in the Jaipur parliamentary constituency as especially significant and attributes it partly to divisions among anti-Congress forces.
+  
+  The clipping describes the Swatantra campaign in Dausa as involving the Rajmata of Gwalior and an effort to persuade the House of Udaipur to set aside old grievances against Jaipur. In Chomu, the Swatantra candidate was supported by M. R. Pai, whose campaign strategy reportedly aimed to persuade Congress MLAs to support him and thereby weaken Chief Minister Sukhadia. The commentary concludes that the Congress vote was not necessarily a mandate for the party, but may instead reflect anti-feudal sentiment in Rajasthan and dissatisfaction with the Swatantra leadership. The second rendered page is a separate employment-rejection letter dated May 23, 1968, and does not appear related to the political clipping.
 ---
 
-Archive item 5591; dated 1968-05-01; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Congress victory in the Dausa Lok Sabha by-election and Chomu Assembly election is presented as a setback for the Swatantra Party.
+- The results are nevertheless described as potentially useful in restoring Swatantra's self-confidence.
+- The Jaipur defeat is treated as particularly serious because Jaipur had previously been a Swatantra stronghold.
+- The commentary links the campaign to anti-Congress alliance-building and attempts to overcome princely and regional rivalries.
+- M. R. Pai's strategy in Chomu is described as an effort to attract Congress legislators and weaken Chief Minister Sukhadia.
+- The Congress vote is interpreted as reflecting anti-feudal sentiment as well as opposition to Swatantra's leadership.

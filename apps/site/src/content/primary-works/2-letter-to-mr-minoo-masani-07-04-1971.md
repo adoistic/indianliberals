@@ -1,23 +1,21 @@
 ---
 id: 2-letter-to-mr-minoo-masani-07-04-1971
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Khal Kankal, U.P."
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_authority_match"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This handwritten English letter, dated April 7, 1971, is addressed by Suresh Singh to Minoo Masani after Masani's unsuccessful election to the Lok Sabha. Singh offers encouragement, observing that setbacks and successes are always part of political life, and expresses hope that Masani will serve in the government of the country.
+  
+  The letter also reports on a hospital associated with Singh: construction is progressing well, and the hospital has acquired one good cardiologist and one male doctor. Singh invites Masani to visit and see the hospital. The page is headed “Kala Kankar, U.P.” and is signed “Suresh Singh.”
 ---
 
-Archive item 2; dated 1971-04-07; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Suresh Singh writes to Minoo Masani on April 7, 1971.
+- The letter refers to Masani's unsuccessful election to the Lok Sabha.
+- Singh frames political defeats and successes as recurring features of political life.
+- Singh expresses hope that Masani will serve in the government of India.
+- A hospital project is described as progressing well.
+- The hospital has obtained one cardiologist and one male doctor.
+- Singh invites Masani to visit the hospital.

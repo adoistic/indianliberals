@@ -1,7 +1,7 @@
 ---
 id: 1810-letter-to-hp-mody-30-06-1959
 title:
-  main: "Letter to HP Mody"
+  main: "[Letter to HP Mody]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,14 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  issuer_id: bharathan-publications
+  publisher_name: "(Props : Bharathan Publications Private Limited)"
+  place: "Madras"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +28,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_recipient_authority_resolution"
+  - "no_document_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: HP Mody
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 30 June 1959, announces T. Sadasivam’s takeover of the printing, publishing, and management of Swarajya, described on its letterhead as an English political weekly published from Madras by Bharathan Publications Private Limited. Addressed to Sir Hari Mody, the letter presents the change as an effort to widen the reach of the paper’s liberal political commentary.
 ---
 
-Archive item 1810; dated 1959-06-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- T. Sadasivam announces that he will take over Swarajya from 1 July 1959.
+- Swarajya is described as a well-known English political weekly of India.
+- Khasa Subba Rau is praised as a fearless critic and distinguished newspaper and periodical editor.
+- The formation of the Swatantra Party, with C. Rajagopalachari’s blessing, is called the greatest political event since Independence.
+- The letter argues that Rajagopalachari’s voice and Khasa Subba Rau’s editorial voice should reach educated and intelligent Indian households.
+- Sadasivam asks Mody to read Swarajya regularly and write when he feels inclined.

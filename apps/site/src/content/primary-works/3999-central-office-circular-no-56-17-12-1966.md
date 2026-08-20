@@ -1,7 +1,7 @@
 ---
 id: 3999-central-office-circular-no-56-17-12-1966
 title:
-  main: "Central Office Circular no-56"
+  main: "CENTRAL OFFICE CIRCULAR NO. 56"
   subtitle: ""
 work_type: circular
 authors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party—Central Office"
+  place: "Bombay 1"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +28,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_publisher_address"
+  - "signatory_not_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  Central Office Circular No. 56, dated December 17, 1966, is a Swatantra Party communication enclosing the tentative January 1967 itinerary of its General Secretary, M. R. Masani. Addressed generically as “Dear Friend,” the circular notes that the programme is subject to last-minute changes and is signed by V. P. Bhatia on behalf of the Central Office.
+  
+  The attached two-page schedule records Masani’s proposed travel by air and road during January 1967. The itinerary includes engagements or stays in Jaipur, Delhi, Lucknow, Patna, Ranchi, Calcutta, Bhubaneswar, Bombay, Rajkot, Bangalore, Chittoor, Madras, and Hyderabad, with flight numbers and named hotels or guest houses where applicable. Handwritten corrections and cancellations indicate that the circulated programme was revised during planning.
 ---
 
-Archive item 3999; dated 1966-12-17; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is Central Office Circular No. 56 of the Swatantra Party, dated December 17, 1966.
+- It encloses the General Secretary M. R. Masani’s tentative tour programme for January 1967.
+- The circular warns that the itinerary is subject to last-minute changes.
+- The schedule lists air and road travel across northern, eastern, western, and southern Indian cities.
+- Hotels and guest houses are identified for several stops, including Jaipur, Lucknow, Patna, Calcutta, Bhubaneswar, and Bangalore.
+- Handwritten alterations show that some dates, routes, and transport arrangements were revised.

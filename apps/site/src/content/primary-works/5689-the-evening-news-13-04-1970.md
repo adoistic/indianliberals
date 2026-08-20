@@ -1,22 +1,21 @@
 ---
 id: 5689-the-evening-news-13-04-1970
 title:
-  main: "The Evening News"
+  main: "[The Evening News]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "The Evening News"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "publisher_not_resolved"
+  - "place_not_printed"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English-language newspaper clipping, dated 13 April 1970, combines a political cartoon with a page of political reporting or commentary. The cartoon contrasts a child-sized, apparently headless political figure with a large lion labelled “SWATANTRA LEADERSHIP,” suggesting criticism of the gap between the Swatantra Party’s political image and the perceived weakness or absence of its leadership. The second page, reproduced upside down in the scan, records statements and reported developments involving political leaders and the Swatantra Party, including references to events in Gujarat and to a statement by M. C. Chagla.
 ---
 
-Archive item 5689; dated 1970-04-13; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The item is a newspaper clipping dated 13 April 1970, with no standalone title or author byline visible.
+- Its first page reproduces a political cartoon from The Evening News.
+- The cartoon uses a lion labelled “SWATANTRA LEADERSHIP” to comment on the party’s leadership.
+- The cartoon is credited as being reproduced by arrangement with the Hindustan Standard.
+- The second page presents political statements and reported developments concerning the Swatantra Party and political figures in Gujarat.
+- M. C. Chagla is mentioned in connection with a statement made at a political conference in Ahmedabad.

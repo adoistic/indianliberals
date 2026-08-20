@@ -1,23 +1,22 @@
 ---
 id: 4985-letter-to-mr-minoo-masani-10-07-1975
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "THE HINDUSTAN TIMES"
+  place: "NEW DELHI - 1"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_id_unresolved"
+  - "no_publication_venue"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated July 10, 1975, is written by B. G. Verghese, identified as Editor of The Hindustan Times, to Minoo Masani. Verghese acknowledges Masani's July 4 letter and refers him to an expected response from the newspaper's Advertisement Manager, Mr S. D. Singh, concerning an unspecified matter.
+  
+  The letter then adopts a collegial and historically situated tone: Verghese describes the period as “momentous” and invites Masani to Delhi for a meal and an exchange of notes. The document does not identify the subject of the correspondence or provide further context about the events to which it alludes.
 ---
 
-Archive item 4985; dated 1975-07-10; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated July 10, 1975, and is sent from The Hindustan Times in New Delhi.
+- B. G. Verghese signs as Editor and addresses Minoo Masani as “Dear Minoo Masani.”
+- Verghese acknowledges Masani's July 4 letter.
+- The writer refers to a pending response from Advertisement Manager S. D. Singh.
+- The subject of the administrative matter is not specified on the page.
+- Verghese describes the period as “momentous times” and proposes meeting Masani in Delhi.
+- The proposed meeting is framed as an opportunity to share a meal and exchange notes.

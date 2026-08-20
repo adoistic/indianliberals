@@ -1,22 +1,22 @@
 ---
 id: 1866-letter-to-ms-sundaresan-17-11-1965
 title:
-  main: "Letter to MS Sundaresan"
+  main: "[Letter to MS Sundaresan]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi - 3"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Sundaresan
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated 17 November 1965, is from M. R. Masani to M. S. Sundaresan, Under Secretary at the Lok Sabha Secretariat in New Delhi. Masani acknowledges Sundaresan’s circular letter of 16 November and asks him to convey Masani’s apologies to the Speaker for missing the next day’s meeting of the Jawaharlal Nehru Portrait Parliamentary Committee.
+  
+  Masani explains that he will be leaving Delhi that day on tour. The document is a brief item of parliamentary correspondence and contains no substantive discussion of policy or political argument.
 ---
 
-Archive item 1866; dated 1965-11-17; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 17 November 1965 and is sent from 57, Lodi Estate, New Delhi-3.
+- M. R. Masani acknowledges Circular letter No. 8/1/65-MG dated 16 November.
+- Masani asks M. S. Sundaresan to convey his apologies to the Speaker.
+- The apology concerns Masani’s absence from the following day’s Jawaharlal Nehru Portrait Parliamentary Committee meeting.
+- Masani states that he is leaving Delhi that day on tour.
+- The letter is signed by M. R. Masani and addressed to Sundaresan at the Lok Sabha Secretariat.

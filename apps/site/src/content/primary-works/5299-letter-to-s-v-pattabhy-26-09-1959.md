@@ -1,7 +1,7 @@
 ---
 id: 5299-letter-to-s-v-pattabhy-26-09-1959
 title:
-  main: "Letter to S V pattabhy"
+  main: "[Letter to S V pattabhy]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_not_in_schema"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: S V pattabhy
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office letter, dated 26 September 1959, is marked “EXPRESS DELIVERY” and addressed to Mr. S. V. Pattabhy of the Swatantra Party in Hassan, Mysore State. Miss B. S. Mirza, writing as secretary to M. R. Masani, acknowledges Pattabhy’s invitation for Masani to attend the Swatantra Party’s first District Convention in Hassan on 27 September.
+  
+  The letter explains that Masani is not currently in India and is expected to return only sometime in early October. As a result, he cannot accept the invitation, although Mirza states that she will place Pattabhy’s letter before him upon his return. The document records a brief piece of party correspondence during the formation of the Swatantra Party in 1959.
 ---
 
-Archive item 5299; dated 1959-09-26; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 26 September 1959 and marked for express delivery.
+- It is addressed to S. V. Pattabhy in connection with the Swatantra Party in Hassan, Mysore State.
+- Pattabhy had invited M. R. Masani to the first District Convention in Hassan on 27 September.
+- Masani was outside India and expected to return in early October.
+- The invitation could not be accepted, but the letter would be shown to Masani on his return.
+- The document reflects early organisational correspondence involving the Swatantra Party.

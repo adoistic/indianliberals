@@ -1,22 +1,22 @@
 ---
 id: 5862-mr-minoo-masani-disscussion-on-the-preventive-detention-bill-in-the-lok-sabha-01-12-1960
 title:
-  main: "Mr Minoo Masani disscussion on the Preventive Detention Bill in the Lok Sabha"
+  main: "Mr. M. R. Masani's speech in the course of the discussion on the Preventive Detention (Continuance) Bill (1960) in the Lok Sabha on December 1, 1960."
   subtitle: ""
-work_type: letter
-authors: []
+work_type: speech
+purpose: parliamentary
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1960
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -26,15 +26,39 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "civil-liberty"
+  - "emergency-critique"
+  - "individual-rights"
+  - "constitutionalism"
+missing_metadata_flags:
+  - "publisher_not_printed"
+  - "publication_place_not_printed"
+  - "edition_not_printed"
+  - "series_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this four-page Lok Sabha speech of 1 December 1960, M. R. Masani opposes the Preventive Detention (Continuance) Bill, arguing that the emergency justification originally offered for the measure has long since disappeared. He recalls that the bill was presented in 1950 amid fears that Communist detainees might be released by the Calcutta High Court, but says that the promised temporary renewal and review have instead become a permanent feature of the statute book. Masani describes this as a threat to democracy and insists that any restriction of liberty must rest on a clear and present danger rather than administrative convenience.
+  
+  Masani distinguishes opposition to Communism from support for preventive detention. He accepts that the state may legislate directly against subversive organisations, but condemns the use of the Act against individuals who are exercising political, trade-union, or territorial rights. Citing the detention of Sheikh Abdullah, the arrest of strike supporters, and an exile notice served on a citizen in Bastar, he argues that the law has been used against patriotic Indians and that its operation violates the rule of law. He concludes by calling for uniformity of fundamental rights in Kashmir and throughout India and states that he will vote against the bill.
 ---
 
-Archive item 5862; dated 1960-12-01; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani recalls that the Preventive Detention Bill was originally justified in 1950 by an alleged immediate danger of Communist detainees being released.
+- He argues that the emergency rationale has lapsed and that repeated three-year renewals have made the measure a permanent blot on the statute book.
+- He separates opposition to Communism from opposition to the bill, saying that restrictions should target subversive activity directly rather than curtail individual liberty through preventive detention.
+- He presents the detention of Sheikh Abdullah as an example of a patriotic Indian being held without a demonstrated need for detention.
+- He criticises the use of preventive detention against trade-unionists and people involved in strikes, arguing that a strike may be unlawful but remains a fundamental civil liberty unless prosecuted under ordinary law.
+- He cites an exile notice issued to a citizen in Bastar as evidence that the Act is being used to deprive Indians of residence and movement rights.
+- He argues that citizens must be presumed innocent until convicted and that Kashmiris should receive uniform fundamental rights as Indian citizens.

@@ -1,22 +1,20 @@
 ---
 id: 4658-message-from-mr-dandekar-to-mr-minoo-masani-22-03-1968
 title:
-  main: "Message from Mr Dandekar to Mr Minoo Masani"
+  main: "Message from Mr. Dandekar to Mr. Masani"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "issuer_not_printed"
+  - "recipient_not_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Dandekar to Mr Minoo Masani
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telegram, dated 22 March 1968, is headed “Message from Mr. Dandekar to Mr. Masani.” Dandekar advises that the proposed action is unwise because it may provoke a wholesale revolt of MLAs. He says he will consider the matter further in consultation with “Baris,” whom he expects to meet in Bombay on 24 March.
 ---
 
-Archive item 4658; dated 1968-03-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page typed telegram dated 22.3.68.
+- It is addressed from Dandekar to Minoo Masani.
+- Dandekar considers the proposed action unwise.
+- He warns that it may lead to a wholesale revolt of MLAs.
+- He proposes further consultation with Baris during a Bombay meeting on 24 March.
+- A note states that Mr. Dandekar will be in Bombay from 24th to 29th.

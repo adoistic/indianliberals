@@ -1,9 +1,9 @@
 ---
 id: 323-swatantra-newsletter-no-39-november-1963
 title:
-  main: "Swatantra Newsletter No-39 November-1963"
+  main: "Swatantra Newsletter"
   subtitle: ""
-work_type: letter
+work_type: periodical_issue
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "ISSUED BY THE CENTRAL OFFICE OF THE SWATANTRA PARTY, 143 MAHATMA GANDHI ROAD, FORT, BOMBAY. TELEPHONE NO : 29687"
+  place: "Bombay"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 8
   pages_total_source: pypdfium2
@@ -27,14 +28,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "constitutionalism"
+  - "individual-rights"
+  - "property-rights"
+  - "land-reform"
+  - "economic-liberty"
+  - "capitalism-defence"
+  - "socialism-debate"
+  - "foreign-policy"
+  - "cold-war-positioning"
+  - "civil-liberty"
+  - "federalism"
+  - "agricultural-reform"
+missing_metadata_flags:
+  - "formal_toc_not_present"
+  - "editor_not_named"
+  - "no_issn"
+  - "no_isbn"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 323; dated 1963-11; 8 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+Archive item 323. Scanned document from the Swatantra Party papers.

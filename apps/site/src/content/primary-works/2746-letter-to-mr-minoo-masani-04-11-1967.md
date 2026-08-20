@@ -1,23 +1,21 @@
 ---
 id: 2746-letter-to-mr-minoo-masani-04-11-1967
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "NEW DELHI-11"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This letter, dated November 4, 1967, is from C. C. Desai, identified on the letterhead as a Member of Parliament, to Minoo Masani. Desai supports Masani’s decision not to stand again for election as General Secretary of the Swatantra Party at the forthcoming Delhi meeting. He argues that periodic changes in leadership are valuable, even when an office-holder is highly capable and indispensable.
+  
+  Desai nevertheless urges Masani to remain available as an elder statesman of the party and not to reverse his decision merely because well-intentioned colleagues press him to continue. He also endorses the suggestion that Dandekar become General Secretary, stating that Dandekar is acceptable to everyone and that his election would receive broad approval.
 ---
 
-Archive item 2746; dated 1967-11-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- C. C. Desai writes to Minoo Masani on November 4, 1967.
+- Desai approves Masani’s decision not to seek another term as Swatantra Party General Secretary.
+- The letter presents leadership rotation as beneficial to political organisations.
+- Masani is encouraged to continue offering counsel and guidance as a senior party figure.
+- Desai endorses Dandekar as a suitable successor to Masani.
+- The letter indicates that Dandekar is broadly acceptable within the party.

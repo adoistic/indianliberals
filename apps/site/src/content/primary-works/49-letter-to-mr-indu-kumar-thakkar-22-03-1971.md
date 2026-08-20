@@ -1,22 +1,21 @@
 ---
 id: 49-letter-to-mr-indu-kumar-thakkar-22-03-1971
 title:
-  main: "Letter to Mr Indu Kumar Thakkar"
+  main: "[Letter to Mr Indu Kumar Thakkar]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "electoral-reform"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "no_place_of_publication"
+  - "no_edition_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Indu Kumar Thakkar
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This letter from M. R. Masani to Indu Kumar Thakkar, dated 22 March 1971, thanks Thakkar for travelling to Rajkot and devoting time and energy to the election campaign. Masani says he relied heavily on Thakkar's work and credits him with doing as much as any one individual could have done.
 ---
 
-Archive item 49; dated 1971-03-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani expresses gratitude for Thakkar's participation in the election campaign.
+- Thakkar travelled to Rajkot at considerable personal cost in time and effort.
+- Masani says he relied substantially on Thakkar's work.
+- The letter suggests that broader mobilisation across the constituency might have changed the result.
+- Masani regrets that Thakkar's dedicated efforts were not rewarded with electoral success.
+- Masani also asks Thakkar to convey his appreciation to his wife for tolerating the resulting inconvenience.

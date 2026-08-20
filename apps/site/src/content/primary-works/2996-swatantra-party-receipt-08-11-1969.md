@@ -1,9 +1,9 @@
 ---
 id: 2996-swatantra-party-receipt-08-11-1969
 title:
-  main: "Swatantra Party Receipt"
+  main: "[Swatantra Party Receipt]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY PARLIAMENTARY OFFICE"
+  place: "NEW DELHI"
   year: 1969
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 7
   pages_total_source: pypdfium2
@@ -27,14 +28,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_formal_author"
+  - "no_publication_date"
+  - "no_edition"
+  - "no_series"
+  - "no_identifier"
+  - "publisher_not_resolved"
+  - "archival_document_type_not_represented_in_strict_enum"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This seven-page archival bundle records financial transactions associated with the Swatantra Party Parliamentary Office and M. R. Masani in New Delhi in October-November 1969. The first page is a Swatantra Party Parliamentary Office receipt acknowledging Rs. 100 from M. R. Masani for a “special donation.” The remaining pages document expenses at the Delhi Golf Club, including handwritten receipts, bar chits, and a typed party bill for an event held on 30 October 1969.
 ---
 
-Archive item 2996; dated 1969-11-08; 7 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The bundle is composed of receipts, bills, and attached bar chits rather than a conventional publication.
+- A Swatantra Party Parliamentary Office receipt records Rs. 100 received from M. R. Masani as a special donation.
+- Delhi Golf Club records identify M. R. Masani as the payer or person whose party bill was recorded.
+- The documents include expenses for wines and spirits, soft drinks, catering, and sales tax.
+- A typed party bill dated 30 October 1969 totals Rs. 479.40.
+- Attached bar chits list alcoholic drinks, soft drinks, and dinner-related charges.
+- The records place the transactions in New Delhi and show the administrative and hospitality expenses associated with a Swatantra Party parliamentary gathering.

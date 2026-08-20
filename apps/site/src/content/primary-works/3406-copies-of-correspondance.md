@@ -1,21 +1,19 @@
 ---
 id: 3406-copies-of-correspondance
 title:
-  main: "Copies of Correspondance"
+  main: "[Copies of Correspondance]"
   subtitle: ""
-work_type: letter
+work_type: correspondence
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +24,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_found"
+  - "publisher_not_found"
+  - "correspondence_contents_not_rendered"
+  - "participants_not_unambiguously_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  The single rendered page is an archival cover or folder sheet rather than a letter or set of correspondence pages. Its handwritten notation reads approximately “Copies of Correspondence between New India + Ranga[n?]”; a circled number “3406” appears above the notation.
+  
+  The page does not identify the correspondents unambiguously, provide dates, or show the contents of the correspondence. The reference to “New India” may be a publication, organisation, or correspondent, but the visible page does not establish which.
 ---
 
-Archive item 3406; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The rendered page is a handwritten archival cover or folder label.
+- The label refers to “Copies of Correspondence”.
+- The correspondence is described as being “between New India + Ranga[n?]”.
+- A circled archival or catalogue number, “3406”, is visible.
+- No individual letters, salutations, dates, senders, recipients, or publication details are visible.
+- The identities and roles of “New India” and “Ranga[n?]” cannot be determined from this page alone.

@@ -1,7 +1,7 @@
 ---
 id: 5186-letter-to-a-c-sampath-iyeangar-23-11-1969
 title:
-  main: "Letter to A C Sampath Iyeangar"
+  main: "[Letter to A C Sampath Iyeangar]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1969
+  publisher_name: "SWATANTRA PARTY"
+  place: "CALCUTTA"
+  year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +28,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_address"
+  - "recipient_not_authority_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: A C Sampath Iyeangar
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter from A. C. Sampath Iyengar, written on Swatantra Party, West Bengal Branch letterhead and dated 23 November 1959, concerns arrangements for an upcoming conference. Iyengar informs M. R. Masani that the proposed date has changed because the Calcutta University Institute Hall was unavailable on 27 December; he has instead secured the hall for Sunday, 3 January 1960, and paid an advance.
 ---
 
-Archive item 5186; dated 1969-11-23; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Iyengar acknowledges Masani's letter of 19 November and notes that Masani will be in Calcutta from 4 to 7 December.
+- The conference date has been moved from the originally proposed date to 3 January 1960.
+- The Calcutta University Institute Hall has been booked for the new date, with a Rs. 50 advance already paid.
+- The remaining Rs. 250 hall payment is due within a fortnight.
+- The Subjects Committee is scheduled to meet on 2 January 1960 to finalise resolutions for the open conference.
+- Iyengar asks Masani to keep 3 January free and says he has informed M. R. Ranga at the Swatantra Party office in Madras.
+- Iyengar also asks Masani to inform K. M. Munshi of the change if Munshi is in Delhi.

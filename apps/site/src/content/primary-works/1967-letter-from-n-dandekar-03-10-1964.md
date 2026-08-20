@@ -1,7 +1,7 @@
 ---
 id: 1967-letter-from-n-dandekar-03-10-1964
 title:
-  main: "Letter from N Dandekar"
+  main: "[Letter from N Dandekar]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 3 October 1964, records that the Parliamentary Board of the Swatantra Party accepted Mr. Yashpal Singh’s resignation on 30 September. N. Dandekar, writing as Acting General Secretary, informs Bhanu Pratap Singh so that consequential action can be taken regarding Yashpal Singh’s position on the Uttar Pradesh Executive.
 ---
 
-Archive item 1967; dated 1964-10-03; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 3 October 1964.
+- It follows an earlier letter dated 25 September.
+- The Swatantra Party’s Parliamentary Board accepted Yashpal Singh’s resignation on 30 September.
+- The resignation affected Yashpal Singh’s position on the Uttar Pradesh Executive.
+- N. Dandekar signed as Acting General Secretary.
+- The letter was addressed to Bhanu Pratap Singh of the Swatantra Party, Uttar Pradesh, in Lucknow.

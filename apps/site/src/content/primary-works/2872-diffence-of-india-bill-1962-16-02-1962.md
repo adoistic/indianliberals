@@ -1,22 +1,21 @@
 ---
 id: 2872-diffence-of-india-bill-1962-16-02-1962
 title:
-  main: "Diffence of India Bill-1962"
-  subtitle: ""
-work_type: letter
+  main: "DEFENCE OF INDIA BILL, 1962."
+  subtitle: "Notice of Amendments."
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "NEW DELHI"
   year: 1962
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,15 +25,37 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "civil-liberty"
+  - "judicial-independence"
+missing_metadata_flags:
+  - "publisher_not_printed"
+  - "issuer_not_resolved"
+  - "authority_resolution_failed"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page Lok Sabha notice sets out ten proposed amendments to the Defence of India Bill, 1962. The amendments are attributed to C. L. Narasimha Reddy, Narendra Singh Mahida, Sardar Buta Singh, and Himmatsinghji, and address several provisions concerning agricultural control, Special Tribunals, evidence, appeals, and property possession.
+  
+  The proposals seek to narrow or qualify executive and tribunal powers. They would replace “control” with “intensification,” prevent the Government from introducing co-operative farming compulsorily, require prima facie evidence to be made available to an aggrieved party for consultation, mandate written evidence in Special Tribunal trials, and remove provisions barring appeals or judicial review. The notice is dated New Delhi, November 16, 1962, and is signed administratively by M. N. Kaju, Secretary.
 ---
 
-Archive item 2872; dated 1962-02-16; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a Lok Sabha notice of ten amendments to the Defence of India Bill, 1962.
+- Several amendments concern the scope of Government intervention in agriculture and land cultivation.
+- One proposal expressly bars the compulsory introduction of co-operative farming.
+- The amendments would require prima facie evidence to be made available to an aggrieved party for consultation.
+- The notice proposes written recording of evidence in trials before Special Tribunals.
+- It seeks to remove language denying appeals and judicial review of Special Tribunal orders and sentences.
+- Other amendments address the composition of Special Tribunals and the identification of persons in possession of property.

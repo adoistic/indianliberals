@@ -1,22 +1,21 @@
 ---
 id: 2797-minutes-of-meeting-of-lok-sabha-and-rajya-sabha-16-04-1962
 title:
-  main: "Minutes of Meeting of Lok Sabha and Rajya Sabha"
+  main: "[Minutes of Meeting of Lok Sabha and Rajya Sabha]"
   subtitle: ""
 work_type: minutes
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1962
+  place: "New Delhi"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English-language draft record reports a meeting of Lok Sabha office-bearers and Rajya Sabha members held at 40 Canning Lane, New Delhi, on 16 April. It lists six people present: Dahyabhai V. Patel, C. L. Narasimha Reddy, Loknath Mishra, N. Mahida, J. K. P. N. Singh, and M. R. Masani.
+  
+  The minutes record decisions concerning the functioning of the Secretariat. The meeting accepted the General Secretary’s offer of Mr. Wahab Azad’s services to assist members in getting the Secretariat functioning, decided to prepare a budget within the next few days, discussed personnel requirements and related details, and then terminated. The document does not print a year, title, issuing body, or publisher.
 ---
 
-Archive item 2797; dated 1962-04-16; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is headed “Draft Minutes” and records a meeting at 40 Canning Lane, New Delhi.
+- The meeting was held on 16 April; no year is printed on the page.
+- Six Lok Sabha and Rajya Sabha-associated attendees are listed as present.
+- The meeting addressed the working and organisation of a Secretariat.
+- Mr. Wahab Azad’s services were accepted to assist members in getting the Secretariat functioning.
+- Members decided to work out a budget within the next few days.
+- Personnel requirements for the Secretariat were discussed before the meeting terminated.

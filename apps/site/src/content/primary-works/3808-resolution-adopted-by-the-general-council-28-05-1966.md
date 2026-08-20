@@ -1,9 +1,10 @@
 ---
 id: 3808-resolution-adopted-by-the-general-council-28-05-1966
 title:
-  main: "Resolution Adopted by the General Council"
+  main: "RESOLUTION ADOPTED BY THE GENERAL COUNCIL ON MAY 28, 1966"
   subtitle: ""
 work_type: resolution
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +27,39 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "governance-reform"
+  - "constitutionalism"
+  - "indigenous-rights"
+missing_metadata_flags:
+  - "no_human_author"
+  - "no_publisher_address"
+  - "no_place"
+  - "no_edition"
+  - "no_series"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Party resolution, adopted by its General Council on May 28, 1966, condemns the Government's handling of the Bastar crisis, including the shooting of Maharaja Pravir Chandra Dev and his Adibasi followers on April 24 and 25. It characterizes the administration's treatment of the Adibasis and their Maharajah as inhuman, and questions the haste with which the victims were cremated and the subsequent appointment of a government-controlled one-man Commission of Enquiry.
+  
+  The resolution demands that the President temporarily assume the administration of Bastar District, that current Police and Revenue Department officers be transferred or suspended, and that the enquiry commission be strengthened with one or more Supreme Court judges. It further calls for the commission's terms of reference to examine the direct or indirect responsibility of the Governments at Bhopal and Delhi. The Council concludes by expressing sympathy for the Adibasis and describing Pravir Chandra Bhanj Deo as a martyr to their cause.
 ---
 
-Archive item 3808; dated 1966-05-28; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Condemns the Government's conduct during the Bastar crisis and the shooting of Maharaja Pravir Chandra Dev and his followers.
+- Reports widespread opposition-party and parliamentary dissatisfaction with the administration's treatment of the Adibasis.
+- Criticizes the cremation of the victims and the appointment of a one-man enquiry commission by the same Government held responsible for the crisis.
+- Demands temporary presidential administration of Bastar District.
+- Calls for the transfer or suspension of Police and Revenue Department officers.
+- Seeks a strengthened enquiry commission including one or more Supreme Court judges.
+- Urges investigation into the direct or indirect responsibility of the Governments at Bhopal and Delhi.

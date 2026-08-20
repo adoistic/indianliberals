@@ -1,22 +1,21 @@
 ---
 id: 3210-letter-to-girish-munshi-18-04-1977
 title:
-  main: "Letter to Girish Munshi"
+  main: "[Letter to Girish Munshi]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1977
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "recipient_full_name_not_printed"
+  - "organisation_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Girish Munshi
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English letter, dated April 18, 1977, is addressed to Girish. The writers refer to developments described in Girish's letter of April 15, 1977 and state that they agree to his proposal.
+  
+  The letter is signed by K. H. Subramaniam, L. R. Sampat, and S. V. Raju. No title, letterhead, organisation, place, or further details about the proposal are visible on the page.
 ---
 
-Archive item 3210; dated 1977-04-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page letter dated April 18, 1977.
+- It is addressed to a recipient named Girish.
+- The writers refer to developments mentioned in Girish's letter of April 15, 1977.
+- The writers agree to the recipient's proposal.
+- The letter is signed by K. H. Subramaniam, L. R. Sampat, and S. V. Raju.
+- The proposal and the developments prompting the response are not explained on the visible page.

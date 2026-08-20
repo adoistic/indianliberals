@@ -1,22 +1,21 @@
 ---
 id: 2726-masani-wants-to-quit-party-post-times-of-india-03-11-1967
 title:
-  main: "Masani Wants To Quit Party Post-Times Of India"
-  subtitle: ""
-work_type: letter
+  main: "MASANI WANTS TO QUIT PARTY POST"
+  subtitle: "“Too long in office”"
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Times of India"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_publisher_address"
+  - "place_not_printed"
+  - "full_publication_date_uncertain"
+  - "clipping_source_context"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Times of India report states that M. R. Masani wished to resign as general secretary of the Swatantra Party when his term expired on November 25, after seven years in the post. The report attributes his decision to a belief that no individual should remain in office for too long.
 ---
 
-Archive item 2726; dated 1967-11-03; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- M. R. Masani sought to leave the Swatantra Party general secretaryship after seven years.
+- His proposed resignation was to take effect when his term expired on November 25.
+- Masani argued that prolonged tenure by one person was undesirable.
+- He extended this principle from government to the administration of political parties.
+- Masani linked the issue to the health of parliamentary democracy.
+- He recommended N. Dandekar as his successor.
+- Dandekar had been officiating during Masani's six-month leave while serving as chairman of the Public Accounts Committee.

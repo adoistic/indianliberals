@@ -1,7 +1,7 @@
 ---
 id: 1707-letter-to-mr-j-f-jehangir-23-09-1959
 title:
-  main: "Letter to Mr J F Jehangir"
+  main: "[Letter to Mr J F Jehangir]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Lucknow"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_printed"
+  - "publisher_not_printed"
+  - "no_sender_name_visible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: J F Jehangir
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This typed letter, dated 23 September 1959, is addressed to J. F. Jehangir in Lucknow. The sender apologises for not having earlier thanked Jehangir for his birthday greetings and accompanying gift, describing the gesture as much appreciated.
+  
+  The letter discusses the formation of a Lucknow sub-committee to organise a branch of the newly established Swatantra Party. The sender says Jehangir may become a member but advises him not to take an active part in party affairs, warning that this could damage his relations with people with whom he must deal. The attached receipt and membership card document Jehangir's subscription to the Swatantra Party for the year ending 1960. The sender's name is not visible.
 ---
 
-Archive item 1707; dated 1959-09-23; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 23 September 1959 and addressed to J. F. Jehangir in Lucknow.
+- The sender thanks Jehangir for his birthday greetings and gift, albeit belatedly.
+- A sub-committee has been appointed in Lucknow to organise a Swatantra Party branch.
+- The sender permits Jehangir to become a party member but advises against active involvement in party affairs.
+- The advice is justified as a means of protecting Jehangir's professional and personal relations.
+- The attached receipt records Jehangir's Swatantra Party membership subscription for the year ending 1960.
+- No sender name or legible signature is visible in the rendered pages.

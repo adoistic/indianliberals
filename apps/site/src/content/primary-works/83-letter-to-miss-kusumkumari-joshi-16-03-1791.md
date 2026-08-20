@@ -1,22 +1,21 @@
 ---
 id: 83-letter-to-miss-kusumkumari-joshi-16-03-1791
 title:
-  main: "Letter to Miss Kusumkumari Joshi"
+  main: "[Letter to Miss Kusumkumari Joshi]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1791
+  year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "place_not_found"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Kusumkumari Joshi
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 16 March 1971, M. R. Masani writes to Kusumben Joshi about her resignation from the National Executive. He explains that Raju had shown him her note, submitted before the election results, and says that, in light of those results, he is treating her resignation as withdrawn. Masani also comments on her recent telephone call from Gondal and asks her to call long-distance from the office or in the morning.
 ---
 
-Archive item 83; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- Masani writes to Kusumben Joshi on 16 March 1971.
+- The letter concerns Joshi's proposed resignation from the Swatantra Party's National Executive.
+- Masani says her resignation note was submitted before the election results and that he is treating the resignation as withdrawn after those results.
+- He refers to a recent long-distance call from Gondal and suggests suitable times for another call.
+- Masani expresses sympathy for Joshi's distress and encourages a more philosophical attitude toward events.
+- The letter closes with advice to accept events as they come and not rebel even when circumstances go badly.

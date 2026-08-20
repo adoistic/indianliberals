@@ -26,6 +26,9 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "biographical-tribute"
 missing_metadata_flags:
   - "title_not_printed"
   - "no_publisher"
@@ -39,6 +42,17 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This personal letter from Minoo Masani to Jairam Patel, dated 3 March 1971, thanks Patel for his support during Masani’s campaign for the Rajkot candidature. Masani says he will look for Patel on returning to Rajkot on 9 March, but does not want to delay expressing his gratitude for Patel’s “magnificent and stout-hearted campaigning.”
+  
+  Masani also records his admiration for Patel’s outspokenness, boldness, efficiency, punctuality, and dynamism. The letter closes with thanks for the “magnificent support” Patel gave to Masani’s candidature and notes that three pictures are enclosed.
 ---
 
-Archive item 111. Scanned document from the Swatantra Party papers.
+## Key points
+
+- Minoo Masani writes to Jairam Patel on 3 March 1971.
+- The letter acknowledges Patel’s campaigning support for Masani’s Rajkot candidature.
+- Masani praises Patel’s outspokenness, boldness, efficiency, punctuality, and dynamism.
+- Masani says he expects to see Patel when he returns to Rajkot on 9 March.
+- The letter mentions an enclosure of three photographs.
+- The document is marked “PERSONAL” and is addressed to Patel in his capacity as Deputy Minister for Home Affairs, Government of Gujarat.

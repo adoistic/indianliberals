@@ -1,22 +1,20 @@
 ---
 id: 3672-socialist-homeage-02-01-1973
 title:
-  main: "Socialist Homeage"
+  main: "Socialist homage"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1973
+  place: "NEW DELHI"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "biographical-tribute"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_not_printed"
+  - "year_not_printed"
+  - "issuer_not_printed"
+  - "date_incomplete"
+  - "source_publication_not_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English newspaper clipping, datelined New Delhi, Jan. 1, reports that the national ad hoc committee of the Socialist Party mourned the death of C. Rajagopalachari (Rajaji) and paid tribute to him as an elder statesman. It also records the committee’s condolences for the deaths of three socialist workers: Leeladhar Shah of Bombay, Ayesha Deshpande of Poona, and the eminent trade-union leader Vasavada. The source publication and year are not identified on the clipping; the item is attributed to PTI.
 ---
 
-Archive item 3672; dated 1973-01-02; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The clipping is headed “Socialist homage” and datelined New Delhi, Jan. 1.
+- A national ad hoc committee of the Socialist Party mourned the death of Rajaji.
+- The committee paid homage to Rajaji as an elder statesman.
+- The committee also condoled the deaths of three socialist workers.
+- The named deceased were Leeladhar Shah of Bombay, Ayesha Deshpande of Poona, and the trade-union leader Vasavada.
+- The report is credited to PTI, but the source newspaper and year are not printed.

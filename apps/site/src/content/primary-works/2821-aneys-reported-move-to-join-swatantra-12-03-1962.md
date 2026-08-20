@@ -1,8 +1,8 @@
 ---
 id: 2821-aneys-reported-move-to-join-swatantra-12-03-1962
 title:
-  main: "Aneys Reported Move to Join Swatantra"
-  subtitle: ""
+  main: "Aney’s Reported Move To Join Swatantra"
+  subtitle: "NVAS WORKERS EXPRESS CONCERN"
 work_type: occasional_paper
 authors: []
 editors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "INTERNATIONAL CLIPPING SERVICE Bombay-Delhi."
+  place: "Nagpur"
   year: 1962
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +28,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "party-politics electoral-reform"
+  - "federalism"
+missing_metadata_flags:
+  - "publisher_not_clear"
+  - "newspaper_source_not_printed"
+  - "clipping_document"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page news clipping reports concern among workers of the NVAS in Nagpur over reports that Dr. M. S. Aney may join the Swatantra Party. The article says Aney had been guiding the Vidarbha movement and that letters from NVAS workers sought clarification about his position. It describes the NVAS as a politically diverse platform united around the demand for a separate Vidarbha state. The report presents opposition within the NVAS to Aney joining Swatantra, portraying the party as aligned with “vested interests.” It says NVAS workers believe their leaders should not join any political party, since the organisation contested elections solely on the separate-state issue. The clipping concludes that Aney should sit as an Independent in the Lok Sabha, in accordance with the electorate’s mandate, and notes that he had left for Delhi.
 ---
 
-Archive item 2821; dated 1962-03-12; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The clipping reports concern among NVAS workers about Dr. M. S. Aney’s reported decision to join the Swatantra Party. Aney is described as the leading figure guiding the Vidarbha movement. The NVAS is presented as a politically diverse organisation united by the demand for a separate Vidarbha state. Some NVAS workers oppose association with Swatantra, which they characterize as a party of “vested interests.” The report says NVAS leaders should not join another political party.
+- It argues that Aney should serve as an Independent Lok Sabha member according to the electorate’s mandate.

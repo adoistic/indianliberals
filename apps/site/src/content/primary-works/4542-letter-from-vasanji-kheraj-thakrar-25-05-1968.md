@@ -1,7 +1,7 @@
 ---
 id: 4542-letter-from-vasanji-kheraj-thakrar-25-05-1968
 title:
-  main: "Letter from Vasanji Kheraj Thakrar"
+  main: "[Letter from Vasanji Kheraj Thakrar]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1968
+  place: "Porbandar"
+  year: 1958
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
+  - "no_recipient_individual"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Vasanji Kheraj Thakrar
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page letter, dated 25 May 1958 and sent from Porbandar by Vasanji Kheraj Thakrar to members of the Central Council, explains his absence from an important meeting and responds to Minoo Masani's concerns about the party. Thakrar argues that the party's principle, prestige, and credit depend on discipline and integrity rather than membership numbers, and he supports dismissing members whose conduct conflicts with party principles and directions.
+  
+  The letter also endorses K. M. Munshi's view that the party is not a confederation of autonomous units: the State Units are branches of the central organisation and should accept the direction of the Central Executive. Thakrar supports disciplinary proceedings, including possible expulsion, while urging that action be applied impartially and without regard to seniority or personality. The document ends with an appeal to the Central Council to act in the party's interest.
 ---
 
-Archive item 4542; dated 1968-05-25; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Thakrar apologises for being unable to attend a significant Central Council meeting.
+- He writes in response to a letter from Minoo Masani raising concerns about the party.
+- He prioritises party principle, prestige, credit, and purity over numerical strength.
+- He supports disciplinary action, including expulsion, against members who act against party principles and directions.
+- He endorses K. M. Munshi's view that State Units are branches of a centrally directed party, not autonomous units.
+- He calls for consistent action against wrongdoers regardless of their status or personality.

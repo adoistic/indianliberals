@@ -1,7 +1,7 @@
 ---
 id: 1397-letter-to-omkar-nath-tiku-08-09-1963
 title:
-  main: "Letter to Omkar Nath Tiku"
+  main: "[Letter to Omkar Nath Tiku]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Omkar Nath Tiku
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated 8 September 1963 and sent from 33 Aurangzeb Road, New Delhi, is addressed by Gayatri Devi to Shri Onkar Nath Tiku. Devi acknowledges Tiku’s letter of 30 July and explains that she has only just returned from abroad and received it.
 ---
 
-Archive item 1397; dated 1963-09-08; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a typed personal letter dated 8 September 1963.
+- Gayatri Devi writes from 33 Aurangzeb Road, New Delhi.
+- The recipient is Shri Onkar Nath Tiku.
+- Devi thanks Tiku for his letter dated 30 July.
+- She says she has just returned from abroad and has only recently received his letter.
+- She forwards Tiku’s letter to Prof. N.G. Ranga because it is now too late for her to take action herself.

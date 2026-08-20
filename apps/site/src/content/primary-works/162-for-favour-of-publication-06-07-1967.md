@@ -1,22 +1,21 @@
 ---
 id: 162-for-favour-of-publication-06-07-1967
 title:
-  main: "For Favour of Publication"
+  main: "[For Favour of Publication]"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: occasional_paper
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1967
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,15 +25,39 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "socialism-debate"
+  - "cold-war-positioning"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_visible"
+  - "publisher_not_identified"
+  - "issuer_not_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English press-release-style document reports remarks by M. R. Masani, deputy leader of the Swatantra Party in Parliament, to the Progressive Group in Bombay on July 6. Masani attacks the Congress government's record and rejects both continued Congress rule and a prospective non-Congress coalition as inadequate alternatives. He instead advocates a government of Democratic Unity that excludes the Communist parties and could cooperate with democratic opposition forces, arguing that public education may create the conditions for such a realignment.
+  
+  Masani presents Naxalbari and the political crisis in West Bengal as tests of Indian patriotism and democratic order. He warns that continued tolerance of guerrilla activity could produce bloodshed comparable to Vietnam, criticizes the Congress government as a power-holding political class that has lost public confidence, and argues that India's leaders must act before economic collapse and political chaos become irreversible. The document also records his criticism of what he describes as Soviet influence in the Indian press and the Congress government's growing dependence on the Soviet Union. The document has no printed title, publisher, issuing body, or visible year.
 ---
 
-Archive item 162; dated 1967-07-06; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani characterizes the so-called non-Congress governments as failures, except those in Orissa and Madras.
+- He rejects both an unchanged Congress government and a disruptive non-Congress coalition as satisfactory solutions.
+- He proposes a government of Democratic Unity excluding the Communist parties and supported by democratic opposition forces.
+- He describes Naxalbari and West Bengal as urgent challenges to Indian patriotism and public order.
+- He warns that continued guerrilla activity could lead to major bloodshed comparable to Vietnam.
+- He argues that the political class and parliamentary democracy are on trial because government has lost public confidence.
+- He criticizes the Congress government's foreign-policy posture and alleged Soviet influence in India.

@@ -1,22 +1,23 @@
 ---
 id: 4602-telegram-to-mr-minoo-masani
 title:
-  main: "Telegram to Mr Minoo Masani"
+  main: "[Telegram to Mr Minoo Masani]"
   subtitle: ""
 work_type: telegram
+work_type_source: filename
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "INDIAN POSTS AND TELEGRAPHS DEPARTMENT"
+  place: "MADRAS"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +28,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "no_publication_publisher"
+  - "recipient_metadata_not_structured"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram from C. Rajagopalachari (“RAJAJI”) is addressed to Minoo Masani at 2 Tughlaq Road, New Delhi. The message records that Rajaji is delighted and expects to arrive at 11:23 in the afternoon; the telegram’s abbreviated routing and delivery notation is also visible on the form.
 ---
 
-Archive item 4602; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a telegram issued on an Indian Posts and Telegraphs Department form.
+- The sender is identified in the message as “RAJAJI,” resolved as C. Rajagopalachari.
+- The recipient is Minoo Masani, named in the address line.
+- The address given is 2 Tughlaq Road, New Delhi.
+- The message expresses delight and states an expected afternoon arrival time of 11:23.
+- The page does not display a publication title or year.

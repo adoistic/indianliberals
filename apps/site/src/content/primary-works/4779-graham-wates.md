@@ -1,9 +1,9 @@
 ---
 id: 4779-graham-wates
 title:
-  main: "Graham Wates"
+  main: "Swatantra Newsletter"
   subtitle: ""
-work_type: letter
+work_type: periodical_issue
 authors: []
 editors: []
 contributors: []
@@ -11,11 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "ISSUED BY THE CENTRAL OFFICE OF THE SWATANTRA PARTY, 143 MAHATMA GANDHI ROAD, FORT, BOMBAY, TELEPHONE NO: 251424"
+  place: "Bombay"
+  year: 1967
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 43
   pages_total_source: pypdfium2
@@ -25,15 +27,37 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "economic-liberty"
+  - "planning-critique"
+  - "free-trade"
+  - "agricultural-reform"
+  - "regulatory-state-critique"
+  - "governance-reform"
+  - "civil-liberty"
+  - "cold-war-positioning"
+  - "socialism-debate"
+  - "public-sector-critique"
+missing_metadata_flags:
+  - "toc_not_visible"
+  - "editor_not_named"
+  - "no_issn"
+  - "no_isbn"
+  - "no_oclc"
+  - "publication_year_spans_two_calendar_years"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 4779; 43 pages. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+Archive item 4779. Scanned document from the Swatantra Party papers.

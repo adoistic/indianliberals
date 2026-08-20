@@ -1,7 +1,7 @@
 ---
 id: 2980-letter-to-n-g-ranga-28-07-1970
 title:
-  main: "Letter to N G Ranga"
+  main: "Re : Octroi duty – Calcutta"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,16 +24,38 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "regulatory-state-critique"
+  - "governance-reform"
+  - "anti-corruption"
+missing_metadata_flags:
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "issuer_not_printed"
+  - "no_formal_title_page"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: N G Ranga
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter, dated 28 July 1970, is addressed by R. C. Cooper, General Secretary, to Professor N. G. Ranga. Cooper reports that the Central Parliamentary Board had decided to oppose the imposition of octroi duty in Calcutta, arguing that it would retard the growth of road transport and lead to further corruption. The letter also describes octroi as an outdated form of taxation, citing the findings of several committees.
+  
+  Cooper asks Ranga, as the party’s parliamentary leader, to oppose the measure when it comes before the House and to persuade the Prime Minister to reopen the issue in the Consultative Committee on West Bengal. He recommends finding a more acceptable substitute for octroi duty. The page does not identify the party, the Prime Minister, or the committees by name.
 ---
 
-Archive item 2980; dated 1970-07-28; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Central Parliamentary Board decided to oppose the proposed imposition of octroi duty in Calcutta.
+- The letter argues that octroi would hinder the growth of road transport.
+- It presents octroi as an outdated form of taxation.
+- The measure is linked to concerns about further corruption.
+- Ranga is asked to oppose the measure when it reaches the House.
+- Cooper urges Ranga to seek reconsideration through the Consultative Committee on West Bengal.
+- The letter calls for a more acceptable substitute for octroi duty.

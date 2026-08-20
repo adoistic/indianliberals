@@ -1,7 +1,7 @@
 ---
 id: 6130-letter-from-s-v-raju-29-04-1970
 title:
-  main: "Letter from S V Raju"
+  main: "[Letter from S V Raju]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated April 29, 1970, is from S. V. Raju to Mr. R. Harwan in New Delhi. Raju thanks Harwan for his letter of April 24 and confirms that Harwan's friend Ajay has delivered two issues of Lok Sabha Debates for Raju to use for a few days. The letter closes with brief personal regards and Raju's signature.
 ---
 
-Archive item 6130; dated 1970-04-29; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated April 29, 1970.
+- S. V. Raju writes to Mr. R. Harwan.
+- Raju thanks Harwan for his letter of April 24.
+- Raju acknowledges receiving two Lok Sabha Debate issues through Harwan's friend Ajay.
+- Raju says he will use the issues for a few days.
+- The document is a signed, one-page personal letter.

@@ -1,21 +1,19 @@
 ---
 id: 4953-all-india-civil-librties-confrence-condemns
 title:
-  main: "All India Civil Librties Confrence Condemns"
+  main: "[All India Civil Librties Confrence Condemns]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -25,15 +23,40 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "civil-liberty"
+  - "individual-rights"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "issuer_not_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page conference statement condemns the indiscriminate arrest and detention of people without justification or legal basis. It criticises executive detention orders issued without supplying grounds, reports arbitrary detention, solitary confinement, denial of fresh air, inhuman jail conditions, indefensible restrictions on interviews and correspondence, and physical attacks on detainees by police. The statement presents these practices as violations of civil liberties and the rule of law.
+  
+  The conference calls on members of the CFD to organise local committees across the country. Their proposed activities include providing legal assistance to secure the release of political detainees and improve detention conditions, creating public opinion against the inhuman treatment of detainees, and helping detainees' families. It also appeals to central and state governments to appoint independent jail visitors to investigate and expose ill-treatment. No author, date, issuing body beyond the conference reference, or formal title is visible on the pages.
 ---
 
-Archive item 4953; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The statement condemns arbitrary arrest and detention without justification or legal grounds.
+- It criticises executive power to order detention without supplying the reasons for it.
+- It reports solitary confinement, denial of fresh air, inhuman jail conditions, and police violence against detainees.
+- It describes detention authorities' restrictions on interviews and correspondence as indefensible.
+- It calls for CFD members to establish local committees throughout the country.
+- The committees are asked to provide legal assistance, build public opposition to inhuman treatment, and support detainees' families.
+- The conference urges central and state governments to appoint independent jail visitors.

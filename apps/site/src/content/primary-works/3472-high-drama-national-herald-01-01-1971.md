@@ -1,22 +1,21 @@
 ---
 id: 3472-high-drama-national-herald-01-01-1971
 title:
-  main: "High Drama-National Herald"
+  main: "HIGH DRAMA"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "National Herald"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -27,14 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "no_author"
+  - "no_publisher_address"
+  - "no_edition"
+  - "no_place"
+  - "no_formal_title_page"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This archival item is a scrapbook-like collection of National Herald clippings annotated “4/1/71.” The principal clipping, headed “HIGH DRAMA,” reports a tense meeting in New Delhi between Swatantra Party leaders and Congress (O) leaders, including Minoo Masani, Mr. Nijalingappa, Atal Bihari Vajpayee, and Dr. Ram Subhag Singh. The account describes negotiations over a possible joint front against the Congress, interruptions by the press, conflicting statements about whether a meeting had taken place, and a later effort to resume discussions. A related Ahmedabad report records Morarji Desai declining comment on the proposed alliance and urging patience.
 ---
 
-Archive item 3472; dated 1971-01-01; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- A National Herald report describes a heated political meeting involving Swatantra Party and Congress (O) leaders.
+- The discussions concerned a possible joint front against the Congress and an announcement within a few days.
+- Minoo Masani, Mr. Nijalingappa, Atal Bihari Vajpayee, and Dr. Ram Subhag Singh are identified as participants or subjects of the report.
+- The meeting was marked by press interruptions, contradictory accounts, and complaints that the report was incomplete or mutilated.
+- Morarji Desai declined immediate comment on an alliance between Congress (O) and the Swatantra Party.
+- Additional pasted material consists of government tender notices, including notices from Haryana public works and irrigation departments.

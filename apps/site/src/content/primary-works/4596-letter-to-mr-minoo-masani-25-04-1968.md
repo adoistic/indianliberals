@@ -1,23 +1,20 @@
 ---
 id: 4596-letter-to-mr-minoo-masani-25-04-1968
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
-  language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  language: hi
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +25,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "liberalism-as-tradition"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_identifiable"
+  - "no_publisher"
+  - "no_publication_place"
+  - "no_edition"
+  - "no_series"
+  - "no_identifier"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page handwritten Hindi letter, dated apparently 25 April 1968, is addressed to Dr. M. R. Masani. The sender is not identifiable from the surviving manuscript. The letter discusses the interests, public standing, and future direction of a political party, apparently urging attention to its organisation, leadership, and public programme.
 ---
 
-Archive item 4596; dated 1968-04-25; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is addressed to M. R. Masani and appears to be dated 25 April 1968.
+- The writer considers the matter one affecting the party's interests and public reputation.
+- The writer warns that failing to address certain issues could damage the party's prestige.
+- The letter refers to the party's future leadership and to strengthening its public work and programme.
+- The surviving pages are handwritten Hindi; the sender's name and signature remain unresolved.

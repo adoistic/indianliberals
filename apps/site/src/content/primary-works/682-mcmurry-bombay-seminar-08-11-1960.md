@@ -1,22 +1,21 @@
 ---
 id: 682-mcmurry-bombay-seminar-08-11-1960
 title:
-  main: "Mcmurry Bombay Seminar"
+  main: "McMurry Bombay Seminar at Taj on 8th November, 1960."
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1960
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,39 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "education"
+  - "economic-liberty"
+  - "capitalism-defence"
+  - "management-education"
+missing_metadata_flags:
+  - "no_author_byline"
+  - "no_publisher"
+  - "no_issuer"
+  - "no_venue_address"
+  - "no_title_page"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page seminar note outlines the McMurry Bombay Seminar held at the Taj on 8 November 1960. It presents the event as a response to Indian management's interest in learning techniques from industrially advanced countries, and describes the programme as an initiative associated with PPS and free enterprise in both the United States and India. The note emphasizes that the seminar was organized in India without assistance from Government, T.C.M., Colombo Aid, I.L.O., or a foundation.
+  
+  The planned activities include introducing contemporary instructional methods, discussing the selection, appraisal, and development of executives, addressing a supervisory-staff problem attributed to “E. G. Mithapur,” introducing three lecturers, and distributing the programme. It also records practical arrangements for coffee, lunch, and tea breaks, and invites suggestions and comments from participants. Handwritten annotations and signatures are visible, but do not establish a reliable author.
 ---
 
-Archive item 682; dated 1960-11-08; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The seminar was scheduled for 8 November 1960 at the Taj in Bombay.
+- Its stated purpose was to help Indian management learn techniques from industrially advanced countries.
+- The note identifies PPS's contribution as part of the response to this need.
+- The programme is described as a first-of-its-kind initiative in India organized without assistance from several named institutions or aid sources.
+- The seminar would introduce the latest instructional methods.
+- Topics included executive selection, appraisal, development, and a supervisory-staff problem.
+- The schedule included three lectures, breaks, participant suggestions, and programme distribution.

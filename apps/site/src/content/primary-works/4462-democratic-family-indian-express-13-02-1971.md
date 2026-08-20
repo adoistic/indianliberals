@@ -1,22 +1,21 @@
 ---
 id: 4462-democratic-family-indian-express-13-02-1971
 title:
-  main: "Democratic Family-Indian Express"
+  main: "Democratic family..."
   subtitle: ""
-work_type: press_note
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "INDIAN EXPRESS"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "liberalism-as-tradition"
+  - "party-politics"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "no_publisher_address"
+  - "no_place"
+  - "no_edition"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This brief, unattributed Indian Express report dated 13 February 1971 describes a political family divided in its campaign activity but united in its acceptance of democratic disagreement. The wife and son of Swatantra Party leader Minoo Masani are campaigning in New Delhi for New Congress candidate Mrs. Subhadra Joshi, while Mrs. Masani plans to campaign for her husband in Rajkot later.
+  
+  Mrs. Masani presents the family’s political differences as evidence of its democratic character: she says her husband respects freedom of speech and thought and does not object to their son Zareer becoming a political rebel, just as he had been at the same age. The clipping offers a short human-interest illustration of party politics, family pluralism, and tolerance of dissent.
 ---
 
-Archive item 4462; dated 1971-02-13; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The report is dated 13 February 1971 and is attributed only to the Indian Express masthead; no byline is visible.
+- Mrs. Masani and her son are campaigning in New Delhi for New Congress candidate Mrs. Subhadra Joshi.
+- Mrs. Masani identifies herself as a friend of the candidate, while her son is described as a regular New Congress party worker.
+- Mrs. Masani says Minoo Masani respects freedom of speech and thought.
+- The family accepts the son Zareer’s political dissent, even though it differs from his father’s party allegiance.
+- Mrs. Masani plans to campaign for her husband in Rajkot later.
+- The article frames political disagreement within a family as compatible with democratic values.

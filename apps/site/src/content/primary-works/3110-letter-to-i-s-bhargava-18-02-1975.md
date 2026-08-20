@@ -1,22 +1,22 @@
 ---
 id: 3110-letter-to-i-s-bhargava-18-02-1975
 title:
-  main: "Letter to I S Bhargava"
+  main: "[Letter to I S Bhargava]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "no_issuer"
+  - "no_recipient_authority_match"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: I S Bhargava
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter from S. V. Raju to I. S. Bhargava, dated February 18, 1975, concerns the revival and reorganisation of their political party. Raju reports that Mr. G. K. Sundaram has become President and Mr. Girikumar General Secretary, following a National Executive meeting in Bombay. He invites Bhargava to join the National Executive and asks him to take responsibility for convening the party in Rajasthan.
+  
+  Raju identifies cooperation with Jayaprakash Narayan’s movement across the states as the party’s immediate major activity, alongside an effort to re-establish contacts with “more honest persons.” The letter is both an organisational appeal and a brief statement of a strategy centred on political renewal, regional mobilisation, and cooperation with a wider movement.
 ---
 
-Archive item 3110; dated 1975-02-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated February 18, 1975 and is signed by S. V. Raju in Bombay.
+- Raju reports the revival of the party at the national level.
+- G. K. Sundaram is identified as President and Girikumar as General Secretary.
+- Bhargava is invited to join the National Executive and convene the party in Rajasthan.
+- The party plans to cooperate with Jayaprakash Narayan’s movement across the states.
+- Raju proposes rebuilding contacts with “more honest persons.”

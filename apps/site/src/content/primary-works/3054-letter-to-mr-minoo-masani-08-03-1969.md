@@ -1,23 +1,22 @@
 ---
 id: 3054-letter-to-mr-minoo-masani-08-03-1969
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1969
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -27,15 +26,37 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "constitutionalism"
+  - "governance-reform"
+  - "party-politics"
+  - "electoral-reform"
+  - "socialism-debate"
+  - "federalism"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_venue"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 8 March 1969, C. Rajagopalachari writes to M. R. Masani after seeing that Masani had congratulated Dharma Vira. Rajagopalachari asks Masani to read an enclosed text he had written the previous day and sent to the press for Swarajya. The enclosure, headed “MAIL READER,” addresses the constitutional controversy surrounding the Governor of West Bengal’s address to the state legislature after the Communist-led ministry came to power.
 ---
 
-Archive item 3054; dated 1969-03-08; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Rajagopalachari’s covering letter acknowledges Masani’s public congratulation of Dharma Vira and encloses a press article.
+- The enclosed article questions the constitutional basis for a Governor adopting, without alteration, the entire draft address prepared by the Council of Ministers.
+- It argues that a Governor’s address should state the policy of the new ministry rather than repeat ministers’ views formed before the election.
+- The article distinguishes the Governor’s responsibility for constitutional government and public order from the ministry’s responsibility for government policy.
+- Rajagopalachari criticizes the Congress defeat in Bengal while expressing hope that the new ministry will support industry, agriculture, and social harmony.
+- The final page warns that permitting Governors to depart from established conventions could damage parliamentary democracy.

@@ -1,9 +1,10 @@
 ---
 id: 5633-house-without-opposition-letter-30-03-1968
 title:
-  main: "House Without Opposition Letter"
+  main: "House without opposition leader"
   subtitle: ""
 work_type: letter
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,11 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1968
+  place: "Ahmedabad"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "no_publisher_line"
+  - "no_author_byline"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page archival file combines a newspaper clipping from Ahmedabad, dated March 29, with a Swatantra Party administrative list. The clipping reports that the Gujarat Assembly had met without a formally designated opposition leader: opposition members reportedly followed M. R. Pai in choosing him as leader of the Swatantra Legislature Party, while the party's meeting considered whether a temporary leader should be appointed after the resignation of its previous leader. It also reports the ending of the fast by Gujarat Harijan MLAs seeking an early government examination of the demand to facilitate examination by the Government of their demand for a portrait of the late Dr B. R. Ambedkar in the Gujarat Assembly chamber.
 ---
 
-Archive item 5633; dated 1968-03-30; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- A UNI newspaper report describes the Gujarat Assembly as meeting without a formally designated opposition leader.
+- Opposition members reportedly selected M. R. Pai as leader of the Swatantra Legislature Party.
+- The Swatantra Party meeting considered appointing a temporary leader after the resignation of its previous leader.
+- A separate report records that Gujarat Harijan MLAs ended a fast connected with a demand for a portrait of B. R. Ambedkar in the Assembly chamber.
+- The second page lists the Swatantra Party's office bearers and National Executive members for 1967–69.
+- Prof. N. G. Ranga is listed as president, with K. M. Munshi, Minoo Masani, Gayatri Devi, R. K. Singh Deo, and Bhailubhai Patel among the vice presidents.
+- The list records N. Dandekar as general secretary and identifies R. C. Cooper and H. P. Manda as treasurers.

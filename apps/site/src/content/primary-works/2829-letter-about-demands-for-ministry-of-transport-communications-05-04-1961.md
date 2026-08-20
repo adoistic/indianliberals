@@ -1,7 +1,7 @@
 ---
 id: 2829-letter-about-demands-for-ministry-of-transport-communications-05-04-1961
 title:
-  main: "Letter About Demands for Ministry of Transport & Communications"
+  main: "[Letter About Demands for Ministry of Transport & Communications]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,12 +11,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1961
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "transport-and-communications-policy"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "publisher_not_printed"
+  - "signature_not_visible"
+  - "recipient_address_incomplete"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter, issued on Swatantra Parliamentary Group letterhead from Parliament House, New Delhi, is dated 5 April 1961 and addressed to the Speaker of the Lok Sabha. Its subject is “Demands for Ministry of Transport & Communications.” The letter asks that M. R. Masani be called upon to open the afternoon discussion, because his cut motions are described as broad and comprehensive.
 ---
 
-Archive item 2829; dated 1961-04-05; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is an administrative parliamentary communication dated 5 April 1961.
+- It is addressed to the Hon'ble Speaker of the Lok Sabha in New Delhi.
+- The stated subject is demands concerning the Ministry of Transport & Communications.
+- The Swatantra Parliamentary Group identifies M. R. Masani as its spokesman for the discussions.
+- The letter requests that Masani open the afternoon discussion.
+- The request is justified by the wide and comprehensive nature of Masani's cut motions.

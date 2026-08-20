@@ -1,23 +1,23 @@
 ---
 id: 4541-letter-to-mr-minoo-masani-26-05-1968
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party—RAJKOT DISTRICT OFFICE"
+  place: "RAJKOT"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -28,14 +28,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "sender_name_not_legible"
+  - "no_publisher_address"
+  - "no_explicit_author_byline"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page letter, written from the Swatantra Party Rajkot District Office and dated 26 May 1968, is addressed to Minoo Masani. The sender forwards a press clipping concerning Masani’s letter to Mr. Dandekar and his reported decision not to withdraw from the National Executive. The sender explains that, after being away from Rajkot on party work, they could not remain for a meeting and had instead tried to persuade Masani to publish the press release.
 ---
 
-Archive item 4541; dated 1968-05-26; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is addressed to Minoo Masani and dated 26 May 1968.
+- It was sent from the Swatantra Party Rajkot District Office.
+- The sender encloses a press clipping concerning Masani’s position on non-withdrawal from the National Executive.
+- The sender refers to party meetings in Gujarat and an internal disciplinary dispute involving a party member.
+- The letter describes efforts to maintain party solidarity and secure a public press release.

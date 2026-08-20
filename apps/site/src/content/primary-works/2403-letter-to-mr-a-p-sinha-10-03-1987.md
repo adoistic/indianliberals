@@ -1,22 +1,22 @@
 ---
 id: 2403-letter-to-mr-a-p-sinha-10-03-1987
 title:
-  main: "Letter to Mr A P Sinha"
+  main: "[Letter to Mr A P Sinha]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1987
+  place: "Bombay"
+  year: 1967
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,16 +26,36 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_issuer"
+  - "no_edition"
+  - "no_series"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: A P Sinha
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 10 March 1967, M. R. Masani replies to A. P. Sinha, Collector for the City of Bombay and Bombay Suburban District, acknowledging a letter dated 27 February and thanking him for his guidance. Masani says he is researching the relevant past records and that the process is lengthy.
+  
+  Masani promises to provide a definite reply within a few days. He states that the reply will show that no tax is payable by him and that the proceedings are based on a misconception. The letter is a narrowly focused response to an ongoing tax proceeding and does not set out the underlying legal or fiscal arguments.
 ---
 
-Archive item 2403; dated 1987-03-10; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 10 March 1967 and is addressed to A. P. Sinha.
+- Masani acknowledges receiving Sinha's letter dated 27 February.
+- Masani thanks Sinha for his guidance in the matter.
+- Masani reports that he is researching the relevant past records.
+- He promises a definite reply within the next few days.
+- Masani maintains that no tax is payable by him.
+- He characterizes the entire proceedings as misconceived.

@@ -1,9 +1,10 @@
 ---
 id: 3955-letter-from-v-p-bhatia-26-06-1967
 title:
-  main: "Letter from V P Bhatia"
+  main: "CENTRAL OFFICE CIRCULAR NO. 79."
   subtitle: ""
 work_type: letter
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party — CENTRAL OFFICE"
+  place: "Bombay"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,16 +28,33 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_author_byline"
+  - "no_publisher_address"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: V P Bhatia
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page circular letter from the Swatantra Party Central Office, dated 26 June 1967, announces and distributes a publication titled "The Missed Opportunity": The Central Budget 1967–68. The publication is credited to M. R. Masani, Charanjit Rai, and N. Dandekar.
 ---
 
-Archive item 3955; dated 1967-06-26; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is Central Office Circular No. 79 of the Swatantra Party.
+- It is dated 26 June 1967 and issued from the party's Bombay office.
+- The letter encloses a copy of The Missed Opportunity: The Central Budget 1967–68.
+- The publication is attributed to M. R. Masani, Charanjit Rai, and N. Dandekar.
+- Additional copies were being sent separately.
+- Bulk purchases of 100 copies or more received a 25% discount.
+- A single copy was priced at 25 paise.

@@ -1,10 +1,12 @@
 ---
 id: 3991-central-parliamentary-board-circular-no-15-19-01-1967
 title:
-  main: "Central Parliamentary Board Circular No-15"
+  main: "CENTRAL PARLIAMENTARY BOARD CIRCULAR NO.15"
   subtitle: ""
 work_type: circular
-authors: []
+work_type_source: filename
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
@@ -12,11 +14,12 @@ publication:
   language: en
   issuer_id: swatantra-party
   publisher_name: "Swatantra Party"
+  place: "BOMBAY 1"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +30,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+missing_metadata_flags:
+  - "subtitle_not_printed"
+  - "publisher_address_not_available"
+  - "no_formally_stated_edition"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Party circular, dated 19 January 1967, announces a meeting of the Central Parliamentary Board to be held in Madras on 1–2 March 1967, at C. Rajagopalachari’s room at Kalki. Signed by General Secretary M. R. Masani, it asks recipients to notify the Central Office of their travel arrangements and circulates the agenda to party office-bearers and state units.
+  
+  The agenda focuses on confirming the minutes of the previous meeting, reviewing the results of the 1967 General Elections for Parliament and the state assemblies, advising newly elected party groups on the election of leaders and office-bearers, and considering whether the Swatantra Party should participate in new state governments where incumbent ruling parties had been defeated. The document is an internal administrative communication rather than a statement of doctrine.
 ---
 
-Archive item 3991; dated 1967-01-19; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Central Parliamentary Board meeting is scheduled for 1–2 March 1967 in Madras.
+- The meeting will review the results of the General Elections for Parliament and the state assemblies.
+- The Board will provide guidance on electing leaders and other office-bearers in newly elected party groups.
+- The agenda includes nomination of Central Observers for such internal elections where considered necessary.
+- The Board will consider Swatantra Party participation in new state governments formed after ruling-party defeats.
+- The circular is signed by M. R. Masani as General Secretary and addressed to party units and office-bearers.

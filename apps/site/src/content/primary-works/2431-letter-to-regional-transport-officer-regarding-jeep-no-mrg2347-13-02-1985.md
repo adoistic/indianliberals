@@ -1,22 +1,22 @@
 ---
 id: 2431-letter-to-regional-transport-officer-regarding-jeep-no-mrg2347-13-02-1985
 title:
-  main: "Letter to Regional Transport Officer Regarding Jeep No-MRG2347"
+  main: "[Letter to Regional Transport Officer Regarding Jeep No-MRG2347]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY"
   year: 1985
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_stated"
+  - "issuer_not_stated"
+  - "no_formal_publication_metadata"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Regional Transport Officer Regarding Jeep No-MRG2347
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page typed copy of a registered letter, dated 13 February 1985, is addressed by M. R. Masani to the Regional Transport Officer in Bombay. Masani objects that the office has repeatedly sent him bills unrelated to him, despite his earlier requests for correction.
+  
+  Masani returns a bill dated 1 February 1985 concerning car No. MRG-2347, stating that he neither owns nor possesses the vehicle and that the bill was sent to him in error. The letter records the enclosed bill as the sole attachment and is signed by Masani.
 ---
 
-Archive item 2431; dated 1985-02-13; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a copy of a registered letter dated 13 February 1985.
+- M. R. Masani writes to the Regional Transport Officer, Bombay.
+- He says the office has repeatedly sent him bills with which he has no connection.
+- The disputed bill is dated 1 February 1985 and concerns car No. MRG-2347.
+- Masani states that he does not own or possess the car.
+- He returns the bill and asks the office to recognise that it was sent in error.

@@ -1,22 +1,21 @@
 ---
 id: 2338-letter-to-president-mr-r-venkataraman-09-09-1987
 title:
-  main: "Letter to President Mr R Venkataraman"
+  main: "[Letter to President Mr R Venkataraman]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1987
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "place_not_found"
+  - "recipient_present_but_not_catalogued_as_author"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: President Mr R Venkataraman
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter from M. R. Masani, dated 9 September 1987, is addressed to President R. Venkataraman. Masani thanks the President for his prompt and courteous reply to an earlier letter.
+  
+  The letter is brief and cordial, closing with Masani's wishes for success in the President's office and his handwritten signature. No substantive policy argument or other subject is visible on the page.
 ---
 
-Archive item 2338; dated 1987-09-09; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 9 September 1987.
+- M. R. Masani addresses the President as R. Venkataraman.
+- Masani thanks Venkataraman for a prompt and courteous reply.
+- The letter expresses good wishes for success in Venkataraman's office.
+- The document closes with Masani's printed name and handwritten signature.

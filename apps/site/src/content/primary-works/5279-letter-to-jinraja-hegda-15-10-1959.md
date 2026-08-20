@@ -1,22 +1,20 @@
 ---
 id: 5279-letter-to-jinraja-hegda-15-10-1959
 title:
-  main: "Letter to Jinraja Hegda"
+  main: "[Letter to Jinraja Hegda]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_unconfirmed"
+  - "no_publisher"
+  - "recipient_name_uncertain"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Jinraja Hegda
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page handwritten letter on Lok Sabha stationery is addressed to a recipient whose name appears to be “Jinraja Hegde,” although the reading is uncertain. The date at the upper right begins “15/10/,” but the year cannot be confirmed from the scan. The letter appears to apologize for being unable to return or provide something, with references that may include a collection and a confirmation; several words and lines are heavily crossed out or difficult to decipher.
 ---
 
-Archive item 5279; dated 1959-10-15; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a personal letter written in English on Lok Sabha stationery.
+- The recipient’s handwritten name appears to be “Jinraja Hegde,” but this reading is uncertain.
+- The date appears to begin “15/10/”; the year is not legible.
+- The writer apologizes and appears to discuss returning or supplying something.
+- The letter contains substantial crossings-out and handwriting that prevents a reliable full transcription.
+- The closing appears to read “M Masani,” consistent with the metadata’s low-confidence attribution to Minoo Masani.

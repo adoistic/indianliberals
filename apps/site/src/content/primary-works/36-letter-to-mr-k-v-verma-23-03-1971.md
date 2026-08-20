@@ -1,22 +1,21 @@
 ---
 id: 36-letter-to-mr-k-v-verma-23-03-1971
 title:
-  main: "Letter to Mr K V Verma"
+  main: "[Letter to Mr K V Verma]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "constitutionalism"
+  - "individual-rights"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "place_not_identified"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: K V Verma
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page letter dated 23 March 1971, Minoo Masani thanks Mr. K. V. Verma for a letter expressing solidarity. Masani describes democratic practice as requiring acceptance of the people's right to make mistakes, together with continued faith in them.
+  
+  The letter is courteous and personal in tone, closing with thanks for Verma's kind thoughts and Masani's signed subscription.
 ---
 
-Archive item 36; dated 1971-03-23; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 23 March 1971 and addressed to Mr. K. V. Verma.
+- Masani acknowledges Verma's letter of 4 March and its expression of solidarity.
+- Democracy is presented as including the people's right to make mistakes.
+- The public's mistakes should be accepted in a sporting spirit.
+- Acceptance of democratic error should not entail losing faith in the people.
+- The letter ends with thanks and a handwritten signature from M. R. Masani.

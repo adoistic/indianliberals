@@ -1,9 +1,9 @@
 ---
 id: 2556-swatantra-party-notice-22-01-1973
 title:
-  main: "Swatantra Party Notice"
+  main: "N O T I C E."
   subtitle: ""
-work_type: circular
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY"
+  place: "Bombay"
   year: 1973
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +28,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "no_publisher_address"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English-language notice, issued on 22 January 1973 on Swatantra Party Bombay Region letterhead, calls an extraordinary urgent meeting of the region's Executive Committee. The meeting is scheduled at the party office at 143 Mahatma Gandhi Road, Fort, Bombay 1, from 6:15 to 8 p.m.; members are asked to attend. The sole agenda item is "Forthcoming Municipal Elections." The notice bears the signature of P. Natayan, identified as Office Secretary. A line in the meeting details has been struck through and appears to contain an earlier or erroneous date, while the document's heading clearly gives 22 January 1973.
 ---
 
-Archive item 2556; dated 1973-01-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The notice is dated 22 January 1973. It announces an extra-ordinary urgent meeting of the Swatantra Party's Bombay Region Executive Committee. The meeting is to be held at the party office at 143 Mahatma Gandhi Road, Fort, Bombay 1. The stated meeting time is 6:15–8 p.m. The agenda concerns forthcoming municipal elections.
+- P. Natayan signs the notice as Office Secretary.

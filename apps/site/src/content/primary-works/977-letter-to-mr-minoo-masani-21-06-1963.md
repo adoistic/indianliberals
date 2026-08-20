@@ -1,23 +1,22 @@
 ---
 id: 977-letter-to-mr-minoo-masani-21-06-1963
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "MADRAS -17"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter from C. Rajagopalachari to M. R. Masani, dated 21 June 1963, concerns a proposed meeting to consider Kripalani’s proposals. Rajagopalachari asks Masani to arrange the meeting and argues that “Ranga” should not be excluded from the preliminary project, since his inclusion may be necessary for the proposals to produce any outcome. The letter is written on Rajagopalachari’s Madras letterhead and notes that a copy of Kripalani’s letter is enclosed.
 ---
 
-Archive item 977; dated 1963-06-21; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- Rajagopalachari writes to M. R. Masani on 21 June 1963.
+- He encloses a copy of a letter received from Kripalani.
+- Kripalani has asked Masani to arrange a meeting to consider his proposals.
+- Rajagopalachari believes Ranga should not be excluded from the preliminary project.
+- The letter is addressed to Masani in his capacity as General Secretary of the Swatantra Party.

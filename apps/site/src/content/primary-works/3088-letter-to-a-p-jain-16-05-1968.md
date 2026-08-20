@@ -1,7 +1,7 @@
 ---
 id: 3088-letter-to-a-p-jain-16-05-1968
 title:
-  main: "Letter to A P Jain"
+  main: "[Letter to A P Jain]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "parliamentary"
+  - "public-sector-critique"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: A P Jain
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 16 May 1968 and signed by R. K. A. Narayan, is addressed to A. P. Jain in New Delhi. Narayan asks Jain to obtain and send the Lok Sabha proceedings concerning a recent question on beef-eating, in which Jagjivan Ram had made comments that prompted controversy.
 ---
 
-Archive item 3088; dated 1968-05-16; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Narayan requests the relevant Lok Sabha proceedings concerning a controversial question on beef-eating.
+- The proceedings are associated with comments made by Jagjivan Ram on 10 or 11 May.
+- Narayan also asks for the Government's decision on the ARC Report on State Enterprises.
+- The letter notes that the report had recently been laid before the House.
+- A postscript requests the minutes of Parliamentary Group meetings held after 30 April.
+- The requests appear connected to Minoo Masani's interest in these parliamentary and public-sector documents.

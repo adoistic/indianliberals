@@ -1,7 +1,7 @@
 ---
 id: 1664-letter-to-chiranjilal-loyalka-06-11-1959
 title:
-  main: "Letter to Chiranjilal Loyalka"
+  main: "[Letter to Chiranjilal Loyalka]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,12 +11,11 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "sender_not_identified"
+  - "publisher_not_printed"
+  - "place_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Chiranjilal Loyalka
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page typed letter, dated 6 November 1959, acknowledges Shri Chiranjilal Loyalka’s donation of Rs. 500 toward the funds of the Swatantra Party. The sender expresses appreciation for the contribution and closes with a formal sign-off.
 ---
 
-Archive item 1664; dated 1959-11-06; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 6 November 1959.
+- It is addressed to Shri Chiranjilal Loyalka.
+- The letter acknowledges a donation of Rs. 500.
+- The donation was made toward the funds of the Swatantra Party.
+- The sender expresses appreciation for Loyalka’s contribution.
+- The sender’s name is not printed and the handwritten signature is not securely legible.

@@ -1,22 +1,21 @@
 ---
 id: 6041-sunday-standard-16-04-1972
 title:
-  main: "Sunday Standard"
+  main: "J. P."
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Sunday Standard"
   year: 1972
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "biographical-tribute"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_not_resolved"
+  - "publisher_place_not_printed"
+  - "subtitle_not_printed"
+  - "no_formal_publication_date"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This short English newspaper clipping, headed “J. P.”, presents Jayaprakash Narayan as a distinctive and difficult-to-categorise public figure. It begins by describing India as a country that puzzles the world, focusing on the unusual possibility of government negotiations with bandits and on the public attention surrounding Narayan.
+  
+  The closing lines characterise Narayan as an individualist driven by good intentions and good wishes, while questioning whether those qualities are sufficient. The clipping is a brief biographical tribute or reminiscence rather than a sustained political analysis; no author byline is visible.
 ---
 
-Archive item 6041; dated 1972-04-16; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The clipping is headed “J. P.” and concerns Jayaprakash Narayan.
+- It opens with the claim that India remains puzzling to the outside world.
+- It refers to the unusual prospect of the government opening negotiations with bandits.
+- It portrays Narayan as a public figure who attracted attention and controversy.
+- It describes Narayan as an individualist.
+- It ends by questioning whether good intentions and good wishes are enough.

@@ -1,23 +1,21 @@
 ---
 id: 4243-letter-to-c-rajagopalachari-02-06-1964
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "Rajaji's Tour Programme for June 1964"
   subtitle: ""
 work_type: letter
-authors:
-  - c-rajagopalachari
+work_type_source: filename
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_author_byline"
+  - "no_publisher_line"
+  - "no_place_of_publication"
+  - "no_issuer_identified"
+  - "office_record_enum_not_available"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office schedule records Rajaji's travel and political engagements from 6 June to 2 July 1964. It begins with a 6 June train departure for Bapatla, where the itinerary lists attendance at a Swatantra Party convention and public meeting on 7 June, followed by travel from Chirala to Madras and arrival at Madras Central on 8 June.
+  
+  The later entries schedule travel by plane to Bombay on 28 June, a stay in Bombay for Swatantra Party meetings through 1 July, and a return flight to Madras on 2 July, with arrival at 1:45 p.m. Handwritten annotations appear in the margins, but their full content is not sufficiently legible to treat as part of the itinerary.
 ---
 
-Archive item 4243; dated 1964-06-02; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is headed "Rajaji's Tour Programme for June 1964."
+- Rajaji was scheduled to travel by train to Bapatla on 6 June 1964.
+- The Bapatla programme included a Swatantra Party convention and public meeting on 7 June.
+- The schedule records onward travel from Chirala to Madras and arrival at Madras Central on 8 June.
+- A later segment scheduled travel by plane to Bombay on 28 June.
+- The Bombay stay, from 29 June to 1 July, was allocated to Swatantra Party meetings.
+- The itinerary records a return flight to Madras on 2 July, arriving at 1:45 p.m.

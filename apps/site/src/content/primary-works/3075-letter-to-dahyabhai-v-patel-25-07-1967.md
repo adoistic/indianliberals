@@ -1,22 +1,21 @@
 ---
 id: 3075-letter-to-dahyabhai-v-patel-25-07-1967
 title:
-  main: "Letter to Dahyabhai V Patel"
+  main: "[Letter to Dahyabhai V Patel]"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: correspondence
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -27,15 +26,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "cold-war-positioning"
+  - "economic-liberty"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_place_of_publication"
+  - "no_edition_statement"
+  - "no_series_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Dahyabhai V Patel
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This three-page correspondence packet contains two related letters exchanged by M. R. Masani and Dahyabhai V. Patel, together with an addressed envelope. In Masani’s letter of 25 July 1967, Masani corrects Patel’s belief that a booklet was the work of A. P. Jain. He explains that Jain had only told him he helped Patel get the booklet published, and criticizes its cover for failing to make clear that Soviet aid to Pakistan was the main subject rather than economic affairs generally.
+  
+  In Patel’s letter of 22 July 1968, Patel similarly corrects Masani’s attribution of the booklet National Hara-Kiri? to A. P. Jain. Patel says Jain was unaware of information on several points and that Patel himself assembled press cuttings. He identifies the sources of several annexures, including the number of Soviet delegations to India, purges in Eastern Europe, and trade with Russia, correcting one citation from the British Intelligence Journal to the Intelligence Digest of London, July 1968. The packet therefore documents an exchange focused on authorship, sourcing, publication credit, and the presentation of Soviet-related material.
 ---
 
-Archive item 3075; dated 1967-07-25; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani’s 25 July 1967 letter disputes the attribution of a booklet to A. P. Jain.
+- Masani distinguishes Jain’s assistance with publication from authorship of the booklet.
+- Masani criticizes the booklet’s cover for not clearly identifying Soviet aid to Pakistan as its main subject.
+- Patel’s 22 July 1968 letter says that he compiled the booklet from press cuttings.
+- Patel states that A. P. Jain was unaware of some of the information and its sources.
+- Patel corrects a source citation, identifying the Intelligence Digest of London, July 1968, rather than the British Intelligence Journal.
+- The packet includes an addressed envelope in addition to the two letters.

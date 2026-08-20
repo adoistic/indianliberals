@@ -1,21 +1,21 @@
 ---
 id: 3545-list-of-business-houses-industries-in-bombay-city
 title:
-  main: "List Of Business Houses & Industries In Bombay City"
+  main: "List of Business Houses & Industries in Bombay City"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
+purpose: report
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 8
   pages_total_source: pypdfium2
@@ -26,14 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "economic-liberty"
+missing_metadata_flags:
+  - "author_not_named"
+  - "publisher_not_found"
+  - "year_not_found"
+  - "no_formal_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  List of Business Houses & Industries in Bombay City is an undated, unattributed directory of commercial and industrial establishments operating in Bombay. The printed list runs from Alcock Ashdown & Co. Ltd. through Yorkshire Insurance Co. Ltd. and contains 227 numbered entries, although some numbering is corrected or altered by hand. The entries span banking, insurance, textiles, chemicals, engineering, automobiles, petroleum, pharmaceuticals, food production, trading, utilities, and other sectors.
+  
+  Many entries include parent companies, managing agents, associates, or affiliated enterprises, revealing the interconnected structure of Bombay’s business groups. Handwritten annotations add, revise, strike out, or regroup several firms, including notes identifying industrial groups and associated companies. The rendered pages do not identify the compiler, issuing organisation, publisher, or date, and the document offers listings rather than narrative analysis.
 ---
 
-Archive item 3545; 8 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a directory titled List of Business Houses & Industries in Bombay City.
+- It lists 227 numbered business houses and industries.
+- The firms cover manufacturing, finance, insurance, trade, transport, utilities, consumer goods, and extractive or chemical industries.
+- Several entries identify managing agents, associates, proprietors, or affiliated companies.
+- The list includes major Bombay-linked groups such as Tata, Mahindra, Killick, Rallis, and Mafatlal.
+- Handwritten annotations add information, propose revisions, and cross-reference industrial groups.
+- No compiler, issuer, publisher, or publication year is printed on the rendered pages.

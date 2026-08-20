@@ -1,23 +1,22 @@
 ---
 id: 1312-letter-to-mr-minoo-masani-14-11-1967
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - morarji-desai
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "NEW DELHI"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
+  - "recipient_metadata_only"
+  - "unrelated_second_page"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page scan contains a letter dated November 14, 1967, from Deputy Prime Minister Morarji Desai in New Delhi to M. R. Masani. Desai responds to Masani's reference to diplomatic appointments being made by the Ministry of External Affairs. He states that he knows nothing about the appointments and therefore does not consider it necessary to express an opinion on them.
 ---
 
-Archive item 1312; dated 1967-11-14; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated November 14, 1967, and was sent from New Delhi.
+- Morarji Desai writes in his capacity as Deputy Prime Minister of India.
+- The recipient is identified as Shri M. R. Masani, M.P.
+- The subject is diplomatic appointments made by the Ministry of External Affairs.
+- Desai says he has no knowledge of the appointments.
+- He declines to express an opinion on the matter.

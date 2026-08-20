@@ -1,9 +1,9 @@
 ---
 id: 3313-swatantra-party-cash-memo
 title:
-  main: "Swatantra Party Cash Memo"
+  main: "[Swatantra Party Cash Memo]"
   subtitle: ""
-work_type: circular
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
@@ -11,11 +11,11 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party\nCENTRAL OFFICE"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "year_not_found"
+  - "no_publisher_address"
+  - "date_not_found"
+  - "recipient_not_found"
+  - "signature_not_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page handwritten memo, numbered “3313,” is issued on Swatantra Party Central Office letterhead. It concerns authorization of a cheque or cheques, payment to or through an entity called “New India,” and the transfer of a Central Office jeep. The handwriting is partly obscured, so the precise instructions and financial amounts cannot be established confidently.
 ---
 
-Archive item 3313; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is an internal Swatantra Party Central Office memo marked “3313.”
+- It discusses authorization of a cheque or cheques.
+- The memo refers to making a payment and transferring funds to “New India.”
+- It refers to a Central Office jeep and a balance due on the vehicle.
+- The date, sender, recipient, signature, exact amount, and complete transaction instructions are not legible.

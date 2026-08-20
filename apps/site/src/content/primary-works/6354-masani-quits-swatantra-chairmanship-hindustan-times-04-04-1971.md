@@ -1,22 +1,22 @@
 ---
 id: 6354-masani-quits-swatantra-chairmanship-hindustan-times-04-04-1971
 title:
-  main: "Masani Quits Swatantra Chairmanship-Hindustan Times"
+  main: "Masani quits Swatantra chairmanship"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Hindustan Times"
+  place: "Bombay"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_author_byline"
+  - "publisher_not_in_authority"
+  - "year_not_printed_unambiguously"
+  - "no_publication_date"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page PTI news report, published in the Hindustan Times and dated Bombay, April 3, reports that M. R. Masani resigned as chairman of the Swatantra Party while remaining a party member. It says he assured the party that he would continue advocating its philosophy and principles.
 ---
 
-Archive item 6354; dated 1971-04-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- M. R. Masani resigned as chairman of the Swatantra Party.
+- Masani intended to remain a member of the party.
+- He said he would continue to advocate the party's philosophy and principles.
+- The report presents the resignation as connected to Masani's understanding of responsibility during organizational failure.
+- Masani argued that leadership should change when a country, army, or organization suffers a debacle.
+- He emphasized the value of fresh ideas and an open mind in succeeding leadership.

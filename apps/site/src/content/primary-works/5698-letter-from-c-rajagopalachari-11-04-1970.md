@@ -1,7 +1,7 @@
 ---
 id: 5698-letter-from-c-rajagopalachari-11-04-1970
 title:
-  main: "Letter from C Rajagopalachari"
+  main: "[Letter from C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "individual-rights"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_metadata_partial"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page express telegram, sent by C. Rajagopalachari (“Rajaji”) on 11 April 1970, is addressed to M. R. Masani and C. C. Desai. Rajagopalachari states that if Desai does not resign as he has advised, the National Executive has no alternative but to consider expulsion.
+  
+  The message insists that any such decision must follow “full and free debate.” It records a brief intervention in an internal party dispute, combining a demand for resignation with a procedural commitment to deliberation before expulsion.
 ---
 
-Archive item 5698; dated 1970-04-11; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is an express telegram dated 11 April 1970.
+- It is issued on C. Rajagopalachari’s letterhead and signed “RAJAJI.”
+- The message is addressed to M. R. Masani and C. C. Desai.
+- Rajagopalachari says that Desai has been advised to resign.
+- If Desai does not resign, the National Executive is to consider expulsion.
+- The message requires a “full and free debate” before a decision.

@@ -1,22 +1,21 @@
 ---
 id: 1930-guilty-men-the-hindustan-times-05-03-1965
 title:
-  main: "Guilty Men-The Hindustan Times"
+  main: "GUILTY MEN"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "The Hindustan Times"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +25,39 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "governance-reform"
+  - "anti-corruption"
+  - "public-sector-critique"
+  - "party-politics"
+missing_metadata_flags:
+  - "author_not_named"
+  - "no_publisher_address"
+  - "no_place"
+  - "no_edition"
+  - "no_identifiers"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This March 5, 1965 editorial examines allegations of serious misconduct in Orissa during the administrations of Chief Ministers Biju Patnaik and Biren Mitra after the 1961 mid-term elections. It credits H. V. Kamath and other public-spirited individuals with forcing the issue into public view, while arguing that the Central Government and the Congress High Command acted reluctantly and primarily under political pressure. The editorial says that the Central Bureau of Investigation was not permitted to conduct a full investigation and instead relied on official files and explanations from the two ministers.
 ---
 
-Archive item 1930; dated 1965-03-05; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The editorial discusses alleged misconduct under Biju Patnaik and Biren Mitra in Orissa.
+- It credits H. V. Kamath and other public-spirited critics with bringing the allegations before the public.
+- It criticises the Central Government and Congress High Command for responding reluctantly and under pressure.
+- It argues that the Central Bureau of Investigation did not receive permission to conduct a full investigation.
+- It describes the CBI's findings as evidence of gross evasion of normal procedures in government purchasing.
+- It alleges that public funds were systematically diverted to private ends benefiting companies in which the ministers or their families had substantial financial interests.
+- It shifts the central issue from personal pecuniary benefit to the good faith of the Central Government and Congress leadership.
+- It concludes that partisan protection of the ministers damaged standards of public conduct and left the government's moral authority in office under serious doubt.

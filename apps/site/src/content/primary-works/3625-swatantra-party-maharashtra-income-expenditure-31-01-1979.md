@@ -1,9 +1,10 @@
 ---
 id: 3625-swatantra-party-maharashtra-income-expenditure-31-01-1979
 title:
-  main: "Swatantra Party Maharashtra Income & Expenditure"
+  main: "INCOME & EXPENDITURE ACCOUNT FOR THE PERIOD MARCH 1, 1978 TO 31ST JANUARY 1979"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
+purpose: annual_report
 authors: []
 editors: []
 contributors: []
@@ -11,12 +12,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "SWATANTRA PARTY, MAHARASHTRA"
   year: 1979
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +27,36 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "author_not_named"
+  - "no_publisher_address"
+  - "no_edition_statement"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page financial statement, issued by the Swatantra Party, Maharashtra, records income and expenditure for the period 1 March 1978 to 31 January 1979. Reported income consists of donations of Rs. 3,550.00, rent receipts of Rs. 4,149.41, and miscellaneous receipts of Rs. 57.20, for a total of Rs. 7,756.61.
+  
+  Expenditure includes salaries, rent and electricity, postage and telegrams, conveyance, and office expenses. The account shows an excess of income over expenditure of Rs. 912.43. A balance sheet dated 31 January 1979 lists a capital fund of Rs. 482.19 and an income-and-expenditure account balance of Rs. 605.85 as liabilities, matched by Rs. 1,078.04 held at the Union Bank of India and Rs. 10.00 cash on hand. The page does not identify an individual author or provide a place of publication.
 ---
 
-Archive item 3625; dated 1979-01-31; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The statement covers the Swatantra Party, Maharashtra's accounts from 1 March 1978 to 31 January 1979.
+- Total recorded income is Rs. 7,756.61.
+- Income comes from donations, rent receipts, and miscellaneous receipts.
+- Listed expenditure includes salaries, rent and electricity, postage and telegrams, conveyance, and office expenses.
+- The account reports an excess of income over expenditure of Rs. 912.43.
+- The balance sheet as at 31 January 1979 totals Rs. 1,088.04 on both sides.
+- Assets consist of Rs. 1,078.04 at the Union Bank of India and Rs. 10.00 cash on hand.

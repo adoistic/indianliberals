@@ -1,7 +1,7 @@
 ---
 id: 1814-letter-to-hp-mody-08-07-1959
 title:
-  main: "Letter to HP Mody"
+  main: "[Letter to HP Mody]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "sender_name_not_explicitly_typed"
+  - "recipient_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: HP Mody
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office letter, dated 8 July 1959, is printed on the letterhead of The Indian Exporter & Importer in Bombay. It is addressed to Sir Hormusji P. Mody at the Central Bank of India and informs him that a cutting of the editorial published in the magazine’s June issue is enclosed. The writer requests acknowledgment of receipt and signs only as “Secretary.”
+  
+  The page identifies P. M. Shah as the periodical’s Editor, but does not explicitly identify the individual who signed the letter. No title for the document is printed, and the enclosed editorial itself is not included in the rendered page.
 ---
 
-Archive item 1814; dated 1959-07-08; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page English letter dated 8 July 1959.
+- It was sent from 12, Fort Chambers, Hamam Street, Bombay.
+- The letterhead identifies The Indian Exporter & Importer and names P. M. Shah as Editor.
+- The recipient is Sir Hormusji P. Mody of the Central Bank of India.
+- The letter encloses a cutting of the editorial published in the magazine’s June issue.
+- The signatory is identified only as Secretary, so the sender attribution remains provisional.

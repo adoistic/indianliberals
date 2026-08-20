@@ -1,7 +1,7 @@
 ---
 id: 3244-letter-from-girish-k-munshi-02-01-1976
 title:
-  main: "Letter from Girish K Munshi"
+  main: "[Letter from Girish K Munshi]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,12 +11,12 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1976
+  place: "Bombay"
+  year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "electoral-reform"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_line"
+  - "no_recipient_authority_resolution"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Girish K Munshi
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page letter, dated 2 January 1975 and written from Bombay by Girish Munshi as General Secretary of the All-India Swatantra Party, informs the Chief Election Commissioner that the party's General Council met in Madras on 8 December 1974, elected G. K. Sundaram as president, and shifted its national headquarters to Egmore, Madras. Its main purpose is to object to a proposal by the BLD to incorporate the STAR into its election symbol.
+  
+  The letter asserts that the STAR had been allotted exclusively to the Swatantra Party and had served as its symbol since the 1962 elections. It asks the Election Commission to hear the party before deciding the matter and warns that any attempt to allot the STAR to another party would lead the Swatantra Party to take legal action. An enclosed or separately sent telegram restates the objection and requests that the party's position be recorded.
 ---
 
-Archive item 3244; dated 1976-01-02; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Swatantra Party reports the election of G. K. Sundaram as president and Girish Munshi as General Secretary at its December 1974 General Council meeting.
+- The party states that its national headquarters has moved to 26 Halls Road, Egmore, Madras.
+- The letter objects to a BLD proposal for an election symbol incorporating the STAR.
+- The Swatantra Party claims exclusive use of the STAR since the 1962 elections.
+- The writer asks the Election Commission to provide a hearing before reaching a final decision.
+- The party threatens legal action if the STAR is allotted to another party.

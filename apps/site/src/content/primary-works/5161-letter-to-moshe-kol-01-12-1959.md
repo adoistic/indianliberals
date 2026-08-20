@@ -1,22 +1,21 @@
 ---
 id: 5161-letter-to-moshe-kol-01-12-1959
 title:
-  main: "Letter to Moshe Kol"
+  main: "[Letter to Moshe Kol]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "liberalism-as-tradition"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "edition_not_printed"
+  - "series_not_printed"
+  - "no_organization_issuer_identified"
+  - "no_printed_page_number"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Moshe Kol
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 1 December 1959, M. R. Masani thanks Moshe Kol for his earlier correspondence and greetings, and says he will pass Kol’s message to Professor Langa. Masani expresses hope that their two parties will maintain close contact, reports that he has heard the Progressive Party in Israel performed fairly well in recent elections, and notes that Kol had spoken positively of Masani’s group.
+  
+  Masani also advises that his Bombay office will send relevant literature. An internal instruction at the foot of the sheet asks Mr. H. Mehta to mail the Bombay Convention Handbook, the “Who is outdated?” folder, and a Swatantra Services Centre folder to the Israeli party, and to add it to the mailing list for future material.
 ---
 
-Archive item 5161; dated 1959-12-01; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani replies to Moshe Kol’s letter of 28 October 1959.
+- He intends to pass Kol’s message to Professor Langa.
+- He hopes the two parties will retain close contact.
+- He reports that the Progressive Party in Israel had done fairly well in recent elections.
+- He says Kol spoke very well of Masani’s group.
+- Masani’s Bombay office will send relevant literature.
+- An internal note requests mailing three publications or folders to the Israeli party and adding it to the future mailing list.

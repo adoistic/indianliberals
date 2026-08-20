@@ -1,22 +1,21 @@
 ---
 id: 4613-letter-to-p-s-koppikar-11-04-1968
 title:
-  main: "Letter to P S Koppikar"
+  main: "[Letter to P S Koppikar]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "publication_place_not_printed"
+  - "recipient_role_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: P S Koppikar
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this untitled letter dated 11 April 1968, M. R. Masani thanks P. S. Koppiker for his concern and says he is willing to explain the facts and motivation behind his resignation from the Party’s National Executive and Central Parliamentary Board. He proposes making that explanation to members of the Regional Council in Bombay later in April.
+  
+  Masani notes that he may be unavailable during the last week of April but expects to be in the area during the first days of May. He asks Koppiker to contact him at his office on Monday 15 April or Tuesday 16 April to arrange a convenient date for the meeting. The letter does not identify the party by name.
 ---
 
-Archive item 4613; dated 1968-04-11; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 11 April 1968 and is sent from 2 Tughlak Road, New Delhi.
+- Masani responds appreciatively to a letter from P. S. Koppiker expressing concern.
+- He offers to explain the facts and motivation behind his resignation from the Party’s National Executive and Central Parliamentary Board.
+- The proposed audience is the Party’s Regional Council members in Bombay.
+- Masani anticipates being unavailable during the last week of April but possibly available in early May.
+- He suggests contact on 15 or 16 April to arrange the meeting.

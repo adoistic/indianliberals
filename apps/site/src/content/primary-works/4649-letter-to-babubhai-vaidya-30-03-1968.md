@@ -1,7 +1,7 @@
 ---
 id: 4649-letter-to-babubhai-vaidya-30-03-1968
 title:
-  main: "Letter to Babubhai Vaidya"
+  main: "[Letter to Babubhai Vaidya]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Babubhai Vaidya
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page typed confirmation copy, dated 30 March 1968, is addressed to Babubhai Vaidya in Rajkot and signed “MASANI.” The writer asks Vaidya to comment on allegations made by interested parties that he has been conducting propaganda against the Swatantra Party and is a communist.
+  
+  The letter requests that Vaidya come immediately to 2 Tughlaq Road, New Delhi 11. The document does not state a title, publisher, or institutional letterhead; it preserves the typed message, date, “confirmation copy” notation, and handwritten signature.
 ---
 
-Archive item 4649; dated 1968-03-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page confirmation copy of a political letter.
+- It is addressed to Babubhai Vaidya at Ucchchalangnagar, Rajkot.
+- The letter is dated 30 March 1968 and signed “MASANI.”
+- The writer seeks Vaidya’s comments on allegations made by interested parties.
+- The allegations concern propaganda against the Swatantra Party and an accusation that Vaidya is a communist.
+- Vaidya is asked to report immediately to 2 Tughlaq Road, New Delhi 11.

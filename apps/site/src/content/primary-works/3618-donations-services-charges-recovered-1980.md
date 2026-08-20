@@ -1,22 +1,21 @@
 ---
 id: 3618-donations-services-charges-recovered-1980
 title:
-  main: "Donations & Services Charges Recovered-1980"
+  main: "Donations & Service Charges recovered. (1980)"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
+purpose: report
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1980
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "no_author"
+  - "no_publisher"
+  - "no_issuer"
+  - "no_place"
+  - "no_edition"
+  - "no_series"
+  - "no_identifiers"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English financial statement, headed “Donations & Service Charges recovered. (1980),” records three receipts: PIS (Rs. 3,400.00), WITTE S Star (Rs. 5,600.00), and AFT (Rs. 569.39). The listed amounts add up to a total of Rs. 9,569.39.
 ---
 
-Archive item 3618; dated 1980; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page financial statement dated 1980.
+- It records recovered donations and service charges.
+- PIS is listed at Rs. 3,400.00.
+- WITTE S Star is listed at Rs. 5,600.00.
+- AFT is listed at Rs. 569.39.
+- The recorded total is Rs. 9,569.39.

@@ -1,23 +1,22 @@
 ---
 id: 4695-letter-to-mr-minoo-masani-28-08-1964
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 28 August 1964, C. Rajagopalachari forwards M. K. Munshi's account of a meeting with the Raja of Ramgarh about the political situation in Bihar. The reported proposal is to re-form the Janata Party before the Bihar Assembly meets, with the aim of retaining an organised opposition in the Assembly and the Council.
 ---
 
-Archive item 4695; dated 1964-08-28; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is addressed by C. Rajagopalachari to M. R. Masani and is dated 28 August 1964.
+- Rajagopalachari forwards a letter he received from K. M. Munshi.
+- The Raja of Ramgarh is described as advocating the continuation of political activity in Bihar.
+- The proposed course is to re-form the Janata Party.
+- The reported group consists of 38 opposition members in the Assembly and Council, described as 46 minus 8.
+- The re-formation is presented as urgent because the group might otherwise lose its position as an organised party before the Assembly meets.

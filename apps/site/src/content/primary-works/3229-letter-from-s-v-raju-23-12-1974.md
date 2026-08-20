@@ -1,7 +1,7 @@
 ---
 id: 3229-letter-from-s-v-raju-23-12-1974
 title:
-  main: "Letter from S V Raju"
+  main: "[Letter from S V Raju]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "recipient_not_printed_as_formal_header"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter from S. V. Raju, dated December 23, 1974, is addressed to “Girlish.” Raju apologises that a Saturday meeting has produced no further progress on “the matter of the trust” and reports that he, KH, and Sampat continued discussions on Sunday.
+  
+  The letter conveys disappointment and distress rather than presenting substantive details about the trust. A handwritten notation at the foot of the page appears to identify a Bombay recipient, but the recipient's full name is not clearly legible.
 ---
 
-Archive item 3229; dated 1974-12-23; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a personal letter dated December 23, 1974.
+- S. V. Raju writes to a recipient addressed as “Girlish.”
+- A Saturday meeting did not advance the matter of the trust.
+- Raju, KH, and Sampat held further discussions on Sunday.
+- The writer says that all involved are upset.
+- A handwritten Bombay addressee notation appears at the foot of the page but is only partly legible.

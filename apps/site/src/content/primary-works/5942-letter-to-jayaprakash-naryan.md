@@ -1,21 +1,22 @@
 ---
 id: 5942-letter-to-jayaprakash-naryan
 title:
-  main: "Letter to Jayaprakash Naryan"
+  main: "[Letter to Jayaprakash Naryan]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Patna"
+  year: 1974
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "no_venue"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Jayaprakash Naryan
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English telegram-like communication from Minoo Masani to Jayaprakash Narayan is dated December 11, 1974, and is addressed to Narayan at Kadan Kuan, Patna 3. Masani regrets that he cannot see Narayan in Patna on the stated occasion because he is committed to a seminar in Delhi.
+  
+  Masani proposes instead to meet Narayan in Delhi on the 24th or in Bombay on the 30th or 31st, and asks Narayan to wire his preference. The scan contains no printed title, salutation, complimentary close, or further correspondence.
 ---
 
-Archive item 5942; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page English telegram-like communication dated December 11, 1974.
+- Minoo Masani is the sender; Jayaprakash Narayan is the addressee.
+- Masani says he cannot see Narayan in Patna because he is committed to a seminar in Delhi.
+- He suggests meeting in Delhi on the 24th.
+- He also suggests meeting in Bombay on the 30th or 31st.
+- He asks Narayan to communicate his preferred arrangement by wire.

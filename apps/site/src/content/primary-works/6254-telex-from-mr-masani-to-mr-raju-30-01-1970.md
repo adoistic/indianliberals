@@ -1,22 +1,20 @@
 ---
 id: 6254-telex-from-mr-masani-to-mr-raju-30-01-1970
 title:
-  main: "Telex from Mr Masani to Mr Raju"
+  main: "Telex from Mr. Masani to Mr. Raju"
   subtitle: ""
-work_type: letter
+work_type: telegram
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_formal_author_byline"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telex, dated January 30, 1970, records Mr. Masani's agreement to Mr. Raju's cancellation of a planned visit to Ahmedabad. The message is a brief administrative communication rather than an argumentative or programmatic text.
+  
+  The page identifies the sender and recipient in its heading and states the cancellation in block capitals. No further correspondence, explanation, or contextual detail is visible.
 ---
 
-Archive item 6254; dated 1970-01-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page telex from Mr. Masani to Mr. Raju.
+- It is dated January 30, 1970.
+- Mr. Masani agrees to the cancellation of Mr. Raju's visit to Ahmedabad.
+- The visit was scheduled for the 31st.
+- The rendered page contains no explanation for the cancellation or additional correspondence.

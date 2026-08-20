@@ -1,22 +1,21 @@
 ---
 id: 2762-ror-over-star-indian-express-03-01-1975
 title:
-  main: "Ror Over Star-Indian Express"
+  main: "Row over ‘star’"
   subtitle: ""
-work_type: press_note
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Delhi"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+missing_metadata_flags:
+  - "publisher_not_printed"
+  - "publication_title_not_printed"
+  - "no_formal_author_name"
+  - "date_not_printed"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This short newspaper report describes a dispute before the Election Commission in Delhi over the use of a star as an electoral symbol. Girish Munshi, general secretary of the Swatantra Party in Maharashtra, telegraphically lodged what the party called a “strong” protest against a proposal by the B.L.D. to incorporate a star into its symbol.
 ---
 
-Archive item 2762; dated 1975-01-03; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Election Commission is considering a proposal involving the use of a star in the B.L.D.'s electoral symbol.
+- Girish Munshi, identified as general secretary of the Swatantra Party in Maharashtra, protested against the proposal.
+- The Swatantra Party claimed an exclusive right to the star symbol dating from the 1962 general elections.
+- Munshi insisted that the Swatantra Party remained in existence at the national level.
+- The party requested a hearing before the Election Commission made its decision.

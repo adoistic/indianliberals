@@ -1,7 +1,7 @@
 ---
 id: 1820-letter-to-hp-mody-13-07-1959
 title:
-  main: "Letter to HP Mody"
+  main: "[Letter to HP Mody]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "publication_place_not_printed"
+  - "recipient_not_catalogued"
+  - "signature_uncertain"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: HP Mody
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated 13 July 1959 from Gumanpura, Dungarpur, South Rajasthan, congratulates H. P. Mody on taking over as treasurer of the newly formed Swatantra Party. The writer expresses confidence that the Party's finances will now be in good hands.
 ---
 
-Archive item 1820; dated 1959-07-13; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 13 July 1959 and headed from Gumanpura, Dungarpur, South Rajasthan.
+- The writer congratulates H. P. Mody on assuming the treasurership of the Swatantra Party.
+- The letter links Mody's appointment to confidence about the Party's financial administration.
+- The writer plans to attend the Swatantra Party meeting in Bombay on 1 August.
+- The writer expects to arrive in Bombay a few days before the meeting.
+- The writer asks whether Mody and Lady Mody can accommodate the writer and their companion.

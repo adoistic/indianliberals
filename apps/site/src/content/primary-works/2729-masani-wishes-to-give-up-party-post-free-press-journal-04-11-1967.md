@@ -1,22 +1,21 @@
 ---
 id: 2729-masani-wishes-to-give-up-party-post-free-press-journal-04-11-1967
 title:
-  main: "Masani Wishes To Give Up Party Post-Free Press Journal"
+  main: "Masani wishes to give up party post"
   subtitle: ""
-work_type: press_note
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Free Press Journal"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_publisher_address"
+  - "place_not_printed"
+  - "publication_date_handwritten"
+  - "source_clipping_context_incomplete"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Free Press Journal report states that M. R. Masani, then general secretary of the Swatantra Party, wished to relinquish the post when his term expired in the third week of November 1967. He reportedly told the party's general council that prolonged tenure by the same government was harmful to the country and to parliamentary democracy, citing an argument he had made with Rajaji.
+  
+  The report also presents Masani as extending this principle of rotation to party office. He compared regular changes in party leadership with the practice of rotating personnel in industrial management and said he had recommended Shri N. Dandekar for the general-secretary position. The clipping is a brief news report rather than a full statement or interview; its handwritten date reads “4/11/67,” but the day/month order and publication-date status are not independently established.
 ---
 
-Archive item 2729; dated 1967-11-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- M. R. Masani wished to leave the Swatantra Party general-secretary post when his term expired.
+- His term was reported to expire in the third week of November 1967.
+- Masani argued that long-term rule by the same government was bad for parliamentary democracy.
+- The report attributes a similar argument to Masani and Rajaji.
+- Masani applied the principle of rotation to party leadership and cited industrial management as an analogy.
+- He recommended N. Dandekar as his successor.

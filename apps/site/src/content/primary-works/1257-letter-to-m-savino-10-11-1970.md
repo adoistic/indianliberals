@@ -1,22 +1,22 @@
 ---
 id: 1257-letter-to-m-savino-10-11-1970
 title:
-  main: "Letter to M Savino"
+  main: "[Letter to M Savino]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher_line"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: M Savino
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This untitled letter, written by M. R. Masani from New Delhi on 10 November 1970, responds to Rev. M. Savino's letter of the 10th. Masani reports that the Swatantra Parliamentary Group's Executive Committee has decided that its leader, Professor N. G. Ranga, should meet Savino's delegation within the next day or two. Masani explains that he cannot attend because he is leaving Delhi the following morning.
 ---
 
-Archive item 1257; dated 1970-11-10; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- M. R. Masani wrote the letter from 2 Tughlak Road, New Delhi, on 10 November 1970.
+- The letter acknowledges correspondence from Rev. M. Savino dated the 10th.
+- The Swatantra Parliamentary Group's Executive Committee discussed Savino's request.
+- Professor N. G. Ranga was designated to meet Savino's delegation.
+- Masani could not participate because he was leaving Delhi the following morning.
+- The letter directs Savino to contact Professor Ranga or A. P. Jain to arrange an appointment.
+- Savino is identified as leader of the Naga Integration Central Council.

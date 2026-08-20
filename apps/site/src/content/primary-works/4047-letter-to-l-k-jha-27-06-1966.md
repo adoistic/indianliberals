@@ -1,23 +1,21 @@
 ---
 id: 4047-letter-to-l-k-jha-27-06-1966
 title:
-  main: "Letter to L K Jha"
+  main: "[Letter to L K Jha]"
   subtitle: ""
 work_type: letter
 authors:
-  - l-k-jha
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1966
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "free-trade"
+  - "regulatory-state-critique"
+  - "economic-liberty"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_edition_statement"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page letter dated June 27, 1966, M. R. Masani writes to L. K. Jha, Secretary to the Prime Minister, following a recent conversation in the Prime Minister's room. Masani says he has learned that Jha and an unnamed woman recipient had not read Leslie Sawhny's article, “The Conscience of Free Enterprise,” which discusses the dangers of restraining competition even after devaluation.
+  
+  Masani encloses a copy of the article and asks Jha to read it and place it before the Prime Minister. The letter is therefore a brief act of policy advocacy: it directs official attention toward competition, free enterprise, and the possible economic consequences of post-devaluation restraints.
 ---
 
-Archive item 4047; dated 1966-06-27; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated June 27, 1966, and is signed by M. R. Masani.
+- It is addressed to L. K. Jha, Secretary to the Prime Minister.
+- Masani refers to a recent conversation in the Prime Minister's room.
+- He encloses Leslie Sawhny's article, “The Conscience of Free Enterprise.”
+- The article concerns the dangers of restraining competition after devaluation.
+- Masani asks Jha to read the article and place it before the Prime Minister.

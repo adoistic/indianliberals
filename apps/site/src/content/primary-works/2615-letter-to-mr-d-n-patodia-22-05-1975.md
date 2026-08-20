@@ -1,22 +1,21 @@
 ---
 id: 2615-letter-to-mr-d-n-patodia-22-05-1975
 title:
-  main: "Letter to Mr D N Patodia"
+  main: "[Letter to Mr D N Patodia]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: D N Patodia
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 22 May 1975, is from S. V. Raju to D. N. Patodia. Raju forwards an enclosed solicitors’ letter concerning Patodia’s friend, Piloo Mody, noting that the letter has received no reply. He attributes the lack of response to Mody’s spoken commitment and describes Mody’s apparent intention to establish the Maharashtra office of the Swatantra Party in a manner that would secure the allegiance of its members.
 ---
 
-Archive item 2615; dated 1975-05-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 22 May 1975 and is addressed to D. N. Patodia.
+- S. V. Raju encloses a solicitors’ letter concerning Piloo Mody.
+- Raju notes that Mody has not replied to the solicitors’ letter.
+- The letter discusses Mody’s commitment regarding the Maharashtra office of the Swatantra Party.
+- Raju asks Patodia to help persuade Mody to fulfil that commitment.
+- The letter suggests that the continued existence of the sender’s political organisation or faction is a source of disappointment to Mody and his associates.

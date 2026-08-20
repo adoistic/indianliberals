@@ -1,21 +1,20 @@
 ---
 id: 3549-list-of-industries-in-bombay-city
 title:
-  main: "List Of Industries In Bombay City"
+  main: "[List Of Industries In Bombay City]"
   subtitle: ""
-work_type: letter
+work_type: reference
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -26,14 +25,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_found"
+  - "publisher_not_found"
+  - "issuer_not_found"
+  - "author_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This four-page handwritten reference document is headed “Individuals in Bombay” and consists primarily of names arranged in numbered and unnumbered lists. The first sheet contains 23 numbered entries, including A. D. Shroff, J. D. Chokshi, Dharamsey Khabar, Pratappench Mathradas, Pratap Bhogilal, B. M. Shah, N. M. Wagle, J. H. Doshi, S. R. Damani, M. K. Tata, and S. P. Godrej; the final entry appears crossed out. A circled number, “3549,” is also visible.
+  
+  The remaining sheets appear to group or annotate Bombay individuals and industrial concerns. Legible notes refer to “all scheduled Banks,” “all major Insurance Cos,” “all Bombay Millowners,” “brokers,” and “construction[s],” alongside names such as Shapoorji Pallonji, B. K. Shah, N. M. Wagle, Ahmed Fogal Fazalbhoy, S. R. Damani, M. K. Tata, and several firms or groups. The pages are heavily abbreviated, overwritten, and difficult to decipher; they do not provide a date, author, publisher, explanatory prose, or clear account of the purpose of the compilation.
 ---
 
-Archive item 3549; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The handwritten heading reads “Individuals in Bombay.”
+- The first sheet presents 23 numbered names, with the final entry crossed out.
+- A circled number, “3549,” appears near the heading on page 1.
+- Later sheets mix personal names with references to banks, insurance companies, millowners, brokers, and construction-related groups.
+- The document appears administrative or classificatory rather than argumentative or literary.
+- Many names and annotations are abbreviated, overwritten, or not confidently legible.
+- No author, date, publisher, issuer, or formal title is visible.

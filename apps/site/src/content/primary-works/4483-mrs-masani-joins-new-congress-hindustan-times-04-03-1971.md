@@ -1,22 +1,22 @@
 ---
 id: 4483-mrs-masani-joins-new-congress-hindustan-times-04-03-1971
 title:
-  main: "Mrs Masani Joins New Congress-Hindustan Times"
+  main: "Mrs Masani joins New Congress"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Hindustan Times"
+  place: "New Delhi"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_authority_unresolved"
+  - "publication_date_not_printed_as_full_date"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This short Hindustan Times news report, datelined New Delhi, March 3, 1971, records Mrs Shakuntala Masani’s formal decision to join the New Congress by signing its pledge and paying the membership fee. She was the wife of Swatantra leader Minoo Masani, who opposed the party she joined. The report places her move in the context of the campaign involving Subhadra Joshi and a Jan Sangh member of the dissolved Lok Sabha, and notes that she intended to campaign for her husband in Rajkot, Gujarat, although she did not travel there because of Delhi’s flight schedule.
+  
+  The article foregrounds the political independence she claimed within her marriage. Mrs Masani said she respected her husband’s political integrity but rejected the assumption that spouses must share the same political views; it also notes that their son, Zareel, had joined Congress (N) earlier.
 ---
 
-Archive item 4483; dated 1971-03-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Mrs Shakuntala Masani formally joined the New Congress on March 3, 1971.
+- She signed the party pledge and paid the membership fee.
+- She was the wife of Swatantra leader Minoo Masani, who opposed the New Congress.
+- The report connects her political activity with a campaign involving Subhadra Joshi and a Jan Sangh member of the dissolved Lok Sabha.
+- She said she would later campaign for Minoo Masani in Rajkot, Gujarat, but did not travel there because of flight arrangements.
+- She defended the right of a wife to hold political views different from her husband’s.
+- The article notes that the Masanis’ son, Zareel, had previously joined Congress (N).

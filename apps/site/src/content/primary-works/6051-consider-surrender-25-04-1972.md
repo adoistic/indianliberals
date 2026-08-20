@@ -1,22 +1,21 @@
 ---
 id: 6051-consider-surrender-25-04-1972
 title:
-  main: "Consider Surrender"
+  main: "Consider surrender"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "ECONOMIC TIMES."
   year: 1972
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +25,36 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "civil-liberty"
+  - "governance-reform"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "publisher_not_resolved"
+  - "place_not_printed"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This Economic Times editorial considers whether the state should accept the surrender of dacoits through the Sarvodaya peace mission rather than rely solely on police force. It acknowledges the public's understandable desire to see criminals punished, but argues that police action must remain subordinate to law and that the state should not assume that every dacoit can be subdued by force alone. The article also notes the practical and legal complications involved in surrender ceremonies, including the need for police authority and judicial process to be reconciled.
+  
+  The editorial presents rehabilitation as a legitimate third perspective between romanticising dacoits and insisting on punishment. It describes the surrender ceremony associated with Jayaprakash Narayan as deliberately humane, allowing former dacoits to return peacefully while preserving public order. The success of the mission, it argues, depends on favourable conditions, the right participants, and a genuine desire on both sides to reach an agreement. The clipping contains no byline, and only this single page was available.
 ---
 
-Archive item 6051; dated 1972-04-25; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The editorial weighs the Sarvodaya peace mission's negotiated surrender of dacoits against conventional police action.
+- It argues that the authority of law and the security of the public must not be weakened in the process.
+- It cautions against assuming that force alone can produce a durable solution to the dacoit problem.
+- It identifies rehabilitation and humane treatment as a legitimate alternative to an exclusively punitive response.
+- It presents Jayaprakash Narayan's leadership of the surrender ceremony as central to its success.
+- It stresses that successful negotiated settlements require favourable conditions, suitable participants, and mutual willingness.

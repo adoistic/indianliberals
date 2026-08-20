@@ -1,7 +1,7 @@
 ---
 id: 2206-letter-to-dhyan-s-makhija-29-11-1971
 title:
-  main: "Letter to Dhyan S Makhija"
+  main: "[Letter to Dhyan S Makhija]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,10 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +24,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_named"
+  - "year_not_printed"
+  - "publisher_not_identified"
+  - "no_letterhead_visible"
+  - "signature_identity_uncertain"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Dhyan S Makhija
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office letter, dated “29th Novemb.” with no year visible, acknowledges receipt of a letter dated 20th November from Dhyan S. Makhija, editor of “Bubhubal.” The writer says the acknowledgment is being sent at the request of M. R. Masani and thanks Makhija for writing to him.
 ---
 
-Archive item 2206; dated 1971-11-29; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a typed office letter in English.
+- It is addressed to Mr. Dhyan S. Makhija in Jaipur.
+- Makhija is identified as the editor of “Bubhubal.”
+- The letter acknowledges receipt of Makhija’s letter dated 20th November.
+- The writer says the acknowledgment is made at the request of M. R. Masani.
+- The writer’s full name is not visible; the signature is unclear and is identified only as secretary to M. R. Masani.
+- The page is dated only “29th Novemb.” and does not show a year.

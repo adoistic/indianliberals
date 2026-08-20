@@ -1,22 +1,21 @@
 ---
 id: 5247-letter-to-k-s-k-menon-23-10-1959
 title:
-  main: "Letter to K S K Menon"
+  main: "[Letter to K S K Menon]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: K S K Menon
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter from M. R. Masani to K. S. K. Menon, dated 23 October 1959, apologises for the delayed reply after Masani’s return from Europe. Masani reports that a group has been formed in Delhi and identifies Sardar Lall Singh, of Kotah House, New Delhi, as its convener.
+  
+  Masani asks Menon to contact the local people and provide them with his cooperation. He also encloses a copy of the handbook of the Bombay Convention prepared by Masani’s group. The letter therefore records organisational coordination around a contemporary liberal-political convention and network.
 ---
 
-Archive item 5247; dated 1959-10-23; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 23 October 1959 and is signed by M. R. Masani.
+- Masani explains that his delayed response was caused by an absence from India in Europe.
+- A group has been formed in Delhi.
+- Sardar Lall Singh is identified as the Delhi group’s convener.
+- Masani asks K. S. K. Menon to contact local people and cooperate with them.
+- A handbook of the Bombay Convention is enclosed with the letter.

@@ -1,7 +1,7 @@
 ---
 id: 4890-letter-fro-jagat-kishore-naryan-singh-09-02-1963
 title:
-  main: "Letter fro Jagat kishore Naryan Singh"
+  main: "[Letter fro Jagat kishore Naryan Singh]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "edition_not_printed"
+  - "series_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English letter, dated handwritten “9/2/63,” is addressed to the President of the Swatantra Party of India. Jagat Kishore Prasad Narayan Singh withdraws an appeal previously filed before the Party’s General Council, explaining that he is doing so “in the larger interest of the Party.”
 ---
 
-Archive item 4890; dated 1963-02-09; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a formal letter addressed to the President of the Swatantra Party of India.
+- The signer is Jagat Kishore Prasad Narayan Singh.
+- The letter withdraws an appeal filed before the General Council.
+- The withdrawal is presented as being in the larger interest of the Party.
+- The handwritten date reads “9/2/63”; the day/month order is not resolved.

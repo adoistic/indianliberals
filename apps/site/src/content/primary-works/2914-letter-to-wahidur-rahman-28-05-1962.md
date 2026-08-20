@@ -1,22 +1,21 @@
 ---
 id: 2914-letter-to-wahidur-rahman-28-05-1962
 title:
-  main: "Letter to Wahidur Rahman"
+  main: "[Letter to Wahidur Rahman]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1962
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "press-freedom"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "place_not_found"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Wahidur Rahman
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 28 May 1962, M. R. Masani acknowledges Wahidur Rahman's report about an unfortunate statement made by a Member of Parliament to a press correspondent. Masani agrees that the statement was regrettable but says that little can be done after the fact, especially because it is difficult to exercise control at a distance.
 ---
 
-Archive item 2914; dated 1962-05-28; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 28 May 1962 and is addressed to Wahidur Rahman.
+- Masani refers to Rahman's letter of 23 May 1962.
+- The correspondence concerns an allegedly unfortunate statement by a Member of Parliament to a press correspondent.
+- Masani agrees with Rahman's assessment of the statement.
+- Masani says that controlling such conduct from a distance is extremely difficult.
+- Masani states that he is writing to the Member of Parliament concerned.

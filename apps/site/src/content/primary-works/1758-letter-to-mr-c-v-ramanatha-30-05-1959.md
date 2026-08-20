@@ -1,7 +1,7 @@
 ---
 id: 1758-letter-to-mr-c-v-ramanatha-30-05-1959
 title:
-  main: "Letter to Mr C V Ramanatha"
+  main: "[Letter to Mr C V Ramanatha]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: C V Ramanatha
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English carbon-copy letter, marked “(COPY),” was sent from Bombay House, Fort, Bombay, on 30 May 1959 by H. P. Mody to Mr. C. V. Ramanatha Aiyar of Pallavaram. Mody thanks Aiyar for his letter of 28 May and acknowledges the kindness of Aiyar’s expressed sentiments.
+  
+  Mody explains that he is leaving Bombay briefly for a holiday but hopes to take an active interest in public affairs on his return. He also notes that Aiyar will shortly turn 70 and wishes him many more years of useful life. The letter closes with Mody’s typed signature, “Sd.H.P. Mody.”
 ---
 
-Archive item 1758; dated 1959-05-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is an untitled typed carbon copy marked “(COPY).”
+- It is dated 30 May 1959 and was sent from Bombay House, Fort, Bombay.
+- H. P. Mody thanks C. V. Ramanatha Aiyar for a letter dated 28 May.
+- Mody says he is leaving Bombay for a short holiday.
+- He states that he hopes to take an active interest in public affairs after returning.
+- Mody refers to Aiyar’s approaching seventieth birthday and wishes him a long and useful life.

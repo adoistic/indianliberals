@@ -1,23 +1,22 @@
 ---
 id: 78-telegram-to-mr-minoo-masani-12-03-1971
 title:
-  main: "Telegram to Mr Minoo Masani"
+  main: "[Telegram to Mr Minoo Masani]"
   subtitle: ""
 work_type: telegram
-authors:
-  - minoo-masani
+work_type_source: filename
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "biographical-tribute"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "recipient_not_structured"
+  - "telegram_enum_unavailable"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English telegram, received on 12 March 1971 in Bombay, is addressed to Shri Minoo Masani, care of Surajayam. Its clipped block-capital message appears to congratulate Masani as an outstanding parliamentarian, although several words in the telegraphic text are difficult to read and may contain transcription or source errors. The apparent sender is Arvind Parekh.
 ---
 
-Archive item 78; dated 1971-03-12; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The document is a one-page telegram rather than a conventional letter.
+- It is addressed to Shri Minoo Masani.
+- The telegram was marked received on 12 March 1971.
+- The visible message offers praise connected with parliamentary service.
+- The apparent sender named on the form is Arvind Parekh.
+- The text includes postal and telegraph-form markings, including Bombay.

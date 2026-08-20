@@ -1,23 +1,22 @@
 ---
 id: 4965-letter-to-mr-minoo-masani-02-08-1975
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "THE HINDUSTAN TIMES\nPOST BOX NO. 40\nNEW DELHI - 1"
+  place: "New Delhi"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,27 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_authority_resolved"
+  - "recipient_present_but_not_catalogued_as_author"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This untitled letter, dated August 2, 1975, is from B. G. Verghese on The Hindustan Times letterhead to Minoo Masani. Verghese thanks Masani for his letter of July 29 and for an enclosure, which he says he has read with interest.
 ---
 
-Archive item 4965; dated 1975-08-02; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated August 2, 1975.
+- B. G. Verghese writes from The Hindustan Times in New Delhi.
+- The recipient is Minoo Masani, addressed at 148 Mahatma Gandhi Road, Bombay-1.
+- Verghese acknowledges Masani's letter of July 29 and an accompanying enclosure.
+- Verghese asks whether Masani received a reply from the Prime Minister.

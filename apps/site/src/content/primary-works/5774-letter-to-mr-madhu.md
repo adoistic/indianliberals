@@ -1,7 +1,7 @@
 ---
 id: 5774-letter-to-mr-madhu
 title:
-  main: "Letter to Mr Madhu"
+  main: "[Letter to Mr Madhu]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,12 +10,10 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +24,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "recipient_not_resolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Madhu
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page draft letter from Girish K. Munshi to “Mr. Madhu” discusses a possible independent candidacy by Justice Bhole of the Bombay High Court in the Bombay Central constituency. Munshi reports that colleagues in the S.S.P. have raised the matter and that the Swatantra Party, Maharashtra, may be willing to support Bhole, alongside other opposition parties.
 ---
 
-Archive item 5774; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Justice Bhole is described as considering an independent candidacy for Bombay Central.
+- The proposal was reportedly raised by friends in the S.S.P.
+- The Swatantra Party, Maharashtra, may support Bhole's candidacy.
+- Munshi anticipates the possibility of broader opposition-party support.
+- Munshi says he is scrutinising Bhole's background.
+- A formal Executive Committee meeting was scheduled for 13 December, after the Sabarkantha election.

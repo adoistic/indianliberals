@@ -1,21 +1,21 @@
 ---
 id: 3031-member-of-parliament
 title:
-  main: "Member of parliament"
+  main: "[Member of parliament]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -26,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "no_delivery_year"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This three-page English invitation was issued by Mr. M. R. Masani on parliamentary letterhead identifying him as a “MEMBER OF PARLIAMENT (LOK SABHA).” It requests the recipient’s company at tea on Friday, 22nd August, at 5.00 p.m., at 2, Tughlak Road, New Delhi. The year is not printed.
+  
+  The remaining two pages comprise a typed list of eighteen named invitees, most with New Delhi addresses and telephone numbers. Handwritten ticks, crosses, annotations, and corrections appear alongside several entries, indicating some form of invitation or attendance tracking. The document is a social invitation and recipient register rather than an argumentative or political text.
 ---
 
-Archive item 3031; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Mr. M. R. Masani issued the invitation under his Lok Sabha parliamentary letterhead.
+- The invitation is for tea on Friday, 22nd August, at 5.00 p.m.
+- The venue is given as 2, Tughlak Road, New Delhi.
+- No year appears on the invitation.
+- Pages 2 and 3 list eighteen invitees, with addresses and telephone numbers.
+- Handwritten marks record apparent checks, cancellations, corrections, or other administrative notes.

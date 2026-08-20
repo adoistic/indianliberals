@@ -1,22 +1,22 @@
 ---
 id: 2061-letter-to-ap-jain-12-06-1963
 title:
-  main: "Letter to AP Jain"
+  main: "[Letter to AP Jain]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: AP Jain
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This letter from M. R. Masani to A. P. Jain, dated 12 June 1963, concerns the scheduling of two political meetings before an upcoming session. Masani refers to Professor Ranga's proposed meetings and agrees that the Swatantra Party's own meeting should take place on Monday, 12 August, the day before the session begins.
+  
+  Masani proposes that the opposition group leaders meet on the same day, but at a different time: the Swatantra Party should meet late in the morning or early in the afternoon, followed by the group meeting later that afternoon or in the evening. The letter reflects practical coordination within opposition-party politics rather than a discussion of policy.
 ---
 
-Archive item 2061; dated 1963-06-12; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 12 June 1963 and is addressed to A. P. Jain.
+- Masani responds to Jain's letters of 7 and 10 June.
+- The correspondence concerns two meetings to be held before an upcoming session.
+- Masani recommends holding the Swatantra Party meeting on Monday, 12 August, the day before the session begins.
+- He suggests that the opposition group leaders meet later on the same day.
+- The proposed schedule is intended to allow the party to consult its own members before the wider group meeting.

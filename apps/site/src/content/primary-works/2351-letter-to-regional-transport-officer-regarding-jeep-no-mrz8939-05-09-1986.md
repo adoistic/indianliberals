@@ -1,22 +1,22 @@
 ---
 id: 2351-letter-to-regional-transport-officer-regarding-jeep-no-mrz8939-05-09-1986
 title:
-  main: "Letter to Regional Transport Officer Regarding Jeep No-MRZ8939"
+  main: "[Letter to Regional Transport Officer Regarding Jeep No-MRZ8939]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "BOMBAY"
   year: 1986
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -26,16 +26,37 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+  - fiscal-policy
+proposed_themes:
+  - "property-rights"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_venue"
+  - "no_publication_format_metadata"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Regional Transport Officer Regarding Jeep No-MRZ8939
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This four-page archival item is a registered letter from M. R. Masani to the Regional Transport Officer, Central Zone, Bombay, dated 5 September 1986. Masani refers to an earlier letter of 6 May 1985 concerning several jeeps owned by the Swatantra Party and sold after the 1967 General Elections, when they had been used by the party.
+  
+  The immediate issue is a renewed bill for tax arrears relating to jeep MRZ 8939. Masani returns the bill and reiterates that the vehicle did not belong to him, had never been in his possession, and had not been in his possession since 1967. The remaining pages reproduce the registered-mail acknowledgement and envelope, including Hindi and English postal forms.
 ---
 
-Archive item 2351; dated 1986-09-05; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 5 September 1986 and addressed to the Regional Transport Officer, Central Zone, Bombay.
+- Masani refers to an earlier letter dated 6 May 1985 about several jeeps associated with the Swatantra Party.
+- The jeeps were sold soon after the 1967 General Elections, during which they were used by the party.
+- Masani specifically disputes responsibility for jeep MRZ 8939.
+- He returns a bill for tax arrears, stating that the jeep neither belonged to him nor had been in his possession since 1967.
+- The document includes registered-mail acknowledgement and envelope scans in addition to the substantive letter.

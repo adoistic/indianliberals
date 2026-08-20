@@ -1,22 +1,20 @@
 ---
 id: 666-purge-of-party-incompetents-in-china-17-02-1961
 title:
-  main: "Purge of Party Incompetents in China"
+  main: "PURGE OF PARTY INCOMPETENTS IN CHINA"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1961
+  place: "Hongkong"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +25,38 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "socialism-debate"
+  - "governance-reform"
+  - "cold-war-positioning"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "author_not_named"
+  - "publisher_not_identified"
+  - "publication_title_not_identified"
+  - "year_not_printed"
+  - "clipping_context_incomplete"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English newspaper clipping contains a lead report from Hong Kong headed “PURGE OF PARTY INCOMPETENTS IN CHINA” and a separate report from Leopoldville, “BELGIAN PRIEST MURDERED IN CONGO.” The China report attributes famine-related suffering to administrative incompetence, weak management, shortages, malnutrition, and harsh local enforcement. It describes Chinese students returning from Lunar New Year holidays who reported inadequate managerial experience among party secretaries, commune managers, and bureaucrats, as well as executions and imprisonment following alleged brutality and mismanagement. The article says the Chinese Communist Party’s central committee was expected to remove inefficient commune officials and provide management training, while also noting official celebration of Soviet scientific and cultural achievements in Peking.
+  
+  The Congo report describes continuing tension after Patrice Lumumba’s death. It reports attacks by armed youths on Roman Catholic missions in Bukavu, the killing of a Belgian priest, the burning and looting of a mission, and further attacks on priests. It also reports joint patrols by the Congolese Army and United Nations troops, renewed tribal and political antagonisms in Leopoldville, casualties among supporters and opponents of Lumumba, and demonstrations seeking protection for three men held by United Nations authorities. No author, newspaper title, publisher, publication year, or full clipping context is visible.
 ---
 
-Archive item 666; dated 1961-02-17; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The China report links famine and malnutrition to administrative incompetence, poor management, and shortages.
+- Chinese students reportedly observed executions of party workers and punishment of officials after public trials.
+- The Chinese Communist Party is described as planning a purge of inefficient commune officials and management training for commune managers.
+- The report presents Soviet scientific and cultural achievements as a prominent subject of official celebration in Peking.
+- The Congo report describes attacks on Roman Catholic missions in Bukavu and the killing of a Belgian priest.
+- Congolese Army and United Nations troops reportedly mounted joint patrols to prevent further disorder.
+- Leopoldville remained politically and tribally tense, with demonstrations and competing groups seeking United Nations protection.

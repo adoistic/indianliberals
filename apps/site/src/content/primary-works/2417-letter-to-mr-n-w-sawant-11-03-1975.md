@@ -1,22 +1,22 @@
 ---
 id: 2417-letter-to-mr-n-w-sawant-11-03-1975
 title:
-  main: "Letter to Mr N W Sawant"
+  main: "[Letter to Mr N W Sawant]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1975
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -26,16 +26,37 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "regulatory-state-critique"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "edition_not_printed"
+  - "series_not_printed"
+  - "no_isbn"
+  - "no_issn"
+  - "no_oclc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: N W Sawant
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 11 March 1975, M. R. Masani asks the Collector of Bombay to recognize that no motor vehicle tax is due on four jeeps formerly registered in his name while he was General Secretary of the Swatantra Party. He reports that inquiries through the Bharatiya Lok Dal office established that all four vehicles had been sold by May 1967, and identifies the purchasers and locations of the vehicles.
 ---
 
-Archive item 2417; dated 1975-03-11; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani writes to the Collector of Bombay about motor vehicle tax assessed on four jeeps.
+- He states that the jeeps were registered in his name until May 1967 in his capacity as General Secretary of the Swatantra Party.
+- Information obtained from the Bharatiya Lok Dal office is presented as evidence that all four vehicles had been sold by May 1967.
+- Two jeeps were sold to Associated Cement Companies Limited, one in Calcutta and one at its Chanda works.
+- A third jeep was sold to Maharana Gayatri Devi of Jaipur and remained in Jaipur.
+- The fourth jeep was sold to Tata Services Limited and subsequently transferred to the Iron and Steel Company Limited at Bhubaneswar.
+- The letter encloses a copy of an August 1974 letter stating that the vehicles were out of Bombay and that no tax was due in respect of them.

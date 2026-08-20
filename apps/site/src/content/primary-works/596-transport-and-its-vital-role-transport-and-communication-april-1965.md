@@ -1,22 +1,22 @@
 ---
 id: 596-transport-and-its-vital-role-transport-and-communication-april-1965
 title:
-  main: "Transport and Its Vital Role-Transport and Communication April-1965"
+  main: "Transport and its Vital Role"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: speech
+purpose: parliamentary
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 13
   pages_total_source: pypdfium2
@@ -26,15 +26,39 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "transport-policy"
+  - "planning-critique"
+  - "public-sector-critique"
+  - "regulatory-state-critique"
+  - "foreign-policy"
+  - "tourism-policy"
+missing_metadata_flags:
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "no_formal_toc"
+  - "serial_masthead_details_not_visible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In the rendered pages, M. R. Masani argues that India’s transport policy is producing a damaging bottleneck. He points to acute railway-wagon shortages affecting coal, textiles, and salt manufacturers; inadequate road investment; delayed highway projects; and planning allocations that do not match the economic importance of roads. He contrasts India’s preference for railways with the growing use of road transport elsewhere, and criticizes taxation, import restrictions, licensing, and shortages of components for holding back automobile and truck production. He presents road transport and automobile manufacturing as essential infrastructure rather than luxuries, and opposes the expansion of state monopolies and the nationalisation of goods transport.
 ---
 
-Archive item 596; dated 1965-04; 13 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani links railway-wagon shortages to disruptions in coal, textile, and other industries.
+- He criticizes the treatment of roads as the neglected 'Cinderella' of transport and cites slow progress on major highway projects.
+- He argues that Fourth Plan road allocations are inadequate and questions the principles by which transport funds are distributed.
+- He attributes high vehicle prices and low production partly to excise and import duties, licensing restrictions, and denied foreign exchange for essential parts.
+- He defends private road carriers and warns that state control of goods transport could become a monopoly that crowds out small entrepreneurs.
+- He presents tourism as a major potential source of foreign exchange and criticizes travel restrictions, poor facilities, airport procedures, inadequate hotels, and weak promotion.
+- He supports measures including more charter flights, investment in Air India, improved hotel construction, and a stronger national priority for tourism.

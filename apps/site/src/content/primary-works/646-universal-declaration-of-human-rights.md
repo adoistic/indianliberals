@@ -1,21 +1,19 @@
 ---
 id: 646-universal-declaration-of-human-rights
 title:
-  main: "Universal Declaration Of Human Rights"
+  main: "UNIVERSAL DECLARATION OF HUMAN RIGHTS"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 6
   pages_total_source: pypdfium2
@@ -25,15 +23,48 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "civil-liberty"
+  - "individual-rights"
+  - "constitutionalism"
+  - "free-speech"
+  - "religious-freedom"
+  - "property-rights"
+  - "education"
+  - "health-policy"
+  - "electoral-reform"
+  - "judicial-independence"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "author_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "issuer_not_printed"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This six-page English document reproduces the Universal Declaration of Human Rights, beginning with the General Assembly’s proclamation of the Declaration as a common standard of achievement for all peoples and nations. Articles 1–12 establish universal equality and dignity, non-discrimination, the rights to life and liberty, protection from slavery and torture, recognition before the law, effective remedy, freedom from arbitrary detention, fair trial, presumption of innocence, and privacy.
+  
+  Articles 13–21 address freedom of movement, asylum, nationality, marriage and family, property, thought and religion, opinion and expression, peaceful assembly and association, and participation in government through equal public service and genuine elections. Articles 22–27 set out social, economic and cultural rights, including social security, work, equal pay, trade-union membership, rest, an adequate standard of living, education, and participation in cultural and scientific life. The closing Articles 28–30 describe the social and international order necessary to realise these rights, the duties owed to the community, lawful limits protecting others and the general welfare, and the prohibition on using the Declaration to destroy its rights and freedoms.
 ---
 
-Archive item 646; 6 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The General Assembly presents human rights as a common standard for all peoples and nations.
+- Articles 1–12 define equality, dignity, non-discrimination, personal liberty, legal recognition, fair process, and privacy.
+- Articles 13–18 protect movement, asylum, nationality, family life, property, thought, conscience, and religion.
+- Articles 19–21 protect expression, peaceful association, and democratic participation.
+- Articles 22–27 recognise social, economic, educational, cultural, and intellectual-property rights.
+- Articles 28–30 connect individual rights with social duties, lawful limitations, public order, and the general welfare.
+- The final page contains handwritten annotations and signatures that are not presented as printed authorship or editorial credits.

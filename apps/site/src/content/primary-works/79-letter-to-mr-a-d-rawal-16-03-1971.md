@@ -1,22 +1,21 @@
 ---
 id: 79-letter-to-mr-a-d-rawal-16-03-1971
 title:
-  main: "Letter to Mr A D Rawal"
+  main: "[Letter to Mr A D Rawal]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "civil-liberty"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "edition_not_printed"
+  - "no_identifiers"
+  - "no_toc"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: A D Rawal
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter from M. R. Masani to A. D. Raval is dated 16 March 1971. Masani thanks Raval for his letter of 11 March and acknowledges Raval's expression of solidarity.
+  
+  Masani reflects on his association with the people of Rajkot, saying that it has lasted eight years and has now been brought to an end in this manner. He nevertheless urges Raval to view the outcome as an opportunity to turn defeat into victory. The page contains no further explanation of the events or circumstances to which the letter refers.
 ---
 
-Archive item 79; dated 1971-03-16; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The letter is dated 16 March 1971 and addressed to Mr. A. D. Raval in Rajkot.
+- Masani thanks Raval for his letter of 11 March.
+- Masani appreciates Raval's expression of solidarity.
+- He refers to his eight-year association with the people of Rajkot.
+- He states that this association has been brought to an end.
+- He encourages Raval to transform defeat into victory.

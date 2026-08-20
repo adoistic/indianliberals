@@ -1,23 +1,21 @@
 ---
 id: 4072-telegram-to-smt-indira-gandhi-11-06-1966
 title:
-  main: "Telegram to Smt Indira Gandhi"
+  main: "[Telegram to Smt Indira Gandhi]"
   subtitle: ""
 work_type: telegram
 authors:
-  - indira-gandhi
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1966
+  place: "BANGALORE"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_identified"
+  - "recipient_not_catalogued"
+  - "telegram_date_year_absent"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page telegram, sent by Minoo Masani to Prime Minister Indira Gandhi from Bangalore on June 11, 1966, concerns the scheduling of a meeting in New Delhi. Masani regrets that no plane is available to reach Delhi on the 13th after completing public engagements on the evening of the 12th.
 ---
 
-Archive item 4072; dated 1966-06-11; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Minoo Masani apologises for being unable to reach Delhi on June 13.
+- He refers to an earlier telegram dated June 6 in which he had mentioned the 13th.
+- He says that he and “Ranga” can meet Indira Gandhi together on June 20 or 22.
+- If those dates are inconvenient because Ranga has other commitments, Masani offers to come alone between June 17 and 19 or between June 22 and 24.
+- The document is a scheduling communication rather than an argumentative or policy text.

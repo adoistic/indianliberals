@@ -1,21 +1,19 @@
 ---
 id: 4954-registration-of-public-opinions
 title:
-  main: "Registration of public Opinions"
+  main: "Registration of Public Opinion."
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +24,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "press-freedom"
+  - "emergency-critique"
+  - "regulatory-state-critique"
+  - "free-speech"
+missing_metadata_flags:
+  - "author_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  “Registration of Public Opinion.” argues that the emergency has produced the worst form of press and public-opinion regimentation seen since Independence. It criticises the Government’s use of its monopoly over radio and television for blatant partisan purposes and one-sided propaganda, while observing that these media were not known for fairness even in normal times.
+  
+  The document distinguishes between the principle and implementation of press control. It declares press pre-censorship unacceptable in principle and says that its implementation has been erratic and arbitrary. It concludes by demanding that press pre-censorship be lifted and that the state monopolies over radio and television be ended.
 ---
 
-Archive item 4954; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The emergency is presented as an unprecedented intensification of government regimentation of the press and public opinion since Independence.
+- The Government is accused of using its monopoly over radio and television for partisan purposes and one-sided propaganda.
+- The document argues that radio and television lacked fairness even during normal times.
+- Press pre-censorship is rejected as unacceptable in principle.
+- The implementation of press pre-censorship is characterised as erratic and arbitrary.
+- The conference calls for the removal of press pre-censorship and the ending of state monopolies over radio and television.

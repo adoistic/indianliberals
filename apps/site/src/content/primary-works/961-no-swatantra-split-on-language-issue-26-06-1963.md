@@ -1,22 +1,22 @@
 ---
 id: 961-no-swatantra-split-on-language-issue-26-06-1963
 title:
-  main: "No Swatantra Split on Language Issue"
+  main: "No Swatantra split on language issue"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Hindustan Times"
+  place: "Bombay"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_author_byline"
+  - "no_publisher_address"
+  - "no_formally_stated_publication_date"
+  - "no_issuer_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Hindustan Times report records K. M. Munshi’s denial that the Swatantra Party was divided over the language issue. Munshi says that no correspondence had taken place between him and C. Rajagopalachari on the matter, rejecting reports of an exchange that had produced a serious disagreement among the party’s leading members.
+  
+  Munshi further states that the language question was not discussed at the party level. Under the party constitution, members were free to hold individual opinions on matters not covered by the party’s 21 directive principles, and he says that language was not one of those principles. The clipping is dated by a handwritten annotation, “30/6/63”; no printed publication date or author name is visible.
 ---
 
-Archive item 961; dated 1963-06-26; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- K. M. Munshi denies reports of a Swatantra Party split over language.
+- Munshi denies exchanging correspondence with C. Rajagopalachari on the language issue.
+- He says the issue was not discussed at the party level.
+- The party constitution allowed members individual opinions on matters outside its 21 directive principles.
+- Munshi says language was not among those directive principles.
+- The clipping identifies Hindustan Times as its source and uses the generic byline “From our Correspondent.”

@@ -1,23 +1,22 @@
 ---
 id: 4706-letter-to-mr-minoo-masani-11-08-1964
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "MADRAS 17"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -28,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "recipient_not_structured"
+  - "delivery_date_not_explicitly_stated"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This 13 August 1964 letter from C. Rajagopalachari to Minoo Masani concerns a telegram involving K. M. Munshi and an internal dispute in the Swatantra Party's Bihar organisation. Rajagopalachari explains that he had received Masani's telegram and had not understood himself to have been asked to send Munshi a wire or letter. He reports that he instead sent Munshi a telegram seeking clarification and encloses related press material.
 ---
 
-Archive item 4706; dated 1964-08-11; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 13 August 1964 and is addressed to Minoo Masani.
+- Rajagopalachari discusses a telegram concerning K. M. Munshi.
+- He clarifies what communication Masani had, or had not, asked him to send.
+- He says that he sent Munshi a telegram requesting information about the matter.
+- The attached newspaper clipping reports Kanhaiya Narain Singh's surprise at the dissolution of the interim executive committee and Bihar organisation of the Swatantra Party.
+- A second clipping concerns an Australian wheat-for-India campaign and proposed diversion of wheat supplies to India.

@@ -1,7 +1,7 @@
 ---
 id: 5816-privilege-motion-against-minoo-masani-20-03-1992
 title:
-  main: "Privilege Motion against Minoo Masani"
+  main: "Privilege Motion against Minoo Masani."
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1992
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,39 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "parliamentary"
+  - "governance-reform"
+  - "press-freedom"
+  - "free-speech"
+  - "party-politics"
+  - "parliamentary-accountability"
+missing_metadata_flags:
+  - "publisher_not_printed"
+  - "publisher_address_not_printed"
+  - "no_edition_statement"
+  - "no_series_statement"
+  - "no_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This letter, dated 20 March 1992 and addressed to an editor, defends Minoo Masani against a privilege motion reportedly brought by CPI(M) MP Roop Chand Pal and several left-wing MPs. S. S. Bankeshwar argues that Masani’s description of MPs who disrupted Finance Minister Manmohan Singh’s Budget presentation as “howling hooligans” was an apt response to their conduct: they allegedly prevented the presentation for fifteen minutes and held the Lok Sabha “to ransom” until Speaker Shivraj Patil intervened.
+  
+  Bankeshwar challenges the complainants to review a retransmission of the opening fifteen minutes and decide whether Masani’s language was accurate, understated, or objectionable. The letter contrasts the public’s inability to understand simultaneous shouting in Parliament with the MPs’ claim to parliamentary privilege, and frames Masani’s criticism as an instance of truth-telling rather than a breach of privilege. The document is a pointed intervention on legislative decorum, parliamentary accountability, and the protection of outspoken public criticism.
 ---
 
-Archive item 5816; dated 1992-03-20; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter opposes a privilege motion against Minoo Masani.
+- It attributes the motion to Roop Chand Pal and several left-wing MPs.
+- It defends Masani’s description of disruptive MPs as “howling hooligans.”
+- It recounts a fifteen-minute disruption during Manmohan Singh’s Budget presentation.
+- It argues that parliamentary privilege should not shield disorderly conduct from public criticism.
+- It presents “speaking the truth” as compatible with the national motto “Satyameva Jayate.”

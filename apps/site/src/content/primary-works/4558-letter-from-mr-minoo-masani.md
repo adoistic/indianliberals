@@ -1,7 +1,7 @@
 ---
 id: 4558-letter-from-mr-minoo-masani
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "Re : S. P. Crisis"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,12 +11,10 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "press-freedom"
+  - "governance-reform"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "recipient_full_name_unclear"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page office letter headed “Re : S. P. Crisis,” Minoo Masani instructs Mr. Narayan, in consultation with Mr. Raju, on a coordinated public-relations and correspondence plan. The plan includes sending an article to Hindustan Times, arranging coverage and correspondence concerning Mr. Bhattacharya and Mr. Mulgokar, delivering a letter to Mr. Dandekar, circulating copies to named individuals, and distributing press material to newspapers and journals in Bombay and elsewhere.
 ---
 
-Archive item 4558; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani addresses a recipient identified only as “Mr. Narayan.”
+- The letter sets out numbered actions to be taken in consultation with Mr. Raju.
+- It proposes press coverage and correspondence concerning Mr. Bhattacharya and Mr. Mulgokar.
+- A letter to Mr. Dandekar is to be delivered on 14 May, with receipt confirmed.
+- Copies of correspondence are to be sent to several named individuals, including Rajaji.
+- Press summaries and enclosures are to be distributed to newspapers, journals, and news agencies.
+- A confidential letter is to be sent to members of the G.C., while press clippings are to be forwarded to Masani in London.

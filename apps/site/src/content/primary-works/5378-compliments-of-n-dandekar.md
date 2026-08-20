@@ -1,21 +1,21 @@
 ---
 id: 5378-compliments-of-n-dandekar
 title:
-  main: "Compliments of N Dandekar"
+  main: "[Compliments of N Dandekar]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - n-dandekar
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "recipient_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English compliments card carries the formal message “With the Compliments of” and identifies the sender as “Mr. N. Dandekar, M.P.” It is addressed to no named recipient on the visible page and contains no substantive argument, narrative, or publication information.
 ---
 
-Archive item 5378; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The item is a one-page compliments card rather than a substantive essay or pamphlet.
+- The printed message is “With the Compliments of.”
+- The issuer is identified as “Mr. N. Dandekar, M.P.”
+- The card gives the address “Express Building, Churchgate, Bombay.”
+- A telephone number is printed on the card, but no date or year is visible.
+- The visible card includes a handwritten signature or mark beneath the printed issuer's name.
+- No recipient name, title, publisher, or subject is printed on the visible page.

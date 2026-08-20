@@ -1,23 +1,22 @@
 ---
 id: 4216-letter-to-mr-minoo-masani-09-11-1963
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "MADRAS -17"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_issuer"
+  - "no_printed_page_number"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter from C. Rajagopalachari to M. R. Masani, dated 9 November 1963, addresses a delay in their correspondence. Rajagopalachari acknowledges Masani's statement that he has not received a reply and explains that he has been responding promptly, but that Masani's letters appear to be delayed in the post.
+  
+  The letter is practical and conciliatory in tone. Rajagopalachari attributes the problem to the timing of the letters' dispatch, suggesting they are posted too late to reach the next day's mail, and closes with a courteous expression of sincerity. The recipient is identified as the General Secretary of the Swatantra Party.
 ---
 
-Archive item 4216; dated 1963-11-09; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 9 November 1963 and is written by C. Rajagopalachari.
+- It responds to a letter from M. R. Masani dated 7 November.
+- Rajagopalachari agrees with the substance of Masani's complaint about not receiving replies.
+- He says he has been replying promptly rather than ignoring Masani's letters.
+- He attributes the delay to the time at which Masani's letters are posted.
+- The letter is addressed to Masani in his capacity as General Secretary of the Swatantra Party.

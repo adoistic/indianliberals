@@ -1,7 +1,7 @@
 ---
 id: 1327-letter-from-mr-minoo-masani-22-05-1967
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "no_issuer_identified"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated May 22, 1967, M. R. Masani asks the Speaker of the Lok Sabha to provide the Swatantra Party with more suitable accommodation within Parliament House. He states that the party has 45 members in the Lok Sabha and 13 in the Rajya Sabha, but only a small cubicle adjacent to Central Hall, which can seat six people and is smaller than rooms assigned to much smaller parties.
+  
+  Masani requests that the room next to the one occupied by Mr. Shakdher be allotted to the party as a meeting point and office. He notes that he had already raised the issue with the Speaker in a letter sent at the beginning of March, before the Speaker's election, but had received no suitable accommodation by the date of this correspondence.
 ---
 
-Archive item 1327; dated 1967-05-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani writes to the Speaker of the Lok Sabha on May 22, 1967.
+- He reports that the Swatantra Party has 45 members in the Lok Sabha and 13 in the Rajya Sabha.
+- The party's existing cubicle near Central Hall can seat only six people.
+- Masani argues that the space is inadequate and smaller than rooms assigned to smaller parties.
+- He requests the room next to the one occupied by Mr. Shakdher for use as a party meeting point and office.
+- He says that an earlier request, made at the beginning of March, had not been acted upon.

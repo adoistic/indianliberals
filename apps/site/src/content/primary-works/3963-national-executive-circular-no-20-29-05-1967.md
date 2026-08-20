@@ -1,22 +1,24 @@
 ---
 id: 3963-national-executive-circular-no-20-29-05-1967
 title:
-  main: "National Executive Circular no-20"
+  main: "NATIONAL EXECUTIVE CIRCULAR No.20"
   subtitle: ""
 work_type: circular
-authors: []
+authors:
+  - n-dandekar
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Swatantra Party\nCentral Office"
+  place: "Bombay I."
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +29,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_edition_statement"
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Swatantra Party circular, dated 29 May 1967, records an internal banking authorisation. N. Dandekar, writing as Acting General Secretary from the party's Bombay Central Office, asks M. R. Masani to approve a resolution concerning the party's “Swatantra Party Account No. II” with the Bank of India.
 ---
 
-Archive item 3963; dated 1967-05-29; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is National Executive Circular No. 20, issued by the Swatantra Party Central Office.
+- It is dated 29 May 1967 and signed by N. Dandekar as Acting General Secretary.
+- Dandekar seeks approval to operate the party's Bank of India account in addition to the existing authorised officers.
+- The proposed authorisation names N. Dandekar, Dr. R. C. Cooper, and M. R. Masani in connection with the account.
+- The circular is an administrative record concerning party finances and banking governance.

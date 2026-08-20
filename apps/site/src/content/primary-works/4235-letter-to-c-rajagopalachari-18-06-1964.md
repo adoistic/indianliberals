@@ -1,23 +1,21 @@
 ---
 id: 4235-letter-to-c-rajagopalachari-18-06-1964
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
-  - c-rajagopalachari
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_place_of_publication"
+  - "no_edition_statement"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page letter dated 18 June 1964, M. R. Masani writes to C. Rajagopalachari (“Rajaji”) about a background paper by Noorani that has appeared in the press. Masani says the paper will be circulated to members of the General Council the following day and encloses a copy for Rajagopalachari's consideration.
 ---
 
-Archive item 4235; dated 1964-06-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 18 June 1964.
+- M. R. Masani addresses C. Rajagopalachari as “Rajaji.”
+- Masani refers to Noorani's background paper.
+- The paper has recently appeared in the press.
+- The paper is scheduled to go to members of the General Council the next day.
+- Masani encloses a copy and expresses hope that Rajagopalachari will like it.

@@ -1,7 +1,7 @@
 ---
 id: 3087-letter-to-c-c-desai-13-06-1968
 title:
-  main: "Letter to C C Desai"
+  main: "[Letter to C C Desai]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Ahmedabad"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "public-sector-critique"
+  - "governance-reform"
+  - "economic-liberty"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "recipient_authority_unresolved"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: C C Desai
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page typed office-letter copy, dated June 13/14, 1968, records Hitendra Desai’s reply to C. C. Desai, M.P., concerning the placement of public-sector industrial units in Gujarat. Desai argues that Gujarat is unquestionably suitable for a public-sector cement plant and states that he has raised the matter with the Union Minister for Industrial Development and Company Affairs.
+  
+  A forwarding note at the foot of the page sends copies, with compliments from C. C. Desai, to all Members of Parliament of the Swatantra Party in both the Lok Sabha and Rajya Sabha. The document has no printed title or publisher and is primarily an item of political correspondence advocating the location of public-sector industry in Gujarat.
 ---
 
-Archive item 3087; dated 1968-06-13; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated June 13/14, 1968, and originates from Sachivalaya, Ahmedabad.
+- Hitendra Desai thanks C. C. Desai for pursuing the location of public-sector units in Gujarat.
+- The letter specifically asserts Gujarat’s suitability for a public-sector cement plant.
+- The sender says he has taken the matter up with the Union Minister for Industrial Development and Company Affairs.
+- A forwarding note dated July 29, 1968, circulates the letter to Swatantra Party MPs in both houses of Parliament.
+- The document is a single-page typed copy without a printed title or publisher.

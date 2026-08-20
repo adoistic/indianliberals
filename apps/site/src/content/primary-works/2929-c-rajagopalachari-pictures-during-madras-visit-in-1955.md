@@ -1,22 +1,19 @@
 ---
 id: 2929-c-rajagopalachari-pictures-during-madras-visit-in-1955
 title:
-  main: "C Rajagopalachari Pictures During Madras Visit in 1955"
+  main: "[C Rajagopalachari Pictures During Madras Visit in 1955]"
   subtitle: ""
-work_type: letter
+work_type: reference
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1955
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +24,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "biographical-tribute"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "title_page_not_found"
+  - "no_author_byline"
+  - "no_publisher"
+  - "no_publication_year"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English photographic reference spread documents C. Rajagopalachari (Rajaji) in meetings, conversations, and public encounters with Indian and international political, diplomatic, religious, journalistic, and academic figures. The captions date the depicted events from 1954 to 1970, including Rajaji’s 1955 interactions in Madras with Soviet leaders, his meetings with Richard Nixon, John F. Kennedy, and foreign diplomats, and his 1962 anti-nuclear mission to the United States and visit to Pope John XXIII at the Vatican.
 ---
 
-Archive item 2929; dated 1955; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The item consists of two photographic pages with English identifying captions and no visible title, author, publisher, or publication date.
+- The photographs centre on C. Rajagopalachari, also identified as Rajaji.
+- The captions record meetings in Madras during 1954–1955 with Soviet, American, British, and diplomatic figures.
+- The spread depicts Rajaji with Richard Nixon, President Kennedy, Pope John XXIII, and other international visitors.
+- A 1962 anti-nuclear mission to America and Rajaji’s visit to the Vatican are specifically identified.
+- The images also include encounters with journalists, academics, diplomats, and public figures through 1969–1970.

@@ -1,22 +1,22 @@
 ---
 id: 6007-letter-to-jayaprakash-naryan-10-02-1973
 title:
-  main: "Letter to Jayaprakash Naryan"
+  main: "[Letter to Jayaprakash Naryan]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Calcutta"
   year: 1973
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "recipient_not_in_schema"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Jayaprakash Naryan
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single handwritten letter, dated 10 February 1973 and written by Minoo Masani from Calcutta, is addressed to Jayaprakash Narayan. Masani urges Narayan to desist from making any commitment to participate in a conference proposed by Patnaik. The letter is brief and appears to concern political participation or an impending political conference.
 ---
 
-Archive item 6007; dated 1973-02-10; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page handwritten letter dated 10 February 1973.
+- Minoo Masani writes from Calcutta to Jayaprakash Narayan.
+- Masani asks Narayan not to commit to participating in a conference.
+- The conference is identified as having been proposed by Patnaik.
+- Several words and phrases are crossed out or difficult to decipher.

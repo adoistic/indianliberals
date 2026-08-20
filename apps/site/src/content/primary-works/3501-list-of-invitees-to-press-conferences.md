@@ -1,21 +1,20 @@
 ---
 id: 3501-list-of-invitees-to-press-conferences
 title:
-  main: "List Of Invitees To Press Conferences"
+  main: "LIST OF INVITEES TO PRESS CONFERENCES."
   subtitle: ""
-work_type: press_note
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 3
   pages_total_source: pypdfium2
@@ -26,14 +25,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "press-freedom"
+missing_metadata_flags:
+  - "author_not_stated"
+  - "publisher_not_stated"
+  - "year_not_stated"
+  - "issuer_not_stated"
+  - "formal_toc_not_present"
+  - "multilingual_content"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This three-page administrative document lists invitees to press conferences in Bombay. It is organised by language and media category, covering English, Gujarati, Marathi, Hindi, Sindhi and Urdu newspapers, as well as dailies, news agencies, press representatives, officials, foreign correspondence, English weeklies and other invitees. Most entries identify a chief reporter or correspondent, the publication or agency, an address and, in many cases, a telephone number.
 ---
 
-Archive item 3501; 3 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a multilingual press-invitee directory rather than a discursive publication.
+- The first page lists English, Gujarati, Marathi, Hindi and Sindhi newspaper contacts.
+- The second page continues with Urdu dailies, news agencies and press representatives.
+- The third page lists officials, a foreign correspondent, English weeklies, Marathi representatives and other invitees.
+- The entries are concentrated in Bombay addresses and include telephone numbers for contacting invitees.
+- No issuing office, date, author, publisher or conference subject is printed on the visible pages.

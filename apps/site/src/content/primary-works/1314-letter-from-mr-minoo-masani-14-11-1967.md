@@ -1,7 +1,7 @@
 ---
 id: 1314-letter-from-mr-minoo-masani-14-11-1967
 title:
-  main: "Letter from Mr Minoo Masani"
+  main: "[Letter from Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_found"
+  - "recipient_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter from M. R. Masani, dated November 14, 1967, addresses the Prime Minister about S. S. Dhawan’s designation as High Commissioner to the United Kingdom. Masani cites an article by Dhawan in Bilitz dated January 29, 1966, which expresses the view that Britain had acted treacherously toward India and did not regard a strong India as being in its interests.
+  
+  Masani asks whether, in light of these views, the Government will reconsider Dhawan’s appointment. The letter therefore combines a foreign-policy concern about Indo-British relations with a governance question about the suitability of a senior diplomatic appointment.
 ---
 
-Archive item 1314; dated 1967-11-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated November 14, 1967, and was sent from New Delhi to the Prime Minister.
+- Masani raises questions about S. S. Dhawan’s appointment as High Commissioner to the United Kingdom.
+- The letter quotes Dhawan’s January 29, 1966 article in Bilitz.
+- The quoted article portrays Britain as an implacable foe of a strong and united India.
+- Masani asks the Government to reconsider the appointment in light of Dhawan’s views.

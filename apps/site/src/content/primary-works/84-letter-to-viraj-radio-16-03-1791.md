@@ -1,22 +1,21 @@
 ---
 id: 84-letter-to-viraj-radio-16-03-1791
 title:
-  main: "Letter to Viraj Radio"
+  main: "[Letter to Viraj Radio]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1791
+  year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_publication_place"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Viraj Radio
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated 16 March 1971, is addressed to Viraj Radio in Gondal and signed by M. R. Masani. Masani acknowledges the recipient's telegram of 13 March and expresses appreciation for its sympathy and solidarity.
 ---
 
-Archive item 84; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+- The letter is dated 16 March 1971.
+- It is addressed to Viraj Radio, Gondal.
+- Masani is responding to a telegram dated 13 March.
+- The letter acknowledges the recipient's expression of sympathy and solidarity.
+- The document is signed by M. R. Masani.

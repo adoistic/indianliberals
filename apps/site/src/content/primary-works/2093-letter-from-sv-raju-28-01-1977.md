@@ -1,7 +1,7 @@
 ---
 id: 2093-letter-from-sv-raju-28-01-1977
 title:
-  main: "Letter from SV Raju"
+  main: "[Letter from SV Raju]"
   subtitle: ""
 work_type: letter
 authors:
@@ -11,13 +11,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1977
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_venue"
+  - "no_printed_identifier"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated January 28, 1977, S. V. Raju writes to Bhanu Pratap Singh about cooperation among opposition party workers during the forthcoming elections. He encloses a resolution adopted at a meeting of Bombay party workers on January 17, together with a note setting out the party's electoral position. Raju proposes establishing a Bombay-based “Research Cell” to analyse statements by the ruling party, prepare rebuttals for Janata Party candidates, and develop background material on topical issues.
+  
+  Raju also urges the reassembly of the Bombay party “flock” to offer wholehearted, non-conditional cooperation to Janata Party candidates, presenting this as consistent with the Swatantra tradition. He asks whether Singh plans to visit Bombay and conveys Minoo Masani's regards. The page also contains handwritten annotations, including a note referring to Swatantraites in the BLD and urging that constituency information be kept current.
 ---
 
-Archive item 2093; dated 1977-01-28; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Raju's letter is dated January 28, 1977, and addressed to Bhanu Pratap Singh.
+- The letter encloses a resolution from a January 17 meeting of Bombay party workers and a note on the party's electoral position.
+- Raju proposes a Research Cell to analyse ruling-party statements and prepare rebuttals for Janata Party candidates.
+- He also suggests preparing background material on topical issues for candidates' use.
+- Raju calls for renewed cooperation among Bombay party workers with Janata Party candidates, without prior commitments.
+- The letter explicitly connects this cooperation to the Swatantra tradition and mentions Minoo Masani.

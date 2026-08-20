@@ -1,23 +1,21 @@
 ---
 id: 1321-letter-from-morarji-desai-24-07-1967
 title:
-  main: "Letter from Morarji Desai"
+  main: "[Letter from Morarji Desai]"
   subtitle: ""
 work_type: letter
-authors:
-  - morarji-desai
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1967
 provenance:
   source: ccs_archive
   scan_quality: good
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +25,34 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+proposed_themes:
+  - "constitutionalism"
+  - "governance-reform"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter, dated 24 July 1967, is from Morarji Desai in his capacity as Deputy Prime Minister and Minister of Finance to the Secretary of the Lok Sabha. Desai forwards amendments proposed by five Lok Sabha members to the Finance (No. 2) Bill, 1967, after noting that the President has given the constitutionally required recommendation for moving them.
 ---
 
-Archive item 1321; dated 1967-07-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a formal Government of India Ministry of Finance communication.
+- It is dated New Delhi, 24 July 1967.
+- Morarji Desai writes as Deputy Prime Minister and Minister of Finance.
+- The recipient is the Secretary of the Lok Sabha.
+- The subject concerns amendments to the Finance (No. 2) Bill, 1967.
+- The amendments were proposed by M. R. Masani, N. Dandekar, N. K. Salve, and Maddi Sudarsanam, identified as Lok Sabha members.
+- The letter records the President's recommendation under Articles 117(1) and 274(1) of the Constitution.

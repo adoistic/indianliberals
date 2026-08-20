@@ -1,7 +1,7 @@
 ---
 id: 5071-letter-to-n-dandeker-12-04-1969
 title:
-  main: "Letter to N Dandeker"
+  main: "[Letter to N Dandeker]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -11,12 +11,13 @@ related_thinkers: []
 publication:
   language: en
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1969
+  publisher_name: "SWATANTRA PARTY (ORISSA UNIT)"
+  place: "BHUBANESWAR-I."
+  year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +28,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "sender_name_not_legible"
+  - "no_publisher_address"
+  - "recipient_not_author"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: N Dandeker
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English office letter, dated 12 April 1968, is issued from the Swatantra Party (Orissa Unit) in Bhubaneswar. The General Secretary forwards the proceedings of an emergent meeting of the unit's State Executive to N. Dandekar, M.P., in New Delhi, requesting necessary action at his end.
+  
+  The letter is administrative rather than argumentative: it records the transmission of the meeting proceedings but does not describe the meeting's agenda, resolutions, or participants. The sender's handwritten signature is not legibly identified beneath the printed designation of General Secretary.
 ---
 
-Archive item 5071; dated 1969-04-12; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a typed office letter on Swatantra Party (Orissa Unit) letterhead.
+- It is dated 12 April 1968 and issued from Bhubaneswar.
+- The letter forwards proceedings of an emergent meeting of the unit's State Executive.
+- The recipient is Mr. N. Dandekar, M.P., in New Delhi.
+- The recipient is asked to take necessary action based on the forwarded proceedings.
+- The letter does not reproduce the meeting proceedings or explain the action requested.

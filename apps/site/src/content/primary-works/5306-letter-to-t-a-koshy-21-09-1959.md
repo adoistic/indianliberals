@@ -1,7 +1,7 @@
 ---
 id: 5306-letter-to-t-a-koshy-21-09-1959
 title:
-  main: "Letter to T A koshy"
+  main: "[Letter to T A koshy]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Lucknow"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +26,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_authority_match"
+  - "no_issuer_identified"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: T A koshy
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English letter, dated 21 September 1959 and sent from Literacy House in Lucknow, records T. A. Koshy's response to materials received from Miss B. S. Mirze, secretary to M. R. Masani. Koshy thanks her for sending Masani's opening remarks and the Swatantra Party's Statement of Principles, indicating particular interest in both documents.
+  
+  Koshy asks Mirze to forward copies of the same materials to several Literacy House colleagues who have shown interest in the new party. The letter closes by offering assistance to the party and is accompanied by an addressed envelope for Miss B. S. Mirze in Bombay. The document provides a small but direct record of the circulation of Swatantra Party literature among Literacy House staff in 1959.
 ---
 
-Archive item 5306; dated 1959-09-21; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- T. A. Koshy wrote from Literacy House, Kanpur Road, Lucknow, on 21 September 1959.
+- The letter acknowledges receipt of M. R. Masani's opening remarks and the Swatantra Party's Statement of Principles.
+- Koshy says the materials will be read with considerable interest.
+- The writer requests that copies also be sent to Literacy House colleagues interested in the new party.
+- The letter lists staff members in training, field work, publications, accounting, art, teaching, and related roles.
+- Koshy offers assistance to the Swatantra Party.
+- The second rendered page shows the envelope addressed to Miss B. S. Mirze in Bombay.

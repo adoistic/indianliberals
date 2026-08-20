@@ -1,23 +1,21 @@
 ---
 id: 6067-letter-to-c-rajagopalachari-10-02-1972
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
-authors:
-  - c-rajagopalachari
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1972
+  place: "Bombay"
+  year: 1965
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "author_not_in_authority_file"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page typed letter from the Bombay Region office is addressed to C. Rajagopalachari (“Rajaji”) and signed by K. S. Srinivasan, identified as Office Secretary. Dated 19 February 1965, it forwards a transcription of a speech Rajagopalachari delivered at Chowpathy on 14 February.
+  
+  The letter is purely administrative and courteous: Srinivasan expresses hope that Rajagopalachari will be able to use the enclosed transcript and records that one enclosure is attached. No substantive argument or political position is presented in the visible page.
 ---
 
-Archive item 6067; dated 1972-02-10; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a typed office letter on Bombay Region letterhead.
+- It is addressed to C. Rajagopalachari, referred to as “Rajaji” in the salutation.
+- The letter is dated 19 February 1965.
+- K. S. Srinivasan signs as Office Secretary.
+- The enclosed item is a transcription of Rajagopalachari’s speech delivered at Chowpathy on 14 February.
+- The letter lists one enclosure and contains no substantive discussion of the speech.

@@ -1,21 +1,22 @@
 ---
 id: 4825-swatantra-party-petition-in-high-court
 title:
-  main: "Swatantra party petition in High Court"
+  main: "[Swatantra party petition in High Court]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
-  language: en
+  language: mr
   issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "मुंबई"
+  year: 1996
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 6
   pages_total_source: pypdfium2
@@ -25,15 +26,36 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - rule-of-law
+proposed_themes:
+  - "constitutionalism"
+  - "judicial-independence"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_explicit_author"
+  - "incomplete_case_identification"
+  - "damaged_document"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This damaged bilingual court file, catalogued in Marathi, consists of Bombay High Court petition forms, handwritten endorsements, correspondence, and case-management notes. The visible forms identify the court as “उच्च न्यायालय मुंबई” (Bombay High Court) and refer to a writ, appeal, or application. The applicant fields contain handwritten references to Rajiv Patil and the Swatantra Party, while the respondent field is partly illegible. The file also includes an advocate’s name, Rajiv Patil, printed at the foot of one form.
 ---
 
-Archive item 4825; 6 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The record is a damaged Bombay High Court petition or case file rather than a published political or theoretical work.
+- The principal printed headings are in Marathi, with English handwritten annotations and correspondence.
+- The forms refer to a writ, appeal, or application and contain incomplete petitioner and respondent information.
+- The Swatantra Party appears in the applicant field on one High Court form.
+- Rajiv Patil appears as a handwritten applicant-related name and as an advocate’s name on another form.
+- Handwritten court notes record dates and procedural actions from 1995 and 1996, including an order dated 29 February 1996.
+- The surviving pages do not establish the petition’s legal issue, final disposition, or complete case identity.

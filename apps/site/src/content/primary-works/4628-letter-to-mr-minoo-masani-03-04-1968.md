@@ -1,23 +1,21 @@
 ---
 id: 4628-letter-to-mr-minoo-masani-03-04-1968
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
-authors:
-  - minoo-masani
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "RAJKOT"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -28,14 +26,35 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "anti-corruption"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page handwritten letter, dated 3 April 1968 and sent from Rajkot by Ratibhai Wabhai Patel to Minoo Masani, proposes minimum measures for the “purification” of the Gujarat Swatantra Party. Patel identifies party workers and nomination-paper signatories whom he believes should be expelled, including a polling agent associated with Mr. Mahida. He also argues that members who came to Ahmedabad during the parliamentary session and campaigned against Bababhai Vaidya should first be asked for explanations before the National Executive decides whether disciplinary action is warranted.
+  
+  Patel further recommends appointing an inquiry committee of two or three senior persons to meet the Gujarat Swatantra Party MLAs, collect statements, identify those who deliberately dishonoured the party mandate, and remove them from the party for two or three years. He encloses press clippings from “Fullchand” and “Jansatta” for Masani’s information and closes by asking about an unpaid Rs. 250 district-office allowance for March. The letter is complete as rendered, though several handwritten names are difficult to read with certainty.
 ---
 
-Archive item 4628; dated 1968-04-03; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Patel writes to Minoo Masani from Rajkot on 3 April 1968.
+- He calls for minimum steps to purify the Gujarat Swatantra Party.
+- He recommends expelling active propagators and signatories whom he associates with factional activity.
+- He proposes seeking explanations from members who campaigned against Bababhai Vaidya before disciplinary action is taken.
+- He recommends an inquiry committee to interview Gujarat Swatantra Party MLAs and identify deliberate breaches of the party mandate.
+- He suggests suspending or removing offenders from the party for two or three years.
+- He encloses press clippings and follows up on a Rs. 250 district-office payment for March.

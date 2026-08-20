@@ -1,22 +1,22 @@
 ---
 id: 5519-c-r-may-attempt-to-patch-up-swatantra-rift-the-times-of-india-30-05-1968
 title:
-  main: "C R may attempt to patch up Swatantra rift-The Times of India"
+  main: "C. R. may attempt to patch up Swatantra rift"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "The Times of India"
+  place: "New Delhi"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "no_named_author"
+  - "no_publisher_authority_match"
+  - "no_publication_date_printed_on_clipping"
+  - "no_issue_metadata"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page Times of India news report, datelined New Delhi, May 29, describes an attempt by C. Rajagopalachari to repair a widening split in the Swatantra Party. The immediate dispute followed the defeat of the party's official candidate in the biennial Rajya Sabha elections by 32 Gujarat Swatantra legislators, who then reportedly challenged the party leadership's authority.
+  
+  The report says M. R. Masani communicated his dissatisfaction to the party's general secretary, M. R. Masani, and to members of the general council, while the party high command was reluctant to take precipitate disciplinary action against the Gujarat rebels. It also reports that K. M. Munshi had threatened to leave the party if the legislators were expelled. The clipping is attributed to P.T.I.; no named author or issue details are printed.
 ---
 
-Archive item 5519; dated 1968-05-30; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- C. Rajagopalachari was expected to attempt to reconcile factions within the Swatantra Party.
+- The dispute followed the defeat of the party's official candidate in biennial Rajya Sabha elections.
+- Thirty-two Gujarat Swatantra legislators were reported to have voted against the official candidate.
+- M. R. Masani and other party members objected to the party high command's response to the Gujarat legislators.
+- The party leadership reportedly feared that disciplinary action could produce a rift in the Gujarat Swatantra Party and the Parliamentary Party.
+- K. M. Munshi was reported to have threatened to leave if the Gujarat legislators were expelled.

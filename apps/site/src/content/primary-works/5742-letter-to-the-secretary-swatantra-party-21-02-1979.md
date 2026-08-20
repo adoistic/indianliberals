@@ -1,7 +1,7 @@
 ---
 id: 5742-letter-to-the-secretary-swatantra-party-21-02-1979
 title:
-  main: "Letter to The Secretary Swatantra Party"
+  main: "[Letter to The Secretary Swatantra Party]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1979
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +26,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "agricultural-reform"
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_identity_unclear"
+  - "no_publisher"
+  - "no_publication_place_explicitly_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: The Secretary Swatantra Party
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page handwritten postcard, dated 21 February 1979, is addressed to the Secretary of the Swatantra Party in Bombay. The sender acknowledges an invitation to a party meeting and explains that they may be unable to attend because of a prior agricultural engagement, while indicating that friends may represent them or attend in their place.
 ---
 
-Archive item 5742; dated 1979-02-21; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a handwritten English postcard rather than a printed publication.
+- It is dated 21 February 1979.
+- It is addressed to the Secretary of the Swatantra Party in Bombay.
+- The sender responds to an invitation to attend a meeting.
+- The sender refers to a prior engagement involving an agricultural meeting or activity.
+- The closing signature is not securely legible and appears to begin with “P. Y.”.

@@ -1,22 +1,21 @@
 ---
 id: 2356-letter-to-regional-transport-officer-regarding-jeep-no-mra4024-04-12-1983
 title:
-  main: "Letter to Regional Transport Officer Regarding Jeep No-MRA4024"
+  main: "[Letter to Regional Transport Officer Regarding Jeep No-MRA4024]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1983
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 5
   pages_total_source: pypdfium2
@@ -26,16 +25,38 @@ rights:
   license: in-copyright
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
-themes: []
+themes:
+  - fiscal-policy
+  - rule-of-law
+proposed_themes:
+  - "regulatory-state-critique"
+  - "property-rights"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_identified"
+  - "no_publication_place"
+  - "no_edition_statement"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Regional Transport Officer Regarding Jeep No-MRA4024
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This five-page document comprises a letter dated December 6, 1983, from M. R. Masani to the Regional Transport Officer, RTO Recovery Branch, Bombay, concerning tax arrears notices for two jeeps registered as MRA 4024 and MRA 4093. Masani states that both vehicles belonged to the Swatantra Party rather than to him personally, and that the party disposed of them years before its dissolution.
+  
+  Masani refers to earlier correspondence documenting the sale and transfer of each vehicle: MRA 4024 was sold by the Swatantra Party to Tata Services Limited in May 1967, while MRA 4093 was sold to Mr. P. K. Deo in Orissa in December 1979. He asks the transport authorities to recognize that he owes nothing and to stop pursuing him for the vehicles' taxes. The attached demand notices, issued in December 1983, show a grand total of Rs. 3,642 for MRA 4024 and Rs. 195 for MRA 4093, along with standard warnings about interest, recovery as land revenue, and possible legal action.
 ---
 
-Archive item 2356; dated 1983-12-04; 5 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- M. R. Masani disputes personal liability for arrears of motor-vehicle tax on jeeps MRA 4024 and MRA 4093.
+- He states that both vehicles were owned by the Swatantra Party, not by him personally.
+- The letter records that MRA 4024 was sold to Tata Services Limited on May 3, 1967.
+- The letter records that MRA 4093 was transferred to Mr. P. K. Deo in Orissa in December 1979.
+- Masani relies on earlier letters to show that the transport office had already been informed of both transfers.
+- The attached notices demand Rs. 3,642 for MRA 4024 and Rs. 195 for MRA 4093.
+- The notices invoke the Bombay Motor Vehicles Tax Act, 1958, and warn of interest and recovery proceedings.

@@ -1,22 +1,20 @@
 ---
 id: 2265-radio-not-second-channel-can-help-states-03-10-1987
 title:
-  main: "Radio Not Second Channel Can Help States"
+  main: "Radio, not second channel, can help States"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1987
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 4
   pages_total_source: pypdfium2
@@ -27,14 +25,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "education"
+  - "governance-reform"
+  - "public-sector-critique"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "publisher_not_identified"
+  - "publication_source_not_identified"
+  - "no_formal_issue_metadata"
+  - "no_publisher_address"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In the rendered pages, P. C. Chatterjee argues that India’s states should rely on radio rather than a proposed second Doordarshan channel to communicate development programmes and public information. He presents All India Radio as a relatively inexpensive and already distributed medium, especially valuable for rural audiences and community listening. The article points to the use of radio in Five-Year Plans, adult education, agricultural communication, and local broadcasting, and urges the expansion of local radio stations rather than a costly television expansion.
+  
+  In the rendered pages, Chatterjee also criticises the proposal associated with Mr Hegde to give states control over at least one radio channel in addition to television. He contends that such a plan would weaken the Centre’s broadcasting monopoly without creating genuinely independent or locally responsive media, and suggests that non-Congress state governments might welcome it mainly as a way to publicise their political positions. The scanned item includes unrelated advertising and news material on other pages; the article itself appears across pages 1 and 3.
 ---
 
-Archive item 2265; dated 1987-10-03; 4 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The article argues that radio is a more practical medium than a second television channel for state-level public communication.
+- All India Radio is presented as comparatively inexpensive and capable of reaching rural communities through local stations and community listening.
+- Radio’s existing and potential roles include development publicity, adult education, agricultural information, and support for Five-Year Plan programmes.
+- The proposed expansion of television is criticised as costly and insufficiently suited to local production and participation.
+- The proposal to give states control over a radio channel is portrayed as an unsatisfactory compromise that would not produce real broadcasting autonomy.
+- The article suggests that state-controlled broadcasting could become a vehicle for party propaganda rather than a genuinely decentralised public service.

@@ -1,22 +1,22 @@
 ---
 id: 3172-letter-to-harold-sehmautz-17-10-1973
 title:
-  main: "Letter to Harold Sehmautz"
+  main: "[Letter to Harold Sehmautz]"
   subtitle: ""
 work_type: letter
-authors: []
+authors:
+  - s-v-raju
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  issuer_id: indian-liberal-group
   year: 1973
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,15 +27,40 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "liberalism-as-tradition"
+  - "party-politics"
+  - "economic-liberty"
+  - "property-rights"
+  - "planning-critique"
+  - "socialism-debate"
+  - "parliamentary-democracy"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "no_letterhead_visible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Harold Sehmautz
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this two-page letter dated October 17, 1973, S. V. Raju responds to Harold Schmautz about the Indian Liberal Group and the Swatantra Party. Raju describes the party as committed to liberal principles, individual liberty, human dignity, rationality, parliamentary democracy, and competition rather than state monopoly. He points Schmautz to an enclosed article and party documents for further information about the Swatantra Party’s organisation and policies.
+  
+  Raju argues that socialist and leftist ideas appeal because they promise shortcuts to prosperity, even when their policies may produce greater economic deprivation. He identifies the party’s rural support with its defence of small farmers’ proprietary rights, better prices for agricultural produce, and opposition to cooperative farming, which he equates with collective farming. Although the party has been weakened by Indira Gandhi’s electoral victories in 1971 and 1972, Raju says rising prices, unemployment, and shortages are creating greater receptivity to its economic views. He cautions that liberal influence will require public education, especially given illiteracy and India’s authoritarian political tradition, but hopes parliamentary institutions and liberal values will endure.
 ---
 
-Archive item 3172; dated 1973-10-17; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Indian Liberal Group is presented as a party founded in August 1959 to uphold liberal principles and values.
+- Raju associates liberalism with individual liberty, human dignity, rationality, parliamentary democracy, and economic competition.
+- The letter criticises socialist and leftist promises as apparent shortcuts that may result in greater economic deprivation.
+- The party’s rural support is attributed to its defence of small farmers’ proprietary rights and opposition to cooperative or collective farming.
+- The party survived major electoral setbacks after Indira Gandhi’s 1971 and 1972 victories and expected economic problems to increase support for its position.
+- Raju rejects the prospect of immediate power and emphasises educating the public about liberal values.
+- The letter identifies illiteracy and India’s authoritarian tradition as obstacles to the survival and acceptance of parliamentary liberalism.

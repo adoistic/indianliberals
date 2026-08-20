@@ -1,23 +1,22 @@
 ---
 id: 4252-letter-to-mr-minoo-masani-25-05-1964
 title:
-  main: "Letter to Mr Minoo Masani"
+  main: "[Letter to Mr Minoo Masani]"
   subtitle: ""
 work_type: letter
 authors:
-  - minoo-masani
+  - c-rajagopalachari
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "MADRAS"
   year: 1964
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_publication_edition"
+  - "no_series"
+  - "recipient_not_encoded"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page personal letter, written by C. Rajagopalachari to M. R. Masani on 25 May 1964, forwards two related items for Masani's attention. Rajagopalachari says that he has enclosed a letter from G. D. Birla, written from London, along with his own reply to Birla, and invites Masani to read both letters.
+  
+  The rendered page does not disclose the subject or arguments of the enclosed correspondence. A handwritten note appears on the lower portion of the page, but its full contents are not reliably legible in the rendered image.
 ---
 
-Archive item 4252; dated 1964-05-25; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 25 May 1964 and is sent from Rajagopalachari's Madras address.
+- It is addressed to M. R. Masani.
+- Rajagopalachari encloses a letter received from G. D. Birla, who is writing from London.
+- Rajagopalachari also encloses his own letter to Birla.
+- Masani is invited to read both letters.
+- The contents of the enclosures are not visible on the rendered page.

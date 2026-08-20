@@ -1,21 +1,21 @@
 ---
 id: 6341-all-eyes-on-india
 title:
-  main: "All Eyes On India"
+  main: "Himmat"
   subtitle: ""
-work_type: letter
+work_type: periodical_issue
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "Himmat"
+  year: 1971
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,14 +26,30 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "foreign-policy"
+  - "governance-reform"
+  - "party-politics"
+  - "economic-liberty"
+  - "education"
+  - "socialism-debate"
+missing_metadata_flags:
+  - "title_page_not_found"
+  - "publisher_not_resolved"
+  - "place_not_printed"
+  - "issue_volume_number_not_visible"
+  - "issue_number_not_visible"
+  - "toc_not_visible"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
 ---
 
-Archive item 6341; 1 page. Scanned document from the Swatantra Party papers.
-
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The page text is not yet indexed.
+Archive item 6341. Scanned document from the Swatantra Party papers.

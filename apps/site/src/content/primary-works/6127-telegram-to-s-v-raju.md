@@ -1,22 +1,22 @@
 ---
 id: 6127-telegram-to-s-v-raju
 title:
-  main: "Telegram to S V Raju"
+  main: "[Telegram to S V Raju]"
   subtitle: ""
 work_type: telegram
-authors:
-  - s-v-raju
+work_type_source: filename
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "NEW DELHI"
+  year: 1970
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +27,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "press-freedom"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_role_unclear"
+  - "sender_name_partially_read"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page telegram, received in 1970 by “Raju Care, Surajyam, Bombay,” appears to have been sent by a person identified as “MASANI.” It asks the recipient to arrange for a news-agency report based on the sender’s newsletter.
+  
+  The message specifies that the newsletter is to be published on “2 ND OR 3 RD MAY.” The document is a clipped telegram form rather than a conventional letter, and the surviving text provides no title, salutation, closing, or fuller explanation of the proposed report or newsletter.
 ---
 
-Archive item 6127; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a received Indian Posts and Telegraphs Department telegram.
+- It is addressed to “RAJU CARE SURajyam BOMBAY,” apparently referring to S. V. Raju or an associated office.
+- The sender is identified only by the visible surname “MASANI.”
+- The telegram requests arrangements for a news-agency report.
+- The report is to be based on the sender’s newsletter.
+- The newsletter was scheduled for publication on 2 or 3 May.
+- The precise date, purpose, and subject of the proposed report are not legible or not present.

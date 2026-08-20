@@ -1,23 +1,22 @@
 ---
 id: 6086-letter-to-c-rajagopalachari-24-10-1969
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
-  - c-rajagopalachari
+  - piloo-mody
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
-  year: 1969
+  place: "Bombay"
+  year: 1963
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "federalism"
+  - "party-politics"
+  - "constitutionalism"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_edition"
+  - "no_series"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this one-page letter dated 24 October 1963, Piloo Mody thanks C. Rajagopalachari for writing about Goa and reports that the Bombay Committee has agreed to seek the Central Party's permission for Bombay to help establish a Swatantra Party unit there. On the question of statehood, Mody says the Party should leave the decision open and allow the Goans to decide for themselves.
 ---
 
-Archive item 6086; dated 1969-10-24; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Mody reports Bombay's proposed role in helping establish a Swatantra Party unit in Goa.
+- He recommends that the question of Goa's statehood remain open for the Goans to decide.
+- He argues that Goa's political integration is more important than linguistic reorganisation alone.
+- He says Goa's long period under Portuguese rule makes rapid assimilation into India impractical.
+- He advocates giving Goans an assurance that their distinct cultural pattern can be preserved within a socialist pattern of society.
+- He contrasts Goa with Maharashtra and Mysore, where Congress has dominated for generations, and sees brighter prospects for political success in Goa.

@@ -1,7 +1,7 @@
 ---
 id: 5333-letter-to-mohammad-mirza-14-09-1959
 title:
-  main: "Letter to Mohammad mirza"
+  main: "[Letter to Mohammad mirza]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,12 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Delhi"
   year: 1959
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "recipient_authority_unresolved"
+  - "sender_name_partly_unclear"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Mohammad mirza
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English letter, dated 14 September 1959, is addressed to Mr. Mohammad Mirza in Delhi. Miss Bina Kirza, identified as Secretary to M. R. Masani, acknowledges Mirza's letter of 3 September and explains that it was addressed to Masani during his absence from India.
+  
+  The letter conveys M. R. Masani's appreciation for Mirza's offer to place his services at the disposal of the Swatantra Party. It also notes that Masani is expected to be in Delhi for the parliamentary session beginning on 16 November and invites Mirza to contact him then.
 ---
 
-Archive item 5333; dated 1959-09-14; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 14 September 1959 and addressed to Mr. Mohammad Mirza in Delhi.
+- It acknowledges Mirza's letter of 3 September, which had been addressed to M. R. Masani.
+- The writer is acting in Masani's absence from India.
+- M. R. Masani's appreciation is conveyed for Mirza's offer to serve the Swatantra Party.
+- Masani is expected to be in Delhi for the parliamentary session beginning on 16 November.
+- Mirza is invited to contact Masani when he is in Delhi.

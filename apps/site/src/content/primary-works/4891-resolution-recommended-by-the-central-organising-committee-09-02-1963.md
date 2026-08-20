@@ -1,22 +1,21 @@
 ---
 id: 4891-resolution-recommended-by-the-central-organising-committee-09-02-1963
 title:
-  main: "Resolution recommended by the Central Organising Committee"
+  main: "Resolution recommended by the Central Organising Committee for adoption by the General Council of the Party."
   subtitle: ""
 work_type: resolution
+work_type_source: filename
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1963
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +26,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_named_author"
+  - "no_publisher"
+  - "no_place"
+  - "title_page_not_found"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English resolution records the General Council's response to an appeal by some Party members in Bihar against a decision taken at Madras the previous July by the Organisation Sub-Committee and the Parliamentary Board. The appeal had been withdrawn, and the Council reaffirmed its confidence in the Central Organising Committee, the Organisation Sub-Committee, and the Parliamentary Board.
 ---
 
-Archive item 4891; dated 1963-02-09; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a resolution recommended by the Central Organising Committee for adoption by the General Council of the Party.
+- An appeal lodged by some Party members in Bihar had challenged a decision taken at Madras the previous July.
+- The appeal had been withdrawn by the time of the General Council's consideration.
+- The General Council reaffirmed its confidence in three Party bodies: the Central Organising Committee, the Organisation Sub-Committee, and the Parliamentary Board.
+- The resolution specifically names K. M. Munshi and M. R. Masani among those in whom confidence was reaffirmed.
+- N. Dandekar is listed as proposer and Savi Ganesan as seconder.
+- The document is dated 9/2/63; the day-month order is not explicit.

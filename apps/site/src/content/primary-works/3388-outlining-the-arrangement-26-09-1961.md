@@ -1,7 +1,7 @@
 ---
 id: 3388-outlining-the-arrangement-26-09-1961
 title:
-  main: "Outlining the Arrangement"
+  main: "[Outlining the Arrangement]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,13 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1961
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,14 +25,34 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "economic-liberty"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_resolved"
+  - "publisher_not_printed"
+  - "place_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page letter, dated 26 September 1961, concerns an earlier arrangement involving credit for jeeps and the repayment schedule. The writer refers to a note sent on 2 August by the recipient and Minoo Masani, and asks when the first instalment of Rs. 20,000 is to be paid to the bank on the recipient’s behalf.
+  
+  The writer emphasizes the need for prompt information and expresses concern that delayed instalments could create an unfavourable impression. The letter is addressed to Shri Kamakhya Narain Singh of Ramgarh, Patna, and is signed by an individual whose name is not fully legible in the rendered image.
 ---
 
-Archive item 3388; dated 1961-09-26; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 26 September 1961.
+- It refers to a note sent on 2 August by the recipient and Minoo Masani.
+- The subject is credit arranged for jeeps and the associated repayment terms.
+- The writer asks when the first Rs. 20,000 instalment should be paid to the bank.
+- The writer requests the information as soon as possible.
+- The writer wants to avoid an unfavourable impression caused by late instalment payments.
+- The letter is addressed to Shri Kamakhya Narain Singh of Ramgarh, Patna.

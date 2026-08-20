@@ -1,23 +1,21 @@
 ---
 id: 5718-letter-to-mr-s-v-raju-04-04-1970
 title:
-  main: "Letter to Mr S V Raju"
+  main: "[Letter to Mr S V Raju]"
   subtitle: ""
 work_type: letter
-authors:
-  - s-v-raju
+authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,28 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "no_full_author_name"
+  - "recipient_name_partially_unclear"
 authors_resolution:
-  method: deterministic
+  method: vision
   confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page English office letter, dated 4 April 1970, is addressed to “RAJU” in Bombay and is typed under the heading “YOURS THIRD APPROVE COVERING LETTER.” The document bears the typed name “MASANI” and a handwritten signature.
 ---
 
-Archive item 5718; dated 1970-04-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is a one-page letter dated 4-4-70.
+- The recipient block identifies “RAJU” and gives a Bombay address line reading “CARE SURJIRAM.”
+- The visible subject or reference line reads “YOURS THIRD APPROVE COVERING LETTER.”
+- The letter is signed with the typed surname “MASANI” and a handwritten signature.
+- No substantive body text, salutation, complimentary close, publisher, or full author name is visible.

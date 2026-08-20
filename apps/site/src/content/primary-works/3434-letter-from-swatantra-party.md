@@ -1,7 +1,7 @@
 ---
 id: 3434-letter-from-swatantra-party
 title:
-  main: "Letter from Swatantra party"
+  main: "[Letter from Swatantra party]"
   subtitle: ""
 work_type: letter
 authors: []
@@ -10,12 +10,11 @@ contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Madras"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -26,15 +25,32 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "author_not_identified"
+  - "date_not_printed"
+  - "publisher_not_visible"
+  - "recipient_not_identified"
+  - "signature_not_visible"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-  # unresolved correspondent: Swatantra party
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This single-page letter, written from Madras, reports a visit from Shri Morarji Desai. The writer notes that Desai has given a day to Madras and spent half an hour with them after the city had received welcome showers.
+  
+  The writer describes Desai as brave, energetic, and optimistic, saying that the encounter lifted their spirits and replaced pessimism with hope. The page does not identify the sender, recipient, date, title, or publication context.
 ---
 
-Archive item 3434; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The writer is writing from Madras.
+- Madras had received welcome showers the previous day.
+- Morarji Desai is visiting Madras and spent half an hour with the writer.
+- Desai is characterized as brave, energetic, and optimistic.
+- The visit renews the writer's spirits and replaces pessimism with hope.

@@ -1,21 +1,20 @@
 ---
 id: 3505-press-representatatives-accredited-to-govt-of-india
 title:
-  main: "Press Representatatives Accredited To Govt Of India"
-  subtitle: ""
-work_type: press_note
+  main: "PRESS REPRESENTATIVES ACCREDITED TO GOVERNMENT OF INDIA"
+  subtitle: "Representatives of Indian News Agencies & Newspapers"
+work_type: reference
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 8
   pages_total_source: pypdfium2
@@ -26,14 +25,31 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "press-freedom"
+missing_metadata_flags:
+  - "year_not_printed"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
+  - "author_not_printed"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This eight-page English-language government directory lists press representatives accredited to the Government of India. It is arranged as a tabular reference document with serial number, representative name, affiliated news agency or newspaper, and Delhi address and telephone details. The opening section covers news-agency representatives, including personnel associated with the Press Trust of India, PTI Overseas Service, and Hindusthan Samachar.
 ---
 
-Archive item 3505; 8 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is headed “PRESS REPRESENTATIVES ACCREDITED TO GOVERNMENT OF INDIA.”
+- It identifies representatives of Indian news agencies and newspapers rather than presenting authored commentary.
+- Entries record names, affiliations, addresses, and office or residence telephone numbers.
+- The directory includes representatives connected with major newspaper groups such as Hindustan Times, Statesman, Indian Express, Times of India, and Hindu.
+- Additional sections list caricaturists and All India Radio personnel.
+- The visible directory runs through at least serial number 95.

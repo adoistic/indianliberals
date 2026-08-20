@@ -1,23 +1,22 @@
 ---
 id: 4585-letter-to-c-rajagopalachari-18-04-1968
 title:
-  main: "Letter to C Rajagopalachari"
+  main: "[Letter to C Rajagopalachari]"
   subtitle: ""
 work_type: letter
 authors:
-  - c-rajagopalachari
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "New Delhi"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +27,33 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "civil-liberty"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this letter dated 18 April 1968, Minoo Masani writes to C. Rajagopalachari (“Rajaji”) about an appointment in Madras and proposes meeting twice on 23 April. Masani says he is pleased they will meet because Rajagopalachari’s understanding of the party’s situation differs from his own, partly because Rajagopalachari has not attended recent meetings of the National Executive and General Council.
+  
+  Masani defends his efforts to prevent further disruption within the party, particularly amid developments in Gujarat and elsewhere. He distinguishes freedom from what he calls indiscipline and skulduggery, and criticises the recent meeting of the National Executive in Delhi for capitulating to the rebels. He closes by postponing a fuller discussion until their meeting.
 ---
 
-Archive item 4585; dated 1968-04-18; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- Masani confirms arrangements to meet Rajagopalachari in Madras on 23 April 1968.
+- He proposes two conversations so that they can cover substantial ground without tiring Rajagopalachari.
+- Masani attributes their differing understandings of the party crisis partly to Rajagopalachari’s absence from recent organisational meetings.
+- He says he is trying to save the party from a disruption already extensive in Gujarat and elsewhere.
+- He rejects the idea that enforcing party discipline is an attack on freedom.
+- He condemns the Delhi meeting of the National Executive for capitulating to the rebels.

@@ -1,22 +1,22 @@
 ---
 id: 5527-state-units-support-for-bhagwanji-the-western-times-28-08-1968
 title:
-  main: "State units support for Bhagwanji-The Western Times"
+  main: "State unit's support for Bhagwanji"
   subtitle: ""
-work_type: letter
+work_type: essay
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  publisher_name: "The Western Times"
+  place: "Ahmedabad"
   year: 1968
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +27,36 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "electoral-reform"
+  - "governance-reform"
+missing_metadata_flags:
+  - "no_publisher_address"
+  - "no_edition"
+  - "no_identifiers"
+  - "unresolved_byline"
+  - "date_conflict"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This brief report in The Western Times describes the Gujarat Swatantra Party Executive Committee’s decision to strongly represent the case of Bhagwanji Patel, whose election had been set aside by the party’s then General Secretary, Minoo Masani. The committee, chaired by State Party Chief H. M. Patel, reviewed the election proceedings and concluded that Masani’s decision was unjustified.
+  
+  The report says that Patel had contested a State Council seat but that Masani had invalidated the election on the grounds that Patel had stood while serving as a returning officer. Under the heading “PATEL’S CONTENTION,” it records Patel’s argument that he had resigned as returning officer before contesting. The committee also criticized Masani’s suggestion that the Gujarat unit be dissolved, attributing that suggestion to the unit’s alleged lack of discipline during a Rajya Sabha election. It noted that a majority of party members had voted against the official candidate, U. N. Mahida, while Mr. Babubhai Vaidya was reported as having been declared elected by the National Executive.
 ---
 
-Archive item 5527; dated 1968-08-28; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The Gujarat Swatantra Party Executive Committee resolved to support Bhagwanji Patel’s case.
+- Minoo Masani had set aside Patel’s organizational election.
+- H. M. Patel’s committee review found Masani’s decision unjustified.
+- Patel argued that he had resigned as returning officer before contesting the State Council election.
+- The committee criticized the proposal to dissolve the Gujarat unit.
+- The dispute arose partly from party members voting against the official Rajya Sabha candidate, U. N. Mahida.

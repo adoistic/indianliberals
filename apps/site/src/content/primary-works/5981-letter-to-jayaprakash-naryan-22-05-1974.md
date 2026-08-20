@@ -1,22 +1,22 @@
 ---
 id: 5981-letter-to-jayaprakash-naryan-22-05-1974
 title:
-  main: "Letter to Jayaprakash Naryan"
+  main: "[Letter to Jayaprakash Naryan]"
   subtitle: ""
-work_type: letter
-authors: []
+work_type: telegram
+authors:
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
+  place: "Bombay"
   year: 1974
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -27,15 +27,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "no_publisher"
+  - "no_recipient_authority_resolution"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: high
   proposed_unknowns: []
-  # unresolved correspondent: Jayaprakash Naryan
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This one-page English express telegram, sent by Minoo Masani from Bombay on May 22, 1974, is addressed to Jayaprakash Narayan at Christian Medical College Hospital in Vellore, South India. Masani confirms that he plans to reach Madras at 6:20 p.m. on May 27 and then visit Narayan the following morning.
 ---
 
-Archive item 5981; dated 1974-05-22; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The document is an express telegram and confirmation copy.
+- Minoo Masani is the sender.
+- Jayaprakash Narayan is the recipient, identified as being at Christian Medical College Hospital, Vellore.
+- Masani announces travel to Madras at 6:20 p.m. on May 27.
+- He plans to visit Narayan on the morning of May 28.
+- Masani asks to be informed by telegram if the plans change.
+- He urges Narayan not to resume activities or leave the hospital until his wound is completely healed.

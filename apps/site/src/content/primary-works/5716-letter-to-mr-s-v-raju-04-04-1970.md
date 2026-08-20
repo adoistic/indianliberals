@@ -1,23 +1,21 @@
 ---
 id: 5716-letter-to-mr-s-v-raju-04-04-1970
 title:
-  main: "Letter to Mr S V Raju"
+  main: "[Letter to Mr S V Raju]"
   subtitle: ""
 work_type: letter
 authors:
-  - s-v-raju
+  - minoo-masani
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1970
 provenance:
   source: ccs_archive
   scan_quality: poor
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 1
   pages_total_source: pypdfium2
@@ -28,14 +26,29 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+missing_metadata_flags:
+  - "title_not_printed"
+  - "publisher_not_printed"
+  - "place_not_printed"
+  - "recipient_not_resolved_as_author"
 authors_resolution:
-  method: deterministic
-  confidence: medium
+  method: vision
+  confidence: high
   proposed_unknowns: []
-needs_review: true
+needs_review: false
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  In this typed letter dated 4 April 1970, M. R. Masani asks S. V. Raju to investigate an incident from the previous year, when N. Dandekar and Cooper were in charge. Masani recalls that Baria had threatened to resign if an unspecified action was taken, but that the action ultimately occurred without Baria resigning.
 ---
 
-Archive item 5716; dated 1970-04-04; 1 page. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The letter is dated 4 April 1970 and addressed to S. V. Raju.
+- Masani refers to an incident from the previous year involving Dandekar and Cooper.
+- Baria had allegedly threatened to resign if an unspecified action was taken.
+- The action was ultimately taken, while Baria did not resign.
+- Masani asks Raju to identify the incident in the records.
+- Masani wants the information before travelling from Calcutta to Bombay on the morning of 8 April.

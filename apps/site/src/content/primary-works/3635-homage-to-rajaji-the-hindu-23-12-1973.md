@@ -1,22 +1,21 @@
 ---
 id: 3635-homage-to-rajaji-the-hindu-23-12-1973
 title:
-  main: "Homage To Rajaji-The Hindu"
+  main: "[Homage To Rajaji-The Hindu]"
   subtitle: ""
-work_type: letter
+work_type: occasional_paper
+purpose: report
 authors: []
 editors: []
 contributors: []
 related_thinkers: []
 publication:
   language: en
-  issuer_id: swatantra-party
-  publisher_name: "Swatantra Party"
   year: 1973
 provenance:
   source: ccs_archive
   scan_quality: fair
-  notes: "filename-derived; awaiting llm-extract enrichment"
+  notes: "llm-extract v1.5; metadata.a canonical, metadata.b cross-checked"
 physical:
   pages_total: 2
   pages_total_source: pypdfium2
@@ -27,14 +26,37 @@ rights:
   license_url: null
   rights_statement: Rights held by original depositors / Centre for Civil Society; reproduced for archival access.
 themes: []
+proposed_themes:
+  - "party-politics"
+  - "governance-reform"
+  - "federalism"
+  - "civil-liberty"
+  - "biographical-tribute"
+missing_metadata_flags:
+  - "title_not_printed"
+  - "title_page_not_found"
+  - "publisher_not_printed"
+  - "issuer_not_printed"
+  - "document_date_not_explicit"
+  - "editor_not_named"
 authors_resolution:
-  method: deterministic
-  confidence: low
+  method: vision
+  confidence: medium
   proposed_unknowns: []
 needs_review: true
 draft: false
+ai:
+  drafted_by: claude-sonnet-4.5
+  model_version: v1.5
+summary: |-
+  This two-page English document records proceedings of an apparently Swatantra Party meeting in 1973. The minutes confirm the previous General Council meeting, review the Party’s unsuccessful Sabarkantha Lok Sabha by-election campaign, and note discussion among party figures including Madhu Mehta, Maharawal Laxman Singh, Piloo Mody, Mamu Amersy, D. N. Patodia, H. R. Pasricha, and Sardar Harbhajan Singh. The document also records ratification of the merger of the Bombay and Maharashtra regional units under the name Swatantra Party and the election of Piloo Mody as president.
 ---
 
-Archive item 3635; dated 1973-12-23; 2 pages. Scanned document from the Swatantra Party papers.
+## Key points
 
-Catalogue metadata on this item is provisional and derived from the archival filename; it has not yet been read from the document itself. The full text is searchable.
+- The minutes of the General Council meeting held in Madras on April 13, 1973, were confirmed.
+- The President explained the Party’s decision to field a candidate in the Sabarkantha parliamentary by-election.
+- Participants expressed surprise at the defeat of the Party’s candidate, Mamu Amersy.
+- The merger of the Bombay and Maharashtra regional units was ratified.
+- The Council unanimously adopted resolutions concerning linguistic and communal unrest, the economic situation, and repressive government measures.
+- The pasted The Hindu clipping reports a memorial meeting praising C. Rajagopalachari’s administrative ability, wisdom, courage, and opposition to linguistic subdivision.
