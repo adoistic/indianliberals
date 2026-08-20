@@ -2,8 +2,8 @@
 id: coming-soon
 contact_title: Contact Us
 contact_blurb: >-
-  How to reach the team behind the archive, whether you have a correction, a
-  document to contribute, or a rights query.
+  How to reach the team behind the archive, whether you have a correction or a
+  document to contribute.
 gallery_title: Gallery
 gallery_blurb: >-
   Photographs from the archive and the events around it: the lectures, the
