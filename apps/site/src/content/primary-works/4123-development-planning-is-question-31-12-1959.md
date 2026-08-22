@@ -47,6 +47,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This eight-page issue of The Times of India, dated Thursday, December 31, 1959, combines domestic and international news, economic commentary, advertisements, and reports from the All-India Economic Conference. Its principal visible feature is coverage of Mr. J. J. Anjaria’s address on India’s Third Five-Year Plan and the wider question of development planning. The report discusses investment, domestic resource mobilisation, taxation, national income, agricultural and industrial output, the respective roles of the public and private sectors, and the need for flexibility in a democratic economy. It presents planning as constrained by scarce resources, foreign-exchange requirements, taxation capacity, and the balance between consumption and investment.
+  
+  Other visible pages report on condemnation of Chinese actions on the India–Tibet border, Indo-Pakistan talks and trade, Sweden’s position on China’s admission to the United Nations, labour disputes and public-sector employment, railway safety, famine relief, Pakistan’s proposed second plan, and assorted regional and international news. Because the issue contains many unrelated articles and no formal table of contents, this record does not assign individual essays or articles to toc_index entries.
 ---
-
-Archive item 4123. Scanned document from the Swatantra Party papers.

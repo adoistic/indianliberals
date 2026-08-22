@@ -51,6 +51,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 30, dated January 1963, reports the Swatantra Party's response to the aftermath of the 1962 Sino-Indian War and to the continuation of India's Emergency. Its central political argument is that the Chinese cease-fire had transformed active hostilities into a de facto armistice, making the continuation of extraordinary emergency powers difficult to justify. Rajaji and M. R. Masani are presented as calling for the restoration of ordinary laws, fundamental rights, and democratic accountability while retaining only those emergency measures necessary for defence preparedness. The issue also reports parliamentary exchanges over the Defence of India Bill, opposition demands for more frequent parliamentary sittings, and criticism of government policy toward China.
 ---
-
-Archive item 1566. Scanned document from the Swatantra Party papers.

@@ -48,6 +48,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The visible pages of The Realist's April 1968 issue combine political commentary, international affairs, and criticism of Indian party-government practices. The opening items discuss Martin Luther King Jr.'s legacy and non-violence, the political consequences of President Johnson's Vietnam policy, and an argument that the United Nations Conference on Aid, Trade and Development achieved little partly because developing countries treated aid as a permanent entitlement and approached negotiations with grievance rather than practical self-assessment.
+  
+  The issue's Indian political commentary focuses on defections, unstable coalition governments, weak party programmes, electoral misconduct, and the growth of regional parties. It also considers family-planning policy, contrasting government and private-sector approaches, and criticises caste and regional politics when they become excuses for administrative or political evasion. The pages consistently favour clearer political commitments, accountable government, and practical rather than rhetorical reform.
 ---
-
-Archive item 5625. Scanned document from the Swatantra Party papers.

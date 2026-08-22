@@ -47,6 +47,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The October 11, 1987 issue of Express Magazine brings together unrelated reports and features on media freedom, political controversy, Indian arts, environmental health, and cultural exchange. The issue's visible articles move from Charu Shahane's account of government influence over news coverage to a profile of alleged arms middleman Win Chadha, a discussion of lead contamination, and illustrated features on Rukmini Devi Arundale's legacy and Japanese performance traditions in India.
 ---
-
-Archive item 2264. Scanned document from the Swatantra Party papers.

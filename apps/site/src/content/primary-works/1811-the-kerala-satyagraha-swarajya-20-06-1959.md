@@ -53,6 +53,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This June 20, 1959 issue of Swarajya presents a sustained case for constitutional democracy, individual freedom, and the newly formed Swatantra Party against Congress centralisation, socialist planning, and administrative control. Its leading articles criticise the Kerala Congress's resort to satyagraha, defend political and economic liberty, question the fairness of official publicity, and argue that public debate and an independent press are essential safeguards against one-party dominance.
+  
+  The issue also ranges beyond immediate Indian party politics. It includes criticism of nuclear testing, a report on debates over artistic freedom in the Soviet Union, a diagnosis of the decline of India's intellectual class, an account of Rajaji's attempt to return political discourse from Nehruvian socialism to Gandhian individualism, a biographical sketch of Alexander Pushkin, and letters from readers on the new party, socialism, constitutional responsibility, and the future of Swarajya.
 ---
-
-Archive item 1811. Scanned document from the Swatantra Party papers.

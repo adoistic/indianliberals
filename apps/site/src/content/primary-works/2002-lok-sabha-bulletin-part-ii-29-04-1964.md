@@ -43,6 +43,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This three-page English issue of the Lok Sabha Bulletin—Part II, dated Wednesday, April 29, 1964, records parliamentary administrative business. It announces nomination, withdrawal, and election dates for members of the Central Advisory Boards of Archaeology and Education, then publishes the elected membership of the Committee on Estimates, the Committee on Public Accounts, and the Committee on Public Undertakings. The notices specify committee terms beginning in May 1964 and, for the Committee on Estimates and Committee on Public Accounts, ending on April 30, 1965.
+  
+  The issue concludes with a notice concerning the President’s recommendation under Article 117 of the Constitution of India for the Taxation Laws (Continuation and Validation of Recovery Proceedings) Bill, 1964. It is an official record of committee composition, parliamentary procedure, and a constitutional prerequisite for introducing legislation; it contains no essays, argument-driven articles, or formal table of contents.
 ---
-
-Archive item 2002. Scanned document from the Swatantra Party papers.

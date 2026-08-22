@@ -57,6 +57,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Issue No. 48 of the Swatantra Newsletter, dated December 1964, reports on the party's Kerala convention, organisational activity, parliamentary interventions, food crisis, press freedom, foreign policy, and internal elections. Its coverage presents the Swatantra Party as an opponent of Congress centralisation, Communist influence, economic planning, state monopolies, excessive taxation, and restrictions on trade, while stressing constitutional democracy, individual rights, free expression, and the rule of law.
+  
+  The issue combines party news with extended extracts from speeches by Rajaji, M. R. Masani, N. Dandekar, Prof. N. G. Ranga, K. M. Munshi, and others. Major arguments concern the proposed Food Corporation, the Fourth Plan, food-grain controls, the Wealth Tax Bill, anti-corruption legislation, India's response to China, and the protection of press freedom. The entire ten-page issue was rendered and read; no formal contents page or named editor is visible.
 ---
-
-Archive item 332. Scanned document from the Swatantra Party papers.

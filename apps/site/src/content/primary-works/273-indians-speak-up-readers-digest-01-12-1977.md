@@ -52,6 +52,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The rendered pages contain M. R. Masani's article “INDIANS, SPEAK UP!”, published in the December 1977 issue of The Reader's Digest, Volume III. Masani assesses the Janata Government after the end of the Emergency, acknowledging relief at the departure of authoritarian rule while criticizing rising prices, strikes, administrative weakness, broken promises, factionalism, and the erosion of political standards associated with the Nehru period and the Emergency.
 ---
-
-Archive item 273. Scanned document from the Swatantra Party papers.

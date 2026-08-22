@@ -58,6 +58,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 17, issued in April 1961 by the Central Office of the Swatantra Party, combines party announcements, parliamentary reporting, state-level organisational news, and a supplement reproducing the Jaipur Maharani's speech. The issue announces the Second National Convention at Agra, reports the Maharani Gayatri Devi's public debut in Jaipur, and presents speeches by Ramgopal Gupta, J. Mohammed Imam, and Professor N. G. Ranga attacking taxation, state-sector inefficiency, centralisation, and the Congress government's economic and security policies.
+  
+  Across its state-party reports, the newsletter documents meetings, membership drives, conferences, local committee formation, and preparations for the 1962 general election in Andhra, Bihar, Bombay, Gujarat, Madhya Pradesh, Madras, Mysore, Orissa, Punjab, and Uttar Pradesh. The issue's political argument centres on economic liberty, constitutional rights, opposition to centralised planning and cooperative farming, protection of minorities and property, and the creation of a two-party democratic alternative to Congress rule. The closing speech by the Jaipur Maharani frames her decision to join the party as a response to public dissatisfaction, rising taxation, economic controls, and what she describes as the Congress's abandonment of its earlier principles.
 ---
-
-Archive item 1507. Scanned document from the Swatantra Party papers.

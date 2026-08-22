@@ -53,6 +53,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  In the rendered pages, Swatantra Newsletter No. 76 (October–December 1970) presents the Swatantra Party’s organisational decisions, political criticisms, policy positions, and preparations for its National Convention. The issue expresses disappointment at the failure of Congress (O), Jan Sangh, and BKD leaders to implement the June 28 AICC resolution on opposition unity, while reaffirming the Party’s willingness to cooperate with nationalist and democratic groups. It also records support for the T. N. Singh ministry in Uttar Pradesh, the Party’s withdrawal from the Mysore SVD arrangement, disciplinary action against Nugehalli Shivappa, and debates over defections in Gujarat.
+  
+  In the rendered pages, the newsletter combines internal party administration with critiques of government policy. Its discussions of unemployment, controls and licences, land redistribution, the Henderson–Brookes Report, Soviet maps, and the Patna session of Congress (N) advocate practical employment programmes, reduced economic controls, public disclosure, and opposition to what the Party portrays as statist or opportunistic politics. The issue also reports the formation of Swatantra Youth and Women’s Wing activities, emphasising education, employment, democratic alliances, law and order, and wider participation in party organisation.
 ---
-
-Archive item 3509. Scanned document from the Swatantra Party papers.

@@ -53,6 +53,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The February 1960 issue of Swatantra Newsletter reports on the Swatantra Party's central preparations, organisational expansion, policy positions, and activities across its state units. The Central Organising Committee settled drafts of the party constitution and statement of policy for the forthcoming national convention at Patna, adopted specifications for a five-pointed star flag, and set out a non-partisan policy for students: students may study political and economic questions but should not form party groups within colleges and universities. The issue also records plans to establish the party in Kerala and comments on negotiations concerning the Chinese aggression and a possible meeting between Jawaharlal Nehru and Chou En-lai.
 ---
-
-Archive item 302. Scanned document from the Swatantra Party papers.

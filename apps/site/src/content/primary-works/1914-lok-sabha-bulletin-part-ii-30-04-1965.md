@@ -44,6 +44,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This issue of the Lok Sabha Bulletin—Part II, dated Friday, 30 April 1965, records parliamentary administrative notices numbered 1298 through 1306. Its contents consist of committee personnel lists, issued by the Speaker, covering the Business Advisory Committee, Committee of Privileges, Committee on Absence of Members from the Sittings of the House, Committee on Government Assurances, Committee on Petitions, Committee on Subordinate Legislation, Committee on Private Members’ Bills and Resolutions, House Committee, and Rules Committee.
 ---
-
-Archive item 1914. Scanned document from the Swatantra Party papers.

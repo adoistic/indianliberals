@@ -58,6 +58,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  In the rendered pages, Swatantra Newsletter No. 63 records the Swatantra Party’s organisational, parliamentary, and state-level activity from October 1967 to January 1968. In the rendered pages, the party reiterates opposition to nationalisation of general insurance, monopolistic practices, expanded state control over banking, compulsory procurement, and other forms of economic regulation. In the rendered pages, it also reports the election of a new National Executive, membership and representation figures, party-building efforts, and debates over defections and coalition governments.
+  
+  In the rendered pages, substantial attention is given to the Orissa cyclone and the Orissa Government’s relief measures, including public-health interventions, housing grants, food distribution, and administrative reforms. In the rendered pages, other sections discuss Rajaji’s ninetieth birthday, West Bengal politics, Kashmir, the Prime Minister’s visit to Moscow, Vietnam and China policy, Haryana’s political realignment, and state-unit activity in Andhra, Gujarat, Kerala, Mysore, Madras, Maharashtra, and Orissa. In the rendered pages, the newsletter combines advocacy, internal party reporting, reproduced resolutions, election statistics, press material, and appeals for stronger grassroots organisation.
 ---
-
-Archive item 4779. Scanned document from the Swatantra Party papers.

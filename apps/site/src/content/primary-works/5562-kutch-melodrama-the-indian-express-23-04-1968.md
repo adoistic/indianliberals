@@ -46,6 +46,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This two-page fragment from The Indian Express, dated Tuesday, April 23, 1968, includes the principal editorial/news article “Kutch melodrama” and several unrelated reports. In the rendered pages, “Kutch melodrama” examines a political confrontation in Kutch involving the Jana Sangh, the Samyukta Socialist Party, the Gujarat unit of the Swatantra Party, and the Government. It argues that prolonged agitation, shifting party positions, and disputes over the Kutch satyagraha have produced an avoidable political impasse.
+  
+  The article reports disagreements over whether opposition parties should continue the satyagraha, criticises the Government’s handling of the issue, and describes proposals for compromise and possible withdrawal. The second rendered page is a continuation of the newspaper fragment containing unrelated items on a lecturer held for forgery, a Tamil Nadu bill, a proposed South-East Asian cultural institute, Congress labour politics, a benefit dance, and a censorship probe. No author byline or formal issue information is visible.
 ---
-
-Archive item 5562. Scanned document from the Swatantra Party papers.

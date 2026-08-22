@@ -50,6 +50,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  In the rendered pages, the Swatantra Party Souvenir 1961 is presented primarily as a promotional and commemorative publication rather than as a conventional political text. The cover identifies the issuing organization and year, while the opening pages consist almost entirely of illustrated commercial advertisements, corporate compliments, and industrial publicity. In the rendered pages, these advertisements emphasize private enterprise, manufacturing, agriculture, construction, consumer goods, communications, transport, and export production in post-independence India.
 ---
-
-Archive item 1645. Scanned document from the Swatantra Party papers.

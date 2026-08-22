@@ -56,6 +56,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The rendered issue of Freedom First (January 2011) brings together reflections on India’s republican development, constitutional liberty, Nani Palkhivala’s legal and public legacy, and the persistence of corruption. The visible articles combine personal memory with liberal criticism: one account traces everyday life from colonial rule through independence, the republic, state-led planning, and economic liberalisation; another presents Palkhivala as a defender of constitutional limits, individual rights, free speech, press freedom, and judicial independence; and a later article argues that corruption is sustained by both political permissiveness and public apathy. A brief interview introduction with S. V. Raju frames a conversation about changing patterns of life across generations, although the interview itself is not present in the rendered pages.
 ---
-
-Archive item 4445. Scanned document from the Swatantra Party papers.

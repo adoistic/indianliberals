@@ -45,6 +45,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This six-page English newspaper clipping from The Patriot, provisionally dated 4 January 1971 from a handwritten notation, centers on the collapse of a proposed electoral pact among the Swatantra Party, Jana Sangh, and the Syndicate. The principal report describes disagreement over whether the parties should merely adjust constituencies or create a broader Democratic Front, with Minoo Masani walking out of negotiations and the parties issuing conflicting statements. Related reports cover West Bengal Syndicate opposition to an alliance, Gujarat tensions involving Masani, Jana Sangh seat disputes in Delhi, the proposed dissolution of the Tamil Nadu Assembly, and political criticism of Morarji Desai and the Syndicate.
 ---
-
-Archive item 3468. Scanned document from the Swatantra Party papers.

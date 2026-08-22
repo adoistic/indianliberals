@@ -57,6 +57,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This illustrated English-language proceedings booklet records the Swatantra Party’s Preparatory Convention held in Bombay on August 1–2, 1959. The introduction describes the party’s formation in response to expanding state intervention and presents the convention as the setting for discussing its organisation, membership, and statement of principles. The visible proceedings include M. R. Masani’s opening remarks, C. Rajagopalachari’s inaugural address, and the beginning of N. G. Ranga’s chairman’s address.
 ---
-
-Archive item 1856. Scanned document from the Swatantra Party papers.

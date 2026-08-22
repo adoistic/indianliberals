@@ -53,6 +53,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This Swatantra Party booklet presents competing positions on the 1960 strike by Central Government employees and asks whether Congress or Swatantra is labour's genuine friend. The visible material includes an introductory statement of labour policy, M. R. Masani's parliamentary speech, and the opening portion of Jawaharlal Nehru's speech. Its central dispute concerns the relationship between trade-union independence, collective bargaining, the right to strike, and the State's dual role as government and employer.
+  
+  The Swatantra position supports worker-controlled unions, collective bargaining, and a general right to strike, while allowing narrowly defined restrictions for essential services when accompanied by arbitration or another judicial remedy. The texts criticize politically controlled unions, Soviet-style planning and restrictions on strikes, and the Government's use of an Ordinance against its own employees. Nehru's speech, as seen here, instead emphasizes the political and disruptive consequences of a general strike and defends the Government's response. The booklet's concluding materials and later pages were not rendered.
 ---
-
-Archive item 5673. Scanned document from the Swatantra Party papers.

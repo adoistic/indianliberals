@@ -46,6 +46,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This December 1959 issue of Freedom First is centered on M. R. Masani’s Lok Sabha speech, “An End To Appeasement,” which attacks the Nehru government’s response to Chinese incursions into Tibet and India’s Himalayan frontier. The visible pages argue that faith in Chinese assurances, the Panchsheel agreement, and an overly restrictive interpretation of non-alignment left India militarily and diplomatically exposed. Masani calls for stronger defence preparations, a clear response to breaches of faith, and a reassessment of India’s China policy.
 ---
-
-Archive item 5870. Scanned document from the Swatantra Party papers.

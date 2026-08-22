@@ -53,6 +53,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  In the rendered pages, this Swatantra Party booklet presents the party's response to China's 1962 offensive through an introduction, an official statement on the emergency, C. Rajagopalachari's interview and public comments, and N. G. Ranga's Lok Sabha speech. In the rendered pages, the central position is that India should prosecute the war with greater military initiative, accept substantial assistance from democratic Western countries, reconsider non-alignment, seek an accommodation with Pakistan, and preserve parliamentary opposition, civil liberties, press access, and the rule of law during the emergency.
+  
+  In the rendered pages, the contributors criticize governmental unpreparedness, inadequate supplies, defensive military strategy, and the treatment of planning priorities during wartime. In the rendered pages, Rajagopalachari argues for stronger alignment with the West and a joint front with Pakistan, while Ranga demands a victory-oriented plan, external military aid, wartime leadership, and a continuing role for responsible opposition. The rendered pages also engage with the legacy of Panchsheel, the positions of Jawaharlal Nehru and Mahatma Gandhi, and the perceived risks of Communist influence in India.
 ---
-
-Archive item 1636. Scanned document from the Swatantra Party papers.

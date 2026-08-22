@@ -51,6 +51,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This multi-part article examines why India lacked an effective opposition seventeen years after independence. The rendered pages include S. V. Raju’s discussion of the Swatantra Party and the opening of G. B. Kanitkar’s discussion of the Bharatiya Jana Sangh. Across the visible material, the central concerns are party organisation, ideological differentiation, electoral competition, political finance, the use of state power by the ruling party, caste and communal calculations, and the need for political education. The opening page states that the article has three parts, but a third part is not present in the rendered pages.
 ---
-
-Archive item 4801. Scanned document from the Swatantra Party papers.

@@ -46,6 +46,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The supplied pages are from the Monday, March 30, 1992 issue of The Afternoon Despatch & Courier. The principal item documented here is a letters-page article by A.K.R. Hemady, while the remaining rendered pages contain unrelated newspaper material, including a profile of E. M. Forster, film listings, advertisements, and continuing reports on hospitals and advertising awards.
 ---
-
-Archive item 5813. Scanned document from the Swatantra Party papers.

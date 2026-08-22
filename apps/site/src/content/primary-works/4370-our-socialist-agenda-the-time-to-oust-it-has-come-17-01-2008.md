@@ -48,6 +48,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Freedom First, issue 299, dated January 17, 2008, combines liberal commentary with reporting and promotional material on economic policy and electricity infrastructure. The issue’s central arguments, in the rendered pages, are that India should move away from socialist economic controls and that faster, better-integrated power development is essential to growth. It also includes material on Power Grid Corporation of India, fly-ash technology, and renewable or distributed-energy projects.
 ---
-
-Archive item 4370. Scanned document from the Swatantra Party papers.

@@ -53,6 +53,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Issue No. 48 of the Swatantra Newsletter, dated December 1964, reports on the party’s organisation, electoral activity, parliamentary interventions, and policy positions. It opens with celebrations of Rajaji’s eighty-seventh birthday and coverage of the first Kerala State Convention, where speakers call for effective opposition to Congress and the Communists, proportional representation, and cooperation among democratic opposition forces. Reports from Bihar, Orissa, and other states describe party reorganisation, agitation against allegedly corrupt ministries, membership changes, and the establishment of elected state committees.
+  
+  The issue’s policy material presents a sustained Swatantra critique of state planning, food controls, public monopolies, wealth taxation, and punitive economic regulation. Articles and parliamentary extracts defend freer trade and private productive enterprise, warn that a Food Corporation would create procurement and distribution monopolies, and oppose summary trials in anti-hoarding legislation. Other sections advocate press freedom, condemn government interference in food distribution, discuss the Chinese nuclear threat and India’s foreign relations, and document the party’s anti-communist and parliamentary activities.
 ---
-
-Archive item 1575. Scanned document from the Swatantra Party papers.

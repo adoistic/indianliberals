@@ -54,6 +54,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Issue No. 35 of the Swatantra Newsletter, dated June/July 1963, is dominated by the Swatantra Party's victory in the Rajkot parliamentary by-election. Its principal political narrative presents M. R. Masani's win over Congress as evidence of voter dissatisfaction with taxation, inflation, economic controls, corruption, collective farming, and inadequate national defence. The issue attributes the result not to an established Swatantra organisation in Rajkot but to a rapid, disciplined campaign that united a broad democratic opposition, coordinated local workers, and translated the party's manifesto into accessible electoral issues.
+  
+  The remaining pages combine newspaper reactions, Masani's post-election statements, a defence of peasant interests, Rajaji's tribute to Pope John XXIII, state-level party reports, and quotations from Gandhi and F. A. Hayek on controls and the state. Across these sections, the issue connects electoral politics to a wider liberal critique of excessive state power, economic regulation, and the weakening of individual initiative.
 ---
-
-Archive item 1562. Scanned document from the Swatantra Party papers.

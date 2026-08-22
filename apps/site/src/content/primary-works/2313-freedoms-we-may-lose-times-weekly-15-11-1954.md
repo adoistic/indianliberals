@@ -50,6 +50,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This visible issue of TIMES WEEKLY, dated August 15, 1971, is a newspaper-style liberal periodical containing political commentary, reports, advertisements, and editorial material. Its principal feature, “FREEDOMS WE MAY LOSE,” is by M. R. Masani and argues that political freedom, free expression, an independent press, and economic choice are vulnerable to expanding state control and political monopoly. Other visible items address censorship, the misuse of national symbols, party politics, and the condition of Indian public life.
 ---
-
-Archive item 2313. Scanned document from the Swatantra Party papers.

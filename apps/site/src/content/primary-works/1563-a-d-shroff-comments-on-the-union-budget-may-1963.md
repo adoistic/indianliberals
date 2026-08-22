@@ -56,6 +56,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The May 1963 issue of Swatantra Newsletter (No. 34), issued by the Central Office of the Swatantra Party in Bombay, combines budget criticism, election reports, parliamentary speeches, party statements, and regional organisation news. Its central political argument is that Congress economic policy—especially taxation, public-sector expansion, planning, and administrative control—is weakening industrial growth, private investment, defence preparedness, and individual initiative. The issue also presents the Swatantra Party as the principal non-Communist opposition and repeatedly appeals for opposition unity against Congress and Communist influence.
 ---
-
-Archive item 1563. Scanned document from the Swatantra Party papers.

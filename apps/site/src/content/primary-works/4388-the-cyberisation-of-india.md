@@ -46,6 +46,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This extract from Swiss Press News and News Report No. 5 / 2000 presents S. V. Raju's account of India's transition into the computer age. In the rendered pages, Raju links computerisation to economic liberalisation and globalisation, describing the earlier state-controlled electronics and telecommunications sectors, the restrictive import regime, and the economic pressures that eventually opened India to new technologies. He presents this transition as both an opportunity for growth and a source of unemployment and industrial disruption.
 ---
-
-Archive item 4388. Scanned document from the Swatantra Party papers.

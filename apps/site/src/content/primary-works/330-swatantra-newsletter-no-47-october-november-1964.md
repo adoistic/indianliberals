@@ -55,6 +55,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 47, dated October/November 1964, reports on the Swatantra Party’s parliamentary activity, internal organisation, state-level politics, and public campaigns. Its central political posture is an opposition that distinguishes itself from both Congress and the Communists: the party abstained from the September no-confidence motion because it judged the new government entitled to time, while sharply criticising inflation, food scarcity, corruption, deficit financing, planning priorities, and administrative weakness. The issue also documents committee decisions concerning Bihar, Orissa, Malaysia, Soviet aid, party discipline, and the organisation of state units in preparation for the 1967 challenge.
 ---
-
-Archive item 330. Scanned document from the Swatantra Party papers.

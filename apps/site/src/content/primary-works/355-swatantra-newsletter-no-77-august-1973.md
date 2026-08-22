@@ -50,6 +50,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 77, issued by the Swatantra Party in August 1973, resumes publication after a gap since the previous issue in 1970. Its opening commentary presents the party as recovering from severe electoral defeats while arguing that worsening economic conditions—shortages, sharply rising prices, and the failure of government promises—make Rajaji's political programme more relevant. The newsletter is intended to reconnect party units and members, circulate information about organisational work, and encourage renewed activity at local levels.
+  
+  The issue commemorates C. Rajagopalachari (Rajaji), reports on the Sixth National Convention held in Madras, and describes a restatement of Swatantra policy, including criticism of government economic management and reforms to party membership and committee structures. It also publishes the timetable for the Fifth Party Elections and reports state-level activity in Andhra Pradesh, Bombay, Mysore, Punjab, Tamil Nadu, and Uttar Pradesh. These reports emphasize opposition to shortages and high prices, support for the bifurcation of Andhra, relief work during drought, and preparations for electoral mobilisation. The issue is marked “FOR PRIVATE CIRCULATION.”
 ---
-
-Archive item 355. Scanned document from the Swatantra Party papers.

@@ -55,6 +55,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Issue 67 of the Swatantra Newsletter, dated March 1969 and marked “For Private Circulation,” records the Swatantra Party’s organisational decisions, electoral performance, policy positions, state-level activities, and National Executive resolutions. The issue is strongly focused on coalition-government strategy, opposition to Congress and communist politics, criticism of centralised planning and administrative delay, and advocacy of free enterprise, agricultural prosperity, constitutional procedures, and democratic accountability.
 ---
-
-Archive item 347. Scanned document from the Swatantra Party papers.

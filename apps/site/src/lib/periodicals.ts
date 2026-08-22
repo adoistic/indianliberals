@@ -30,6 +30,11 @@ const ORG_SERIES: Record<string, string> = {
   "liberal-times": "liberal-times",
   "indian-liberal-group": "indian-liberal-group",
   "freedom-first": "freedom-first",
+  // The party's own newsletter — 167 issues, run monthly through the 1960s.
+  // Without this they fall to "other", which is where genuine one-off press
+  // clippings live, so the site's largest periodical run after Freedom First
+  // was showing as an unnamed miscellany.
+  "swatantra-party": "swatantra-newsletter",
 };
 
 export function seriesFor(w: Issue): string {
@@ -41,6 +46,7 @@ export function seriesFor(w: Issue): string {
   const t = w.data.title.main;
   if (w.id.startsWith("khoj-") || /^khoj\b/i.test(t) || t.startsWith("ખોજ")) return "khoj";
   if (/indian libert/i.test(t)) return "indian-libertarian";
+  if (/^swatantra\s+news\s*letter/i.test(t)) return "swatantra-newsletter";
   if (t === "Liberal Times" || (w.data.publication?.series ?? "").startsWith("Liberal Times")) return "liberal-times";
   if (w.id.startsWith("shetkari-sanghatak") || t.startsWith("शेतकरी संघटक")) return "shetkari-sanghatak";
   return "other";
@@ -58,6 +64,11 @@ export const SERIES_META: Record<string, SeriesMeta> = {
     native: "ખોજ",
     blurb:
       "A bi-monthly Gujarati liberal periodical published from Vadodara under the 'Pahel: Initiative for Open Society', explicitly anchored in the thought of Karl Popper and Friedrich Hayek. The first sustained attempt to debate free markets, poverty, and open-society ideas in Gujarati print.",
+  },
+  "swatantra-newsletter": {
+    name: "Swatantra Newsletter",
+    blurb:
+      "The Swatantra Party's own newsletter, issued from its Bombay central office through the 1960s and into the 1970s: party circulars, conference reports, state-unit news and the leadership's running commentary on national politics, written for members rather than for the public.",
   },
   "indian-libertarian": {
     name: "The Indian Libertarian",

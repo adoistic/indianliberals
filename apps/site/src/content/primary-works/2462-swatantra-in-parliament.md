@@ -59,6 +59,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra in Parliament, No. 8 (July 25–September 10, 1966), records Swatantra Party interventions in the Lok Sabha and Rajya Sabha. The rendered pages cover the opening debates on a no-confidence motion and economic policy, including devaluation, planning, export duties, supplementary grants, appropriation, gold control, prices, and the beginning of the Constitution section. Across these proceedings, the contributors argue that inflation, fiscal deficits, foreign borrowing, excessive controls, public-sector expansion, and centralised planning have weakened India's economy and administrative institutions.
+  
+  The pages also show the party connecting economic policy to political accountability and civil liberty. Speakers criticise the Congress government's handling of corruption, emergency powers, food shortages, and opposition politics, while advocating reduced expenditure, monetary discipline, freer production and trade, repeal of restrictive controls, and a more realistic foreign policy. The remaining sections listed in the contents—including further constitutional, foreign-affairs, defence, law-and-order, elections, planning, education, social-welfare, and general debates—were not rendered.
 ---
-
-Archive item 2462. Scanned document from the Swatantra Party papers.

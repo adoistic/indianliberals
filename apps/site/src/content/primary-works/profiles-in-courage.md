@@ -14,7 +14,7 @@ publication:
   series_id: ccs-viewpoint
 summary: Profiles In Courage is an edited volume presenting the lives and ideas of seven Indian thinkers and political figures associated with the liberal tradition. Edited by Parth J Shah, the book examines C Rajagopalachari, Minoo Masani, N G Ranga, B R Shenoy, Piloo Mody, Khasa Subba Rau and A D Shroff. The profiles focus on their intellectual and political journeys and their opposition to the socialist direction taken by India after independence. The contributors draw on personal knowledge, memories and professional associations with the subjects to present their contributions to political and economic freedom.
 provenance: 
-  source: Centre for Civil Society
+  source: ccs_archive
 pdf_url: https://archive.indianliberals.in/liberals/profiles-in-courage.pdf
 authors: 
 - parth-shah

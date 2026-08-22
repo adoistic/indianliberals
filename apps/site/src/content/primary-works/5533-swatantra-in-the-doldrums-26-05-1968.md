@@ -44,6 +44,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This scanned portion of Weekend Review, dated May 25, 1968, brings together political commentary, literary criticism, and a short social column. D. R. Goyal examines the Swatantra Party's organisational crisis after electoral setbacks, focusing on centre-state tensions, factionalism, discipline, and disagreements over economic policy. Khushwant Singh surveys Japanese literature from classical poetry and Lady Murasaki to modern novelists, arguing that inherited literary conventions and commercial pressures constrain both Japanese and Indian writing. The pages also include an “At Home” column describing the Madras Chief Minister's international tour.
 ---
-
-Archive item 5533. Scanned document from the Swatantra Party papers.

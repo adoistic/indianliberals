@@ -55,6 +55,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The March 1965 issue of Swatantra Newsletter (No. 50) combines an organisational programme for the 1967 elections with reports on the Party’s General Council and National Executive, resolutions on foreign and domestic policy, public-meeting extracts, a Bihar reorganisation report, political-finance data, a message from the General Secretary, and a list of elected Council members. Its central concern is converting dissatisfaction with Congress rule into an effective national opposition through expansion, disciplined organisation, candidate recruitment, worker training, fundraising, and stronger national coordination.
+  
+  The issue presents Swatantra as a liberal-democratic alternative to Congress socialism and administrative centralisation. Its resolutions defend press freedom, criticise taxation, food controls and inflation, support anti-Communist positions in Southeast Asia, and call for a peaceful settlement in Nagaland. The public-meeting extracts sharpen the economic critique by linking rising prices, indirect taxation and state ownership to declining incentives and individual liberty.
 ---
-
-Archive item 333. Scanned document from the Swatantra Party papers.

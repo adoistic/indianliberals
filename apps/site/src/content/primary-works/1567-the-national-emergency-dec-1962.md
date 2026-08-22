@@ -50,6 +50,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The December 1962 issue of the Swatantra Newsletter (No. 29) presents the Swatantra Party's response to the Chinese offensive and the national emergency. Its lead statement calls for a more forceful military and diplomatic strategy, expanded defence production and supply, cooperation with friendly countries, improved relations with Pakistan and Nepal, and continued parliamentary scrutiny. The issue supports emergency measures for national defence but warns that fundamental rights, democratic processes, the rule of law, press access, and responsible opposition must not be unnecessarily curtailed. It also advocates banning the Communist Party of India under the Defence of India regulations and excluding Communists from joint defence committees.
 ---
-
-Archive item 1567. Scanned document from the Swatantra Party papers.

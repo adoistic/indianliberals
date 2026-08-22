@@ -54,6 +54,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 9, issued by the Central Office of the Swatantra Party in Bombay and dated August 1960, reports on the party's Central Organising Committee and General Council meetings held from 29 to 31 July. The issue presents the party's positions on the Government Employees' Strike, inflation, the Third Five-Year Plan, the next general elections, China and Tibet, the Assam crisis, and what it describes as threats to national unity and democracy. Its recurring argument is that Congress government has produced inflation, excessive centralisation, administrative failure, and restrictions on civil liberties, while the Swatantra Party advocates electoral competition, accountable government, economic restraint, and constitutional safeguards.
+  
+  A substantial part of the issue surveys party-building across the states. Reports from Andhra, Assam, Bihar, Bombay, Himachal Pradesh, Madras, Maharashtra, Mysore, Orissa, Punjab, Uttar Pradesh, and West Bengal describe membership drives, district committees, public meetings, conventions, legislative activity, and organisational difficulties. The newsletter combines promotional accounts of growing support with sharp criticism of Congress policies, socialism, planning, repression in Punjab, communal and linguistic violence in Assam, and administrative corruption. The issue is marked "For Private Circulation Only."
 ---
-
-Archive item 307. Scanned document from the Swatantra Party papers.

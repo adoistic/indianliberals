@@ -56,6 +56,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Issue No. 36 of the Swatantra Newsletter, dated August 1963, reports on the Swatantra Party’s central organisational decisions, parliamentary strategy, public meetings, and state-level activities. The issue foregrounds opposition to the Compulsory Deposit Scheme, the Gold Control Order, ministerial corruption, and the proposed Constitution (17th Amendment) Bill. It also records the Party’s support for democratic cooperation among opposition parties, including an electoral understanding in Punjab, while cautioning against participation in agitations that might benefit the Communists.
+  
+  The newsletter reproduces the Party’s resolutions on maintaining democratic processes and opposing the 17th Amendment, presenting the latter as a threat to fundamental rights and private landholding. It concludes with a membership-reorganisation scheme and reports from Bombay, Delhi, Kerala, Orissa, and Rajasthan, illustrating the Party’s efforts to expand its organisation and mobilise public opinion. The issue is issued by the Central Office of the Swatantra Party and marked for private circulation.
 ---
-
-Archive item 1525. Scanned document from the Swatantra Party papers.

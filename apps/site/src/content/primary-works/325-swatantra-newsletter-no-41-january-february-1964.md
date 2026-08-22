@@ -55,6 +55,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 41, issued by the Central Office of the Swatantra Party in Bombay in January–February 1964, reports on the Party's Third National Convention in Bangalore and its organisational, electoral, constitutional, economic, and foreign-policy positions. The issue presents the Convention's decision to transform the Swatantra Party from a mass organisation into an active members' and cadre-based party, while also recording committee appointments, electoral victories in Rajasthan, opposition activity in several states, and criticism of Congress administration and the Constitution (17th Amendment) Bill.
+  
+  The Convention resolutions defend civil liberties, property rights, judicial independence, federalism, electoral reform, and a limited but active state oriented toward abundance and self-help rather than expanding government power. They reject the continuation of the Emergency, criticise non-alignment and the handling of Communist China, oppose state monopoly of banking and coercive land collectivisation, and argue for competitive enterprise, reduced regulation, stable prices, and stronger state responsibilities. The final pages reproduce Minoo Masani's rejoinder concerning the Bandaranaike letter and the Colombo Conference proposals on the Sino-Indian boundary question. The issue is marked '(For Private Circulation)'.
 ---
-
-Archive item 325. Scanned document from the Swatantra Party papers.

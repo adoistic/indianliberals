@@ -60,6 +60,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 42, dated March 1964, presents the Swatantra Party’s criticism of the Union Budget, Congress economic planning, foreign-policy decisions, and restrictions on political liberty. The issue combines editorial commentary, party statements, correspondence between M. R. Masani and Lal Bahadur Shastri, reports from state assemblies, and extensive extracts from parliamentary speeches. Its central arguments favour economic growth, private enterprise, limited and accountable government, stronger protection for individual rights, and a more assertive foreign policy toward China and Pakistan.
 ---
-
-Archive item 1531. Scanned document from the Swatantra Party papers.

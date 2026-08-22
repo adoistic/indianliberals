@@ -51,6 +51,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This visible two-page section of MYSINDIA, dated May 28, 1972, presents two articles advancing a liberal critique of state-led economic policy. M. R. Masani argues that foreign aid, especially government-to-government aid, distorts economic incentives, strengthens Communist governments, and encourages socialism, statism, concentration of power, and waste in recipient countries. He instead advocates private foreign investment and suggests that aid should be withdrawn.
 ---
-
-Archive item 194. Scanned document from the Swatantra Party papers.

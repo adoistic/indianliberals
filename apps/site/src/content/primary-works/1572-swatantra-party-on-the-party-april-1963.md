@@ -56,6 +56,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 33, dated April 1963, is a 20-page English-language issue issued by the Central Office of the Swatantra Party in Bombay. Its central focus is the Party's opposition to the Union Budget, presented through parliamentary speeches, press extracts, public-meeting reports, state-party news, and reproduced debates. The issue argues that increased direct and indirect taxation, super-profits tax, compulsory deposits, price controls, and expanded public expenditure would burden consumers, wage-earners, cultivators, and industry while weakening savings, investment, production, and national defence. It also reports the Party's electoral activity, opposition to the Gold Control Order, criticism of compulsory 'voluntary' contributions to the National Defence Fund, and tributes to Rajendra Prasad.
+  
+  The reproduced parliamentary material broadens the critique into an argument about planning, state capitalism, administrative waste, emergency powers, and foreign policy. Speakers contend that Soviet-style planning and non-alignment have damaged economic development and national security, and several call for closer practical cooperation with Western democracies in the face of China. The issue repeatedly links economic liberty, constitutional rights, and political opposition: taxation and emergency regulations are portrayed as instruments that weaken personal freedom and democratic accountability. The final page reproduces Ludwig Erhard's statement that democracy and a free economy are logically linked.
 ---
-
-Archive item 1572. Scanned document from the Swatantra Party papers.

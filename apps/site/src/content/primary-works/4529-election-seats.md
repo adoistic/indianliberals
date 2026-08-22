@@ -49,6 +49,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  These rendered pages are partial Gujarati newspaper sheets from a 1969 issue of લોકસત્તા (Loksatta), with the date line apparently reading Wednesday, 28 May 1969. The pages combine political reporting, election-related commentary, a local-news item on election difficulties, commodity and share-market tables, and short commercial notices. Because the masthead, issue number, place of publication, and complete article boundaries are not visible, the issue cannot be identified more precisely from these pages alone.
 ---
-
-Archive item 4529. Scanned document from the Swatantra Party papers.

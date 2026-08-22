@@ -59,6 +59,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 74, issued by the National Headquarters of the Swatantra Party in June–July 1970, presents the party's constitutional, anti-communist, and economic-policy positions alongside reports of its activities across India. The issue opens with the creation of a non-partisan Fundamental Rights Front chaired by former Chief Justice K. Subba Rao, and argues for preserving constitutional rights, including property rights and access to the Supreme Court. It also reports on the party's support for American and South Vietnamese intervention in Cambodia, opposition to the official celebration of Lenin's centenary, and nationwide Anti-Naxalite Day meetings that depict Naxalite violence as a threat to democracy and public order.
+  
+  Further sections criticize Russian-aided public-sector undertakings through reported cost overruns, losses, delays, and excess technical-staff expenditure; defend privy purses and judicial consultation before constitutional amendment; and reproduce speeches and resolutions from the Swatantra convention in Orissa. These materials advocate private enterprise, agricultural and industrial development, rural electrification, limits on nationalisation, employment-oriented education, federalism, and resistance to central interference in state governments. Reports from party MPs and state units describe constituency work, welfare and irrigation initiatives, local organisation, election preparations, and opposition to proposed changes to Fundamental Rights. The closing “Is This Socialism?” column attacks ministerial salaries and privileges as inconsistent with socialist rhetoric, while the annexure supplies an organisational plan and a petition defending Articles 19, 31, and 32.
 ---
-
-Archive item 352. Scanned document from the Swatantra Party papers.

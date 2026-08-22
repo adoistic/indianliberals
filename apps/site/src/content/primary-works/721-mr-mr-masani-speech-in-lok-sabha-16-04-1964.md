@@ -50,6 +50,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The rendered pages from this 16 April 1964 issue of the IRTDA News Letter centre on the place of roads and road transport in India's economic development. They reproduce M. R. Masani's Lok Sabha speech criticizing inadequate road allocations, excessive taxation, restrictions imposed through the railways and Inter-State Transport Commission, and failures to meet automobile-production targets. Shri Raj Bahadur's reply accepts the importance of roads while defending government priorities, reporting road-building and vehicle-production achievements, and arguing that transport expansion must be balanced against foreign-exchange and planning constraints.
+  
+  The issue also includes a speech by Madras Chief Minister M. Bhakthavatsalam on road development, regional transport demand, coordination between central and state authorities, and the continuing need for railways alongside roads. The later rendered pages contain further Masani material attacking Soviet-influenced planning, heavy-industry investment, deficit finance, food controls, and the politicisation of cooperatives. Commercial advertisements for trucks, diesel engines, concrete journalism, and automotive components frame the issue as both an industry publication and a liberal critique of economic policy. Pages 21–27, including the unrendered end of the issue and imprint material, were not available.
 ---
-
-Archive item 721. Scanned document from the Swatantra Party papers.

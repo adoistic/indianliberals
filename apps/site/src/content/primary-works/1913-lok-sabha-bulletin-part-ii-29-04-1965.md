@@ -44,6 +44,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This Lok Sabha Bulletin—Part II issue, dated Thursday, April 29, 1965, records two parliamentary notices. Notice No. 1295 reports the election of 30 members to the Committee on Estimates for the term from May 1, 1965, to April 30, 1966. Notice No. 1296 reports the election of 15 members to the Committee on Public Accounts for the same term. The notices are presented in parallel English and Hindi pages, with the English pagination running from printed pages 1672 to 1674 and the Hindi pagination from 1673 to 1675.
 ---
-
-Archive item 1913. Scanned document from the Swatantra Party papers.

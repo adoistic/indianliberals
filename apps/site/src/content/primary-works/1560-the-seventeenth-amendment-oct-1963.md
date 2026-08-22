@@ -56,6 +56,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 38, issued in Bombay in October 1963, is dominated by opposition to the Constitution (Seventeenth Amendment) Bill. Its opening report presents the amendment as an attack on property rights, peasant independence, and constitutional safeguards, and records the Swatantra Party's decision to withdraw from parliamentary participation in the Joint Select Committee while campaigning publicly against the measure. Reports from Andhra, Bombay, Delhi, Madras, Orissa, Punjab, Rajasthan, Uttar Pradesh, and West Bengal describe meetings, petitions, conferences, and other mobilisation efforts by farmers and party units.
+  
+  The issue's parliamentary section reproduces speeches on the amendment, per-capita income and prices, the NEFA enquiry, defence preparedness, and foreign affairs. Across these interventions, speakers criticise Congress planning, collectivisation, retrospective legislation, weak defence administration, inflation, and what they regard as the doctrinaire application of non-alignment. The reproduced speeches repeatedly connect economic freedom and peasant ownership with constitutionalism, democratic consent, national security, and resistance to excessive executive power.
 ---
-
-Archive item 1560. Scanned document from the Swatantra Party papers.

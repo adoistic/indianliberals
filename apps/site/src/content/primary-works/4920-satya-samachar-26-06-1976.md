@@ -49,6 +49,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  SATYA SAMACHAR No. 2, dated June 25, 1976, is a mimeographed English-language issue focused on the first anniversary of India's Emergency. Its central argument is that detention without trial, torture, censorship, restrictions on civil liberties, pressure on the judiciary, and the concentration of power around Indira Gandhi and her family have displaced parliamentary democracy. The issue combines Jayaprakash Narayan's appeal to resistance, reports on prisoners and alleged abuses, reproduced statements from Amnesty International and the Congress (O), letters of support, political commentary, and accounts of arrests, hunger strikes, sterilisation policy, and press suppression.
 ---
-
-Archive item 4920. Scanned document from the Swatantra Party papers.

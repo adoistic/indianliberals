@@ -45,6 +45,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This single rendered page of the February 6, 1971 issue of March of the Nation carries A. G. Noorani’s article “What Is The Election For?” The article argues that elections should offer voters a meaningful choice in policies, not merely personalities, and criticizes the ruling Congress manifesto for vagueness, constitutional overreach, and an insufficiently clear programme. It also examines the fragmented opposition alliance, questioning whether the Swatantra Party, Congress-O, Jan Sangh, and the DMK can form a coherent alternative.
 ---
-
-Archive item 4458. Scanned document from the Swatantra Party papers.

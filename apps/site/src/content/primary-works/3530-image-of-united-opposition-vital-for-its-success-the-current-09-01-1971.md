@@ -43,6 +43,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  In the rendered pages, the cover presents an issue of The Current Weekly, an All India Edition identified as Vol. XXII, No. 19, for the week ending Saturday January 9. In the rendered pages, its principal feature is headlined “IMAGE OF UNITED OPPOSITION VITAL FOR ITS SUCCESS,” framing the issue around the political importance of opposition unity.
 ---
-
-Archive item 3530. Scanned document from the Swatantra Party papers.

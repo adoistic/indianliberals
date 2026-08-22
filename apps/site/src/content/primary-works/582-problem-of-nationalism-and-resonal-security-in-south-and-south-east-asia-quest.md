@@ -49,6 +49,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  QUEST No. 46, dated July/September 1965 and identified on the cover as a reprint, presents essays, current-affairs commentary, poetry, fiction, reviews, and correspondence. The contents page places debates about Indian tradition and modernity, democratic leadership, administration, social progress, nationalism, regional security, and the Dominican crisis alongside cultural and literary material. The rendered pages show the beginning and substantial continuation of M. R. Masani’s analysis of nationalism and security, followed by the opening of Theodore Draper’s account of the Dominican crisis; the other listed contributions were not rendered.
 ---
-
-Archive item 582. Scanned document from the Swatantra Party papers.

@@ -51,6 +51,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The rendered pages from FAR EAST TRADE, Volume 16, Number 1 (January 1961), combine commentary on the Commonwealth in Asia, reporting on international development finance, an extended examination of India's foreign-exchange difficulties, and analysis of the expansion of East-West trade. Across these pages, the issue links economic development to external finance, export performance, industrial planning, and the political conditions of cooperation between Western, Commonwealth, and Communist countries.
+  
+  The coverage is especially concerned with India's balance-of-payments crisis as the Third Five-Year Plan approaches. It reports weak tea and textile exports alongside stronger iron-ore and engineering exports, surveys proposed foreign-financed industrial projects and joint ventures, and presents statistical tables on India's trade. The issue also argues that Western Europe’s trade with the Sino-Soviet bloc was rising rapidly, while its commentary on the Commonwealth stresses East-West cooperation, Asian development, and recognition of China’s place in international affairs.
 ---
-
-Archive item 669. Scanned document from the Swatantra Party papers.

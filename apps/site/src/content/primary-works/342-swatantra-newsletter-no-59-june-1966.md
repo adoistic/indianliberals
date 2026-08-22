@@ -56,6 +56,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 59, issued by the Central Office of the Swatantra Party in June 1966, reports on the Party's central meetings in Bombay, organisational preparations for the 1967 elections, press reactions, Rajaji's public addresses, and the General Council's resolutions. The issue presents the Party as a constitutional and economic-liberal opposition to Congress rule, criticising emergency powers, the control-licence-permit-quota system, gold controls, nationalisation, excessive taxation, foreign borrowing, centralisation, and economic planning.
 ---
-
-Archive item 342. Scanned document from the Swatantra Party papers.

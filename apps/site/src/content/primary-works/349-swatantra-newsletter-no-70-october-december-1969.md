@@ -58,6 +58,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Issue No. 70 of the Swatantra Newsletter, dated October–December 1969, records the Swatantra Party’s organisational decisions, state-level political activity, economic arguments, and adopted resolutions. The issue combines reports of National Executive and General Council meetings with a detailed “Focus on Orissa,” M. R. Masani’s critique of Congress economic policy, opposition to ceilings on urban property, reports from state units, and a circular signed by R. C. Cooper defending property rights.
 ---
-
-Archive item 349. Scanned document from the Swatantra Party papers.

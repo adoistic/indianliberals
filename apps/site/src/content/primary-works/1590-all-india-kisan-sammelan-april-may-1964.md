@@ -53,6 +53,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 43, issued by the Central Office of the Swatantra Party in April-May 1964, combines party news, campaign reports, Kashmir commentary, election results, state-unit activities, and extracts from parliamentary speeches. The issue presents the party as an opponent of the proposed constitutional amendment affecting peasant rights, centralised planning, excessive controls, public-sector inefficiency, and inflationary fiscal policy, while advocating private enterprise, democratic planning, civil liberties, and a conciliatory settlement of the Kashmir question.
+  
+  The opening reports describe the All India Kisan Sammelan in Delhi, the party's opposition to the Seventeenth/Nineteenth Amendment Bills, and gains in the Rajya Sabha elections. Subsequent parliamentary extracts, especially from M. R. Masani, Prof. N. G. Ranga, Smt. Vijaya Raje, and Mr. Purshottam Bhil, criticise the licence-permit-quota system, state monopolies, budgetary deficits, high natural-gas prices, and weak administrative control over defence production. The issue also records party activity in Bombay and Mysore and pays tribute to the deceased Uttar Pradesh leader Raghavendra Pratap Singh.
 ---
-
-Archive item 1590. Scanned document from the Swatantra Party papers.

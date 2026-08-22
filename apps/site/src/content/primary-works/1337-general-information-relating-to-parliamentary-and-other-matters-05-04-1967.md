@@ -44,6 +44,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This issue of the Lok Sabha Bulletin—Part II, dated Wednesday, April 5, 1967, records parliamentary committee appointments and related nominations. Notices 76–84 list the personnel and chairpersons of the Business Advisory, Privileges, Absence of Members, Government Assurances, Petitions, Private Members’ Bills and Resolutions, Subordinate Legislation, House, and Rules Committees. Notice 85 nominates ten Lok Sabha members to the Joint Committee on Salaries and Allowances of Members of Parliament under the Salaries and Allowances of Members of Parliament Act, 1954.
 ---
-
-Archive item 1337. Scanned document from the Swatantra Party papers.

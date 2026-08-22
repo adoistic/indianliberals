@@ -49,6 +49,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This September 1974 issue of Freedom First, a journal of liberal ideas edited by M. R. Masani, is represented here chiefly by S. V. Raju’s account of the Swatantra Party’s dissolution. The issue’s contents box also announces pieces by Manohar Malgonkar and Pervin Mahoney, but those articles were not rendered in the supplied pages.
 ---
-
-Archive item 4364. Scanned document from the Swatantra Party papers.

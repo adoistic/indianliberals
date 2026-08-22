@@ -54,6 +54,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This issue of Liberal Times presents a case for rebuilding an organised liberal movement in India while also examining the historical and regional complexities of Jammu and Kashmir. S. V. Raju's cover story traces Indian liberal initiatives from nineteenth-century social reform and the National Liberal Foundation through the Swatantra Party and its decline, then outlines the proposed revival of the Indian Liberal Group. Its programme combines limited but capable government, economic liberalisation, social justice, decentralisation, active citizenship, freedom of speech, the right to information, and technological development. Balraj Puri's feature, which begins on printed page 44 and continues beyond the rendered pages, argues that Jammu and Kashmir must be understood through its distinct regional histories, identities, demographic composition, and political interests rather than through partisan claims alone.
 ---
-
-Archive item 4392. Scanned document from the Swatantra Party papers.

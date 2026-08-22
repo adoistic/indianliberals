@@ -53,6 +53,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This scanned section of The Illustrated Weekly of India, dated May 19, 1974, centers on Jayaprakash Narayan’s return to public activism and the debate over what kind of political change India required. Minoo Masani’s feature presents Narayan as a morally credible figure shaped by four overlapping commitments—freedom, patriotism, social justice, and religious or spiritual conviction—and traces his movement from Marxism and Congress Socialism toward Sarvodaya, Trusteeship, and democratic opposition. The pages also document his criticism of corruption, economic mismanagement, political opportunism, Naxalism, and the Congress government, including his emergence as the public face of Citizens for Democracy.
 ---
-
-Archive item 293. Scanned document from the Swatantra Party papers.

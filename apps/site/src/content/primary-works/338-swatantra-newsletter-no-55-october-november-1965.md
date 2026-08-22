@@ -61,6 +61,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Issue No. 55 of the Swatantra Newsletter, dated October–November 1965, records the party’s response to the economic crisis and the recent hostilities with Pakistan. Its central resolutions call for agricultural recovery through better credit, inputs, irrigation, freer grain markets, price support, reduced taxation and civil expenditure, and the dismantling of Permit-Licence Raj controls. The issue also advocates opposition to the Seventeenth Amendment, protection of property and federal rights, review of wartime detentions, and continued parliamentary criticism during an emergency.
+  
+  The foreign-policy material supports India’s defence effort while urging a more realistic diplomacy toward Pakistan, opposition to Communist China’s admission to the United Nations, recognition of the Republic of China in Taiwan, and the liberation of Tibet. Reports from state units describe party organisation, peasant protests, legislative opposition to taxation and food controls, and civil-defence activities. The issue closes with press commentary on the resolutions and Smt. Gayatri Devi’s reproduced address arguing that an opposition must defend individual freedom and democratic debate even during a national crisis.
 ---
-
-Archive item 338. Scanned document from the Swatantra Party papers.

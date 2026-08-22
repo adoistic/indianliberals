@@ -53,6 +53,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This June/July 1963 issue of the Swatantra Newsletter, issued by the party's Central Office in Bombay, presents the Swatantra Party's account of its victory in the Rajkot parliamentary by-election. The lead report attributes Minoo Masani's 14,000-vote majority over Congress to widespread public dissatisfaction with taxation, inflation, corruption, agricultural controls, the Gold Control Order, and the government's handling of Chinese Communist aggression. It emphasises the opposition's ability to unite locally, build an efficient campaign organisation, and challenge Congress's assumed electoral invincibility. Reproduced press comments from the Hindustan Standard, Indian Express, Times of India, The Hindu, Thought, and Statesman broadly interpret the result as evidence of changing voter opinion and a setback for Congress complacency.
 ---
-
-Archive item 1591. Scanned document from the Swatantra Party papers.

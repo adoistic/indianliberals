@@ -54,6 +54,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The January–February 1965 issue of Swatantra Newsletter (No. 49), issued by the Central Office of the Swatantra Party in Bombay, reports on party organisation, electoral activity, policy positions, and state-unit campaigns. It announces a forthcoming General Council meeting in Bombay, lists fourteen Swatantra candidates for the Kerala Assembly elections, and reproduces extracts from C. Rajagopalachari’s Kerala speeches. These extracts frame the Congress as politically exhausted and urge cooperation among anti-Congress groups against both Congress and Communist candidates.
+  
+  The issue presents the party’s opposition to centralised planning, taxation, controls, food-grain regulation, and state acquisition of agricultural land. Minoo Masani’s “If I Were Finance Minister?” proposes a holiday from planning, decontrol, and greater reliance on private enterprise in defence. Other sections criticise the Fourth Plan, advocate stronger military preparedness against China, question non-alignment, and report organisational developments in Andhra, Bombay, Gujarat, Kerala, Madras, and Mysore. A closing statement presents the Swatantra Party as a defender of consumers, free enterprise, individual rights, limited government, private agriculture, and democratic law.
 ---
-
-Archive item 1576. Scanned document from the Swatantra Party papers.

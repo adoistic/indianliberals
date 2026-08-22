@@ -54,6 +54,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The June 1964, No. 44 issue of the Swatantra Newsletter, issued by the Central Office of the Swatantra Party, is centered on opposition to the Constitution (17th Amendment) Bill, subsequently revived as the 19th Amendment Bill. Its reports present the measure as an attack on property rights, peasant proprietorship, fundamental rights, the Supreme Court, and constitutional procedure. Swatantra parliamentarians and party units argue that compulsory cooperative or collective farming would threaten small landholders, while the Government's use of a special parliamentary session and party whips is portrayed as a breach of democratic assurances. The issue records the Bill's adoption, the Party's voting opposition, petitions to the President, and Kisan Day protests across several States.
 ---
-
-Archive item 328. Scanned document from the Swatantra Party papers.

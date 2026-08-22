@@ -52,6 +52,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This July 1960 issue of the Swatantra Newsletter reports on the Swatantra Party's central meetings, public-aid work, student politics, and organisation across state units. It announces Central Organising Committee and General Council meetings in Bombay, including a ticketed open session, and describes the Public Aid Committee's legal-assistance committees in Punjab, Mysore, Madhya Pradesh, and Bombay. The issue also endorses the party's opposition to political activity among students and welcomes a University Grants Commission initiative to circulate its statement to Indian universities.
+  
+  The main body of the issue is a state-by-state account of membership drives, public meetings, constituency organisation, fundraising, and campaigns against government policies. Reports from Andhra, Assam, Bihar, Bombay, Gujarat, Madhya Pradesh, Madras, Maharashtra, Mysore, Punjab, and Rajasthan emphasise grassroots expansion and opposition to land-ceiling legislation, school-fee increases, and government handling of the Akali agitation. The issue presents the party as an increasingly active electoral organisation and closes with a detailed Punjab statement alleging arbitrary arrests, press restrictions, abusive detention practices, and police violence. It was issued by the Central Office of the Swatantra Party and marked for private circulation.
 ---
-
-Archive item 1543. Scanned document from the Swatantra Party papers.

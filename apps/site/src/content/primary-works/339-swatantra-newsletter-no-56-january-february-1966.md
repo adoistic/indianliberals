@@ -55,6 +55,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 56, issued in January–February 1966 by the Central Office of the Swatantra Party, is a party bulletin combining political commentary, organisational reporting, legislative activity, and policy advocacy. Its opening section, “A Month of Tragedy,” commemorates the deaths of Prime Minister Lal Bahadur Shastri, V. P. Menon, and Jathedar Udham Singh Nagoke, while also reproducing reactions to Shastri’s Tashkent Agreement and discussing the political succession that brought Indira Gandhi to the prime ministership. The issue presents the Congress leadership contest as a threat to parliamentary democracy and argues for stronger cooperation among democratic opposition parties, including discussion of Swatantra’s relations with the Jan Sangh.
+  
+  A major focus is opposition to state controls and excessive taxation. The newsletter reports campaigns against enhanced land and paddy levies, compulsory procurement, food-grain restrictions, and the Gold Control Act, presenting these measures as burdens on farmers, consumers, and business. It also covers the resignation of T. T. Krishnamachari following allegations of financial impropriety, prosecutions involving the journals Kalki and Swarajya, legislative interventions in Andhra and Orissa, drought relief, state-unit activity, recruitment, and constituency organisation. The General Secretary’s essay, “The Image of a Party,” stresses that sound policy, disciplined organisation, public relations, and credible political conduct must reinforce one another. The final private-circulation insert calls for an “Anti-Excessive Taxation Day” on February 20, 1966, demanding lower taxes, withdrawal of enhanced land levies, removal of food-grain movement restrictions, and repeal of the Gold Control Act.
 ---
-
-Archive item 339. Scanned document from the Swatantra Party papers.

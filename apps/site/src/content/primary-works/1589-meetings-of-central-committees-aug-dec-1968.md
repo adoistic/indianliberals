@@ -53,6 +53,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 65, issued by the Central Office of the Swatantra Party in Bombay and dated August/December 1968, resumes publication after a five-month pause and is largely devoted to the Party's Fifth National Convention. The issue also reports meetings of the Central Parliamentary Board, National Executive, and General Council, including preparations for mid-term elections, candidate selection, relations with the B.K.D., and the creation of a committee to prepare a mid-term report on the Party's achievements and future programme.
+  
+  The annexed resolutions present the Party's positions on floods, drought, Assam's reorganisation, a newspaper employees' strike, press controls in Andhra Pradesh, Soviet actions in Czechoslovakia and Tibet, Soviet arms for Pakistan, parliamentary conduct, student unrest, agriculture, rural indebtedness, and the Permit-Licence-Quota Raj. Across these pages, the newsletter links economic criticism of controls and planning with commitments to press freedom, constitutional rights, agricultural security, parliamentary standards, and an anti-Soviet foreign-policy stance. A memorial tribute to Murarji Vaidya describes his work for the Swatantra Party, the Forum of Free Enterprise, and Indian industrial development.
 ---
-
-Archive item 1589. Scanned document from the Swatantra Party papers.

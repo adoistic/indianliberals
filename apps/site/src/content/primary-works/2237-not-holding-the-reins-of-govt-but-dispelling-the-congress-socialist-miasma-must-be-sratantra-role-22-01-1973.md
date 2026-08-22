@@ -47,6 +47,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This two-page periodical issue, dated April 22, 1973, presents an unsigned editorial arguing that the Swatantra Party should not seek governmental office but should act as an opposition force against the Congress’s socialist direction. The editorial traces the party’s origins to C. Rajagopalachari’s 1959 break with Congress, criticises the Congress’s adoption of socialist language and policies, and urges Swatantra to defend economic freedom, private enterprise, lower taxation, reduced public expenditure, and opposition to nationalisation. It also argues that the party should reject alliances that compromise its anti-socialist identity while using the foodgrain-trade controversy to expose what it calls the failures of Congress socialism.
+  
+  The second page’s “From the Capital” department reports on Indira Gandhi’s handling of the Indo-Bangladesh initiative, foodgrain distribution, economic stagnation, the Pay Commission, civil-service remuneration, and relations with Pakistan and Bangladesh. The page combines political commentary with criticism of bureaucratic administration, government controls, public-sector priorities, and the continuing centralisation of political power around the Congress government.
 ---
-
-Archive item 2237. Scanned document from the Swatantra Party papers.

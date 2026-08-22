@@ -48,6 +48,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The May 12, 1964 issue of The Chaka, the bulletin of the Rotary Club of Calcutta, combines Rotary club administration with commentary on public affairs. Its principal political item, “Sri Minoo Masani Speaks Out,” reports Masani’s criticism of the Union budget, especially its tax burden, effects on savings and capital formation, and implications for private enterprise. The issue also includes Rotary notices, attendance statistics, committee information, a farewell to Rotarian F. H. Vallibhoy, a geographical feature on New Zealand, and announcements of forthcoming talks on industrialisation and Soviet education.
 ---
-
-Archive item 731. Scanned document from the Swatantra Party papers.

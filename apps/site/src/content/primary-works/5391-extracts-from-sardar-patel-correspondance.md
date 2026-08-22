@@ -46,6 +46,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  These rendered extracts from Durga Das's edited compilation of Sardar Patel's correspondence document Congress deliberations in 1945 over foreign-policy positioning, party leadership, Central Assembly nominations, constituency representation, and campaign finance. The letters show senior Congress figures balancing personal assessments of candidates against party discipline, regional and communal representation, electoral viability, and the organisation's public prestige.
 ---
-
-Archive item 5391. Scanned document from the Swatantra Party papers.

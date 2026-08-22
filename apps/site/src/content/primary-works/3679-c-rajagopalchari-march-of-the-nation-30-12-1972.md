@@ -49,6 +49,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This issue of March of the Nation, Vol. X No. 43, dated December 30, 1972, is centered on Indian political leadership, liberal constitutionalism, and the critique of socialist planning. Its principal memorial coverage commemorates C. Rajagopalachari (Rajaji), presenting him as an unusually independent, principled, intellectually rigorous, and democratically committed statesman. The issue also includes criticism of Soviet-style planning, a discussion of educational reform, commentary on Tamil Nadu politics, and tributes to Rajaji after his death.
 ---
-
-Archive item 3679. Scanned document from the Swatantra Party papers.

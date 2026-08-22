@@ -47,6 +47,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  In the rendered pages, the Swatantra Party Souvenir 1961 appears primarily as an illustrated institutional and commercial publication rather than a sequence of identifiable political essays. In the rendered pages, the cover identifies the Swatantra Party and the year 1961, while the interior is dominated by advertisements for Indian industrial, agricultural, engineering, textile, energy, transport, and consumer-goods enterprises. In the rendered pages, these advertisements present private enterprise, technological modernization, export production, mechanization, and industrial self-reliance as central to India's development.
 ---
-
-Archive item 1604. Scanned document from the Swatantra Party papers.

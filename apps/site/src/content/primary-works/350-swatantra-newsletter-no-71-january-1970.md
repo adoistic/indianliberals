@@ -52,6 +52,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This January 1970 issue of the Swatantra Newsletter reports on the Swatantra Party’s leadership transition, internal elections, organisational condition, and political programme. It reproduces M. R. Masani’s acceptance speech as party president, presents Rajaji’s call for disciplined and ethical political work, and records the composition and election of the party’s national and regional bodies. The issue combines organisational reporting with advocacy on property rights, opposition to Congress socialism and centralised controls, and arguments for clean administration and democratic cooperation.
 ---
-
-Archive item 350. Scanned document from the Swatantra Party papers.

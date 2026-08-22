@@ -45,6 +45,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This Times of India election feature, dated Wednesday, March 31, 1971, presents a statistical and visual overview of Lok Sabha elections from 1952 through 1971. Its opening comparative table records seats contested, seats won, valid votes, and vote shares for major parties, while the accompanying graphics illustrate the changing parliamentary balance and the 1971 distribution of seats and votes.
+  
+  The feature then provides state-level tables for Andhra Pradesh, Assam, Bihar, Gujarat, Haryana, Himachal Pradesh, Jammu and Kashmir, Kerala, Madhya Pradesh, Maharashtra, Mysore, Nagaland, Orissa, Punjab, Rajasthan, Tamil Nadu, Uttar Pradesh, West Bengal, and Delhi. These tables report electorates, votes polled, invalid votes, party contests, seats won, vote shares, and forfeiture of deposits. Supplementary material includes photographs from earlier elections, short profiles of newly elected Lok Sabha members, and advertisements, including a Fertilisers and Chemicals Travancore feature on domestic engineering and industrial planning.
 ---
-
-Archive item 2227. Scanned document from the Swatantra Party papers.

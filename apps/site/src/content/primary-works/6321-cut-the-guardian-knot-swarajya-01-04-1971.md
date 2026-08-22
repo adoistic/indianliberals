@@ -50,6 +50,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The two rendered pages from the May 1, 1971 issue of SWARAJYA combine editorial commentary with the opening of R. A. Gopalaswami’s article “Good Case for Reform of Electoral System.” The editorial notes address the diplomatic and administrative complications created by the appointment of Husain Ali as Pakistan’s Deputy High Commissioner in Calcutta, defend Minoo Masani’s resignation from the Swatantra Party presidency as an example of responsible leadership, and criticise proposed administrative and financial arrangements involving Tamil Nadu and local government bodies. A short item also reports concern about drug offences among U.S. Army personnel in Vietnam.
+  
+  In the rendered pages, Gopalaswami argues that the 1971 Lok Sabha election exposed structural weaknesses in India’s electoral system rather than proving the electorate’s ideological transformation. He contends that the first-past-the-post system disproportionately rewards larger parties, distorts the relationship between votes and seats, and obstructs the emergence of a viable two-party system. A table comparing the electoral strength of parties between 1967 and 1971 is used to question how the Congress victory should be interpreted, particularly given the losses suffered by several non-Congress parties.
 ---
-
-Archive item 6321. Scanned document from the Swatantra Party papers.

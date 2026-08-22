@@ -54,6 +54,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This June 1961 issue of the Swatantra Newsletter, issued by the Central Office of the Swatantra Party, presents the party as an expanding national opposition force. It reports a Gallup-affiliated urban opinion survey in which Swatantra ranked second to Congress in Lok Sabha and state-legislature voting intentions, ahead of several other parties, and argues that an effective national opposition to Congress could come only from Swatantra. The issue also celebrates the party's victory in the Nawapara constituency in the Orissa mid-term elections while criticising internal indiscipline and what it calls organisational self-deception.
+  
+  The issue combines political commentary with detailed state-by-state organisational reports from Andhra, Assam, Bihar, Bombay, Gujarat, Madhya Pradesh, Madras, Maharashtra, Mysore, Punjab, and Uttar Pradesh. Recurring concerns include preparations for the forthcoming general elections, constituency-level touring and meetings, party-building, opposition coordination, corruption allegations against Congress, and civil-liberty violations in Assam. Economic and ideological positions appear in discussions of the Third Five Year Plan, opposition to socialism and Soviet-style planning, the distinction between “Left” and “Right,” cooperative farming, communal-party legislation, and the party's stated commitment to liberal democracy, individual liberty, and freedom.
 ---
-
-Archive item 1509. Scanned document from the Swatantra Party papers.

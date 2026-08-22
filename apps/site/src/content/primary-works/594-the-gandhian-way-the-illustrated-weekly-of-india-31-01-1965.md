@@ -49,6 +49,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This January 31, 1965 feature in The Illustrated Weekly of India gathers a wide range of responses to five questions about Gandhi: whether he could have served as Prime Minister without compromising his principles; whether his personal morality was too demanding; whether non-possession and poverty conflict with modern ideas of progress and prosperity; how far independent India upheld his teachings; and whether non-violence remains relevant amid the nuclear threat. The contributors reach no single verdict. Many argue that Gandhi's uncompromising moral and political commitments would have made ordinary prime-ministerial office impossible, while others suggest that he might have served as a practical counsellor or adapted his methods without abandoning his essential principles.
 ---
-
-Archive item 594. Scanned document from the Swatantra Party papers.

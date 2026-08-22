@@ -45,6 +45,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The rendered pages contain M. R. Masani's argument that India's policy toward the 1967 Arab-Israeli conflict abandoned the impartiality and objectivity associated with non-alignment. Masani distinguishes India's positions before and after the war, criticises its support for Arab claims and its votes at the United Nations, and argues that the Government's conduct damaged India's credibility. The pages also include unrelated periodical material: a memorial notice for two deceased associates and a cartoon.
 ---
-
-Archive item 159. Scanned document from the Swatantra Party papers.

@@ -48,6 +48,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The rendered pages from the Swarajya Annual Number 1968 present a cluster of political, historical, and scientific articles. The principal contribution, M. R. Masani’s “Swatantra: the Credibility Gap,” examines the Swatantra Party’s declining organisational vitality, hesitation among prospective members, weak discipline, candidate selection, centralisation, and the challenge of building a trained cadre and grassroots infrastructure. Masani argues that the party’s constitutional and anti-statist principles require corresponding organisational seriousness and internal discipline.
+  
+  The pages also include a boxed reflection on two lessons from Gopal Krishna Gokhale’s life, linking public service to professional competence, moral seriousness, and spiritual purpose. Dr. Sir C. V. Raman’s “The Behaviour of Our Atmosphere” offers a scientific account of atmospheric motion, solar heating, atmospheric belts, trade winds, westerlies, and jet streams. No contents page or masthead is visible, so the complete issue’s article sequence and editorial framing cannot be reconstructed from these pages.
 ---
-
-Archive item 139. Scanned document from the Swatantra Party papers.

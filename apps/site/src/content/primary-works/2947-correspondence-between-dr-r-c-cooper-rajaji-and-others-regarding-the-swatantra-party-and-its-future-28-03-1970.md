@@ -49,6 +49,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This confidential 1972 dossier brings together five exchanges concerning the Swatantra Party’s electoral decline and future: Dr. R. C. Cooper’s letter to H. M. Patel, Rajaji’s rejoinder, Manu Amersay’s response, Cooper’s reply, and Madhu Mehta’s rejoinder. The correspondence debates whether the party should continue, merge with other opposition forces, dissolve, or pursue a more confrontational programme of direct action.
 ---
-
-Archive item 2947. Scanned document from the Swatantra Party papers.

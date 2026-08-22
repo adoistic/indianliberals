@@ -48,6 +48,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The 30 April 1961 issue of the IRTDA News Letter, published by the Indian Roads and Transport Development Association Limited, is centered on a parliamentary speech by M. R. Masani arguing that India’s road-building and road-transport policy is inadequate. Masani presents roads as essential to economic development and contends that government planning and budget allocations systematically favour railways. He cites deficiencies in the national-highway network, including unfinished bridges and missing links, inadequate two-lane carriageways, level crossings, and the shortage of passenger and goods vehicles. He proposes approaching the International Development Association for a loan to remedy the highway backlog.
 ---
-
-Archive item 5858. Scanned document from the Swatantra Party papers.

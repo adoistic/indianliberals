@@ -51,6 +51,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Issue No. 10 of the Swatantra Newsletter, dated September 1960, reports the Swatantra Party's nationwide Anti-Inflation Day, parliamentary interventions, organisational growth, and state-level political activity. The issue presents inflation, the Third Five Year Plan, land ceilings, centralised planning, and government expansion as threats to savings, enterprise, property, and economic independence. It also records party proposals on Kashmir, opposition to Chinese aggression, electoral mobilisation, and restrictions on corporate political donations.
+  
+  The newsletter documents meetings, processions, pamphlet campaigns, and party-building across Andhra, Delhi, Kerala, Madhya Pradesh, Madras, Maharashtra, Mysore, and Uttar Pradesh. It highlights speeches and interventions by C. Rajagopalachari, Minoo Masani, N. G. Ranga, K. M. Munshi, A. D. Shroff, and others, while presenting the Swatantra Party as an expanding parliamentary and grassroots opposition to Congress rule. The issue is issued by the Central Office of the Swatantra Party and contains no named individual author or editor.
 ---
-
-Archive item 1545. Scanned document from the Swatantra Party papers.

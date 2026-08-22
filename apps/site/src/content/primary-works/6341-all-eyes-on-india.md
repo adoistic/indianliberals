@@ -50,6 +50,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This rendered page from the English-language periodical Himmat, dated April 16, 1971, contains three unsigned editorials. “All eyes on India” discusses India’s position after elections amid violence in East Pakistan and insurgency in Ceylon, arguing that India’s democratic stability and efforts against poverty will affect peace in South Asia. It also highlights unemployment, cooperation between government and industry, educational policy, and the strategic importance of India’s north-eastern borders, including Meghalaya, Mizoram, Nagaland, Assam, and West Bengal.
+  
+  “Calley court martial” reflects on the trial of William Calley for the My Lai killings, presenting it as evidence of both American strength and moral weakness. It argues that the United States should reconsider its reliance on armed force and recover a more humane international role. “Refreshing” treats Minoo Masani’s resignation from the Swatantra Party as an example of political responsibility, contrasting it with the tendency to assign blame for organisational failure and praising his willingness to make way for new leadership.
 ---
-
-Archive item 6341. Scanned document from the Swatantra Party papers.

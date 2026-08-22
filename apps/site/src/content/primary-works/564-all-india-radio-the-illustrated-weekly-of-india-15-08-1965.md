@@ -45,6 +45,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This August 15, 1965 issue of The Illustrated Weekly of India includes the visible article “All India Radio” by Lionel Fielden and the opening portion of M. R. Masani’s contribution on broadcasting. In the rendered pages, Fielden argues that Indian broadcasting suffers from excessive state control, poor programming, inadequate reach, and excessive centralisation in Delhi. He compares All India Radio unfavourably with the BBC and proposes a semi-independent corporation organised around India’s linguistic and regional diversity. In the rendered pages, Masani approaches the subject as a listener and former broadcaster, criticising the dullness of programmes, the lack of creative initiative, and the bureaucratic organisation of AIR.
 ---
-
-Archive item 564. Scanned document from the Swatantra Party papers.

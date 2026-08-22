@@ -46,6 +46,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This single-page English newspaper clipping, headed “JANTAR MANTAR,” presents short political commentaries on parliamentary leadership, party fortunes, and women’s representation. “The Predecessor” sketches John Gorton’s rise to the Australian premiership and succession by William McMahon, while “Those Who Fell” reviews the defeat of prominent Indian politicians, including Ram Subhag Singh and Minoo Masani. The middle columns discuss the emerging “Grand Alliance,” parliamentary conduct, and the political prospects of Atal Bihari Vajpayee, Prakash Vir Shastri, and Charan Singh. “Ladies’ Exit” considers women’s declining presence in the Lok Sabha and notes several prominent women politicians. The clipping ends with the heading “Varahamihira,” but no substantive text under that heading is visible.
 ---
-
-Archive item 3439. Scanned document from the Swatantra Party papers.

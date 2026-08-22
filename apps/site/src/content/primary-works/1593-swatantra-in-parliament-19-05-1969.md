@@ -56,6 +56,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  In the rendered pages, this issue records Swatantra Party interventions in Parliament between March 25 and May 19, 1969, covering constitutional amendments, governors and Centre–State relations, judicial administration, privy purses, planning, taxation, public-sector performance, defence, education, and parliamentary procedure. In the rendered pages, the contributors consistently defend Fundamental Rights, constitutional checks, federal balance, administrative independence, fiscal restraint, and a mixed economy while criticizing the Congress government's policy reversals, centralized planning, deficit financing, public-sector inefficiency, and expanding taxation.
+  
+  In the rendered pages, the strongest economic argument concerns the draft Fourth Five-Year Plan and the 1969 Budget. Contributors argue that planning had produced rising prices, unemployment, stagnant living standards, and wasteful investment, especially in public enterprises, while agriculture and rural infrastructure remained neglected. In the rendered pages, the issue also presents parliamentary criticism of abolishing legislative councils, altering privy-purse commitments, weakening judicial independence, announcing policy outside the House, and concentrating power at the Centre. The full issue continues through printed page 50, which was not rendered here.
 ---
-
-Archive item 1593. Scanned document from the Swatantra Party papers.

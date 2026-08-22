@@ -59,6 +59,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  In the rendered pages, this Swatantra Party publication documents the opening proceedings of the party’s Third National Convention, held in Bangalore on February 1–2, 1964. In the rendered pages, the introduction presents the convention as a deliberately businesslike alternative to the ceremonial style of Congress meetings and as an effort to organise a credible political opposition during a period described as a national emergency. In the rendered pages, the report’s central concerns are individual freedom, opposition to socialism and excessive state control, economic prudence, constitutional rights, and the need for an effective party organisation.
 ---
-
-Archive item 1607. Scanned document from the Swatantra Party papers.

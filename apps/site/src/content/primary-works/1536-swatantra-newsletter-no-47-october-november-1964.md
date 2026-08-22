@@ -55,6 +55,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Issue No. 47 of the Swatantra Newsletter, dated October/November 1964, records the Swatantra Party’s parliamentary position, organisational activity, state-level campaigns, and selected speeches from the two Houses of Parliament. Its central political stance is to remain independent of the Communist opposition while withholding support from a premature no-confidence motion, judging the new Shastri Government by concrete policy changes rather than declarations. The issue repeatedly links food scarcity, rising prices, corruption, deficit financing, and restrictive controls to Congress economic policy and calls for administrative and policy reform.
+  
+  The newsletter also reports party restructuring in Bihar, committee resolutions on Malaysia, Soviet aid, corruption in Orissa, food policy, and the proposed coinage bearing Jawaharlal Nehru’s effigy. It highlights Swatantra conventions and farmer mobilisation in Madras and Saurashtra, activity in state units, and parliamentary arguments for agricultural priority, lower controls, coalition government, and a foreign policy more closely aligned with democratic countries. The annexure reproduces the Central Organising Committee’s Bihar decisions, while the supplement presents speeches by N. G. Ranga, P. K. Deo, Pravinsinh Solanki, Dahyabhai Patel, and Prof. Ruthnaswamy.
 ---
-
-Archive item 1536. Scanned document from the Swatantra Party papers.

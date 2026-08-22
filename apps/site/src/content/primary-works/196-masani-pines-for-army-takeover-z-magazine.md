@@ -51,6 +51,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This issue of 'Z' magazine from March 1974 includes a prominent interview with Minoo Masani by Farok Contractor, presented under the headline “Masani Pines For Army Takeover,” alongside other magazine material. In the rendered pages, the interview focuses on Masani’s opposition to Indira Gandhi’s government, his warnings about Communist infiltration of the armed forces, his criticism of planning and state capitalism, and his preference for a temporary patriotic military government over a Communist takeover. The issue also contains a review of Harvey Kornberg’s Victorian-themed book The Gentleman’s Alphabet Book.
 ---
-
-Archive item 196. Scanned document from the Swatantra Party papers.

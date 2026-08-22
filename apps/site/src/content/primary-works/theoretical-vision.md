@@ -16,7 +16,7 @@ summary: |
   
   A central concern running through the volume is the relationship between economic freedom, savings, monetary stability and economic development. Shenoy examines the limits of deficit finance and artificially created credit, arguing that lasting economic progress requires genuine savings and sound economic institutions. :contentReference[oaicite:4]{index=4}
 provenance: 
-  source: Centre for Civil Society publication
+  source: ccs_archive
 pdf_url: https://archive.indianliberals.in/liberals/theoreticalvision-final-1.pdf
 cover_image: https://archive.indianliberals.in/covers/theoretical-vision.png
 ---

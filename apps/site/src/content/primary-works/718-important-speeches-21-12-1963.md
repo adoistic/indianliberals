@@ -52,6 +52,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The supplied clippings from Current present M. R. Masani’s criticism of the Third Five Year Plan and the government’s economic management. In the rendered article pages, Masani argues that the Plan’s stated aims—greater savings and investment, higher productivity, and increased exports—are contradicted by weak implementation, falling industrial output, rising prices and taxes, inadequate employment, and low consumption. He attributes these failures to plans that disregard economic realities and to an over-centralised Planning Commission that duplicates the government’s role.
+  
+  In the rendered pages, Masani calls for a shift toward production guided by consumer needs, incentives, and decentralised decision-making. He contrasts India’s performance with Japan and Nationalist China, criticises the persistence of a Stalinist planning model, and warns that public patience is exhausted. The fourth rendered page is an unrelated advertisement page headed January 9, 1964, and does not form part of the speech clipping.
 ---
-
-Archive item 718. Scanned document from the Swatantra Party papers.

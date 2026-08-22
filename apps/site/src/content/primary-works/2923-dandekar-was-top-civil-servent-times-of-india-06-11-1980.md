@@ -48,6 +48,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This single rendered Times of India newspaper page, dated by handwritten annotation 6 November 1980 and carrying printed November 5 datelines, prominently reports the death of N. Dandekar, described as a former Swatantra Party Member of Parliament and a retired member of the Indian Civil Service. The obituary presents Dandekar as an accomplished administrator and industrialist who later entered politics, opposed floor-crossing and excessive controls, and advocated greater freedom of trade and equal opportunity. It also recalls his parliamentary career, contribution to coastal-cargo reservations, and participation in the 1953 Asian maritime conference.
+  
+  The page additionally contains short reports on a civic standing committee dispute, the backlog in Himachal Pradesh LPG orders, a fire in hutments, increased municipal water supply during Diwali, and the death of Marathi poet D. Shankarlal J. Powar. No formal masthead, issue number, or table of contents is visible, and the clipping includes handwritten archival annotations.
 ---
-
-Archive item 2923. Scanned document from the Swatantra Party papers.

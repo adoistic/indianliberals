@@ -61,6 +61,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The October–November 1965 issue of Swatantra Newsletter, issued by the Central Office of the Swatantra Party, records the Party’s National Executive resolutions and its organisational and legislative activity during the India–Pakistan conflict. Its central political stance is that defence cooperation should not suspend democratic opposition: the Party supports the war effort while continuing to challenge inflation, food controls, taxation, excessive regulation, non-productive expenditure, and restrictions on property and civil liberties. The issue advocates agricultural production, freer food markets, price support for farmers, repeal of the Seventeenth Amendment and Gold Control Act, reduced taxation, foreign investment, and dismantling the Permit-Licence Raj.
 ---
-
-Archive item 1551. Scanned document from the Swatantra Party papers.

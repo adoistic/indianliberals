@@ -45,6 +45,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The visible pages of this January 27, 1961 issue of The Eastern Economist contain Croesus’s article “Costs, Wages and Work-Loads,” focused on the financial pressures facing the Associated Cement Companies and on the effects of government policy on prices, wages, transport, and production. The article attributes rising costs to railway freight, coal and power, labour, depreciation, and capital expenditure, while arguing that official price-setting mechanisms fail to recognise the industry’s actual costs and production conditions.
 ---
-
-Archive item 667. Scanned document from the Swatantra Party papers.

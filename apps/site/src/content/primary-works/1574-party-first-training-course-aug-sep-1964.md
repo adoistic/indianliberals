@@ -52,6 +52,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Issue No. 46 of the Swatantra Newsletter, dated August/September 1964, reports on the party’s first organiser-training course, the food scarcity and high-price crisis, internal action against the Bihar unit, activity in state parties, and a supplement on inflation by Dahyabhai V. Patel. Across these items, the newsletter links economic difficulties to agricultural and planning policy, monetary expansion, public debt, price controls, and administrative failure.
 ---
-
-Archive item 1574. Scanned document from the Swatantra Party papers.

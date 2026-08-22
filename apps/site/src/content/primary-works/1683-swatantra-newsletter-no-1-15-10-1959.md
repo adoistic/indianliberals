@@ -53,6 +53,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The first issue of the Swatantra Party's monthly newsletter, dated 15 October 1959, reports on the rapid formation of provincial and district organisations across India. It records mergers, conventions, membership campaigns, public meetings, regional committees, and efforts to produce membership forms and statements of principles in English and Indian languages. The issue also stresses the need for fundraising and urges provincial units to concentrate recruitment among salaried people affected by inflation, small cultivators, and small urban traders.
+  
+  The newsletter presents the party as a defender of individual freedom, private initiative, competitive enterprise, and the cultivator's ownership of land. Its political material answers Prime Minister Jawaharlal Nehru's criticisms by rejecting centralised planning, excessive state power, compulsory co-operative farming, high taxation, deficit financing, and bureaucratic expansion. It also highlights the party's international outreach through Minoo Masani and Liberal International. The issue contains organisational reports, a speech by Sir Homi Mody, C. Rajagopalachari's reply to Nehru, Professor M. Ruthnaswamy's travel report, and Shri Nagoke's resignation letter; no formal editor or issue-level author is named.
 ---
-
-Archive item 1683. Scanned document from the Swatantra Party papers.

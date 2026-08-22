@@ -48,6 +48,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Election Results presents five assessments of India's Third General Election by contributors associated with the Congress, Praja-Socialist Party, Jana Sangh, Swatantra Party, and academic political analysis. Across the visible essays, the contributors examine the Congress's continued dominance, the growth of opposition parties, the effects of caste, communal affiliation, local influence, money, and organisational resources, and the implications of these results for Indian democracy.
 ---
-
-Archive item 627. Scanned document from the Swatantra Party papers.

@@ -50,6 +50,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This issue of Swiss Press Review and News Report, published in Berne on November 27, 1967, contains the visible articles “Whither India?” by Minoo Masani and “Political Development in Mali” by Jacques Lefert. The issue’s editorial perspective is concerned with democratic institutions, economic stagnation, inflation, party politics, Communist influence, and military intervention in post-colonial states.
 ---
-
-Archive item 143. Scanned document from the Swatantra Party papers.

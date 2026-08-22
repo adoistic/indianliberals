@@ -51,6 +51,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This English-language booklet presents selected Swatantra Party interventions in the Lok Sabha and Rajya Sabha, including parliamentary questions, ministerial replies, speeches, and proposed amendments. The material covers requisitioning and acquisition of property, the distribution of excise duties, the rupee and foreign exchange, exports, the Bokaro Steel Plant, Soviet trade routes, family planning, and the President’s Address. Its recurring argument is that government policy should respect property rights, fair fiscal allocation, procedural safeguards, economic accountability, and constitutional limits.
+  
+  The opening article, “Swatantra Unites Parliament Against Government,” treats opposition to requisitioning powers as a parliamentary success, while the reproduced questions scrutinize export performance, industrial administration, Indo-Soviet arrangements, and alleged administrative failures. The final page’s interventions by Lobo Prabhu and other members connect fiscal policy and population policy to distributive justice, and condemn the President’s Address for complacency about economic conditions, violence, regional cooperation, and Chinese occupation. The booklet is explicitly marked “For Private Circulation only” and was published by Piloo Mody on behalf of the Swatantra Party—in Parliament.
 ---
-
-Archive item 1592. Scanned document from the Swatantra Party papers.

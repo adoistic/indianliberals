@@ -53,6 +53,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 71, issued by the Swatantra Party in January 1970, combines party news, organisational reports, political statements, and advocacy. The issue celebrates C. Rajagopalachari's ninety-second birthday, reproduces Minoo Masani's acceptance speech as party president, reports the December 1969 organisational elections, and presents the party's opposition to the proposed removal of the constitutional right to property. Its political position is framed around economic liberty, constitutional democracy, opposition to centralised planning and permit-licence controls, and the formation of a broader democratic opposition to Indira Gandhi's government.
 ---
-
-Archive item 1584. Scanned document from the Swatantra Party papers.

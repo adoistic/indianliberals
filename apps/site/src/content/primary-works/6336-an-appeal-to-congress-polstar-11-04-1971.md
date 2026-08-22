@@ -45,6 +45,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This unsigned English editorial in the 11 April 1971 issue of POLSTAR addresses Congress(O) after its poor performance in the mid-term poll. It praises M. R. Masani's resignation as an act of accountability and urges the party's leaders to undertake self-examination rather than continue factional disputes and peripheral political campaigns. The editorial calls for stronger engagement with the rank and file, a leadership committed to socialism and the party's ten-point programme, and the election of Dr. Ram Subhag Singh as president.
 ---
-
-Archive item 6336. Scanned document from the Swatantra Party papers.

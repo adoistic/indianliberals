@@ -48,6 +48,10 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The rendered extract from Extracts from Sardar Patel's Correspondence, 1945-50, Volume 2, edited by Durga Das, brings together correspondence from October to December 1945 concerning Congress organisation, candidate selection, and relations with major political figures. Jawaharlal Nehru objects to Sarat Chandra Bose's public criticism of Chiang Kai-shek, while Maulana A.K. Azad questions the Congress candidacy of Dr. G.V. Deshmukh on grounds of alleged indiscipline and earlier criticism of Mahatma Gandhi.
+  
+  The remaining rendered letters focus on the selection of Congress candidates for the Central and Provincial Assemblies. Vallabhbhai Patel discusses competing claims for the Central Assembly leadership, the candidacies of Asaf Ali, Sarat Bose, Professor K.T. Shah, Dr. Jivraj Mehta, Dr. Deshmukh, and M.R. Masani, and the practical importance of regional and community representation in Bombay. The correspondence also addresses campaign finance and the expectation that Congress candidates and organisers should maintain the party's prestige. The pages shown are selected extracts from a larger correspondence volume rather than a complete formal contents sequence.
 ---
 
 ## Key points

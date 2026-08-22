@@ -190,7 +190,15 @@ def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):
     proposed += list(dig(summ, "summary_structured.theme_proposed_new") or [])
     proposed = list(dict.fromkeys(proposed))
 
+    # A multi-item work — a newsletter issue, a periodical, an edited volume —
+    # comes back as `volume_summary` plus `essays_summarized[]` rather than a
+    # flat `summary`. Reading only `summary` silently produced an entry with no
+    # prose at all: 318 Swatantra works, most of them Swatantra Newsletter
+    # issues, rendered as a bare PDF link. The summary was extracted and paid
+    # for; the merge was dropping it on the floor.
     summary_text = summ.get("summary") if isinstance(summ.get("summary"), str) else None
+    if not summary_text and isinstance(summ.get("volume_summary"), str):
+        summary_text = summ["volume_summary"]
     flags = list(meta.get("missing_metadata_flags") or [])
     if title_supplied and "title_not_printed" not in flags:
         flags.append("title_not_printed")

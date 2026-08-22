@@ -52,6 +52,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This issue of THE AFTERNOON DESPATCH & COURIER, dated 17 September 1987, includes two related reports on challenges to the government’s control of broadcasting. “Govt. in a tight spot” describes a proposed legal challenge by Minoo Masani and P. C. Chatterjee to the state monopoly over radio and television, while “Centre’s control of AIR, TV contested” reports the Bombay High Court petition through which the challenge was pursued. The pages also contain unrelated advertising, cartoons, photographs, and market or financial material.
 ---
-
-Archive item 2261. Scanned document from the Swatantra Party papers.

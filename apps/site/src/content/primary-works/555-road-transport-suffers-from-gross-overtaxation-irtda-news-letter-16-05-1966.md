@@ -49,6 +49,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The 16 May 1966 issue of the IRTDA News Letter (Vol. XXXV, No. 9) combines advocacy for road transport with parliamentary extracts, association representations, infrastructure updates, indexes to earlier issues, and commercial advertising. Its central editorial concern is that excessive taxation, inter-State tax multiplicity, restrictive weight limits, and railway controls are making road transport unviable or more expensive than necessary. The issue presents Minoo Masani’s Lok Sabha intervention as a call for remedial measures, including cancellation of railway circulars that restrict long-distance road operations and withdrawal of Punjab’s additional levy on goods transport.
+  
+  The issue also argues for a more deliberate tourism policy, treating tourism as an export industry capable of earning foreign exchange, and advocates an autonomous authority with substantial private-sector participation rather than bureaucratic control. Later pages report IRTDA efforts to relax weight restrictions and establish single-point taxation in the eastern region, while parliamentary answers cover highways, bridges, flood control, canals, ports, Kerala’s roads, and transport access in Malabar. Advertisements for tyres, trucks, vehicle parts, road carriers, soil-cement, bitumen testing, and insurance situate the newsletter within the commercial road-transport sector.
 ---
-
-Archive item 555. Scanned document from the Swatantra Party papers.

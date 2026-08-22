@@ -61,6 +61,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Newsletter No. 2, issued by the Swatantra Party's Central Organising Committee on 24 November 1959, reports on the party's rapid organisational expansion across India. State-by-state notices describe membership drives, district and constituency committees, conventions, public meetings, women's committees, legal-grievance bureaux, fundraising initiatives, and proposed village-level structures. The reports particularly emphasise the merger of the Democratic and Janata parties with Swatantra in Andhra and Bihar, the creation of local units in Maharashtra and Madhya Pradesh, and extensive organising activity in Madras, Uttar Pradesh, Punjab, Gujarat, West Bengal, and other regions.
+  
+  The issue also reproduces questions and answers on party administration, finance, membership, and restrictions on circulation; selected press reports; a proposal by Rajaji for non-aligned governments to oppose nuclear warfare; resolutions adopted at the Madras Convention; and speeches by Minoo Masani and K. M. Munshi. Across these materials, the party presents itself as a defender of individual initiative, private enterprise, peasant and artisan independence, property rights, civil liberties, constitutional democracy, and non-alignment, while attacking Congress centralisation, state trading, deficit financing, foreign borrowing, cooperative farming imposed through state power, and the expansion of bureaucracy. The issue is explicitly marked for party members only and not for publication.
 ---
-
-Archive item 300. Scanned document from the Swatantra Party papers.

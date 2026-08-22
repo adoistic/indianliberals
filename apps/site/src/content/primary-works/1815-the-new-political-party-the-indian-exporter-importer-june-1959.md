@@ -46,6 +46,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The June 1959 issue of The Indian Exporter and Importer presents itself as a Bombay-based trade periodical combining editorial commentary, export and import information, tariff and customs notices, planning analysis, and business opportunities. The contents page lists articles on South-East Asia, Anglo-Russian trade, Soviet planning, Japanese export goods, GATT, India's Third Plan, and British industry, but those articles are not included in the rendered pages.
 ---
-
-Archive item 1815. Scanned document from the Swatantra Party papers.

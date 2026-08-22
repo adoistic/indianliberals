@@ -52,6 +52,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The February 1961 issue of Swatantra Newsletter (No. 15), issued by the Central Office of the Swatantra Party in Bombay, combines organisational notices, parliamentary preparations, a statement by Prof. N. G. Ranga on the detention of the Bastar Maharaja, and extensive reports from state party units. The issue records new appointments to the Central Organising Committee, the creation of a Parliamentary Sub-Committee for candidate selection and election planning, and party-building activity across Andhra, Assam, Bihar, Bombay, Gujarat, Madhya Pradesh, Madras, Maharashtra, Mysore, Orissa, Punjab, and Uttar Pradesh.
 ---
-
-Archive item 1505. Scanned document from the Swatantra Party papers.

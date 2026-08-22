@@ -57,6 +57,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This issue of the Swatantra Newsletter (No. 57, March–April 1966) presents the Swatantra Party’s response to the Union Budget and its preparations for the coming elections. Its central political message is opposition to what it calls excessive taxation, inflationary policy, land and paddy levies, food-grain controls, the Gold Control Act, and restrictions on the movement of food. The issue reports the Party’s Anti-Excessive Taxation Day on 20 February 1966, which it describes as a nationwide campaign involving meetings, processions, petitions, demonstrations, publicity material, and signature campaigns. It also records the Party’s demand for the withdrawal of Emergency provisions and the creation of a caretaker government before the General Elections.
+  
+  The newsletter combines party organisation with political advocacy. It reports Central Parliamentary Board decisions on opposition unity, electoral adjustments, candidate selection, Rajya Sabha contests, disciplinary action against nine Uttar Pradesh legislators, and the training of volunteer leaders. Its state-unit reports describe campaigns in Andhra, Assam, Bihar, Gujarat, Kerala, Madras, Mysore, Orissa, Punjab, Rajasthan, and Uttar Pradesh. Other features defend the Party’s conduct in Bihar, outline its electoral strategy, attack Soviet influence over Indian communists, and reproduce speeches by N. Dandeker, R. C. Cooper, and C. R. Irani criticising the 1966–67 Budget for increasing indirect taxation and failing to promote production, savings, and investment. The final rendered pages include Annexure A’s reports on Anti-Excessive Taxation Day and the beginning of Annexure B; the issue continues beyond the pages shown.
 ---
-
-Archive item 340. Scanned document from the Swatantra Party papers.

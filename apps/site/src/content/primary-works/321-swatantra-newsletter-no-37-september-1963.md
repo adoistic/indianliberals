@@ -58,6 +58,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 37, issued in September 1963 by the Central Office of the Swatantra Party, is dominated by opposition to the proposed Seventeenth Amendment to the Constitution. The issue argues that the Bill would weaken Fundamental Rights, remove effective judicial review, permit land acquisition without fair compensation, and facilitate state-directed collectivisation of agriculture. Reports describe a nationwide campaign involving agricultural conferences, peasant meetings, petitions, public lectures, post-card protests, and coordinated activity by Swatantra units in Andhra Pradesh, Punjab, Mysore, Gujarat, Madras, Delhi, Orissa, and Rajasthan. The Southern States’ Convention resolution similarly calls for withdrawal of the Bill, presenting it as a threat to property, constitutional liberty, and democratic government.
 ---
-
-Archive item 321. Scanned document from the Swatantra Party papers.

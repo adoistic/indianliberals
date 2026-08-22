@@ -47,6 +47,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This 4 January 1971 issue of the Indian Express includes prominent political coverage of negotiations among Congress (O), the Swatantra Party, and the Jana Sangh to create a joint electoral front against the Congress government led by Indira Gandhi. The reports describe disagreements over whether the alliance should be based merely on seat adjustments or on a common programme, with Swatantra Party chairman Minoo Masani withdrawing from the talks and criticizing what he called the Old Congress’s vacillation. Continuation coverage records Atal Bihari Vajpayee, Raj Narain, and M. R. Masani debating the need for a broader democratic alternative.
 ---
-
-Archive item 3466. Scanned document from the Swatantra Party papers.

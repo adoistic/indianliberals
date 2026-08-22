@@ -50,6 +50,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Issue No. 13 of the Swatantra Newsletter, dated December 1960, reports on C. Rajagopalachari’s tour of Gujarat, Maharashtra, and Belgaum; celebrations marking the Swatantra Party’s Flag and Founder’s Day; parliamentary interventions by Minoo Masani and M. J. Mohammed Imam; and disputes involving preventive detention, civil liberties, Punjab reorganisation, and the Bastar ruler’s treatment by the Madhya Pradesh government. The issue presents the Swatantra Party as an electoral opposition to Congress, criticising one-party dominance, state controls, cooperative farming, land-ceiling legislation, and non-alignment while advocating individual freedom, limited regulation, and constitutional government.
 ---
-
-Archive item 1503. Scanned document from the Swatantra Party papers.

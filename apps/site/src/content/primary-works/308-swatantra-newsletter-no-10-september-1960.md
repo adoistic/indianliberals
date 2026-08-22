@@ -53,6 +53,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This September 1960 issue of the Swatantra Newsletter, issued by the Central Office of the Swatantra Party in Bombay for private circulation, reports on the party's anti-inflation campaign, parliamentary interventions, foreign-policy positions, organisational expansion, and state-level activities. The opening report describes public meetings, processions, leaflet distribution, and petitions held across India on Anti-Inflation Day, presenting inflation as a consequence of government policy and the Third Five-Year Plan. The issue also records criticism of repression in Punjab, opposition to the prevailing model of economic planning, proposals for disengagement of Indian and Pakistani forces along the Kashmir cease-fire line, and the party's preparations for the 1962 elections.
 ---
-
-Archive item 308. Scanned document from the Swatantra Party papers.

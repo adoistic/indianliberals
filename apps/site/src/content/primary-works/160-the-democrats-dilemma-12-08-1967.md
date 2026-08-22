@@ -48,6 +48,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This rendered page from the August 12, 1967 issue of Swarajya carries M. R. Masani's article “The Democrat's Dilemma.” Masani argues that India's democratic and national security problems are connected: communist insurgency and external subversion threaten independence, while Congress governments' economic failures and political drift have weakened public confidence. He calls for a clear anti-communist response, including the removal of Communist ministers from the West Bengal cabinet and a political alternative to Congress rule.
 ---
-
-Archive item 160. Scanned document from the Swatantra Party papers.

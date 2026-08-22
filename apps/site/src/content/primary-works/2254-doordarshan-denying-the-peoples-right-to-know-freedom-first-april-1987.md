@@ -45,6 +45,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The April 1987 issue of Freedom First (No. 393), presented as a quarterly of liberal ideas, contains the article “Doordarshan – Denying the People’s Right to Know.” The article argues that an informed public and meaningful democratic participation depend on free, fearless media, and it treats television as a powerful supplement to the press. Its criticism of Doordarshan focuses on political favouritism, excessive attention to ministers and the Prime Minister, suppression or omission of inconvenient news, weak regional coverage, poor background reporting, and the absence of institutional autonomy from government.
+  
+  The article draws on a study by the Indian Committee for Cultural Freedom and the Indian Liberal Group, citing examples from 1986 news broadcasts: the omission of the Arwal massacre and Chinese intrusion in Arunachal Pradesh, inadequate reporting of economic issues, and selective coverage of political and criminal events. It argues that government control produces censorship and “convenient” news, and concludes that broadcasting autonomy and competition are necessary for accurate, relevant information and public accountability. The article also invokes Francis Williams’s discussion of television, Anil Dharker’s criticism of Doordarshan, an Akash Bharati report, and William Rivers, Theodore Peterson, and Jay Jensen’s account of the mass media.
 ---
-
-Archive item 2254. Scanned document from the Swatantra Party papers.

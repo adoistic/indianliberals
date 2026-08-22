@@ -50,6 +50,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This issue of the Swatantra Newsletter, issued by the National Headquarters of the Swatantra Party, records party decisions, legislative strategy, state-level political developments, policy positions, international political events, and parliamentary seat figures. The rendered pages show the party responding to the Rabat Conference controversy, opposing governmental controls over cement and freight, maintaining a cautious position on participation in state governments, and reviewing its mid-term political performance. A later section reports constitutional, electoral, and governmental developments across India and abroad, although the scanned material is internally inconsistent with the cover date and contents pagination.
 ---
-
-Archive item 1585. Scanned document from the Swatantra Party papers.

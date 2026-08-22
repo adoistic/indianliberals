@@ -43,6 +43,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This two-page issue of OPINION, dated April 2, 1968, presents an unsigned article titled “PROMISE—SOLEMN OBLIGATION OR CONVENIENT DEVICE?” The article defends the political seriousness of keeping promises and treats resignations by Swatantra Party leaders Bhailalbhai, Jaideepsingh, and Minoo Masani as an act of atonement for a broken commitment concerning Babubhai Vaidya’s candidacy for the Rajya Sabha in Gujarat.
 ---
-
-Archive item 5626. Scanned document from the Swatantra Party papers.

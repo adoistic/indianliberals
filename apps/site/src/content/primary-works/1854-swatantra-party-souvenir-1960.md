@@ -49,6 +49,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  In the rendered pages, the 1960 Swatantra Party Souvenir presents itself as a bilingual Hindi-English party publication combining political and cultural material with an extensive commercial advertising section. The visible Hindi contents page lists contributions on the need for the Swatantra Party, Indian history and nationalist poetry, Kunwar Singh, Gandhi in Bihar, prison experience, students and politics, a story, and a diary. The cover identifies the issuing organisation as the Swatantra Party and dates the souvenir to 1960.
+  
+  In the rendered pages, the advertising section links the party souvenir to contemporary narratives of agricultural modernisation, industrial expansion, banking, insurance, mining, engineering, food processing, consumer goods, and infrastructure. Advertisements promote tractors and agricultural equipment, Hungarian industrial machinery, insurance companies, banks, coal and mineral enterprises, land reclamation, sugar production, diesel engines, air-conditioning, and packaged fruit products. The supplied pages do not include the substantive text of any listed essay, poem, story, or diary entry.
 ---
-
-Archive item 1854. Scanned document from the Swatantra Party papers.

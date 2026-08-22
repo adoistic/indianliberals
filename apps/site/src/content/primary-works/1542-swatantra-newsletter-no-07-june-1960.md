@@ -53,6 +53,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The June 1960 issue of Swatantra Newsletter (No. 7), issued by the Central Office of the Swatantra Party in Bombay, combines party guidance, political commentary, and reports from state organisations. It stresses the need for disciplined internal administration: clear organisational structures, defined responsibilities, membership registers, constituency committees, regular reporting, district offices, public meetings, and systematic recruitment. The state reports show the party extending its organisation across Andhra, Assam, Bihar, Bombay, Delhi, Kerala, Madhya Pradesh, Maharashtra, Mysore, Punjab, Uttar Pradesh, and West Bengal.
 ---
-
-Archive item 1542. Scanned document from the Swatantra Party papers.

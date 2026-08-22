@@ -60,6 +60,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This March 1964 issue of the Swatantra Newsletter presents the party's critique of the Union Budget, Congress economic planning, and the government's conduct in Parliament and the states. Its economic argument rejects both laissez-faire and indiscriminate state planning, instead advocating production-led development, a larger role for private enterprise, fewer controls, lower and more rational taxation, stable prices, agricultural incentives, and protection for individual and property rights. The issue also reproduces correspondence between M. R. Masani and Lal Bahadur Shastri concerning an assurance to Ceylon's Prime Minister, Sirimavo Bandaranaike, about Indian troop movements up to the McMahon Line.
 ---
-
-Archive item 326. Scanned document from the Swatantra Party papers.

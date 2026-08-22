@@ -59,6 +59,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The August/September 1967 issue of Swatantra Newsletter (No. 62), issued by the Central Office of the Swatantra Party, reports the party's parliamentary positions, state-level political activity, policy arguments, and organisational developments. Its central concerns are constitutional government, individual liberty, opposition to Communist and statist politics, private enterprise, administrative reform, and the party's effort to distinguish opposition to state control from opposition to labour.
 ---
-
-Archive item 1546. Scanned document from the Swatantra Party papers.

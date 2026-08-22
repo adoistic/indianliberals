@@ -48,6 +48,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This Italian-language periodical issue presents India through a liberal and anti-authoritarian lens, with its principal feature devoted to Jayaprakash Narayan's emergence as the leader of the Citizens for Democracy movement. The issue links Narayan's political return to Gandhian nonviolence, critiques communist and nationalist authoritarianism, and includes biographical recollections of his relationships with Gandhi, Marxism, and the Congress movement. The visible pages also contain economic commentary on demand management, unemployment, fertilizer shortages, and agricultural markets, alongside a geopolitical column on Europe's political centrality and international affairs.
 ---
-
-Archive item 299. Scanned document from the Swatantra Party papers.

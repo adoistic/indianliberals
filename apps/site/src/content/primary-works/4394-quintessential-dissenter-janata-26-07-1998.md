@@ -49,6 +49,6 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  The rendered pages from JANATA dated July 26, 1998 contain a biographical tribute to Minoo Masani, a recurring “I Believe ...” feature presenting Masani’s views on humanism, ethics, liberty, and social justice, and a memorial piece for Manjula Bhide. The pages also include a short “Snippets” tariff-plan page. Because no formal table of contents or masthead is visible, the contributions are identified here by their printed titles and visible bylines.
 ---
-
-Archive item 4394. Scanned document from the Swatantra Party papers.

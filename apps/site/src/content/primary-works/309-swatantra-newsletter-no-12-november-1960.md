@@ -55,6 +55,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  Swatantra Newsletter No. 12, issued by the Central Office of the Swatantra Party in November 1960, combines party communications, political commentary, publication notices, and reports from state units. The opening pages explain the symbolism of the Party's white-star flag, commemorate Flag and Founder's Day, review press reactions to the Party's Punjab Enquiry Committee report, and report on Rajaji's Kerala tour and Professor N. G. Ranga's birthday. The issue also advertises pamphlets criticising Congress labour policy and the Third Plan.
+  
+  The state-party reports document organisational expansion, membership drives, conventions, public meetings, election preparation, and relief work across Andhra, Bihar, Bombay, Gujarat, Himachal Pradesh, Madhya Pradesh, Madras, Maharashtra, Mysore, Orissa, Punjab, Rajasthan, and Uttar Pradesh. Across these reports, the Party presents itself as an opponent of Congress centralisation, coercive administration, collectivist farming, land-ceiling legislation, expansive planning, and restrictions on property and individual freedom. Rajaji, Ranga, M. R. Masani, K. M. Munshi, and other leaders repeatedly connect political opposition with protection of civil liberty, agricultural independence, and private property.
 ---
-
-Archive item 309. Scanned document from the Swatantra Party papers.

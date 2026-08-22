@@ -56,6 +56,8 @@ draft: false
 ai:
   drafted_by: claude-sonnet-4.5
   model_version: v1.5
+summary: |-
+  This August/December 1968 issue of Swatantra Newsletter, No. 65, resumes publication after a five-month lapse and is devoted largely to the Swatantra Party’s Fifth National Convention, held at Bhubaneswar on 5–6 October. It reports meetings of the Central Parliamentary Board, National Executive and General Council, including electoral strategy, party organisation, constitutional amendments, relations with the B.K.D., opposition to amendments affecting Fundamental Rights, and resolutions on Czechoslovakia, Tibet, press freedom and other current issues. The issue also includes a memorial tribute to Murarji Vaidya, brief economic commentary on socialism and price controls, and a message from the General Secretary defending the Convention against press criticism.
+  
+  The Convention proceedings present the party’s programme through resolutions on a mid-term manifesto, the Orissa Government, agriculture, the Permit-Licence-Quota Raj, labour participation in ownership, democratic coalition government, the Fourth Five-Year Plan, Privy Purses, South-East Asia, foreign policy and Czechoslovakia. Across these materials, the Swatantra Party argues for constitutional fidelity, free enterprise, reduced economic controls, stronger agricultural incentives, press and speech freedoms, democratic cooperation, and a more independent foreign policy less aligned with the Soviet Union. The issue closes with resolutions concerning floods, drought, student unrest, parliamentary conduct and the Andhra Pradesh Press Bill.
 ---
-
-Archive item 345. Scanned document from the Swatantra Party papers.
