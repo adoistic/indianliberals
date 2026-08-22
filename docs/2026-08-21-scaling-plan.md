@@ -109,6 +109,41 @@ which is the archive's core value. So:
 This is the fiddly part and where the work will actually go: excerpts, filters
 and language metadata currently fall out of the markup for free.
 
+### Blocking discovery: the adapter turns the Functions directory off
+
+`@astrojs/cloudflare` 12.6.13 emits `dist/_worker.js/` (advanced mode). On
+Cloudflare Pages `_worker.js` and `functions/` are mutually exclusive: when the
+worker is present, the Functions directory is **ignored entirely**.
+
+That is not a detail. It would silently disable:
+
+* the 18 legacy redirect handlers carrying the 1,539-rule WordPress map, and
+* the three agent-surface functions added in Phase 1.
+
+Both would return 404 while every page still rendered — the exact failure shape
+that went unnoticed for months in `docs/ccs-round-4-fixes-2026-08-14.md`, and
+one that no page-level parity check would catch.
+
+So Phase 2 is not "switch on the adapter". It is:
+
+1. port all 21 handlers into `src/middleware.ts`, preserving 301/410/404
+   semantics per rule,
+2. re-verify the full legacy map, not a sample — every one of the 1,539 rules,
+3. then the SSR and Pagefind work described above.
+
+Attempting it without step 2 would ship a site whose pages all look right and
+whose entire legacy URL surface is gone.
+
+### Build-time attribution (measured 2026-08-21)
+
+| Route | Minutes | Share |
+|---|---:|---:|
+| `primary-works/[slug]` | 24.7 | 78.9% |
+| `thinkers/[slug]` | 4.6 | 14.8% |
+| everything else | 2.0 | 6.3% |
+
+SSR targets the right route. Nothing else is worth optimising first.
+
 ## 5. Parity: the website must look exactly as it does today
 
 A complete, known-good build exists as of 2026-08-21 and is the reference.
