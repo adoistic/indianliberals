@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/fighting-monopolies-or-reinventing-controls-key-questions-raised-in-parliament/985310/) on 2026-08-15. Originally published 2026-06-13. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/indianliberalsmatter/fighting-monopolies-or-reinventing-controls-key-questions-raised-in-parliament/985310/) on 2026-08-22. Originally published 2026-06-13. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # एकाधिकार के खिलाफ लड़ाई या नया नियंत्रण? संसद में उठे बड़े सवाल
 

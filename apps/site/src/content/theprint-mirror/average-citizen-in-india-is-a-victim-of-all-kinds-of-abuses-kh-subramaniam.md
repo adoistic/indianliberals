@@ -12,7 +12,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/average-citizen-in-india-is-a-victim-of-all-kinds-of-abuses-kh-subramaniam/3002827/) on 2026-08-15. Originally published 2026-08-01. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://theprint.in/opinion/indian-liberals-matter/average-citizen-in-india-is-a-victim-of-all-kinds-of-abuses-kh-subramaniam/3002827/) on 2026-08-22. Originally published 2026-08-01. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # The average citizen in India is a victim of all kinds of abuses: KH Subramaniam
 

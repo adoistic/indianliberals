@@ -13,7 +13,7 @@ noindex: true
 needs_review: true
 draft: false
 ---
-_Mirrored from [ThePrint](https://hindi.theprint.in/opinion/capitalism-is-not-responsible-unemployment-bs-iyer/930460/) on 2026-08-15. Originally published 2026-02-08. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
+_Mirrored from [ThePrint](https://hindi.theprint.in/opinion/capitalism-is-not-responsible-unemployment-bs-iyer/930460/) on 2026-08-22. Originally published 2026-02-08. Author retains all rights; the canonical version on ThePrint should be cited. This mirror exists for AI-agent readability — search engines are asked not to index it (canonical SEO weight stays with ThePrint)._
 
 # बड़े पैमाने पर बेरोजगारी के लिए पूंजीवाद जिम्मेदार नहीं है, जापान और सिंगापुर को देखिए: बीएस अय्यर
 
