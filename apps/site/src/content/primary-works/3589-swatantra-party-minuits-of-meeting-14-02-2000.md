@@ -3,7 +3,8 @@ id: 3589-swatantra-party-minuits-of-meeting-14-02-2000
 title:
   main: "Minutes of the meeting of the Executive Committee of the Swatantra Party, Maharashtra held on 14th February, 2000 in the Party's office at 143, Mahatma Gandhi Road, Mumbai 400 023."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

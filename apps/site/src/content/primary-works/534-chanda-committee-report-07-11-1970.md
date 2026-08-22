@@ -3,7 +3,8 @@ id: 534-chanda-committee-report-07-11-1970
 title:
   main: "Text of resolutions adopted by the Central Parliamentary Board at New Delhi on 7th November"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

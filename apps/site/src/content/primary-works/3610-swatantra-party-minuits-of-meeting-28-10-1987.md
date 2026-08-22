@@ -3,7 +3,8 @@ id: 3610-swatantra-party-minuits-of-meeting-28-10-1987
 title:
   main: "Draft Minutes of the meeting of the Managing Committee of The Swatantra Party, Maharashtra held on Wednesday, October 28, 1987 at the Freedom First Office, Bombay-23."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

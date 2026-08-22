@@ -3,7 +3,8 @@ id: 3320-note-on-jeep-credit-17-04-1963
 title:
   main: "Note On Jeep Credit"
   subtitle: ""
-work_type: occasional_paper
+work_type: letter
+work_type_source: summary
 purpose: working_paper
 authors: []
 editors: []

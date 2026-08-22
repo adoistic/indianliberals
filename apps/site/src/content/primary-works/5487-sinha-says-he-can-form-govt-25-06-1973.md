@@ -3,7 +3,8 @@ id: 5487-sinha-says-he-can-form-govt-25-06-1973
 title:
   main: "Sinha says he can form Govt."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

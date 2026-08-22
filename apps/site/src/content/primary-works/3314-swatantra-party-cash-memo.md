@@ -3,7 +3,8 @@ id: 3314-swatantra-party-cash-memo
 title:
   main: "[Swatantra Party Cash Memo]"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

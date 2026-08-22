@@ -3,7 +3,8 @@ id: 5779-swatantra-party-6th-national-convention-14-04-1973
 title:
   main: "Text of Resolutions"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 2726-masani-wants-to-quit-party-post-times-of-india-03-11-1967
 title:
   main: "MASANI WANTS TO QUIT PARTY POST"
   subtitle: "“Too long in office”"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

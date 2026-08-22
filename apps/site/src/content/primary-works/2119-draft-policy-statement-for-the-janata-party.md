@@ -3,7 +3,8 @@ id: 2119-draft-policy-statement-for-the-janata-party
 title:
   main: "Draft Policy statement for the Janata Party"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

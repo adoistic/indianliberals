@@ -3,7 +3,8 @@ id: 3850-first-meeting-of-the-indian-group-of-the-liberal-international-30-12-19
 title:
   main: "Draft Minutes of the First Meeting of the Indian Group of the Liberal International held in the Committee Room of the India International Centre on December 10, at 3:30 p.m."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 3712-office-bearers-members-of-the-excutive-committee-of-the-swatantra-party
 title:
   main: "OFFICE BEARERS & MEMBERS OF THE EXECUTIVE COMMITTEE of the Swatantra Party, Maharashtra."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

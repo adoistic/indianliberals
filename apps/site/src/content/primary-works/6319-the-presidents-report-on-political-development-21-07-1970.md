@@ -3,7 +3,8 @@ id: 6319-the-presidents-report-on-political-development-21-07-1970
 title:
   main: "The President's Report on political developments since the General Council meeting in Madras on July 21, 1970"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

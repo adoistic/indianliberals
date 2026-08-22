@@ -3,7 +3,8 @@ id: 5500-non-party-council-of-talents-urged-by-c-r-times-of-india-05-06-1968
 title:
   main: "Non-party council of talents urged by C. R."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

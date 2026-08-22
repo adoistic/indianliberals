@@ -3,7 +3,8 @@ id: 3595-swatantra-party-minuits-of-meeting-11-06-1997
 title:
   main: "Minutes of the meeting of the Executive Committee of the Swatantra Party, Maharashtra held on 11th June 1997 at the Party's office at 143, Mahatma Gandhi Road, Mumbai 400 023."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

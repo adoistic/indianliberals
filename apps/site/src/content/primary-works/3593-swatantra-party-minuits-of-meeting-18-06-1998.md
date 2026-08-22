@@ -3,7 +3,8 @@ id: 3593-swatantra-party-minuits-of-meeting-18-06-1998
 title:
   main: "Minutes of the meeting of the Executive Committee of the Swatantra Party, Maharashtra held on 18th June 1998 at the Party's office at 143, Mahatma Gandhi Road, Mumbai 400 023."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

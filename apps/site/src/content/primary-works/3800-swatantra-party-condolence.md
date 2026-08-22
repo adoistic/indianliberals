@@ -3,7 +3,8 @@ id: 3800-swatantra-party-condolence
 title:
   main: "RESOLUTION"
   subtitle: "CONDOLENCE"
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

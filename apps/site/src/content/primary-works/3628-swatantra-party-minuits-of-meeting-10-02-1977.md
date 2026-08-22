@@ -3,7 +3,8 @@ id: 3628-swatantra-party-minuits-of-meeting-10-02-1977
 title:
   main: "Minutes of the meeting of Swatantra Party workers held on Thursday February 10, 1977 at the Party Office, 143, M.G. Road, Bombay-1."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

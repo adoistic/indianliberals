@@ -3,7 +3,8 @@ id: 477-for-favour-of-publication-15-02-1968
 title:
   main: "For favour of publication"
   subtitle: ""
-work_type: occasional_paper
+work_type: telegram
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

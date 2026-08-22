@@ -3,7 +3,8 @@ id: 2531-swatantra-party-notice-28-12-1959
 title:
   main: "NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

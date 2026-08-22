@@ -3,7 +3,8 @@ id: 2611-swatantra-party-national-convention-01-05-1975
 title:
   main: "[Swatantra Party National Convention]"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 2930-lok-sabha-elections-voting-trends
 title:
   main: "LOK SABHA ELECTIONS: VOTING TRENDS"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

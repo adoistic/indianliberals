@@ -3,7 +3,8 @@ id: 2769-minuits-of-lok-sabha-and-rajya-sabha-meeting-13-05-1962
 title:
   main: "MINUTES OF LOK SABHA & RAJYA SABHA MEETINGS"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

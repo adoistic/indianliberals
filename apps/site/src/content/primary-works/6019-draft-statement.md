@@ -3,7 +3,8 @@ id: 6019-draft-statement
 title:
   main: "Draft Statement"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: working_paper
 authors: []
 editors: []

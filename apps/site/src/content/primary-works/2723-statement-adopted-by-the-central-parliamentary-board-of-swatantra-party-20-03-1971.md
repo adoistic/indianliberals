@@ -3,7 +3,8 @@ id: 2723-statement-adopted-by-the-central-parliamentary-board-of-swatantra-party
 title:
   main: "Statement adopted by the Central Parliamentary Board of the Swatantra Party on 20th March, 1971 in New Delhi."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 5769-for-favour-of-publication-26-11-1973
 title:
   main: "Election of Office-Bearers and members of the Executive Committee of Swatantra Party, Maharashtra."
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

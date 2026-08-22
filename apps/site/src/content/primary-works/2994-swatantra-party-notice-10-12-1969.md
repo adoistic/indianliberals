@@ -3,7 +3,8 @@ id: 2994-swatantra-party-notice-10-12-1969
 title:
   main: "WHIP"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

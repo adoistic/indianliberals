@@ -3,7 +3,8 @@ id: 3687-draft-statement-of-policy
 title:
   main: "INDIA’S ONLY HOPE"
   subtitle: "DRAFT STATEMENT OF POLICY"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

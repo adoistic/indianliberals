@@ -3,7 +3,8 @@ id: 5068-defeat-of-the-party-candidate-in-the-biennal-election-in-rajya-sabha
 title:
   main: "Defeat of the Party's candidate in the Biennial Election to Rajya Sabha (March 1968) in Gujarat"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors:
   - n-dandekar

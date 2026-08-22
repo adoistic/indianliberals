@@ -3,7 +3,8 @@ id: 1477-next-national-convention-of-the-party-01-07-1974
 title:
   main: "Next National Convention of the Party"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

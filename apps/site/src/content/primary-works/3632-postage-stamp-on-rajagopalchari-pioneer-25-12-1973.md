@@ -3,7 +3,8 @@ id: 3632-postage-stamp-on-rajagopalchari-pioneer-25-12-1973
 title:
   main: "Postage stamp on Rajagopalachari"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -53,6 +53,7 @@ SCAN_QUALITY = {"strong": "good", "adequate": "fair", "weak": "fair", "faint": "
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from filename_worktype import apply as fw_apply  # noqa: E402
 from filename_year import apply as fy_apply  # noqa: E402
+from summary_worktype import classify as sw_classify  # noqa: E402
 
 CONSISTENCY = ("work_type", "year", "title", "publisher", "byline", "thinker_ids")
 
@@ -141,6 +142,17 @@ def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):
     # filename_worktype.SPECIFICITY. Measured: lifts the model from 48% to
     # 65%, and overrides the baked Sonnet records zero times.
     work_type, wt_source = fw_apply(name, meta.get("work_type") or "letter")
+    # `occasional_paper` is the model's shrug, not a description — the least
+    # specific print type, chosen when the page did not say what the document
+    # was. Where the filename gave no cue either, the model's own summary
+    # usually opens by naming the form ("This one-page English telegram ..."),
+    # which the work_type field threw away. Reading it back agrees with the
+    # model 90.8% of the time on the 4,346 works where both speak, and it is
+    # applied ONLY to occasional_paper, so it can never downgrade a real answer.
+    if work_type == "occasional_paper":
+        inferred, _cue = sw_classify((summ or {}).get("summary") or "")
+        if inferred and inferred != "occasional_paper":
+            work_type, wt_source = inferred, "summary"
     purpose = meta.get("purpose")
     year = scalar(dig(meta, "publication.year"))
     # The cataloguer typed the date into the filename for most of this corpus,
@@ -190,8 +202,8 @@ def build_entry(name, inv_row, meta, summ, disagree, known_thinkers, vocab):
     L.append(f"  main: {y(title)}")
     L.append(f"  subtitle: {y(subtitle)}")
     L.append(f"work_type: {work_type}")
-    if wt_source == "filename":
-        L.append("work_type_source: filename")
+    if wt_source in ("filename", "summary"):
+        L.append(f"work_type_source: {wt_source}")
     if purpose:
         L.append(f"purpose: {purpose}")
     if authors:

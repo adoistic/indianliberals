@@ -3,7 +3,8 @@ id: 623-biennial-meeting-of-iccf-28-09-1962
 title:
   main: "Biennial Meeting of ICCF in Bombay, 28-9-1962."
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

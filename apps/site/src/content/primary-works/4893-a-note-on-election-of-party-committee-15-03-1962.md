@@ -3,7 +3,8 @@ id: 4893-a-note-on-election-of-party-committee-15-03-1962
 title:
   main: "A Note on the Election of Party Committees."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

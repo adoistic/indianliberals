@@ -3,7 +3,8 @@ id: 5561-rebel-swatantra-leaders-apologise-the-times-of-india-26-04-1968
 title:
   main: "Rebel Swatantra leaders apologise"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 529-masani-denies-upadhyayas-charges-08-06-1964
 title:
   main: "MASANI DENIES UPADHYAYA'S CHARGE"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

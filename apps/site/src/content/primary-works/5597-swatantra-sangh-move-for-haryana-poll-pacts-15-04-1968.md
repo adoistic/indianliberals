@@ -3,7 +3,8 @@ id: 5597-swatantra-sangh-move-for-haryana-poll-pacts-15-04-1968
 title:
   main: "Swatantra-Sangh move for Haryana poll pact"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

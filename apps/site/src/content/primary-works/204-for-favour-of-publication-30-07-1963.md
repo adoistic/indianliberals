@@ -3,7 +3,8 @@ id: 204-for-favour-of-publication-30-07-1963
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

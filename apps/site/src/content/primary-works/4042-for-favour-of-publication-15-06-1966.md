@@ -3,7 +3,8 @@ id: 4042-for-favour-of-publication-15-06-1966
 title:
   main: "For favour of publication"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

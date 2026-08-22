@@ -3,7 +3,8 @@ id: 5637-vidyas-case-not-isolated-30-03-1968
 title:
   main: "VAIDYA'S CASE NOT ISOLATED"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

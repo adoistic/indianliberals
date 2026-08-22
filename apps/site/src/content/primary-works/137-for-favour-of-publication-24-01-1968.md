@@ -3,7 +3,8 @@ id: 137-for-favour-of-publication-24-01-1968
 title:
   main: "For favour of publication"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

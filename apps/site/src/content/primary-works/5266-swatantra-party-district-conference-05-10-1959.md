@@ -3,7 +3,8 @@ id: 5266-swatantra-party-district-conference-05-10-1959
 title:
   main: "SWATANTRA PARTY, DISTRICT CONFERENCE."
   subtitle: "SOUTH KANARA."
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

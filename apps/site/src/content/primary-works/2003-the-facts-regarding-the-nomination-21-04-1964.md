@@ -3,7 +3,8 @@ id: 2003-the-facts-regarding-the-nomination-21-04-1964
 title:
   main: "The facts regarding the nomination to the Estimates Committee by S. Buta Singh and the consent of Sardar Kapur Singh thereto are as follows:-"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

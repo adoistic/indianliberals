@@ -3,7 +3,8 @@ id: 1485-for-favour-of-publication-10-06-1974
 title:
   main: "RESOLUTIONS PASSED AT THE GENERAL COUNCIL MEETING OF THE SWATANTRA PARTY HELD AT VITHALBHAI PATEL HOUSE, NEW DELHI, ON JUNE 9/10, 1974:"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

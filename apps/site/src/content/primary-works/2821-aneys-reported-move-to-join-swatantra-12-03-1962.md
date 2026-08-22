@@ -3,7 +3,8 @@ id: 2821-aneys-reported-move-to-join-swatantra-12-03-1962
 title:
   main: "Aney’s Reported Move To Join Swatantra"
   subtitle: "NVAS WORKERS EXPRESS CONCERN"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

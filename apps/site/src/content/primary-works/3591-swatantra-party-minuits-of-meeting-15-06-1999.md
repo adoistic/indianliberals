@@ -3,7 +3,8 @@ id: 3591-swatantra-party-minuits-of-meeting-15-06-1999
 title:
   main: "Minutes of the meeting of the Executive Committee of the Swatantra Party, Maharashtra, held on 15th June 1999 at the Party's office at 143, Mahatma Gandhi Road, Mumbai 400 001."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

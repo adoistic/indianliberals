@@ -3,7 +3,8 @@ id: 3605-swatantra-party-minuits-of-meeting-21-08-1990
 title:
   main: "Draft Minutes of the meeting of the Executive Committee of the Swatantra Party, Maharashtra held on Tuesday August 21, 1990 at the Party Office, 143, Mahatma Gandhi Road, Bombay 400023."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

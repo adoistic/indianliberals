@@ -3,7 +3,8 @@ id: 1595-swatantra-party-national-convention-20-03-1960
 title:
   main: "GENERAL SECRETARY’S REPORT"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors:
   - minoo-masani

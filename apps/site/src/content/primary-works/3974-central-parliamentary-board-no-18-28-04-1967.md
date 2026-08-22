@@ -3,7 +3,8 @@ id: 3974-central-parliamentary-board-no-18-28-04-1967
 title:
   main: "CENTRAL PARLIAMENTARY BOARD CIRCULAR No. 18"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

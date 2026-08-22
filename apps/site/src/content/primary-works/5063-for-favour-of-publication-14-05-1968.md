@@ -3,7 +3,8 @@ id: 5063-for-favour-of-publication-14-05-1968
 title:
   main: "For favour of publication on the morning of May 15."
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

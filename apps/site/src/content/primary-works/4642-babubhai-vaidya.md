@@ -3,7 +3,8 @@ id: 4642-babubhai-vaidya
 title:
   main: "Babubhai Vaidya"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

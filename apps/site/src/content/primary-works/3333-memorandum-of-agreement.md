@@ -3,7 +3,8 @@ id: 3333-memorandum-of-agreement
 title:
   main: "[Memorandum of Agreement]"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

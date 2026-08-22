@@ -3,7 +3,8 @@ id: 3789-swatantra-party-first-meeting-of-the-central-parliamentary-board-14-03-
 title:
   main: "Proceedings of the first meeting of the Central Parliamentary Board in New Delhi on Sunday, March 14, 1965, at 10.00 a.m."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

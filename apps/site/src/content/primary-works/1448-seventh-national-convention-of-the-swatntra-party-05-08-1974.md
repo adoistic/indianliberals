@@ -3,7 +3,8 @@ id: 1448-seventh-national-convention-of-the-swatntra-party-05-08-1974
 title:
   main: "NOTICE OF RESOLUTION TO BE MOVED AT THE SEVENTH NATIONAL CONVENTION OF THE SWATANTRA PARTY ON AUGUST 4 & 5, 1974 IN NEW DELHI"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

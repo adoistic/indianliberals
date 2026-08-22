@@ -3,7 +3,8 @@ id: 4842-swatantra-party-national-executive-17-02-1970
 title:
   main: "KERALA LAND REFORMS (AMENDMENT) ACT,1969"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

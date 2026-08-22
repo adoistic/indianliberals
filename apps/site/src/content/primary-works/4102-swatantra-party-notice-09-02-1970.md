@@ -3,7 +3,8 @@ id: 4102-swatantra-party-notice-09-02-1970
 title:
   main: "[Swatantra party notice]"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

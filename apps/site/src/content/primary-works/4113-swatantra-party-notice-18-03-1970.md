@@ -3,7 +3,8 @@ id: 4113-swatantra-party-notice-18-03-1970
 title:
   main: "NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

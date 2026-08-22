@@ -3,7 +3,8 @@ id: 5684-anti-reddy-phamplet-distribution
 title:
   main: "Anti-Reddy pamphlet distribution"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

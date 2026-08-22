@@ -3,7 +3,8 @@ id: 2627-statement-of-swatantra-party-09-12-1978
 title:
   main: "[Statement of Swatantra Party]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

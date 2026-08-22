@@ -3,7 +3,8 @@ id: 2721-swatantra-not-to-join-any-bloc-statesman-21-03-1971
 title:
   main: "Swatantra Not To Join Any Bloc"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

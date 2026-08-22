@@ -3,7 +3,8 @@ id: 2239-swatantra-asks-centre-to-end-all-controls-16-04-1973
 title:
   main: "Swatantra Asks Centre To End All Controls"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

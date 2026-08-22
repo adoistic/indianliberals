@@ -3,7 +3,8 @@ id: 4106-swatantra-party-notice-16-10-1970
 title:
   main: "Draft minutes of the meeting of the Executive Committee of Swatantra Party, Bombay Region, held on Wednesday the 23rd September, 1970"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 4968-the-pen-all-india-center-28-07-1975
 title:
   main: "TO ALL MEMBERS AND FRIENDS"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

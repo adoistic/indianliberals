@@ -3,7 +3,8 @@ id: 2128-meeting-of-the-national-executive-of-the-swatantra-party-29-06-1976
 title:
   main: "Draft Minutes of the meeting of the National Executive of the Swatantra Party held in Bombay on June 29, 1976."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

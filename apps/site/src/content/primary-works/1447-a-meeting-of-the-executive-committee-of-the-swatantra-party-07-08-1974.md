@@ -3,7 +3,8 @@ id: 1447-a-meeting-of-the-executive-committee-of-the-swatantra-party-07-08-1974
 title:
   main: "Circular."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

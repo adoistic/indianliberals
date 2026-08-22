@@ -3,7 +3,8 @@ id: 2765-bld-poll-symbol-in-due-course-indian-express-05-01-1975
 title:
   main: "BLD poll symbol in 'due course'"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

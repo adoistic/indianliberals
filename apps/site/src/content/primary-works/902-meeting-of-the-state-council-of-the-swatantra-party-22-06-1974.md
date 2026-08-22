@@ -3,7 +3,8 @@ id: 902-meeting-of-the-state-council-of-the-swatantra-party-22-06-1974
 title:
   main: "CIRCULAR"
   subtitle: "MEETING OF THE STATE COUNCIL."
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

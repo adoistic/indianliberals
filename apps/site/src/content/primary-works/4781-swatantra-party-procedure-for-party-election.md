@@ -3,7 +3,8 @@ id: 4781-swatantra-party-procedure-for-party-election
 title:
   main: "Procedure for Party Elections"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 purpose: working_paper
 authors: []
 editors: []

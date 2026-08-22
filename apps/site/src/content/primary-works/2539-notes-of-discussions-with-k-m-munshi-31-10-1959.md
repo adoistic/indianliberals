@@ -3,7 +3,8 @@ id: 2539-notes-of-discussions-with-k-m-munshi-31-10-1959
 title:
   main: "NOTES ON DISCUSSIONS WITH SHRI K.M. MUNSHI ON SUNDAY"
   subtitle: "OCTOBER 31, 1959"
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

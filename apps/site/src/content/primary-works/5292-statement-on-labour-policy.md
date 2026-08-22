@@ -3,7 +3,8 @@ id: 5292-statement-on-labour-policy
 title:
   main: "Statement on Labour Policy."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

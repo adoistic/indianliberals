@@ -3,7 +3,8 @@ id: 5509-masani-declines-to-accept-dandekars-proposal-assam-tribute-03-06-1968
 title:
   main: "Masani Declines To Accept Dandekar’s Proposal"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

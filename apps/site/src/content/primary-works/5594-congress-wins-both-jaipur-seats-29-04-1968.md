@@ -3,7 +3,8 @@ id: 5594-congress-wins-both-jaipur-seats-29-04-1968
 title:
   main: "Congress wins both Jaipur seats"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

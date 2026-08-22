@@ -3,7 +3,8 @@ id: 4751-swatantra-chief-in-gujrat-resign-04-06-1963
 title:
   main: "Swatantra chief in Gujarat resigns"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

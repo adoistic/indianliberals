@@ -3,7 +3,8 @@ id: 5810-member-object-to-masani-remarks
 title:
   main: "Members object to 'Masani's remarks"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

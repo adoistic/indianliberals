@@ -3,7 +3,8 @@ id: 3332-jeep-credit-arragement-17-07-1962
 title:
   main: "Note on the Current Position re : the Jeep Credit Arrangement"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

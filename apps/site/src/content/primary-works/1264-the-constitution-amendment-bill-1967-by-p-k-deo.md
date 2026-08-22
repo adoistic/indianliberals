@@ -3,7 +3,8 @@ id: 1264-the-constitution-amendment-bill-1967-by-p-k-deo
 title:
   main: "THE CONSTITUTION (AMENDMENT) BILL, 1967"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

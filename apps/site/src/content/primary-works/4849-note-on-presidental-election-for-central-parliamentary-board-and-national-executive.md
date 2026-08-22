@@ -3,7 +3,8 @@ id: 4849-note-on-presidental-election-for-central-parliamentary-board-and-nation
 title:
   main: "NOTE ON PRESIDENTIAL ELECTION FOR CENTRAL PARLIAMENTARY BOARD AND NATIONAL EXECUTIVE"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: working_paper
 authors:
   - minoo-masani

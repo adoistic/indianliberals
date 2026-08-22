@@ -3,7 +3,8 @@ id: 2131-swatantra-terms-for-merger-times-of-india-29-06-1976
 title:
   main: "Swatantra terms for merger"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

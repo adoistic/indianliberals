@@ -3,7 +3,8 @@ id: 2904-short-report-on-the-working-of-the-swatantra-party-16-04-1962
 title:
   main: "SHORT REPORT ON THE WORKING OF THE SWATANTRA PARTY IN THE FIRST SESSION OF THE 3RD LOK SABHA"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

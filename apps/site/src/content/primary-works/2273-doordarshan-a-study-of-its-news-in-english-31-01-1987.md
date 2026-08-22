@@ -3,7 +3,8 @@ id: 2273-doordarshan-a-study-of-its-news-in-english-31-01-1987
 title:
   main: "DOORDARSHAN"
   subtitle: "A Study of its \"News in English\""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

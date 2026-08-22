@@ -3,7 +3,8 @@ id: 3621-swatantra-party-minuits-of-meeting-23-02-1979
 title:
   main: "Draft Minutes of the meeting of the Executive Committee of the Swatantra Party, Maharashtra held at the Party Office on Friday, February 23, 1979."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 1853-swatantra-party-uttar-pradesh-constituency
 title:
   main: "[Swatantra Party Uttar Pradesh Constituency]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 5369-press-report-published-in-the-pioneer-20-06-1968
 title:
   main: "NO FURTHER TALKS ON MERGER, SAYS CHARAN SINGH."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

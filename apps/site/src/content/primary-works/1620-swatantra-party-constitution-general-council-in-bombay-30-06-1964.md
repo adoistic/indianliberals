@@ -3,7 +3,8 @@ id: 1620-swatantra-party-constitution-general-council-in-bombay-30-06-1964
 title:
   main: "CONSTITUTION"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

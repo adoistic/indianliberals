@@ -3,7 +3,8 @@ id: 1598-swatantra-party-third-national-convention-02-02-1964
 title:
   main: "General Secretary’s Report"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

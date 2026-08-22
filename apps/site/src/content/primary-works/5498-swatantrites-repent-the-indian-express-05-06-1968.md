@@ -3,7 +3,8 @@ id: 5498-swatantrites-repent-the-indian-express-05-06-1968
 title:
   main: "Swatantrites repent"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

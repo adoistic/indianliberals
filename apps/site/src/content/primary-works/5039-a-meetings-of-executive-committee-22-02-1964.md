@@ -3,7 +3,8 @@ id: 5039-a-meetings-of-executive-committee-22-02-1964
 title:
   main: "C I R C U L A R."
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

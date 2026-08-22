@@ -3,7 +3,8 @@ id: 2290-rent-and-electricity-charges-for-the-month-july-1975-11-08-1975
 title:
   main: "[Rent and Electricity Charges For The Month July-1975]"
   subtitle: ""
-work_type: occasional_paper
+work_type: letter
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

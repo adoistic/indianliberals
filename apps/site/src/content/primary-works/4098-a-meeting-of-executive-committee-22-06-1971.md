@@ -3,7 +3,8 @@ id: 4098-a-meeting-of-executive-committee-22-06-1971
 title:
   main: "NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

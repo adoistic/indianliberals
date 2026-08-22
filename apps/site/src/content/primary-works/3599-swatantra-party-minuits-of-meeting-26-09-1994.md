@@ -3,7 +3,8 @@ id: 3599-swatantra-party-minuits-of-meeting-26-09-1994
 title:
   main: "Minutes of the Meeting of the Executive Committee of the Swatantra Party, Maharashtra held on Monday September 26, 1994 in the Party Office, 143, Mahatma Gandhi Road, Bombay 400 023."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

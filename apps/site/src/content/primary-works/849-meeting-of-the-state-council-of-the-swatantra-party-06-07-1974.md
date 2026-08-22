@@ -3,7 +3,8 @@ id: 849-meeting-of-the-state-council-of-the-swatantra-party-06-07-1974
 title:
   main: "COPY OF RESOLUTION ADOPTED BY THE STATE COUNCIL OF the Swatantra Party, Maharashtra"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

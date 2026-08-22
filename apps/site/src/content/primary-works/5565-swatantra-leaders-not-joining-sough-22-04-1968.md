@@ -3,7 +3,8 @@ id: 5565-swatantra-leaders-not-joining-sough-22-04-1968
 title:
   main: "Swatantra leader Not Joining Sough"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

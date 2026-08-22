@@ -3,7 +3,8 @@ id: 3042-membership-of-consultative-comittee-25-05-1969
 title:
   main: "[Membership of Consultative Comittee]"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

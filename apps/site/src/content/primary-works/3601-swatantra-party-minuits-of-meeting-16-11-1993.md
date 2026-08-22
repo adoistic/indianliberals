@@ -3,7 +3,8 @@ id: 3601-swatantra-party-minuits-of-meeting-16-11-1993
 title:
   main: "Draft Minutes of the Special Meeting of the Executive Committee of the Swatantra Party, Maharashtra held on 16.11.1993 in the Party Office, 143, Mahatma Gandhi Road, Bombay 400 023."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

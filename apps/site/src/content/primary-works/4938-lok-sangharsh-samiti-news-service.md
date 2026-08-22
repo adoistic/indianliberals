@@ -3,7 +3,8 @@ id: 4938-lok-sangharsh-samiti-news-service
 title:
   main: "FRIGHTENED P.M. MEETS COMMAND AUDIENCE"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

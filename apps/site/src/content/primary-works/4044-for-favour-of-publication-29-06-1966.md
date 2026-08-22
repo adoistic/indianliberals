@@ -3,7 +3,8 @@ id: 4044-for-favour-of-publication-29-06-1966
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

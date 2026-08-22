@@ -3,7 +3,8 @@ id: 130-note-on-indian-general-election-feb-1967
 title:
   main: "A Note on the Indian General Elections, February 1967"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

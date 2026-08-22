@@ -3,7 +3,8 @@ id: 526-swatantra-party-report-on-correspondence-with-jan-sangh-31-01-1964
 title:
   main: "REPORT ON CORRESPONDENCE WITH THE JAN SANGH SINCE THE THIRD NATIONAL CONVENTION OF THE PARTY IN BANGALORE"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 225-annexure-a-statement-on-the-current-emergency
 title:
   main: "Statement on the current emergency."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

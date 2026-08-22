@@ -3,7 +3,8 @@ id: 5524-partymen-resent-masani-move-the-indian-express-25-05-1968
 title:
   main: "Partymen resent Masani move"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

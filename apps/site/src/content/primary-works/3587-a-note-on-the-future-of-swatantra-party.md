@@ -3,7 +3,8 @@ id: 3587-a-note-on-the-future-of-swatantra-party
 title:
   main: "A Note on the Future of Swatantra Party"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

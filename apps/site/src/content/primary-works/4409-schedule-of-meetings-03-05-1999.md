@@ -3,7 +3,8 @@ id: 4409-schedule-of-meetings-03-05-1999
 title:
   main: "Schedule of Meetings - May, 1999"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

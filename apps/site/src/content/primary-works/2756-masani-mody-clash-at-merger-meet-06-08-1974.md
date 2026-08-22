@@ -3,7 +3,8 @@ id: 2756-masani-mody-clash-at-merger-meet-06-08-1974
 title:
   main: "Masani-Mody clash at ‘merger’ meet"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

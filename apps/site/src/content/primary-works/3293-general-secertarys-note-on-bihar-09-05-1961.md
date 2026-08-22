@@ -3,7 +3,8 @@ id: 3293-general-secertarys-note-on-bihar-09-05-1961
 title:
   main: "GENERAL SECRETARY'S NOTE ON BIHAR"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 873-national-convention-of-the-swatantra-party-04-08-1974
 title:
   main: "RESOLUTION FOR CONSIDERATION BY THE NATIONAL CONVENTION OF THE SWATANTRA PARTY, NEW DELHI, AUGUST 4, 1974"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

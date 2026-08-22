@@ -3,7 +3,8 @@ id: 5904-international-clipping-service-20-03-1985
 title:
   main: "[International Clipping Service]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

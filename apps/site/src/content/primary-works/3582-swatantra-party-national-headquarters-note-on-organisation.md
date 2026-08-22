@@ -3,7 +3,8 @@ id: 3582-swatantra-party-national-headquarters-note-on-organisation
 title:
   main: "NATIONAL HEADQUARTERS' NOTE ON ORGANISATION"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

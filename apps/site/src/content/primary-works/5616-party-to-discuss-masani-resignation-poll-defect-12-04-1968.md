@@ -3,7 +3,8 @@ id: 5616-party-to-discuss-masani-resignation-poll-defect-12-04-1968
 title:
   main: "Party to discuss Masani resignation, poll defeat"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

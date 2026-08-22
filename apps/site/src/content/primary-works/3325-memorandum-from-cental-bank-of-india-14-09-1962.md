@@ -3,7 +3,8 @@ id: 3325-memorandum-from-cental-bank-of-india-14-09-1962
 title:
   main: "MEMORANDUM"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

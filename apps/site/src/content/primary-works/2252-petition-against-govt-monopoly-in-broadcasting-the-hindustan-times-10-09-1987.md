@@ -3,7 +3,8 @@ id: 2252-petition-against-govt-monopoly-in-broadcasting-the-hindustan-times-10-0
 title:
   main: "Petition against Govt monopoly in broadcasting"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

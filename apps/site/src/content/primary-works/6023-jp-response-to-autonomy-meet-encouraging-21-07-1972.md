@@ -3,7 +3,8 @@ id: 6023-jp-response-to-autonomy-meet-encouraging-21-07-1972
 title:
   main: "JP: Response to autonomy meet encouraging"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 3386-general-secertarys-note-on-rebihar-finances-13-05-1961
 title:
   main: "GENERAL SECRETARY'S NOTE RE: BIHAR FINANCES"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

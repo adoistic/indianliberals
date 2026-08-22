@@ -3,7 +3,8 @@ id: 5654-extract-from-the-washington-post-11-09-1976
 title:
   main: "Extract from the WASHINGTON POST dated 11.9.76"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

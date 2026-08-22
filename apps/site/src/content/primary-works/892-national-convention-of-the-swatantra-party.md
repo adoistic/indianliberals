@@ -3,7 +3,8 @@ id: 892-national-convention-of-the-swatantra-party
 title:
   main: "Tentative Draft Resolution to be placed before the National Convention of the Swatantra Party"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

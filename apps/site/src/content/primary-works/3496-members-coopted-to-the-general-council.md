@@ -3,7 +3,8 @@ id: 3496-members-coopted-to-the-general-council
 title:
   main: "[Members Coopted to the General Council]"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

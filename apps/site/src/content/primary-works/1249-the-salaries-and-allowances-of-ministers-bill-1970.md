@@ -3,7 +3,8 @@ id: 1249-the-salaries-and-allowances-of-ministers-bill-1970
 title:
   main: "FINANCIAL MEMORANDUM"
   subtitle: "The Salaries & Allowances of Ministers Bill, 1970"
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 purpose: working_paper
 authors:
   - minoo-masani

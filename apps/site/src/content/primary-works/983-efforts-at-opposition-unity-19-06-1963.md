@@ -3,7 +3,8 @@ id: 983-efforts-at-opposition-unity-19-06-1963
 title:
   main: "EFFORTS AT OPPOSITION UNITY"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

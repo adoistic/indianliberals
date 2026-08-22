@@ -3,7 +3,8 @@ id: 5507-swatantra-future-bleak-04-06-1968
 title:
   main: "Swatantra future 'bleak'"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

@@ -3,7 +3,8 @@ id: 3920-for-favour-of-publication
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: telegram
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

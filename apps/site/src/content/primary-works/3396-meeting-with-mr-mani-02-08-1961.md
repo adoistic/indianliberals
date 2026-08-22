@@ -3,7 +3,8 @@ id: 3396-meeting-with-mr-mani-02-08-1961
 title:
   main: "Meeting with Mr. Mani of Mahindra & Mahindra"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors:
   - s-v-raju
 editors: []

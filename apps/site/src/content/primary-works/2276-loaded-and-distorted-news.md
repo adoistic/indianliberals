@@ -3,7 +3,8 @@ id: 2276-loaded-and-distorted-news
 title:
   main: "Loaded and Distorted News."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

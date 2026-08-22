@@ -3,7 +3,8 @@ id: 3967-the-indian-cotton-mills-federation-19-10-1966
 title:
   main: "Final Report of the Sub-Committee on weak and marginal units, as amended at its meeting on 19th October, 1966."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

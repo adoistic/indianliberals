@@ -3,7 +3,8 @@ id: 2546-agenda
 title:
   main: "AGENDA"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

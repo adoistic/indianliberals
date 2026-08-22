@@ -3,7 +3,8 @@ id: 3736-for-favour-of-publication-08-07-1974
 title:
   main: "For favour of publication"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

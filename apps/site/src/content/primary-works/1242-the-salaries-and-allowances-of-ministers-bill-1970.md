@@ -3,7 +3,8 @@ id: 1242-the-salaries-and-allowances-of-ministers-bill-1970
 title:
   main: "THE SALARIES AND ALLOWANCES OF MINISTERS BILL, 1970."
   subtitle: "NOTES ON CLAUSES"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors:
   - n-dandekar
 editors: []

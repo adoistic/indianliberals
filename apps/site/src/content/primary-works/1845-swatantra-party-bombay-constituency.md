@@ -3,7 +3,8 @@ id: 1845-swatantra-party-bombay-constituency
 title:
   main: "[Swatantra Party Bombay Constituency]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

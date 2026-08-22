@@ -3,7 +3,8 @@ id: 4157-for-favour-of-publication-12-01-1995
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

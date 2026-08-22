@@ -3,7 +3,8 @@ id: 3594-swatantra-party-minuits-of-meeting-20-12-1997
 title:
   main: "Minutes of the special meeting of the Executive Committee of the Swatantra Party, Maharashtra held on 20th December, 1997 at the Party's office at 143, Mahatma Gandhi Road, Mumbai 400 023."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

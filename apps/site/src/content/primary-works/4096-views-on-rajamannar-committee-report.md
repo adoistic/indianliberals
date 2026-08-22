@@ -3,7 +3,8 @@ id: 4096-views-on-rajamannar-committee-report
 title:
   main: "VIEWS ON RAJAMANNAR COMMITTEE REPORT"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

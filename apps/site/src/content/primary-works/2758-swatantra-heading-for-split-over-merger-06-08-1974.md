@@ -3,7 +3,8 @@ id: 2758-swatantra-heading-for-split-over-merger-06-08-1974
 title:
   main: "Notice of Resolution to be moved at the Seventh National Convention of the Swatantra Party on August 4 and 5, 1974 in New Delhi."
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

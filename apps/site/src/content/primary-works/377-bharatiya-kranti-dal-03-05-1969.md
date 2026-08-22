@@ -3,7 +3,8 @@ id: 377-bharatiya-kranti-dal-03-05-1969
 title:
   main: "[Bharatiya Kranti Dal]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

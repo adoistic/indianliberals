@@ -3,7 +3,8 @@ id: 2148-statement-given-by-girish-munshi
 title:
   main: "[Statement Given by Girish Munshi]"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

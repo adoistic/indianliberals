@@ -3,7 +3,8 @@ id: 5641-gujarat-swatantra-mla-defy-whip-29-03-1968
 title:
   main: "GUJARAT SWATANTRA MLAs DEFY WHIP"
   subtitle: "Congress-backed rebel victor"
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

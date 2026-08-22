@@ -3,7 +3,8 @@ id: 2530-meeting-of-organising-committee-08-01-1960
 title:
   main: "[Meeting of Organising Committee]"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 5483-swatantra-party-statement-of-principles-01-08-1939
 title:
   main: "STATEMENT OF PRINCIPLES"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

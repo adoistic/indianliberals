@@ -3,7 +3,8 @@ id: 3095-dates-and-procedures-of-party-election-11-04-1968
 title:
   main: "Dates and Procedure for Party elections"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

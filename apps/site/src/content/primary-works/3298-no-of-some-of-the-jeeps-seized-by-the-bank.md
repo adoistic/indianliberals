@@ -3,7 +3,8 @@ id: 3298-no-of-some-of-the-jeeps-seized-by-the-bank
 title:
   main: "[No of some of the jeeps Seized by the Bank]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 893-meeting-of-the-state-council-of-the-swatantra-party-06-07-1974
 title:
   main: "DRAFT minutes of the State Council Meeting of the Swatantra Party, Maharashtra held at Bombay on Saturday, the 6th July 1974."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 5653-us-house-of-representative-16-09-1976
 title:
   main: "[US House of representative]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

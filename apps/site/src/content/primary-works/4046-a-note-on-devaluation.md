@@ -3,7 +3,8 @@ id: 4046-a-note-on-devaluation
 title:
   main: "A NOTE ON DEVALUATION AND THE MEASURES BY WHICH IT SHOULD BE FOLLOWED"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: position_paper
 authors:
   - minoo-masani

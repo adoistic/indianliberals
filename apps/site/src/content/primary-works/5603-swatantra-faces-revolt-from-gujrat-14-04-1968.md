@@ -3,7 +3,8 @@ id: 5603-swatantra-faces-revolt-from-gujrat-14-04-1968
 title:
   main: "Swatantra faces revolt from Gujarat"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

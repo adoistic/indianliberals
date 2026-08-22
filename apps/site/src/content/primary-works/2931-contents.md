@@ -3,7 +3,8 @@ id: 2931-contents
 title:
   main: "[Contents]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

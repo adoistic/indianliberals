@@ -3,7 +3,8 @@ id: 661-agrarian-organisational-pattern
 title:
   main: "AGRARIAN ORGANISATIONAL PATTERN"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

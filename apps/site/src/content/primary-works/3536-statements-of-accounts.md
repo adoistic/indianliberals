@@ -3,7 +3,8 @@ id: 3536-statements-of-accounts
 title:
   main: "[Statements Of Accounts]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

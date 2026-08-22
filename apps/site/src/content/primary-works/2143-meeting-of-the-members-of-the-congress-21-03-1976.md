@@ -3,7 +3,8 @@ id: 2143-meeting-of-the-members-of-the-congress-21-03-1976
 title:
   main: "Meeting of the members of the Congress (O), Jan Sangh, B.L.D. and the Socialist Party as well as members representing D.M.K., R.S.P. and some independent political parties and Sarvodaya workers who held in Bombay on 20th and 21st March 1976 to review the developments that have taken place in the country after the declaration of the Emergency on the 26th June 1975. Shri Jayaprakash Narayan was unavailable for advice and guidance. The following statement was released to the Press on behalf of the meeting"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

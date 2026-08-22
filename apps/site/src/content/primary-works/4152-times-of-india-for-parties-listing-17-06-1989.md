@@ -3,7 +3,8 @@ id: 4152-times-of-india-for-parties-listing-17-06-1989
 title:
   main: "Aug. 15 date for parties' listing"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

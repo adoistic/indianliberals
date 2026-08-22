@@ -3,7 +3,8 @@ id: 2730-for-favour-of-publication-02-11-1967
 title:
   main: "For favour of publication"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

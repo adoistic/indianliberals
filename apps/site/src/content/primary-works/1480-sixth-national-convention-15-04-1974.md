@@ -3,7 +3,8 @@ id: 1480-sixth-national-convention-15-04-1974
 title:
   main: "Delegates' Quota and Delegates' Fees"
   subtitle: "For --------State."
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

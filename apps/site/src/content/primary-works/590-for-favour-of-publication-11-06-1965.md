@@ -3,7 +3,8 @@ id: 590-for-favour-of-publication-11-06-1965
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

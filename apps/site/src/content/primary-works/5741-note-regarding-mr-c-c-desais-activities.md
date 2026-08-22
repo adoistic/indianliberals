@@ -3,7 +3,8 @@ id: 5741-note-regarding-mr-c-c-desais-activities
 title:
   main: "Note Regarding Mr. C.C. Desai's Activities"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

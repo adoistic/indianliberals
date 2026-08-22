@@ -3,7 +3,8 @@ id: 4993-the-banking-companies-acquisition-and-transfer-of-understanding-ordianc
 title:
   main: "THE BANKING COMPANIES (ACQUISITION & TRANSFER OF UNDERTAKINGS) ORDINANCE 1969"
   subtitle: "WRIT PETITION FILED IN SUPREME COURT"
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 2838-committee-present-position-with-suggestion
 title:
   main: "[Committee Present Position with Suggestion]"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 3613-swatantra-party-minuits-of-meeting-31-03-1986
 title:
   main: "Minutes of the meeting of the Managing Committee of the Swatantra Party, Maharashtra, held at the N.S.C.I., on 31st March 1986."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

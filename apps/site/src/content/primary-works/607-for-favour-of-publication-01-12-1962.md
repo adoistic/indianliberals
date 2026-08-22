@@ -3,7 +3,8 @@ id: 607-for-favour-of-publication-01-12-1962
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

@@ -3,7 +3,8 @@ id: 5492-masani-not-quitting-indian-express-11-06-1968
 title:
   main: "Masani ‘not quitting’"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 6349-masani-resigns-as-swatantra-chairman-hindu-04-04-1971
 title:
   main: "Masani Resigns as Swatantra Chairman"
   subtitle: ""
-work_type: occasional_paper
+work_type: letter
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

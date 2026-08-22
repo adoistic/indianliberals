@@ -3,7 +3,8 @@ id: 371-meeting-of-swatantra-party-26-05-1969
 title:
   main: "Proceedings of the meeting of representatives of the Swatantra Party, Jan Sangh and the B.K.D. on 26th and 27th May 1969 at 2 Tuglaq Road, New Delhi."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

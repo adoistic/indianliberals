@@ -3,7 +3,8 @@ id: 843-executive-committee-of-swatantra-party-15-07-1974
 title:
   main: "Circular."
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

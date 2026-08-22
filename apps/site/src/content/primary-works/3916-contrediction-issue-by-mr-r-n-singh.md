@@ -3,7 +3,8 @@ id: 3916-contrediction-issue-by-mr-r-n-singh
 title:
   main: "Contradiction"
   subtitle: "Issued by Mr.R.N.Singh Deo, M.L.A., Chief Minister, Orissa."
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

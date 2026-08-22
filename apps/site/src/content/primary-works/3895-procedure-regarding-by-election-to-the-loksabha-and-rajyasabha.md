@@ -3,7 +3,8 @@ id: 3895-procedure-regarding-by-election-to-the-loksabha-and-rajyasabha
 title:
   main: "Procedure regarding By-elections to the Lok Sabha, Rajya Sabha and State Assemblies and Councils between now and the General elections, 1967."
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

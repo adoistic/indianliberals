@@ -3,7 +3,8 @@ id: 1618-17th-amendment-vs-farm-family-freedom
 title:
   main: "17th AMENDMENT"
   subtitle: "FARM, FAMILY, FREEDOM"
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

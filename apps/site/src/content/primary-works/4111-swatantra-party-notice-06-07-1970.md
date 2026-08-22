@@ -3,7 +3,8 @@ id: 4111-swatantra-party-notice-06-07-1970
 title:
   main: "NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

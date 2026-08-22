@@ -3,7 +3,8 @@ id: 2460-swatantra-party-vehicle-no-mrg2347
 title:
   main: "[Swatantra Party Vehicle No MRG2347]"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

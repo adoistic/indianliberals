@@ -3,7 +3,8 @@ id: 1635-how-to-start-a-party-unit
 title:
   main: "How to Start a Party Unit"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

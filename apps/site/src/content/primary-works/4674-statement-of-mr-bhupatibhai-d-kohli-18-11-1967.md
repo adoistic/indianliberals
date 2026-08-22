@@ -3,7 +3,8 @@ id: 4674-statement-of-mr-bhupatibhai-d-kohli-18-11-1967
 title:
   main: "[Statement of Mr Bhupatibhai D Kohli]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

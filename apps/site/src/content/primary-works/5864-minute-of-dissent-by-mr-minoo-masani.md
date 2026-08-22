@@ -3,7 +3,8 @@ id: 5864-minute-of-dissent-by-mr-minoo-masani
 title:
   main: "Minute of Dissent"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

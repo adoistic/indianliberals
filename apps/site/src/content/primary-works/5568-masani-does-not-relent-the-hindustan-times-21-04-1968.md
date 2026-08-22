@@ -3,7 +3,8 @@ id: 5568-masani-does-not-relent-the-hindustan-times-21-04-1968
 title:
   main: "Relief for Orissa Cyclone Victims"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

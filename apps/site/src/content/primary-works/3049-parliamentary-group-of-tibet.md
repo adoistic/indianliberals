@@ -3,7 +3,8 @@ id: 3049-parliamentary-group-of-tibet
 title:
   main: "STATEMENT"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

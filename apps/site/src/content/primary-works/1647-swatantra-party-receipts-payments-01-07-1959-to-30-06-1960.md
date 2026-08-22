@@ -3,7 +3,8 @@ id: 1647-swatantra-party-receipts-payments-01-07-1959-to-30-06-1960
 title:
   main: "Receipts & Payments A/c.: 1-7-59 to 30-6-60"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: annual_report
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 955-thiruvannamalai-poll-straight-fight-between-congress-dmk-29-06-1963
 title:
   main: "Straight fight between Congress, DMK"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

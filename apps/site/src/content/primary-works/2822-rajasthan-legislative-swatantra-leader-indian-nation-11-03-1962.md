@@ -3,7 +3,8 @@ id: 2822-rajasthan-legislative-swatantra-leader-indian-nation-11-03-1962
 title:
   main: "Rajasthan Legislative Swatantra Leader"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

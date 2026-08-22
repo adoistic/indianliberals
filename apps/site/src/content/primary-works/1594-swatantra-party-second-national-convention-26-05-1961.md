@@ -3,7 +3,8 @@ id: 1594-swatantra-party-second-national-convention-26-05-1961
 title:
   main: "GENERAL SECRETARY'S REPORT"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors:
   - minoo-masani

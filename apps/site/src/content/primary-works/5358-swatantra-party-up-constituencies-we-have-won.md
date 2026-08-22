@@ -3,7 +3,8 @@ id: 5358-swatantra-party-up-constituencies-we-have-won
 title:
   main: "UTTAR PRADESH (CONSTITUENCIES WE HAVE WON)"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

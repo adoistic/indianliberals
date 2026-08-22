@@ -3,7 +3,8 @@ id: 3818-the-strategy-for-the-general-elections
 title:
   main: "THE STRATEGY FOR THE GENERAL ELECTION"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: working_paper
 authors: []
 editors: []

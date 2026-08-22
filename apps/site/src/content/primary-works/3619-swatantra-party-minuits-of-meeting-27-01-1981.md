@@ -3,7 +3,8 @@ id: 3619-swatantra-party-minuits-of-meeting-27-01-1981
 title:
   main: "Draft Minutes of the meeting of the Executive Committee of the Swatantra Party, Maharashtra"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

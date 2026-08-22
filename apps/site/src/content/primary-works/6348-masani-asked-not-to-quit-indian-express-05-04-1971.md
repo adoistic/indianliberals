@@ -3,7 +3,8 @@ id: 6348-masani-asked-not-to-quit-indian-express-05-04-1971
 title:
   main: "Masani asked not to quit"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

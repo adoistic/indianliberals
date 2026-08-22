@@ -3,7 +3,8 @@ id: 5776-swatantra-party-finance
 title:
   main: "Finance."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

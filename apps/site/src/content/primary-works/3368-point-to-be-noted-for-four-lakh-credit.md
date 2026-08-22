@@ -3,7 +3,8 @@ id: 3368-point-to-be-noted-for-four-lakh-credit
 title:
   main: "Points to be noted re: the four lakh credit arranged for the Raja of Ramgarh."
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

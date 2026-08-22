@@ -3,7 +3,8 @@ id: 682-mcmurry-bombay-seminar-08-11-1960
 title:
   main: "McMurry Bombay Seminar at Taj on 8th November, 1960."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

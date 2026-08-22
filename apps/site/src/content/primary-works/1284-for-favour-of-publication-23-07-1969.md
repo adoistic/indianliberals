@@ -3,7 +3,8 @@ id: 1284-for-favour-of-publication-23-07-1969
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 purpose: position_paper
 authors:
   - minoo-masani

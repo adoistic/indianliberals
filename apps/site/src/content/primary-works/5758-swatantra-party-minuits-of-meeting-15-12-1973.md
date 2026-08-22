@@ -3,7 +3,8 @@ id: 5758-swatantra-party-minuits-of-meeting-15-12-1973
 title:
   main: "Draft Minutes of the first meeting of the newly elected General Council of the Swatantra Party held at the Ravindralaya, Lucknow on December 15 and 16, 1973."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

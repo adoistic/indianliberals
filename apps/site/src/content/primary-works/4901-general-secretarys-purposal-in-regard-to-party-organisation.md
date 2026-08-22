@@ -3,7 +3,8 @@ id: 4901-general-secretarys-purposal-in-regard-to-party-organisation
 title:
   main: "General Secretary's proposals in regard to Party Organisation."
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 purpose: working_paper
 authors:
   - minoo-masani

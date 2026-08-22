@@ -3,7 +3,8 @@ id: 2331-for-favour-of-publication-14-05-1959
 title:
   main: "For favour of publication on the morning of May 15."
   subtitle: ""
-work_type: occasional_paper
+work_type: letter
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

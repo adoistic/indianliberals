@@ -3,7 +3,8 @@ id: 4095-a-meeting-of-executive-committee-27-07-1971
 title:
   main: "NOTICE"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

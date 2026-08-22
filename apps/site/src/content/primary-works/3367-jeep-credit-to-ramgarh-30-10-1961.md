@@ -3,7 +3,8 @@ id: 3367-jeep-credit-to-ramgarh-30-10-1961
 title:
   main: "JEEP CREDIT TO RAMGARH"
   subtitle: "Parliamentary Sub-committee decisions - Default in delivery of jeeps to endorsed candidatures"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

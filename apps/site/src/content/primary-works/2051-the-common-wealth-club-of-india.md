@@ -3,7 +3,8 @@ id: 2051-the-common-wealth-club-of-india
 title:
   main: "THE COMMONWEALTH CLUB OF INDIA"
   subtitle: "What it Strives For?"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

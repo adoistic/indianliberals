@@ -3,7 +3,8 @@ id: 4423-towards-a-free-society-the-gandhian-alternative
 title:
   main: "THE GANDHIAN ALTERNATIVE"
   subtitle: "Towards a free society"
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 purpose: manifesto
 authors: []
 editors: []

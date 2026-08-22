@@ -3,7 +3,8 @@ id: 992-mr-masanis-supplementary-report-to-the-central-organising
 title:
   main: "MR. M.R. MASANI'S SUPPLEMENTARY REPORT TO THE CENTRAL ORGANISING COMMITTEE RE: BIHAR"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors:
   - minoo-masani

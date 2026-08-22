@@ -3,7 +3,8 @@ id: 3343-account-of-bihar-contribution-and-jeep-credit-05-03-1962
 title:
   main: "Accounts of Bihar contributions and jeep credit as on 5.3.1962"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

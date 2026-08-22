@@ -3,7 +3,8 @@ id: 3258-draft-report-of-the-organisation
 title:
   main: "Draft Report of the Organisation Sub-Committee"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

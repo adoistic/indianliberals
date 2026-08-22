@@ -3,7 +3,8 @@ id: 2764-bld-symbol-indian-express-15-01-1975
 title:
   main: "BLD symbol"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

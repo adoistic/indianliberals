@@ -3,7 +3,8 @@ id: 3167-statement-of-principles-02-08-1959
 title:
   main: "STATEMENT OF PRINCIPLES"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

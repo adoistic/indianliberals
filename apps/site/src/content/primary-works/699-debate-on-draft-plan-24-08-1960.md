@@ -3,7 +3,8 @@ id: 699-debate-on-draft-plan-24-08-1960
 title:
   main: "Debate on draft Plan"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 5582-masani-firm-on-quitting-party-posts-15-05-1968
 title:
   main: "Masani firm on quitting party posts"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

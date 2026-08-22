@@ -3,7 +3,8 @@ id: 5638-masani-quits-party-posts-30-03-1968
 title:
   main: "Masani quits party posts"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

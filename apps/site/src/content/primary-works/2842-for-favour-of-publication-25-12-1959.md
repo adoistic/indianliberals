@@ -3,7 +3,8 @@ id: 2842-for-favour-of-publication-25-12-1959
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

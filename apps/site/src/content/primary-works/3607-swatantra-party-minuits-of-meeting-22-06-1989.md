@@ -3,7 +3,8 @@ id: 3607-swatantra-party-minuits-of-meeting-22-06-1989
 title:
   main: "Minutes of the Executive Committee meeting of the Swatantra Party, Maharashtra held on 22.6.89 at 1.00 p.m. at the Party Office."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

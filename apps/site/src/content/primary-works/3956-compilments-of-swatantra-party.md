@@ -3,7 +3,8 @@ id: 3956-compilments-of-swatantra-party
 title:
   main: "A note from Dr. R. C. Cooper, Hon. Treasurer, Swatantra Party on some aspects of the A.I.C.C.'s Ten Point Programme"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 3892-general-secertarys-statement-of-organisations
 title:
   main: "GENERAL SECRETARY'S STATEMENT ON ORGANISATION"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: working_paper
 authors: []
 editors: []

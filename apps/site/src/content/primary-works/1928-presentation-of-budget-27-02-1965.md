@@ -3,7 +3,8 @@ id: 1928-presentation-of-budget-27-02-1965
 title:
   main: "[Presentation of Budget]"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 purpose: working_paper
 authors: []
 editors: []

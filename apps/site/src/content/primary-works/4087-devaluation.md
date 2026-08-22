@@ -3,7 +3,8 @@ id: 4087-devaluation
 title:
   main: "Devaluation"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

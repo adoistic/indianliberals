@@ -3,7 +3,8 @@ id: 3927-general-secertarys-report-on-party-organisation-13-02-1965
 title:
   main: "General Secretary's Report on Party Organisation"
   subtitle: "(with specific reference to the General Elections and our own Party Elections)"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors:
   - n-dandekar

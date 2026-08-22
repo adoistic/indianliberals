@@ -3,7 +3,8 @@ id: 3714-draft-statement-of-policy
 title:
   main: "DRAFT STATEMENT OF POLICY OF THE NATIONAL ALTERNATIVE"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

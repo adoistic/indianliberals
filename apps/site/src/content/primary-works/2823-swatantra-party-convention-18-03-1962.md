@@ -3,7 +3,8 @@ id: 2823-swatantra-party-convention-18-03-1962
 title:
   main: "Swatantra Party Convention"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

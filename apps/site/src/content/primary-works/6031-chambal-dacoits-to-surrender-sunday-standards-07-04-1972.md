@@ -3,7 +3,8 @@ id: 6031-chambal-dacoits-to-surrender-sunday-standards-07-04-1972
 title:
   main: "Chambal dacoits to surrender"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

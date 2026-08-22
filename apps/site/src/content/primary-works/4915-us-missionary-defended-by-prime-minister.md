@@ -3,7 +3,8 @@ id: 4915-us-missionary-defended-by-prime-minister
 title:
   main: "[US Missionary defended by Prime Minister]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

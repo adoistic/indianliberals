@@ -3,7 +3,8 @@ id: 1752-swatantra-party-statement-of-financial-position-08-08-1959
 title:
   main: "STATEMENT OF FINANCIAL POSITION ON 8TH AUGUST, 1959."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

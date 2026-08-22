@@ -3,7 +3,8 @@ id: 3971-for-favour-of-publication-03-05-1967
 title:
   main: "Statement of Mr. M.R. Masani, Leader of the Swatantra Party in Parliament."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: position_paper
 authors:
   - minoo-masani

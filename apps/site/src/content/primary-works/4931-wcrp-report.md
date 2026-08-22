@@ -3,7 +3,8 @@ id: 4931-wcrp-report
 title:
   main: "THE EROSION OF FUNDAMENTAL RIGHTS IN INDIA TODAY"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

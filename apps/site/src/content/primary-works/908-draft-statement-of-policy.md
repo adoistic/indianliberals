@@ -3,7 +3,8 @@ id: 908-draft-statement-of-policy
 title:
   main: "THE NATIONAL ALTERNATIVE"
   subtitle: "DRAFT STATEMENT OF POLICY"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

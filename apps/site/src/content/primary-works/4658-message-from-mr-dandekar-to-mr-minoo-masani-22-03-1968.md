@@ -3,7 +3,8 @@ id: 4658-message-from-mr-dandekar-to-mr-minoo-masani-22-03-1968
 title:
   main: "Message from Mr. Dandekar to Mr. Masani"
   subtitle: ""
-work_type: occasional_paper
+work_type: telegram
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

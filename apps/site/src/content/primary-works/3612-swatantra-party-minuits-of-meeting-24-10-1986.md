@@ -3,7 +3,8 @@ id: 3612-swatantra-party-minuits-of-meeting-24-10-1986
 title:
   main: "Minutes of the meeting of the Managing Committee of the Swatantra Party, Maharashtra held at the Party Office on Friday, the 24th October, 1986."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

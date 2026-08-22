@@ -3,7 +3,8 @@ id: 6089-the-center-has-affixed-us-the-status-of-union-territory
 title:
   main: "GOENCHO PAKSH"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

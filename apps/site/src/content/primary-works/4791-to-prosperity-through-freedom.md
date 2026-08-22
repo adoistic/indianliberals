@@ -3,7 +3,8 @@ id: 4791-to-prosperity-through-freedom
 title:
   main: "To Prosperity Through Freedom"
   subtitle: "The Statement of Policy"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

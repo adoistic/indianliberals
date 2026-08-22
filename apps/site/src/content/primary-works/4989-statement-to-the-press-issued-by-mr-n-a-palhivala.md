@@ -3,7 +3,8 @@ id: 4989-statement-to-the-press-issued-by-mr-n-a-palhivala
 title:
   main: "Statement to the Press issued by Mr. N. A. Palkhivala"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

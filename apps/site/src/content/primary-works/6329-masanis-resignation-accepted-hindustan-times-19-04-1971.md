@@ -3,7 +3,8 @@ id: 6329-masanis-resignation-accepted-hindustan-times-19-04-1971
 title:
   main: "Masani's resignation accepted"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

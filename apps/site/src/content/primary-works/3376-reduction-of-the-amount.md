@@ -3,7 +3,8 @@ id: 3376-reduction-of-the-amount
 title:
   main: "[Reduction of the Amount]"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

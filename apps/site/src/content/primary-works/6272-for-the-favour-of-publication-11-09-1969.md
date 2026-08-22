@@ -3,7 +3,8 @@ id: 6272-for-the-favour-of-publication-11-09-1969
 title:
   main: "Car Prices"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: position_paper
 authors: []
 editors: []

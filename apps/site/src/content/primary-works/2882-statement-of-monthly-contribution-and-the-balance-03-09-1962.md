@@ -3,7 +3,8 @@ id: 2882-statement-of-monthly-contribution-and-the-balance-03-09-1962
 title:
   main: "[Statement of Monthly Contribution and the Balance]"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

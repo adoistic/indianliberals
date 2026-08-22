@@ -3,7 +3,8 @@ id: 3618-donations-services-charges-recovered-1980
 title:
   main: "Donations & Service Charges recovered. (1980)"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

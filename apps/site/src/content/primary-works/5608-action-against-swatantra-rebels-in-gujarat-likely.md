@@ -3,7 +3,8 @@ id: 5608-action-against-swatantra-rebels-in-gujarat-likely
 title:
   main: "Action against Swatantra rebels in Gujarat likely"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

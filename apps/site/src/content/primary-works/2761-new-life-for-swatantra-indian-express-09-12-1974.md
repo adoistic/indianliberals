@@ -3,7 +3,8 @@ id: 2761-new-life-for-swatantra-indian-express-09-12-1974
 title:
   main: "New life for Swatantra"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

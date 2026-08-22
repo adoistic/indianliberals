@@ -3,7 +3,8 @@ id: 2552-fifth-party-elections-15-10-1973
 title:
   main: "FIFTH PARTY ELECTIONS- 1973"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

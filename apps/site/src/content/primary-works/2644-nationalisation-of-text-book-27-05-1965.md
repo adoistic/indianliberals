@@ -3,7 +3,8 @@ id: 2644-nationalisation-of-text-book-27-05-1965
 title:
   main: "Nationalisation of Text Books"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 4895-report-of-the-organisation-sub-committee
 title:
   main: "Report of the Organisation Sub-Committee"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

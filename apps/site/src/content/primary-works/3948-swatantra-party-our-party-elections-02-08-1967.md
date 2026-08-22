@@ -3,7 +3,8 @@ id: 3948-swatantra-party-our-party-elections-02-08-1967
 title:
   main: "Re: Our Party elections."
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

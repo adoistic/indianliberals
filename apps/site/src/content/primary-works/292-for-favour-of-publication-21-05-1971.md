@@ -3,7 +3,8 @@ id: 292-for-favour-of-publication-21-05-1971
 title:
   main: "For favour of Publication"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

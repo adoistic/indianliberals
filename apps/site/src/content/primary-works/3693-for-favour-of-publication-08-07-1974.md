@@ -3,7 +3,8 @@ id: 3693-for-favour-of-publication-08-07-1974
 title:
   main: "For favour of publication"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

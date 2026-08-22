@@ -3,7 +3,8 @@ id: 5617-ranga-fails-in-his-misson-08-04-1968
 title:
   main: "RANGA FAILS IN HIS MISSION"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

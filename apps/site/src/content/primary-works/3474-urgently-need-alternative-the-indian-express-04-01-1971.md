@@ -3,7 +3,8 @@ id: 3474-urgently-need-alternative-the-indian-express-04-01-1971
 title:
   main: "‘Urgently needed alternative’"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

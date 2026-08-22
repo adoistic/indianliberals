@@ -3,7 +3,8 @@ id: 5650-youth-for-george-fernades-committee
 title:
   main: "[Youth for George Fernades Committee]"
   subtitle: ""
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

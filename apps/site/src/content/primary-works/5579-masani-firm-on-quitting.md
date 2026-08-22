@@ -3,7 +3,8 @@ id: 5579-masani-firm-on-quitting
 title:
   main: "MASANI FIRM ON QUITTING"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

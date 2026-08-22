@@ -3,7 +3,8 @@ id: 1648-the-swatantra-party-preparatory-convention-held-on-1st-2nd-08-1959
 title:
   main: "STATEMENT OF PRINCIPLES"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

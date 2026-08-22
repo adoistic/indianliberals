@@ -3,7 +3,8 @@ id: 5680-for-the-favour-of-publication-30-04-1970
 title:
   main: "FOR FAVOUR OF PUBLICATION"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 636-for-favour-of-publication-07-06-1962
 title:
   main: "[For Favour of Publication]"
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

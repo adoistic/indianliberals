@@ -3,7 +3,8 @@ id: 959-emergency-must-stay-says-munshi-25-06-1963
 title:
   main: "Emergency must stay, says Munshi"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

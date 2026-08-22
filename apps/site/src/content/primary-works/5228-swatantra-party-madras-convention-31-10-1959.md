@@ -3,7 +3,8 @@ id: 5228-swatantra-party-madras-convention-31-10-1959
 title:
   main: "SWATANTRA PARTY MADRAS CONVENTION"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

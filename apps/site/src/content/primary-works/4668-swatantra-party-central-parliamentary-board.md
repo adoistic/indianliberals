@@ -3,7 +3,8 @@ id: 4668-swatantra-party-central-parliamentary-board
 title:
   main: "MINUTES OF THE MEETING OF THE \"RAJYA SABHA/VIDHAN PARISHAD\" SUB-COMMITTEE OF THE CENTRAL PARLIAMENTARY BOARD HELD ON WEDNESDAY, MARCH 13TH, 1968, IN THE PARTY ROOM AT THE LOK SABHA, NEW DELHI."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

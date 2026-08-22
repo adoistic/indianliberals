@@ -3,7 +3,8 @@ id: 5363-note-of-disscussion-with-charan-singh
 title:
   main: "NOTE OF DISCUSSION WITH CH. CHARAN SINGH"
   subtitle: ""
-work_type: occasional_paper
+work_type: pamphlet
+work_type_source: summary
 authors:
   - n-dandekar
 editors: []

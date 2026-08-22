@@ -3,7 +3,8 @@ id: 3838-a-model-quaterly-report-from-a-prospective-parliamentary-candidate
 title:
   main: "A MODEL QUARTERLY REPORT FROM A PROSPECTIVE PARLIAMENTARY CANDIDATE"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

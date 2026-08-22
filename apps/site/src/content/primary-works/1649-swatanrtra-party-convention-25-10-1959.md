@@ -3,7 +3,8 @@ id: 1649-swatanrtra-party-convention-25-10-1959
 title:
   main: "SWATANTRA PARTY CONVENTION"
   subtitle: "On 25th October 1959 at Patiala."
-work_type: occasional_paper
+work_type: circular
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

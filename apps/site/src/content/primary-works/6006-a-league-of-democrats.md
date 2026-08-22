@@ -3,7 +3,8 @@ id: 6006-a-league-of-democrats
 title:
   main: "A LEAGUE OF DEMOCRATS"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

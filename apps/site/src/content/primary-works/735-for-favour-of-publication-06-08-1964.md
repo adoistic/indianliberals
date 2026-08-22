@@ -3,7 +3,8 @@ id: 735-for-favour-of-publication-06-08-1964
 title:
   main: "For favour of publication"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors:
   - minoo-masani
 editors: []

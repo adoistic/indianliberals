@@ -3,7 +3,8 @@ id: 1625-naxalbari
 title:
   main: "NAXALBARI"
   subtitle: "A Report"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors:
   - n-dandekar

@@ -3,7 +3,8 @@ id: 2915-parliament-panels-sunday-standard-27-05-1962
 title:
   main: "PARLIAMENT PANELS"
   subtitle: "Members Named"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

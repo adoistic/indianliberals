@@ -3,7 +3,8 @@ id: 1688-swatanrtra-party-statement-of-remittances-10-10-1959
 title:
   main: "Statement of remittances made on behalf of the Central Office."
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

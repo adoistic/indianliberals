@@ -3,7 +3,8 @@ id: 3603-swatantra-party-minuits-of-meeting-23-07-1992
 title:
   main: "Minutes of the Meeting of the Executive Committee of the Swatantra Party, Maharashtra held on July 23, 1992 in the Party Office, 143, Mahatma Gandhi Road, Bombay 400 023."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

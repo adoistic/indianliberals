@@ -3,7 +3,8 @@ id: 3606-swatantra-party-minuits-of-meeting-30-07-1989
 title:
   main: "Minutes of the Extra Ordinary Meeting of the State Council of the Swatantra Party, Maharashtra held on Sunday July 30, 1989."
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

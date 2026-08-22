@@ -3,7 +3,8 @@ id: 1616-swatantra-party-general-secretarys-report-fourth-national-convention-19
 title:
   main: "General Secretary’s Report"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

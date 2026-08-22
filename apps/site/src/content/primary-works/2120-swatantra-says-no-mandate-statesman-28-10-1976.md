@@ -3,7 +3,8 @@ id: 2120-swatantra-says-no-mandate-statesman-28-10-1976
 title:
   main: "SWATANTRA SAYS — NO MANDATE"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 2468-meeting-of-the-national-executive-17-04-1977
 title:
   main: "[Meeting of the National Executive]"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

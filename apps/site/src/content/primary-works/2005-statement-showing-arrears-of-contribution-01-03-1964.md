@@ -3,7 +3,8 @@ id: 2005-statement-showing-arrears-of-contribution-01-03-1964
 title:
   main: "STATEMENT SHOWING ARREARS OF CONTRIBUTION"
   subtitle: "(as on 1-3-1964)."
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

@@ -3,7 +3,8 @@ id: 4951-suggested-amendments-of-articles
 title:
   main: "ON SUGGESTED AMENDMENT OF ARTICLE 226 OF THE CONSTITUTION"
   subtitle: ""
-work_type: occasional_paper
+work_type: resolution
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

@@ -3,7 +3,8 @@ id: 2934-general-elections-to-the-lok-sabha-1971-swatantra-performance
 title:
   main: "GENERAL ELECTIONS TO THE LOK SABHA - 1971"
   subtitle: "SWATANTRA PERFORMANCE"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

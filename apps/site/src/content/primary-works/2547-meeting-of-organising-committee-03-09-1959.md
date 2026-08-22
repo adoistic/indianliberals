@@ -3,7 +3,8 @@ id: 2547-meeting-of-organising-committee-03-09-1959
 title:
   main: "[Meeting of Organising Committee]"
   subtitle: ""
-work_type: occasional_paper
+work_type: minutes
+work_type_source: summary
 purpose: report
 authors: []
 editors: []

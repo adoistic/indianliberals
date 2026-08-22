@@ -3,7 +3,8 @@ id: 3479-for-favour-of-publication-03-12-1969
 title:
   main: "Election of Office-bearers and members of the Executive Committee of Swatantra Party, Bombay Region."
   subtitle: ""
-work_type: occasional_paper
+work_type: press_note
+work_type_source: summary
 authors: []
 editors: []
 contributors: []

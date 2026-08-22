@@ -3,7 +3,8 @@ id: 5345-swatantra-party-statement-of-principles-04-06-1959
 title:
   main: "The Swatantra Party"
   subtitle: "STATEMENT OF PRINCIPLES"
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 purpose: statement_of_principles
 authors: []
 editors: []

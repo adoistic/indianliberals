@@ -3,7 +3,8 @@ id: 5539-masani-refuses-to-withdraw-resignation-national-herald-17-05-1968
 title:
   main: "Masani Refuses To Withdraw Resignation"
   subtitle: ""
-work_type: occasional_paper
+work_type: essay
+work_type_source: summary
 authors: []
 editors: []
 contributors: []
